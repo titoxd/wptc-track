@@ -24,6 +24,7 @@ struct args {
   struct storm_arg storm;
   int resolution;
   int xmin, xmax, ymin, ymax;
+  double mindim;
   int fmt;
   double dots, lines;
   double alpha;
@@ -42,6 +43,7 @@ static struct args read_args(int argc, char **argv)
     .xmax = NO_ARG,
     .ymin = NO_ARG,
     .ymax = NO_ARG,
+    .mindim = NO_ARG,
     .dots = 0.3,
     .lines = 0.075,
     .alpha = 1.0,
@@ -61,6 +63,8 @@ static struct args read_args(int argc, char **argv)
   };
 
   while (i < argc) {
+    float val;
+
     if (i < argc - 1) {
       if (strcasecmp(argv[i], "--input") == 0) {
 	i++;
@@ -101,24 +105,22 @@ static struct args read_args(int argc, char **argv)
       } else if (strcasecmp(argv[i], "--ymax") == 0) {
 	i++;
 	args.ymax = atoi(argv[i]);
+      } else if (strcasecmp(argv[i], "--mindim") == 0) {
+	i++;
+	sscanf(argv[i], "%f", &val);
+	args.mindim = val;
       } else if (strcasecmp(argv[i], "--dots") == 0) {
-	float dots;
-
 	i++;
-	sscanf(argv[i], "%f", &dots);
-	args.dots = dots;
+	sscanf(argv[i], "%f", &val);
+	args.dots = val;
       } else if (strcasecmp(argv[i], "--lines") == 0) {
-	float lines;
-
 	i++;
-	sscanf(argv[i], "%f", &lines);
-	args.lines = lines;
+	sscanf(argv[i], "%f", &val);
+	args.lines = val;
       } else if (strcasecmp(argv[i], "--alpha") == 0) {
-	float alpha;
-
 	i++;
-	sscanf(argv[i], "%f", &alpha);
-	args.alpha = alpha;
+	sscanf(argv[i], "%f", &val);
+	args.alpha = val;
       } else if (strcasecmp(argv[i], "--extra") == 0) {
 	i++;
 
@@ -412,7 +414,8 @@ static void write_background(cairo_t *cr, struct args *args)
 static void calc_dimensions(struct stormdata *storms, struct args *args)
 {
   const double extra_space = 5; /* 5 degrees extra on each side */
-  const double ratio = 1.618033988749894; /* the golden ratio ;-) */
+  const double xratio = 1.618033988749894; /* the golden ratio ;-) */
+  const double yratio = 1.0;
 
   xmin = args->xmin;
   if (args->xmin == NO_ARG) {
@@ -434,15 +437,25 @@ static void calc_dimensions(struct stormdata *storms, struct args *args)
     ymax = storms->maxlat + extra_space;
   }
 
-  /* Don't let either dimension be more than twice the other. */
-  if (xmax - xmin < (ymax - ymin) / ratio) {
-    double diff = (ymax - ymin) / ratio - (xmax - xmin);
+  if (args->mindim == NO_ARG) {
+    args->mindim = 45.0; /* 45 degree minimum coverage. */
+  }
+  if (xmax - xmin < args->mindim) {
+    double diff = args->mindim - (xmax - xmin);
 
     xmax += diff / 2.0;
     xmin -= diff / 2.0;
   }
-  if (ymax - ymin < (xmax - xmin) / ratio) {
-    double diff = (xmax - xmin) / ratio - (ymax - ymin);
+
+  /* Keep the dimensions within certain ratios. */
+  if (xmax - xmin < (ymax - ymin) / yratio) {
+    double diff = (ymax - ymin) / yratio - (xmax - xmin);
+
+    xmax += diff / 2.0;
+    xmin -= diff / 2.0;
+  }
+  if (ymax - ymin < (xmax - xmin) / xratio) {
+    double diff = (xmax - xmin) / xratio - (ymax - ymin);
 
     ymax += diff / 2.0;
     ymin -= diff / 2.0;
