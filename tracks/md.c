@@ -88,7 +88,7 @@ struct stormdata *read_stormdata_md(struct storm_arg *args)
 	pos.type = TROPICAL;
 
 	line[28] = 0;
-	sscanf(line + 23, "%f", &val);
+	sscanf(line + 22, "%f", &val);
 	pos.lon = val;
 
 	line[36] = 0;
