@@ -3,87 +3,104 @@
 # Format: year, name, extra, type
 %named =
   (
+   "epac" =>
+   [(
+# Retired storms:
+#  Iwa is listed in the unnamed hurricanes
+     [ (1978, 'Fico') ],
+#     [ (1987, 'Knut', 0, 'Tropical Storm') ],  # WTF?  Don't bother.
+     [ (1991, 'Fefa') ],
+     [ (1992, 'Iniki') ],
+     [ (1995, 'Ismael') ],
+     [ (1997, 'Pauline') ],
+     [ (2002, 'Kenna') ],
+
+# Non-retired but notable:
+     [ (1994, 'John') ],
+     [ (1997, 'Linda') ],
+
+    )],
    "natlantic" => [ (
 # Retired storms: (since 1954)
-#   [ (1954, 'Carol', 0, 'Hurricane') ],
-#   [ (1954, 'Edna', 0, 'Hurricane') ],
-#   [ (1954, 'Hazel', 0, 'Hurricane') ],
-#   [ (1955, 'Connie', 0, 'Hurricane') ],
-#   [ (1955, 'Diane', 0, 'Hurricane') ],
-#   [ (1955, 'Ione', 0, 'Hurricane') ],
-#   [ (1955, 'Janet', 0, 'Hurricane') ],
-#   [ (1957, 'Audrey', 0, 'Hurricane') ],
-#   [ (1959, 'Gracie', 0, 'Hurricane') ],
-#   [ (1960, 'Donna', 0, 'Hurricane') ],
-#   [ (1961, 'Carla', 0, 'Hurricane') ],
-#   [ (1961, 'Hattie', 0, 'Hurricane') ],
-#   [ (1963, 'Flora', 0, 'Hurricane') ],
-#   [ (1964, 'Cleo', 0, 'Hurricane') ],
-#   [ (1964, 'Dora', 0, 'Hurricane') ],
-#   [ (1964, 'Hilda', 0, 'Hurricane') ],
-#   [ (1965, 'Betsy', 0, 'Hurricane') ],
-#   [ (1966, 'Inez', 0, 'Hurricane') ],
-#   [ (1967, 'Beulah', 0, 'Hurricane') ],
-#   [ (1969, 'Camille', 0, 'Hurricane') ],
-#   [ (1970, 'Celia', 0, 'Hurricane') ],
-#   [ (1972, 'Agnes', 0, 'Hurricane') ],
-#   [ (1974, 'Carmen', 0, 'Hurricane') ],
-#   [ (1974, 'Fifi', 0, 'Hurricane') ],
-#   [ (1975, 'Eloise', 0, 'Hurricane') ],
-#   [ (1977, 'Anita', 0, 'Hurricane') ],
-#   [ (1979, 'David', 0, 'Hurricane') ],
-#   [ (1979, 'Frederic', 0, 'Hurricane') ],
-#   [ (1980, 'Allen', 0, 'Hurricane') ],
-#   [ (1983, 'Alicia', 0, 'Hurricane') ],
-		     [ (1985, 'Elena', 0, 'Hurricane') ],
-#   [ (1985, 'Gloria', 0, 'Hurricane') ],
-#   [ (1988, 'Gilbert', 0, 'Hurricane') ],
-#   [ (1988, 'Joan', 0, 'Hurricane') ],
-#   [ (1989, 'Hugo', 0, 'Hurricane') ],
-#   [ (1990, 'Diana', 0, 'Hurricane') ],
-#   [ (1990, 'Klaus', 0, 'Hurricane') ],
-#   [ (1991, 'Bob', 0, 'Hurricane') ],
-#   [ (1992, 'Andrew', 0, 'Hurricane') ],
-#   [ (1995, 'Luis', 0, 'Hurricane') ],
-#   [ (1995, 'Marilyn', 0, 'Hurricane') ],
-#   [ (1995, 'Opal', 0, 'Hurricane') ],
-#   [ (1995, 'Roxanne', 0, 'Hurricane') ],
-#   [ (1996, 'Cesar', 0, 'Hurricane') ],
-#   [ (1996, 'Fran', 0, 'Hurricane') ],
-#   [ (1996, 'Hortense', 0, 'Hurricane') ],
-#   [ (1998, 'Georges', 0, 'Hurricane') ],
-#   [ (1998, 'Mitch', 0, 'Hurricane') ],
-#   [ (1999, 'Floyd', 0, 'Hurricane') ],
-#   [ (1999, 'Lenny', 0, 'Hurricane') ],
-#   [ (2000, 'Keith', 0, 'Hurricane') ],
+#   [ (1954, 'Carol') ],
+#   [ (1954, 'Edna') ],
+#   [ (1954, 'Hazel') ],
+#   [ (1955, 'Connie') ],
+#   [ (1955, 'Diane') ],
+#   [ (1955, 'Ione') ],
+#   [ (1955, 'Janet') ],
+#   [ (1957, 'Audrey') ],
+#   [ (1959, 'Gracie') ],
+#   [ (1960, 'Donna') ],
+#   [ (1961, 'Carla') ],
+#   [ (1961, 'Hattie') ],
+#   [ (1963, 'Flora') ],
+#   [ (1964, 'Cleo') ],
+#   [ (1964, 'Dora') ],
+#   [ (1964, 'Hilda') ],
+#   [ (1965, 'Betsy') ],
+#   [ (1966, 'Inez') ],
+#   [ (1967, 'Beulah') ],
+#   [ (1969, 'Camille') ],
+#   [ (1970, 'Celia') ],
+#   [ (1972, 'Agnes') ],
+#   [ (1974, 'Carmen') ],
+#   [ (1974, 'Fifi') ],
+#   [ (1975, 'Eloise') ],
+#   [ (1977, 'Anita') ],
+#   [ (1979, 'David') ],
+#   [ (1979, 'Frederic') ],
+#   [ (1980, 'Allen') ],
+#   [ (1983, 'Alicia') ],
+#		     [ (1985, 'Elena') ],
+#   [ (1985, 'Gloria') ],
+#   [ (1988, 'Gilbert') ],
+#   [ (1988, 'Joan') ],
+#   [ (1989, 'Hugo') ],
+#   [ (1990, 'Diana') ],
+#   [ (1990, 'Klaus') ],
+#   [ (1991, 'Bob') ],
+#   [ (1992, 'Andrew') ],
+#   [ (1995, 'Luis') ],
+#   [ (1995, 'Marilyn') ],
+#   [ (1995, 'Opal') ],
+#   [ (1995, 'Roxanne') ],
+#   [ (1996, 'Cesar') ],
+#   [ (1996, 'Fran') ],
+#   [ (1996, 'Hortense') ],
+#   [ (1998, 'Georges') ],
+#   [ (1998, 'Mitch') ],
+#   [ (1999, 'Floyd') ],
+#   [ (1999, 'Lenny') ],
+#   [ (2000, 'Keith') ],
 #   [ (2001, 'Allison', 0, 'Tropical Storm') ],
-#   [ (2001, 'Iris', 0, 'Hurricane') ],
-#   [ (2001, 'Michelle', 0, 'Hurricane') ],
-#   [ (2002, 'Isidore', 0, 'Hurricane') ],
-#   [ (2002, 'Lili', 0, 'Hurricane') ],
-#   [ (2003, 'Fabian', 0, 'Hurricane') ],
-#   [ (2003, 'Isabel', 0, 'Hurricane') ],
-#   [ (2003, 'Juan', 0, 'Hurricane') ],
-#   [ (2004, 'Charley', 0, 'Hurricane') ],
-#   [ (2004, 'Frances', 0, 'Hurricane') ],
-#   [ (2004, 'Ivan', 0, 'Hurricane') ],
-#   [ (2004, 'Jeanne', 0, 'Hurricane') ],
+#   [ (2001, 'Iris') ],
+#   [ (2001, 'Michelle') ],
+#   [ (2002, 'Isidore') ],
+#   [ (2002, 'Lili') ],
+#   [ (2003, 'Fabian') ],
+#   [ (2003, 'Isabel') ],
+#   [ (2003, 'Juan') ],
+#   [ (2004, 'Charley') ],
+#   [ (2004, 'Frances') ],
+#   [ (2004, 'Ivan') ],
+#   [ (2004, 'Jeanne') ],
 
 # Non-retired but notable storms:
-#   [ (1966, 'Faith', 1, 'Hurricane') ],
+#   [ (1966, 'Faith', 1) ],
 #   [ (1994, 'Alberto', 0, 'Tropical Storm') ],
 #   [ (2003, 'Odette', 0, 'Tropical Storm') ],
-#   [ (1994, 'Gordon', 0, 'Hurricane') ],
-#   [ (2000, 'Alberto', 0, 'Hurricane') ],
-#   [ (2004, 'Alex', 0, 'Hurricane') ],
-#   [ (1996, 'Bertha', 0, 'Hurricane') ],
-#   [ (1971, 'Ginger', 1, 'Hurricane') ],
+#   [ (1994, 'Gordon') ],
+#   [ (2000, 'Alberto') ],
+#   [ (2004, 'Alex') ],
+#   [ (1996, 'Bertha') ],
+#   [ (1971, 'Ginger', 1) ],
 
 # Non-retired Category 5 storms:
-#   [ (1960, 'Ethel', 0, 'Hurricane') ],
-#   [ (1971, 'Edith', 0, 'Hurricane') ],
-#   [ (1958, 'Cleo', 0, 'Hurricane') ],
-#   [ (1950, 'Dog', 0, 'Hurricane') ],
+#   [ (1960, 'Ethel') ],
+#   [ (1971, 'Edith') ],
+#   [ (1958, 'Cleo') ],
+#   [ (1950, 'Dog') ],
 
 		    ) ],
   );
@@ -91,6 +108,10 @@
 #Format: args, filename, name
 @unnamed =
   (
+# Pre-naming EPac storms:
+   [ ("--input epac.txt --year 1959 --id 6", "Iwa 1959") ],
+   [ ("--input epac.txt --year 1959 --id 15", "1959 Mexico hurricane") ],
+
 # Pre-naming Atlantic storms:
 #   [ ("--year 1856 --id 1", "1856 Last Island hurricane") ],
 #    [ ("--year 1857 --id 2", "1857 Carolinas hurricane") ],
@@ -162,6 +183,7 @@ sub generate {
   $filename =~ s/ /_/g;
 
   print("Building $filename.\n");
+#  print "   $args \n";
   $res = system "./track $args --output \"$filename\"";
   if ($res != 0) {
     printf "Error!\n";
@@ -186,7 +208,14 @@ foreach $basin (@basins) {
     my $filename = "storms/$name" . "_$year" . "_track.png";
     my $descname = "$type $name ($year)";
 
-    generate("--extra $extra --year $year --name $name",
+    if (!defined $type) {
+      $type = 'Hurricane';
+    }
+    if (!defined $extra) {
+      $extra = 0; # ???
+    }
+
+    generate("--input $basin.txt --extra $extra --year $year --name $name",
 	     "storms/$name" . "_$year" . "_track.png",
 	     "$type $name ($year)");
   }
