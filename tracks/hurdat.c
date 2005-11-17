@@ -54,8 +54,8 @@ struct stormdata *read_stormdata_hurdat(struct storm_arg *args)
   hurdat = fopen(args->input, "r");
 
   if (!hurdat) {
-    fprintf(stderr, "Couldn't open file 'hurdat.txt': %s\n",
-	    strerror(errno));
+    fprintf(stderr, "Couldn't open file '%s': %s\n",
+	    args->input, strerror(errno));
     exit(-1);
   }
 
