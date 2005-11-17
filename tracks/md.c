@@ -96,7 +96,7 @@ struct stormdata *read_stormdata_md(struct storm_arg *args)
 	pos.lat = val;
 
 	line[41] = 0;
-	pos.wind = atoi(line + 37) / 1.15;
+	pos.wind = ((double)atoi(line + 37) / 1.15 + 0.5);
 
 	pos.pres = atoi(line + 45);
 
