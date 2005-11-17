@@ -7,17 +7,19 @@
    [(
 # Retired storms:
 #  Iwa is listed in the unnamed hurricanes
-     [ (1978, 'Fico') ],
+#     [ (1970, 'Adele') ], # Don't bother.
+#     [ (1978, 'Fico') ],
 #     [ (1987, 'Knut', 0, 'Tropical Storm') ],  # WTF?  Don't bother.
-     [ (1991, 'Fefa') ],
-     [ (1992, 'Iniki') ],
-     [ (1995, 'Ismael') ],
-     [ (1997, 'Pauline') ],
-     [ (2002, 'Kenna') ],
+#     [ (1988, 'Iva') ], # Don't bother.
+#     [ (1991, 'Fefa') ],
+#     [ (1992, 'Iniki') ],
+#     [ (1995, 'Ismael') ],
+#     [ (1997, 'Pauline') ],
+#     [ (2002, 'Kenna') ],
 
 # Non-retired but notable:
-     [ (1994, 'John') ],
-     [ (1997, 'Linda') ],
+#     [ (1994, 'John') ],
+#     [ (1997, 'Linda') ],
 
     )],
    "natlantic" => [ (
@@ -109,8 +111,8 @@
 @unnamed =
   (
 # Pre-naming EPac storms:
-   [ ("--input epac.txt --year 1959 --id 6", "Iwa 1959") ],
-   [ ("--input epac.txt --year 1959 --id 15", "1959 Mexico hurricane") ],
+#   [ ("--input epac.txt --year 1959 --id 6", "Iwa 1959") ],
+#   [ ("--input epac.txt --year 1959 --id 15", "1959 Mexico hurricane") ],
 
 # Pre-naming Atlantic storms:
 #   [ ("--year 1856 --id 1", "1856 Last Island hurricane") ],
