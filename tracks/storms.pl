@@ -108,12 +108,27 @@
   );
 
 #Format: args, filename, name
-@unnamed =
+%unnamed =
   (
-# Pre-naming EPac storms:
-#   [ ("--input epac.txt --year 1959 --id 6", "Iwa 1959") ],
-#   [ ("--input epac.txt --year 1959 --id 15", "1959 Mexico hurricane") ],
+   "nindian" =>
+   [ (
+      [ ("--year 1991 --id 2", "1991 Bangladesh cyclone") ],
 
+# These haven't been uploaded yet:
+#      [ ("--year 1970 --id 12", "1970 Bhola cyclone") ],
+#      [ ("--year 1999 --id 5", "1999 05B tropical cyclone") ],
+     ) ],
+
+   "epac" =>
+   [ (
+# Pre-naming EPac storms:
+#      [ ("--year 1959 --id 6", "Iwa 1959", "Hurricane Iwa (1959)") ],
+#      [ ("--year 1959 --id 15", "1959 Mexico hurricane") ],
+     ) ],
+
+
+   "natlantic" =>
+   [ (
 # Pre-naming Atlantic storms:
 #   [ ("--year 1856 --id 1", "1856 Last Island hurricane") ],
 #    [ ("--year 1857 --id 2", "1857 Carolinas hurricane") ],
@@ -156,6 +171,7 @@
 #   [ ("--input 2005/wilma.txt --format 1", "Wilma 2005", "Hurricane Wilma (2005)") ],
 #   [ ("--input 2005/alpha.txt --format 1", "Alpha 2005", "Tropical Storm Alpha (2005)") ],
 #   [ ("--input 2005/beta.txt --format 1", "Beta 2005", "Hurricane Beta (2005)") ],
+     ) ],
   );
 
 $wiki="../../pywikipedia/";
@@ -184,16 +200,17 @@ sub generate {
 
   $filename =~ s/ /_/g;
 
-  print("Building $filename.\n");
+  print "$filename\n";
 #  print "   $args \n";
   $res = system "./track $args --output \"$filename\"";
   if ($res != 0) {
     printf "Error!\n";
     exit;
   }
-  print "  Uploading as $filename with $desc.\n";
+  print "  $desc\n";
   if ($real) {
     do {
+      print "  Uploading...\n";
       $res = system "cd $wiki && python upload.py -keep \"$storms$filename\" \"$desc\" 2>&1 >/dev/null";
       mydosleep($sleeptime);
       $sleeptime += 30;
@@ -223,11 +240,14 @@ foreach $basin (@basins) {
   }
 }
 
-foreach (@unnamed) {
-  my ($args, $name, $name2) = @{ $_ };
-  if (!defined $name2) {
-    $name2 = $name;
-  }
+@basins = keys %unnamed;
+foreach $basin (@basins) {
+  foreach (@{ $unnamed{$basin} }) {
+    my ($args, $name, $name2) = @{ $_ };
+    if (!defined $name2) {
+      $name2 = $name;
+    }
 
-  generate($args, "storms/$name track.png", $name2);
+    generate("--input $basin.txt $args", "storms/$name track.png", $name2);
+  }
 }
