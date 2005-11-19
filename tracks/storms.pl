@@ -112,11 +112,11 @@
   (
    "nindian" =>
    [ (
-      [ ("--year 1991 --id 2", "1991 Bangladesh cyclone") ],
+#      [ ("--year 1991 --id 2", "1991 Bangladesh cyclone") ],
 
 # These haven't been uploaded yet:
 #      [ ("--year 1970 --id 12", "1970 Bhola cyclone") ],
-#      [ ("--year 1999 --id 5", "1999 05B tropical cyclone") ],
+      [ ("--year 1999 --id 5", "1999 Indian cyclone 05B") ],
      ) ],
 
    "epac" =>
@@ -124,6 +124,7 @@
 # Pre-naming EPac storms:
 #      [ ("--year 1959 --id 6", "Iwa 1959", "Hurricane Iwa (1959)") ],
 #      [ ("--year 1959 --id 15", "1959 Mexico hurricane") ],
+      [ ("--year 1975 --id 12", "1975 Pacific hurricane 12") ],
      ) ],
 
 
@@ -218,6 +219,7 @@ sub generate {
   }
 }
 
+system "rm -rf storms/";
 system "mkdir -p storms";
 
 @basins = keys %named;
