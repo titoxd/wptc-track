@@ -33,23 +33,15 @@ static struct storm_header read_header(char *line)
   return header;
 }
 
-struct stormdata *read_stormdata_hurdat(struct storm_arg *args)
+struct stormdata *read_stormdata_hurdat(struct stormdata *storms,
+					struct storm_arg *args)
 {
-  struct stormdata *storms = malloc(sizeof(*storms));
   FILE *hurdat;
   char *line, buf[10240];
   int t = 0, s = 0, e = 0, l = 0;
   int lineno = 0;
-
   struct storm storm;
   int count = 0;
-
-  storms->nstorms = 0;
-  storms->storms = NULL;
-  storms->maxlon = -180;
-  storms->minlon = 180;
-  storms->maxlat = -90;
-  storms->minlat = 90;
 
   hurdat = fopen(args->input, "r");
 

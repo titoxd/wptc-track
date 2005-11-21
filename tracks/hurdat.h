@@ -3,6 +3,7 @@
 
 #include "track.h"
 
-struct stormdata *read_stormdata_hurdat(struct storm_arg *args);
+struct stormdata *read_stormdata_hurdat(struct stormdata *storms,
+					struct storm_arg *args);
 
 #endif

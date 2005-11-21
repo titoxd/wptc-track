@@ -35,22 +35,14 @@ static struct storm_header read_header(char *line)
   return header;
 }
 
-struct stormdata *read_stormdata_md(struct storm_arg *args)
+struct stormdata *read_stormdata_md(struct stormdata *storms,
+				    struct storm_arg *args)
 {
-  struct stormdata *storms = malloc(sizeof(*storms));
   FILE *file;
   char *line, buf[10240];
   int lineno = 0;
-
   struct storm storm;
   int count = 0;
-
-  storms->nstorms = 0;
-  storms->storms = NULL;
-  storms->maxlon = -180;
-  storms->minlon = 180;
-  storms->maxlat = -90;
-  storms->minlat = 90;
 
   file = fopen(args->input, "r");
 

@@ -20,8 +20,21 @@
 #include "md.h"
 #include "track.h"
 
+#define MAX_STORMS 3
+
+#define storms_iterate(storms, storm)					\
+  {									\
+    int _storm_index;							\
+    for (_storm_index = 0; _storm_index < MAX_STORMS; _storm_index++) {	\
+      struct storm *storm = storms[storm];				\
+      if (storm) {
+#define storms_iterate_end			\
+      }						\
+    }						\
+  }						\
+
 struct args {
-  struct storm_arg storm;
+  struct storm_arg storm[MAX_STORMS];
   int resolution;
   int xmin, xmax, ymin, ymax;
   double mindim;
@@ -50,16 +63,42 @@ static struct args read_args(int argc, char **argv)
     .bg = "bg.png",
     .output = "output.png",
 
-    .storm.year = 0,
-    .storm.id = 0,
-    .storm.name = NULL,
-    .storm.wind = 0,
-    .storm.extra = true, /* Hmm, what should be default? */
+    .storm[0] = {
+      .year = 0,
+      .id = 0,
+      .name = NULL,
+      .wind = 0,
+      .extra = true, /* Hmm, what should be default? */
 
-    .storm.format = 0,
-    .storm.input = "natlantic.txt",
-    .storm.negx = true, /* longitude given in negatives */
-    .storm.negy = false
+      .format = 0,
+      .input = "natlantic.txt",
+      .negx = true, /* longitude given in negatives */
+      .negy = false
+    },
+    .storm[1] = {
+      .year = 0,
+      .id = 0,
+      .name = NULL,
+      .wind = 0,
+      .extra = true, /* Hmm, what should be default? */
+
+      .format = 0,
+      .input = NULL,
+      .negx = true, /* longitude given in negatives */
+      .negy = false
+     },
+    .storm[2] = {
+      .year = 0,
+      .id = 0,
+      .name = NULL,
+      .wind = 0,
+      .extra = true, /* Hmm, what should be default? */
+
+      .format = 0,
+      .input = NULL,
+      .negx = true, /* longitude given in negatives */
+      .negy = false
+    }
   };
 
   while (i < argc) {
@@ -68,31 +107,87 @@ static struct args read_args(int argc, char **argv)
     if (i < argc - 1) {
       if (strcasecmp(argv[i], "--input") == 0) {
 	i++;
-	args.storm.input = argv[i];
+	args.storm[0].input = argv[i];
+      } else if (strcasecmp(argv[i], "--input1") == 0) {
+	i++;
+	args.storm[1].input = argv[i];
+      } else if (strcasecmp(argv[i], "--input2") == 0) {
+	i++;
+	args.storm[2].input = argv[i];
+
       } else if (strcasecmp(argv[i], "--format") == 0) {
 	i++;
-	args.storm.format = atoi(argv[i]);
+	args.storm[0].format = atoi(argv[i]);
+      } else if (strcasecmp(argv[i], "--format1") == 0) {
+	i++;
+	args.storm[1].format = atoi(argv[i]);
+      } else if (strcasecmp(argv[i], "--format2") == 0) {
+	i++;
+	args.storm[2].format = atoi(argv[i]);
+
       } else if (strcasecmp(argv[i], "--negy") == 0) {
 	i++;
-	args.storm.negy = (atoi(argv[i]) != 0);
+	args.storm[0].negy = (atoi(argv[i]) != 0);
+      } else if (strcasecmp(argv[i], "--negy1") == 0) {
+	i++;
+	args.storm[1].negy = (atoi(argv[i]) != 0);
+      } else if (strcasecmp(argv[i], "--negy2") == 0) {
+	i++;
+	args.storm[2].negy = (atoi(argv[i]) != 0);
+
       } else if (strcasecmp(argv[i], "--negx") == 0) {
 	i++;
-	args.storm.negx = (atoi(argv[i]) != 0);
+	args.storm[0].negx = (atoi(argv[i]) != 0);
+      } else if (strcasecmp(argv[i], "--negx1") == 0) {
+	i++;
+	args.storm[1].negx = (atoi(argv[i]) != 0);
+      } else if (strcasecmp(argv[i], "--negx2") == 0) {
+	i++;
+	args.storm[2].negx = (atoi(argv[i]) != 0);
+
+      } else if (strcasecmp(argv[i], "--year") == 0) {
+	i++;
+	args.storm[0].year = atoi(argv[i]);
+      } else if (strcasecmp(argv[i], "--year1") == 0) {
+	i++;
+	args.storm[1].year = atoi(argv[i]);
+      } else if (strcasecmp(argv[i], "--year2") == 0) {
+	i++;
+	args.storm[2].year = atoi(argv[i]);
+
+      } else if (strcasecmp(argv[i], "--id") == 0) {
+	i++;
+	args.storm[0].id = atoi(argv[i]);
+      } else if (strcasecmp(argv[i], "--id1") == 0) {
+	i++;
+	args.storm[1].id = atoi(argv[i]);
+      } else if (strcasecmp(argv[i], "--id2") == 0) {
+	i++;
+	args.storm[2].id = atoi(argv[i]);
+
+      } else if (strcasecmp(argv[i], "--name") == 0) {
+	i++;
+	args.storm[0].name = argv[i];
+      } else if (strcasecmp(argv[i], "--name1") == 0) {
+	i++;
+	args.storm[1].name = argv[i];
+      } else if (strcasecmp(argv[i], "--name2") == 0) {
+	i++;
+	args.storm[2].name = argv[i];
+
+      } else if (strcasecmp(argv[i], "--wind") == 0) {
+	i++;
+	args.storm[0].wind = atoi(argv[i]);
+      } else if (strcasecmp(argv[i], "--wind1") == 0) {
+	i++;
+	args.storm[1].wind = atoi(argv[i]);
+      } else if (strcasecmp(argv[i], "--wind2") == 0) {
+	i++;
+	args.storm[2].wind = atoi(argv[i]);
+
       } else if (strcasecmp(argv[i], "--res") == 0) {
 	i++;
 	args.resolution = atoi(argv[i]);
-      } else if (strcasecmp(argv[i], "--year") == 0) {
-	i++;
-	args.storm.year = atoi(argv[i]);
-      } else if (strcasecmp(argv[i], "--id") == 0) {
-	i++;
-	args.storm.id = atoi(argv[i]);
-      } else if (strcasecmp(argv[i], "--name") == 0) {
-	i++;
-	args.storm.name = argv[i];
-      } else if (strcasecmp(argv[i], "--wind") == 0) {
-	i++;
-	args.storm.wind = atoi(argv[i]);
       } else if (strcasecmp(argv[i], "--xmin") == 0) {
 	i++;
 	args.xmin = atoi(argv[i]);
@@ -124,7 +219,10 @@ static struct args read_args(int argc, char **argv)
       } else if (strcasecmp(argv[i], "--extra") == 0) {
 	i++;
 
-	args.storm.extra = (atoi(argv[i]) != 0);
+	args.storm[0].extra
+	  = args.storm[1].extra
+	  = args.storm[2].extra
+	  = (atoi(argv[i]) != 0);
       } else if (strcasecmp(argv[i], "--bg") == 0) {
 	i++;
 	args.bg = argv[i];
@@ -262,6 +360,20 @@ void save_pos(struct storm_arg *args, struct stormdata *storms,
 	   pos->lat, pos->lon, pos->wind, pos->pres);
 #endif
   }
+}
+
+struct stormdata *new_stormdata(void)
+{
+  struct stormdata *storms = malloc(sizeof(*storms));
+
+  storms->nstorms = 0;
+  storms->storms = NULL;
+  storms->maxlon = -180;
+  storms->minlon = 180;
+  storms->maxlat = -90;
+  storms->minlat = 90;
+
+  return storms;
 }
 
 static void free_stormdata(struct stormdata *storms)
@@ -416,6 +528,7 @@ static void calc_dimensions(struct stormdata *storms, struct args *args)
   const double extra_space = 5; /* 5 degrees extra on each side */
   const double xratio = 1.618033988749894; /* the golden ratio ;-) */
   const double yratio = 1.0;
+  int i;
 
   xmin = args->xmin;
   if (args->xmin == NO_ARG) {
@@ -585,20 +698,28 @@ static void print_earliest(struct stormdata *storms)
 int main(int argc, char **argv)
 {
   struct args args = read_args(argc, argv);
-  struct stormdata *storms;
+  struct stormdata *storms = new_stormdata();
+  int i;
+  int count = 0;
 
-  switch (args.storm.format) {
-  case 0:
-    storms = read_stormdata_hurdat(&args.storm);
-    break;
-  default:
-    storms = read_stormdata_md(&args.storm);
-    break;
-  }
+  for (i = 0; i < MAX_STORMS; i++) {
+    if (!args.storm[i].input) {
+      continue;
+    }
+    switch (args.storm[i].format) {
+    case 0:
+      storms = read_stormdata_hurdat(storms, &args.storm[i]);
+      break;
+    default:
+      storms = read_stormdata_md(storms, &args.storm[i]);
+      break;
+    }
 
-  if (storms->nstorms == 0) {
-    fprintf(stderr, "No storms found.\n");
-    return -1;
+    if (storms->nstorms == count) {
+      fprintf(stderr, "No storms found.\n");
+      return -1;
+    }
+    count = storms->nstorms;
   }
 
   print_earliest(storms);

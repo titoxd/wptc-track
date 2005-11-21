@@ -35,7 +35,7 @@
 #   [ (1959, 'Gracie') ],
 #   [ (1960, 'Donna') ],
 #   [ (1961, 'Carla') ],
-#   [ (1961, 'Hattie') ],
+# Hattie is listed under Hattie-Simone-Inga, below.
 #   [ (1963, 'Flora') ],
 #   [ (1964, 'Cleo') ],
 #   [ (1964, 'Dora') ],
@@ -47,7 +47,7 @@
 #   [ (1970, 'Celia') ],
 #   [ (1972, 'Agnes') ],
 #   [ (1974, 'Carmen') ],
-#   [ (1974, 'Fifi') ],
+# Fifi is listed under Fifi-Orlene, below.
 #   [ (1975, 'Eloise') ],
 #   [ (1977, 'Anita') ],
 #   [ (1979, 'David') ],
@@ -57,7 +57,7 @@
 #		     [ (1985, 'Elena') ],
 #   [ (1985, 'Gloria') ],
 #   [ (1988, 'Gilbert') ],
-#   [ (1988, 'Joan') ],
+# Joan is listed under Joan-Miriam, below.
 #   [ (1989, 'Hugo') ],
 #   [ (1990, 'Diana') ],
 #   [ (1990, 'Klaus') ],
@@ -67,7 +67,7 @@
 #   [ (1995, 'Marilyn') ],
 #   [ (1995, 'Opal') ],
 #   [ (1995, 'Roxanne') ],
-#   [ (1996, 'Cesar') ],
+# Cesar is listed under Cesar-Douglas, below
 #   [ (1996, 'Fran') ],
 #   [ (1996, 'Hortense') ],
 #   [ (1998, 'Georges') ],
@@ -147,6 +147,11 @@
 #   [ ("--year 1947 --wind 140", "1947 Fort Lauderdale hurricane") ],
 #   [ ("--year 1959 --id 3 --extra 1", "1959 Escuminac hurricane") ],
 #   [ ("--year 1932 --wind 140 --extra 0", "1932 Bahamas hurricane") ],
+
+      [ ("--year 1996 --name cesar --input1 epac.txt --year1 1996 --name1 douglas", "Cesar-Douglas 1996", "Hurricane Cesar-Douglas (1996)") ],
+      [ ("--year 1974 --name fifi --input1 epac.txt --year1 1974 --name1 orlene", "Fifi-Orlene 1974", "Hurricane Fifi-Orlene (1974)") ],
+      [ ("--year 1988 --name joan --input1 epac.txt --year1 1988 --name1 miriam", "Joan-Miriam 1988", "Hurricane Joan-Miriam (1988)") ],
+      [ ("--year 1961 --name hattie --input1 epac.txt --year1 1961 --name1 simone --year2 1961 --input2 natlantic.txt --name2 inga", "Hattie-Simone-Inga 1961", "Hurricane Hattie-Simone-Inga (1961)") ],
 
 # 2005 storms
 #   [ ("--input 2005/arlene.txt --format 1", "Arlene 2005", "Tropical Storm Arlene (2005)") ],
