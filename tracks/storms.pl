@@ -6,7 +6,7 @@
    "epac" =>
    [(
 # Retired storms:
-     [ (1982, 'Iwa') ],
+#     [ (1982, 'Iwa') ],
 #     [ (1970, 'Adele') ], # Don't bother.
 #     [ (1978, 'Fico') ],
 #     [ (1987, 'Knut', 0, 'Tropical Storm') ],  # WTF?  Don't bother.
@@ -90,13 +90,14 @@
 
 # Non-retired but notable storms:
 #   [ (1966, 'Faith', 1) ],
-#   [ (1994, 'Alberto', 0, 'Tropical Storm') ],
-#   [ (2003, 'Odette', 0, 'Tropical Storm') ],
-#   [ (1994, 'Gordon') ],
-#   [ (2000, 'Alberto') ],
-#   [ (2004, 'Alex') ],
-#   [ (1996, 'Bertha') ],
 #   [ (1971, 'Ginger', 1) ],
+#		     [ (1985, 'Juan') ],
+#   [ (1994, 'Alberto', 0, 'Tropical Storm') ],
+#   [ (1994, 'Gordon') ],
+#   [ (1996, 'Bertha') ],
+#   [ (2000, 'Alberto') ],
+#   [ (2003, 'Odette', 0, 'Tropical Storm') ],
+#   [ (2004, 'Alex') ],
 
 # Non-retired Category 5 storms:
 #   [ (1960, 'Ethel') ],
@@ -171,6 +172,7 @@
 #   [ ("--input 2005/wilma.txt --format 1", "Wilma 2005", "Hurricane Wilma (2005)") ],
 #   [ ("--input 2005/alpha.txt --format 1", "Alpha 2005", "Tropical Storm Alpha (2005)") ],
 #   [ ("--input 2005/beta.txt --format 1", "Beta 2005", "Hurricane Beta (2005)") ],
+#   [ ("--input 2005/gamma.txt --format 1", "Gamma 2005", "Hurricane Gamma (2005)") ],
      ) ],
   );
 

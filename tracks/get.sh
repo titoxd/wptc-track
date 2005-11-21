@@ -1,4 +1,4 @@
-storms="arlene bret cindy dennis emily franklin gert harvey irene jose katrina lee maria nate ophelia philippe rita stan tammy vince wilma alpha beta"
+storms="arlene bret cindy dennis emily franklin gert harvey irene jose katrina lee maria nate ophelia philippe rita stan tammy vince wilma alpha beta gamma"
 
 function download() (
   for storm in $storms; do
