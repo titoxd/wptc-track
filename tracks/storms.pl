@@ -135,6 +135,7 @@
 #    [ ("--year 1857 --id 2", "1857 Carolinas hurricane") ],
 #   [ ("--year 1886 --id 5", "1886 Indianola hurricane") ],
 #   [ ("--year 1893 --id 6 --extra 0", "1893 Sea Islands hurricane") ],
+#      [ ("--year 1893 --id 10 --extra 0", "1893 Chenier Caminanda hurricane") ],
 #   [ ("--year 1899 --id 3", "1899 San Ciriaco hurricane") ],
 #   [ ("--year 1900 --wind 125 --extra 0", "1900 Galveston hurricane") ],
 #   [ ("--year 1919 --wind 120", "1919 Florida Keys hurricane") ],
@@ -148,10 +149,12 @@
 #   [ ("--year 1959 --id 3 --extra 1", "1959 Escuminac hurricane") ],
 #   [ ("--year 1932 --wind 140 --extra 0", "1932 Bahamas hurricane") ],
 
-      [ ("--year 1996 --name cesar --input1 epac.txt --year1 1996 --name1 douglas", "Cesar-Douglas 1996", "Hurricane Cesar-Douglas (1996)") ],
-      [ ("--year 1974 --name fifi --input1 epac.txt --year1 1974 --name1 orlene", "Fifi-Orlene 1974", "Hurricane Fifi-Orlene (1974)") ],
-      [ ("--year 1988 --name joan --input1 epac.txt --year1 1988 --name1 miriam", "Joan-Miriam 1988", "Hurricane Joan-Miriam (1988)") ],
-      [ ("--year 1961 --name hattie --input1 epac.txt --year1 1961 --name1 simone --year2 1961 --input2 natlantic.txt --name2 inga", "Hattie-Simone-Inga 1961", "Hurricane Hattie-Simone-Inga (1961)") ],
+#      [ ("--year 1954 --id 11 --name Alice --extra 0", "Alice2 1954", "Hurricane Alice2 (1954)") ],
+
+#      [ ("--year 1996 --name cesar --input1 epac.txt --year1 1996 --name1 douglas", "Cesar-Douglas 1996", "Hurricane Cesar-Douglas (1996)") ],
+#      [ ("--year 1974 --name fifi --input1 epac.txt --year1 1974 --name1 orlene", "Fifi-Orlene 1974", "Hurricane Fifi-Orlene (1974)") ],
+#      [ ("--year 1988 --name joan --input1 epac.txt --year1 1988 --name1 miriam", "Joan-Miriam 1988", "Hurricane Joan-Miriam (1988)") ],
+#      [ ("--year 1961 --name hattie --input1 epac.txt --year1 1961 --name1 simone --year2 1961 --input2 natlantic.txt --name2 inga", "Hattie-Simone-Inga 1961", "Hurricane Hattie-Simone-Inga (1961)") ],
 
 # 2005 storms
 #   [ ("--input 2005/arlene.txt --format 1", "Arlene 2005", "Tropical Storm Arlene (2005)") ],
@@ -192,7 +195,7 @@ sub mydosleep {
   }
 }
 
-# Uncomment the next line to allow automatic uploads (DANGEROUS)
+# Uncomment the next line to allow automatic uploads (DANGEROUS; UNTESTED)
 $real = 0;
 if ($real != 0 && $ARGV[0] ne "--real") {
   print "Not running for real!\n";
