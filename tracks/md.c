@@ -6,7 +6,7 @@
 #include <string.h>
 #include <strings.h>
 
-#include "hurdat.h"
+#include "md.h"
 #include "track.h"
 
 static bool is_header1_line(char *line)

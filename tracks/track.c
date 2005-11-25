@@ -260,7 +260,7 @@ static bool storm_matches(struct storm *storm, struct storm_arg *args)
   return true;
 }
 
-bool pos_matches(struct pos *pos, struct storm_arg *args)
+static bool pos_matches(struct pos *pos, struct storm_arg *args)
 {
   if (pos->type == EXTRATROPICAL || pos->type == LOW) {
     if (!args->extra) {
@@ -362,7 +362,7 @@ void save_pos(struct storm_arg *args, struct stormdata *storms,
   }
 }
 
-struct stormdata *new_stormdata(void)
+static struct stormdata *new_stormdata(void)
 {
   struct stormdata *storms = malloc(sizeof(*storms));
 
@@ -528,7 +528,6 @@ static void calc_dimensions(struct stormdata *storms, struct args *args)
   const double extra_space = 5; /* 5 degrees extra on each side */
   const double xratio = 1.618033988749894; /* the golden ratio ;-) */
   const double yratio = 1.0;
-  int i;
 
   xmin = args->xmin;
   if (args->xmin == NO_ARG) {
