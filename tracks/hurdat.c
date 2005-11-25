@@ -95,6 +95,8 @@ struct stormdata *read_stormdata_hurdat(struct stormdata *storms,
 	  break;
 	case 'E':
 	case 'e':
+	case 'X':
+	case 'x':
 	  pos.type = EXTRATROPICAL;
 	  e++;
 	  break;
@@ -107,8 +109,6 @@ struct stormdata *read_stormdata_hurdat(struct stormdata *storms,
 	case 'l':
 	case 'W': /* "wave" */
 	case 'w':
-	case 'X': /* ??? */
-	case 'x':
 	  pos.type = LOW;
 	  l++;
 	  break;
