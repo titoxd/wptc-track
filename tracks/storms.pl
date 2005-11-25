@@ -125,7 +125,7 @@
    "epac" =>
    [ (
 # Pre-naming EPac storms:
-#      [ ("--year 1959 --id 15", "1959 Mexico hurricane") ],
+      [ ("--year 1959 --id 15", "1959 Mexico hurricane") ],
 #      [ ("--year 1975 --id 12", "1975 Pacific hurricane 12") ],
      ) ],
 
