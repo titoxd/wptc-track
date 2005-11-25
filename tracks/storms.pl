@@ -92,6 +92,7 @@
 #   [ (1966, 'Faith', 1) ],
 #   [ (1971, 'Ginger', 1) ],
 #		     [ (1985, 'Juan') ],
+#		     [ (1989, 'Allison', 0, 'Tropical Storm') ],
 #   [ (1994, 'Alberto', 0, 'Tropical Storm') ],
 #   [ (1994, 'Gordon') ],
 #   [ (1996, 'Bertha') ],
