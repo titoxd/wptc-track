@@ -22,7 +22,8 @@
 #     [ (1997, 'Linda') ],
 
     )],
-   "natlantic" => [ (
+   "natlantic" =>
+   [ (
 # Retired storms: (since 1954)
 #   [ (1954, 'Carol') ],
 #   [ (1954, 'Edna') ],
@@ -106,7 +107,7 @@
 #   [ (1958, 'Cleo') ],
 #   [ (1950, 'Dog') ],
 
-		    ) ],
+     ) ],
   );
 
 #Format: args, filename, name
