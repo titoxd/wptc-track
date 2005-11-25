@@ -125,7 +125,7 @@
    "epac" =>
    [ (
 # Pre-naming EPac storms:
-      [ ("--year 1959 --id 15", "1959 Mexico hurricane") ],
+#      [ ("--year 1959 --id 15", "1959 Mexico hurricane") ],
 #      [ ("--year 1975 --id 12", "1975 Pacific hurricane 12") ],
      ) ],
 
@@ -143,13 +143,14 @@
 #   [ ("--year 1919 --wind 120", "1919 Florida Keys hurricane") ],
 #   [ ("--year 1926 --wind 130", "1926 Miami hurricane") ],
 #   [ ("--year 1928 --wind 140", "1928 Okeechobee hurricane") ],
+#   [ ("--year 1932 --wind 140 --extra 0", "1932 Bahamas hurricane") ],
 #   [ ("--year 1935 --wind 140 --extra 0", "1935 Labor Day hurricane") ],
 #   [ ("--year 1938 --wind 140", "1938 New England hurricane") ],
 #   [ ("--year 1943 --id 1", "1943 Surprise hurricane") ],
 #   [ ("--year 1944 --wind 120 --extra 0", "1944 Atlantic hurricane") ],
 #   [ ("--year 1947 --wind 140", "1947 Fort Lauderdale hurricane") ],
+#      [ ("--year 1952 --id 1", "1952 Groundhog Day tropical storm") ],
 #   [ ("--year 1959 --id 3 --extra 1", "1959 Escuminac hurricane") ],
-#   [ ("--year 1932 --wind 140 --extra 0", "1932 Bahamas hurricane") ],
 
 #      [ ("--year 1954 --id 11 --name Alice --extra 0", "Alice2 1954", "Hurricane Alice2 (1954)") ],
 
