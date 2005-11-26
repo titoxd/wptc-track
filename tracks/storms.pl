@@ -97,6 +97,7 @@
 #   [ (1994, 'Alberto', 0, 'Tropical Storm') ],
 #   [ (1994, 'Gordon') ],
 #   [ (1996, 'Bertha') ],
+#      [ (1998, 'Bonnie') ],
 #   [ (2000, 'Alberto') ],
 #   [ (2003, 'Odette', 0, 'Tropical Storm') ],
 #   [ (2004, 'Alex') ],
