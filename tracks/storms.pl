@@ -184,7 +184,9 @@
 #   [ ("--input 2005/wilma.txt --format 1", "Wilma 2005", "Hurricane Wilma (2005)") ],
 #   [ ("--input 2005/alpha.txt --format 1", "Alpha 2005", "Tropical Storm Alpha (2005)") ],
 #   [ ("--input 2005/beta.txt --format 1", "Beta 2005", "Hurricane Beta (2005)") ],
-#   [ ("--input 2005/gamma.txt --format 1", "Gamma 2005", "Hurricane Gamma (2005)") ],
+#   [ ("--input 2005/gamma.txt --format 1", "Gamma 2005", "Tropical Storm Gamma (2005)") ],
+#   [ ("--input 2005/delta.txt --format 1", "Delta 2005", "Tropical Storm Delta (2005)") ],
+   [ ("--input 2005/epsilon.txt --format 1", "Epsilon 2005", "Tropical Storm Epsilon (2005)") ],
      ) ],
   );
 
