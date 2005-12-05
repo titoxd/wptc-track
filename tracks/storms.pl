@@ -29,7 +29,7 @@
 # Non-retired but notable:
 #     [ (1994, 'John') ],
 #     [ (1997, 'Linda') ],
-     [ (1997, 'Nora') ]
+#     [ (1997, 'Nora') ]
 
     )],
    "natlantic" =>
@@ -126,14 +126,15 @@
   (
    "wpac" =>
    [ (
-      [ (2001, 32, "Vamei") ],
-      [ (1991, 27, "Thelma", 0, "Tropical Storm") ],
-      [ (2002, 21, "Rusa") ],
-      [ (1991, 21, "Mireille") ],
-      [ (1990, 27, "Mike") ],
-      [ (2003, 9, "Imbudo") ],
-      [ (1984, 13, "Ike") ],
-      [ (2002, 8, "Chataan") ]
+#      [ (2001, 32, "Vamei") ],
+#      [ (1991, 27, "Thelma", 0, "Tropical Storm") ],
+#      [ (2002, 21, "Rusa") ],
+#      [ (1991, 21, "Mireille") ],
+#      [ (1990, 27, "Mike") ],
+#      [ (2003, 9, "Imbudo") ],
+#      [ (1984, 13, "Ike") ],
+#      [ (2002, 8, "Chataan") ],
+#      [ (1979, 23, "Tip") ]
    ) ],
 
   );
@@ -144,17 +145,15 @@
    "nindian" =>
    [ (
 #      [ ("--year 1991 --id 2", "1991 Bangladesh cyclone") ],
-
-# These haven't been uploaded yet:
-      [ ("--year 1970 --id 12", "1970 Bhola cyclone") ],
-      [ ("--year 1999 --id 5", "1999 Indian cyclone 05B") ],
+#      [ ("--year 1970 --id 12", "1970 Bhola cyclone") ],
+#      [ ("--year 1999 --id 5", "1999 Indian cyclone 05B") ],
      ) ],
 
    "epac" =>
    [ (
 # Pre-naming EPac storms:
 #      [ ("--year 1959 --id 15", "1959 Mexico hurricane") ],
-      [ ("--year 1975 --id 12", "1975 Pacific hurricane 12") ],
+#      [ ("--year 1975 --id 12", "1975 Pacific hurricane 12") ],
      ) ],
 
    "wpac" =>
