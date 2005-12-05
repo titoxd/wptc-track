@@ -1,5 +1,14 @@
 #! /usr/bin/perl
 
+%default =
+  (
+   "natlantic" => "Hurricane",
+   "epac" => "Hurricane",
+   "wpac" => "Typhoon",
+   "nindian" => "Tropical Cyclone",
+   "south" => "Cyclone"
+  );
+
 # Format: year, name, extra, type
 %named =
   (
@@ -20,6 +29,7 @@
 # Non-retired but notable:
 #     [ (1994, 'John') ],
 #     [ (1997, 'Linda') ],
+     [ (1997, 'Nora') ]
 
     )],
    "natlantic" =>
@@ -111,6 +121,23 @@
      ) ],
   );
 
+# Format: year, id, name, extra, type
+%namedbyid =
+  (
+   "wpac" =>
+   [ (
+      [ (2001, 32, "Vamei") ],
+      [ (1991, 27, "Thelma", 0, "Tropical Storm") ],
+      [ (2002, 21, "Rusa") ],
+      [ (1991, 21, "Mireille") ],
+      [ (1990, 27, "Mike") ],
+      [ (2003, 9, "Imbudo") ],
+      [ (1984, 13, "Ike") ],
+      [ (2002, 8, "Chataan") ]
+   ) ],
+
+  );
+
 #Format: args, filename, name
 %unnamed =
   (
@@ -119,15 +146,20 @@
 #      [ ("--year 1991 --id 2", "1991 Bangladesh cyclone") ],
 
 # These haven't been uploaded yet:
-#      [ ("--year 1970 --id 12", "1970 Bhola cyclone") ],
-#      [ ("--year 1999 --id 5", "1999 Indian cyclone 05B") ],
+      [ ("--year 1970 --id 12", "1970 Bhola cyclone") ],
+      [ ("--year 1999 --id 5", "1999 Indian cyclone 05B") ],
      ) ],
 
    "epac" =>
    [ (
 # Pre-naming EPac storms:
 #      [ ("--year 1959 --id 15", "1959 Mexico hurricane") ],
-#      [ ("--year 1975 --id 12", "1975 Pacific hurricane 12") ],
+      [ ("--year 1975 --id 12", "1975 Pacific hurricane 12") ],
+     ) ],
+
+   "wpac" =>
+   [ (
+
      ) ],
 
 
@@ -186,7 +218,7 @@
 #   [ ("--input 2005/beta.txt --format 1", "Beta 2005", "Hurricane Beta (2005)") ],
 #   [ ("--input 2005/gamma.txt --format 1", "Gamma 2005", "Tropical Storm Gamma (2005)") ],
 #   [ ("--input 2005/delta.txt --format 1", "Delta 2005", "Tropical Storm Delta (2005)") ],
-   [ ("--input 2005/epsilon.txt --format 1", "Epsilon 2005", "Tropical Storm Epsilon (2005)") ],
+#   [ ("--input 2005/epsilon.txt --format 1", "Epsilon 2005", "Tropical Storm Epsilon (2005)") ],
      ) ],
   );
 
@@ -245,13 +277,41 @@ foreach $basin (@basins) {
     my $descname = "$type $name ($year)";
 
     if (!defined $type) {
-      $type = 'Hurricane';
+      if (!defined $default{$basin}) {
+	print "Undefined basin $basin.\n";
+	exit;
+      }
+      $type = $default{$basin};
     }
     if (!defined $extra) {
       $extra = 0; # ???
     }
 
     generate("--input $basin.txt --extra $extra --year $year --name $name",
+	     "storms/$name" . "_$year" . "_track.png",
+	     "$type $name ($year)");
+  }
+}
+
+@basins = keys %namedbyid;
+foreach $basin (@basins) {
+  foreach (@{ $namedbyid{$basin} }) {
+    my ($year, $id, $name, $extra, $type) = @{ $_ };
+    my $filename = "storms/$name" . "_$year" . "_track.png";
+    my $descname = "$type $name ($year)";
+
+    if (!defined $type) {
+      if (!defined $default{$basin}) {
+	print "Undefined basin $basin.\n";
+	exit;
+      }
+      $type = $default{$basin};
+    }
+    if (!defined $extra) {
+      $extra = 0; # ???
+    }
+
+    generate("--input $basin.txt --extra $extra --year $year --id $id",
 	     "storms/$name" . "_$year" . "_track.png",
 	     "$type $name ($year)");
   }
