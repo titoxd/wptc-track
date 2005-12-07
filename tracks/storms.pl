@@ -108,10 +108,12 @@
 #      [ (1993, 'Bret') ],
 #   [ (1994, 'Alberto', 0, 'Tropical Storm') ],
 #   [ (1994, 'Gordon') ],
+#      [ (1995, 'Erin') ],
 #   [ (1996, 'Bertha') ],
 #      [ (1997, 'Danny') ],
 #      [ (1998, 'Bonnie') ],
 #      [ (1999, 'Bret') ],
+#      [ (1999, 'Irene') ],
 #   [ (2000, 'Alberto') ],
 #   [ (2003, 'Odette', 0, 'Tropical Storm') ],
 #   [ (2004, 'Alex') ],
@@ -130,15 +132,16 @@
   (
    "wpac" =>
    [ (
-#      [ (2001, 32, "Vamei") ],
-#      [ (1991, 27, "Thelma", 0, "Tropical Storm") ],
-#      [ (2002, 21, "Rusa") ],
-#      [ (1991, 21, "Mireille") ],
-#      [ (1990, 27, "Mike") ],
-#      [ (2003, 9, "Imbudo") ],
-#      [ (1984, 13, "Ike") ],
-#      [ (2002, 8, "Chataan") ],
 #      [ (1979, 23, "Tip") ]
+#      [ (1984, 13, "Ike") ],
+#      [ (1988, 23, "Ruby") ],
+#      [ (1990, 27, "Mike") ],
+#      [ (1991, 21, "Mireille") ],
+#      [ (1991, 27, "Thelma", 0, "Tropical Storm") ],
+#      [ (2001, 32, "Vamei") ],
+#      [ (2002, 8, "Chataan") ],
+#      [ (2002, 21, "Rusa") ],
+#      [ (2003, 9, "Imbudo") ],
    ) ],
 
   );
@@ -170,7 +173,8 @@
    [ (
 # Pre-naming Atlantic storms:
 #   [ ("--year 1856 --id 1", "1856 Last Island hurricane") ],
-#    [ ("--year 1857 --id 2", "1857 Carolinas hurricane") ],
+#    [ ("--year 1857 --id 2", "1857 North Carolina hurricane") ],
+#      [ ("--year 1873 --id 2", "1873 Nova Scotia hurricane") ],
 #   [ ("--year 1886 --id 5", "1886 Indianola hurricane") ],
 #   [ ("--year 1893 --id 6 --extra 0", "1893 Sea Islands hurricane") ],
 #      [ ("--year 1893 --id 10 --extra 0", "1893 Chenier Caminanda hurricane") ],
