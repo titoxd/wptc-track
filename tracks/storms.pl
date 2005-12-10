@@ -100,6 +100,7 @@
 #   [ (2004, 'Jeanne') ],
 
 # Non-retired but notable storms:
+#      [ (1955, 'Hilda') ],
 #   [ (1966, 'Faith', 1) ],
 #   [ (1971, 'Ginger', 1) ],
 #      [ (1984, 'Diana') ],
@@ -107,6 +108,7 @@
 #      [ (1985, 'Kate') ],
 #		     [ (1989, 'Allison', 0, 'Tropical Storm') ],
 #      [ (1993, 'Bret') ],
+#      [ (1993, 'Emily') ],
 #      [ (1993, 'Gert') ],
 #   [ (1994, 'Alberto', 0, 'Tropical Storm') ],
 #   [ (1994, 'Gordon') ],
