@@ -180,6 +180,7 @@
 # Pre-naming Atlantic storms:
 #   [ ("--year 1856 --id 1", "1856 Last Island hurricane") ],
 #    [ ("--year 1857 --id 2", "1857 North Carolina hurricane") ],
+#      [ ("--year 1869 --id 10", "1869 New England hurricane") ],
 #      [ ("--year 1873 --id 2", "1873 Nova Scotia hurricane") ],
 #      [ ("--year 1878 --id 11", "1878 Atlantic hurricane") ],
 #   [ ("--year 1886 --id 5", "1886 Indianola hurricane") ],
@@ -187,6 +188,7 @@
 #      [ ("--year 1893 --id 10 --extra 0", "1893 Chenier Caminanda hurricane") ],
 #   [ ("--year 1899 --id 3", "1899 San Ciriaco hurricane") ],
 #   [ ("--year 1900 --wind 125 --extra 0", "1900 Galveston hurricane") ],
+#      [ ("--year 1915 --id 5", "1915 Louisiana hurricane") ],
 #   [ ("--year 1919 --wind 120", "1919 Florida Keys hurricane") ],
 #   [ ("--year 1926 --wind 130", "1926 Miami hurricane") ],
 #   [ ("--year 1928 --wind 140", "1928 Okeechobee hurricane") ],
