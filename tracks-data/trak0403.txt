@@ -1,0 +1,715 @@
+
+               GLOBAL TROPICAL CYCLONE TRACKS - MARCH 2004
+
+
+          !!!! IMPORTANT -- PLEASE SEE NOTE AT END OF FILE !!!!
+
+
+*************************************************************************
+
+SOUTH ATLANTIC (SAT) - Atlantic Ocean South of the Equator
+
+
+                            Systems Tracked
+                            ---------------
+
+   Tropical Cyclone CATARINA (01T)                     19 - 28 Mar
+
+*************************************************************************
+
+Storm Name: CATARINA              Cyclone Number: 01T     Basin: SAT
+(Name assigned by Brazilian news media / Number from UK Met. Office)
+
+   Date   Time   Lat      Lon    Cent  MSW   MSW        Remarks
+          (GMT)                 Press 1-min 10-min
+                                 (mb) (kts) (kts)
+-------------------------------------------------------------------------
+
+04 MAR 19 1800  27.0 S   49.0 W         25        Extratropical
+04 MAR 20 0000  26.5 S   48.5 W         25
+04 MAR 20 0600  25.3 S   48.0 W         30
+04 MAR 20 1200  25.5 S   46.0 W         30
+04 MAR 20 1800  26.5 S   44.5 W         30
+04 MAR 21 0000  26.8 S   43.0 W         30
+04 MAR 21 0600  27.5 S   42.0 W         30
+04 MAR 21 1200  28.7 S   40.5 W         30
+04 MAR 21 1800  29.5 S   39.5 W         30
+04 MAR 22 0000  30.9 S   38.5 W         30
+04 MAR 22 0600  31.9 S   37.0 W         30
+04 MAR 22 1200  32.3 S   36.7 W         30
+04 MAR 22 1800  31.5 S   36.5 W         30
+04 MAR 23 0000  30.7 S   36.7 W         30
+04 MAR 23 0600  29.8 S   37.0 W         30
+04 MAR 23 1200  29.5 S   37.5 W         30
+04 MAR 23 1800  29.4 S   38.1 W         35
+04 MAR 24 0000  29.3 S   38.5 W         35        Subtropical/hybrid
+04 MAR 24 0600  29.2 S   38.8 W         35
+04 MAR 24 1200  29.1 S   39.0 W         35
+04 MAR 24 1800  29.1 S   39.4 W         40
+04 MAR 25 0000  29.0 S   39.9 W         40
+04 MAR 25 0600  28.9 S   40.4 W         45        Tropical storm
+04 MAR 25 1200  28.7 S   41.2 W         50
+04 MAR 25 1800  28.7 S   41.9 W         55
+04 MAR 26 0000  28.7 S   42.6 W         60
+04 MAR 26 0600  28.7 S   43.1 W         65
+04 MAR 26 1200  28.8 S   43.7 W         70
+04 MAR 26 1800  28.9 S   44.2 W         70
+04 MAR 27 0000  29.1 S   44.9 W         70
+04 MAR 27 0600  29.2 S   45.6 W         75
+04 MAR 27 1200  29.5 S   46.4 W         75
+04 MAR 27 1800  29.5 S   47.5 W         80
+04 MAR 28 0000  29.3 S   48.3 W         80
+04 MAR 28 0600  29.0 S   49.7 W         85
+04 MAR 28 1200  28.5 S   50.1 W         60        Inland
+04 MAR 28 1800  28.5 S   51.0 W         45
+
+Note: The above track was prepared in its entirety by Roger Edson of
+the University of Guam.  A special thanks to Roger for sending it.
+This system was also numbered as 01L on NRL's website, and in some
+e-mail discussion groups was referred to by the name Aldonca--a name
+suggested by Roger Edson.
+
+*************************************************************************
+*************************************************************************
+
+NORTHWEST PACIFIC (NWP) - North Pacific Ocean West of Longitude 180
+
+
+                        Sources of Information
+                        ----------------------
+
+     The track coordinates and 1-minute average maximum sustained wind
+  values in general were taken from operational warnings issued by the
+  Joint Typhoon Warning Center (JTWC) of the U. S. Air Force and Navy,
+  located at Pearl Harbor, Hawaii.  The central pressure and 10-minute
+  average maximum sustained wind estimates for most systems were obtained
+  from warnings issued by the Japanese Meteorological Agency (JMA), which
+  is the World Meteorological Organization's Regional Specialised Meteor-
+  ological Centre for the basin.  In a few instances, information from
+  warnings issued by other Asian warning centers may have been utilized.
+  The center position coordinates from JMA and other centers were com-
+  pared with those from JTWC and annotations made in the Remarks column
+  when the differences in general amounted to 40-50 nm or more.
+
+     Michael V. Padua of Naga City in the Philippines, owner of the
+  Typhoon 2000 website, sends me cyclone tracks based upon warnings
+  issued by the Japanese Meteorological Agency and the Philippines'
+  Atmospheric, Geophysical & Astronomical Services Administration
+  (PAGASA).  A very special thanks to Michael for the assistance he
+  so reliably provides.
+
+
+                            Systems Tracked
+                            ---------------
+
+   Tropical Storm (02W / BUTCHOY)                      16 - 23 Mar
+
+*************************************************************************
+
+Storm Name: None                  Cyclone Number: 02W     Basin: NWP
+PAGASA Internal Name: BUTCHOY     JMA Tropical Storm Number: None
+
+   Date   Time   Lat      Lon    Cent  MSW   MSW        Remarks
+          (GMT)                 Press 1-min 10-min
+                                 (mb) (kts) (kts)
+-------------------------------------------------------------------------
+
+04 MAR 16 1200   6.3 N  136.9 E  1000   30    30  JMA: 5.5N/137.5E
+04 MAR 16 1800   7.4 N  134.9 E  1000   35    30  JMA: 6.5N/136.0E
+04 MAR 17 0000   5.3 N  136.0 E  1000   35    30  JMA: 5.9N/134.8E
+04 MAR 17 0600   5.6 N  135.0 E  1000   30    30  JMA: 6.8N/134.2E
+04 MAR 17 1200   6.2 N  134.0 E  1002   30    30  JMA: 6.8N/133.7E
+04 MAR 17 1800   6.5 N  133.2 E  1000   25    30  JMA: 7.4N/131.7E
+04 MAR 18 0000   7.6 N  131.5 E  1000   25    30
+04 MAR 18 0600   8.7 N  130.5 E   998   25    30  JMA: 10.8N/128.9E
+04 MAR 18 1200   9.8 N  129.3 E  1000   30    30  JMA: 9.8N/129.3E
+04 MAR 18 1800  10.9 N  128.3 E  1000   35    30  JMA: 10.5N/129.1E
+04 MAR 19 0000  11.5 N  127.5 E  1002   35    30  JMA: 11.2N/128.2E
+04 MAR 19 0600  11.9 N  127.1 E  1000   35    30  JMA: 11.2N/127.7E
+04 MAR 19 1200  12.1 N  126.9 E  1000   35    30  JMA: 11.6N/127.5E
+04 MAR 19 1800  12.1 N  126.8 E  1000   35    30
+04 MAR 20 0000  13.2 N  125.9 E  1000   35    30  JMA: 12.7N/126.8E
+04 MAR 20 0600  13.7 N  125.5 E  1000   35    30
+04 MAR 20 1200  14.2 N  125.1 E  1000   35    30
+04 MAR 20 1800  14.8 N  124.6 E  1000   45    30
+04 MAR 21 0000  15.0 N  123.8 E  1000   45    30  JMA: 15.0N/124.7E
+04 MAR 21 0600  15.4 N  124.0 E  1000   40    30  JMA: 15.6N/125.1E
+04 MAR 21 1200  16.2 N  124.7 E  1000   35    30
+04 MAR 21 1800  16.6 N  125.7 E  1000   30    30  
+04 MAR 22 0000  16.7 N  124.4 E  1004   25    30  PAGASA: 16.9N/125.9E
+04 MAR 22 0600  16.7 N  124.2 E  1000   25    30  PAGASA: 17.0N/125.9E
+04 MAR 22 1200  17.3 N  126.4 E  1000         30  PAGASA warnings
+04 MAR 22 1800  17.5 N  126.5 E  1000         30
+04 MAR 23 0000  17.7 N  126.6 E               15
+
+Note: PAGASA was the only one of the Asian TCWCs to upgrade 02W/Butchoy
+to tropical storm status.  Their highest estimated 10-min avg MSW was
+45 kts.   NMCC and HKO, along with JMA, rated the system as no more
+than a 30-kt (10-min avg) tropical depression.  The CWB of Taiwan also
+classified the system as a tropical depression, but did not assign any
+explicit wind estimations.  (A special thanks to Huang Chunliang for
+informing me of the peak MSW assignations of the Chinese warning
+centres.)  The PAGASA and JMA tracks, as well as the JTWC track, may
+be found in their entirety at the following link (courtesy of Michael
+Padua):
+
+   <http://www.typhoon2000.ph/stormarchives/2004/stormlogs/
+           02butchoy04_log.htm>
+
+*************************************************************************
+*************************************************************************
+
+SOUTHWEST INDIAN OCEAN (SWI) - South Indian Ocean West of Longitude 90E
+
+
+                        Sources of Information
+                        ----------------------
+
+     The track coordinates as well as the central pressure and 10-minute
+  average maximum sustained wind estimates were obtained from warnings
+  issued by Meteo France's Tropical Cyclone Warning Centre on Reunion
+  Island (MFR), which is the World Meteorological Organization's Regional
+  Specialised Meteorological Centre for the basin.  The 1-minute average
+  maximum sustained wind estimates were taken from warnings issued by the
+  Joint Typhoon Warning Center (JTWC) of the U. S. Air Force and Navy,
+  located at Pearl Harbor, Hawaii.  The center position coordinates from
+  JTWC were compared with those from MFR and annotations made in the
+  Remarks column when the differences in general amounted to 40-50 nm
+  or more.
+
+
+                            Systems Tracked
+                            ---------------
+
+   Tropical Cyclone GAFILO (MFR-09 / 16S)              02 - 15 Mar
+   Tropical Disturbance (MFR-11 / 21S)                 13 - 28 Mar
+
+*************************************************************************
+
+Storm Name: GAFILO                Cyclone Number: 16S     Basin: SWI
+MFR Tropical Disturbance Number: 09
+
+   Date   Time   Lat      Lon    Cent  MSW   MSW        Remarks
+          (GMT)                 Press 1-min 10-min
+                                 (mb) (kts) (kts)
+-------------------------------------------------------------------------
+
+04 MAR 02 0600  12.9 S   70.8 E  1002         25
+04 MAR 02 1200  13.9 S   69.9 E  1002         25
+04 MAR 02 1800  14.1 S   68.5 E  1002   30    25  
+04 MAR 03 0000  14.3 S   66.0 E   998         30
+04 MAR 03 0600  13.4 S   63.7 E   992   45    40  Relocated
+04 MAR 03 1200  13.1 S   62.3 E   985   60    50
+04 MAR 03 1800  12.6 S   61.3 E   985   65    50  JTWC: 12.3S/60.5E
+04 MAR 04 0000  12.2 S   60.7 E   980         55
+04 MAR 04 0600  12.2 S   59.8 E   980   65    55
+04 MAR 04 1200  12.4 S   58.8 E   970         65
+04 MAR 04 1800  13.1 S   58.0 E   970   85    65
+04 MAR 05 0000  13.1 S   57.6 E   965         70
+04 MAR 05 0600  13.4 S   56.7 E   965   90    75
+04 MAR 05 1200  14.0 S   55.9 E   952         85
+04 MAR 05 1800  14.4 S   55.1 E   930  125    95
+04 MAR 06 0000  14.4 S   54.0 E   925        105
+04 MAR 06 0600  14.6 S   53.4 E   900  140   125
+04 MAR 06 1200  14.8 S   52.5 E   900        125
+04 MAR 06 1800  15.0 S   51.5 E   895  140   125
+04 MAR 07 0000  15.0 S   50.5 E   895        125
+04 MAR 07 0600  15.1 S   49.4 E         95    65  Inland
+04 MAR 07 1200  15.9 S   47.8 E               45
+04 MAR 07 1800  16.6 S   46.2 E         75    45  JTWC: 16.2S/46.7E
+04 MAR 08 0000  17.0 S   45.0 E               45
+04 MAR 08 0600  18.2 S   44.2 E         55    50
+04 MAR 08 1200  18.4 S   43.1 E   988         45  Over water
+04 MAR 08 1800  18.6 S   42.8 E   987   65    45
+04 MAR 09 0000  19.1 S   42.4 E   987         45
+04 MAR 09 0600  19.2 S   42.0 E   987   65    45  JTWC: 19.7S/42.0E
+04 MAR 09 1200  20.0 S   42.4 E   985         50
+04 MAR 09 1800  20.6 S   43.3 E   975   60    60
+04 MAR 10 0000  21.7 S   43.9 E               50  Inland
+04 MAR 10 0600  22.5 S   45.0 E   987   45    40
+04 MAR 10 1200  23.2 S   45.4 E               40
+04 MAR 10 1800  23.3 S   45.7 E   988   45    40
+04 MAR 11 0000  24.0 S   46.6 E   988         40
+04 MAR 11 0600  24.4 S   46.3 E   990   35    40
+04 MAR 11 1200  24.0 S   45.5 E   992         35
+04 MAR 11 1800  23.9 S   45.6 E   992   25    30  JTWC: 24.5S/46.8E
+04 MAR 12 0000  23.6 S   45.4 E   992         25
+04 MAR 12 1200  21.9 S   46.3 E               25  No wrng issued at 0600Z
+04 MAR 12 1800  23.0 S   47.0 E   996         25
+04 MAR 13 0000  23.3 S   47.5 E   997         25
+04 MAR 13 0600  23.5 S   48.6 E   999         20  Over water
+04 MAR 13 1200  23.6 S   49.2 E   999         20  Final warning
+04 MAR 14 1200  26.3 S   56.4 E  1000         30  Subtropical depression
+04 MAR 14 1800  26.9 S   58.0 E  1000         25
+04 MAR 15 0000  28.0 S   60.0 E  1000         25
+04 MAR 15 0600  28.5 S   63.3 E  1002         25
+
+*************************************************************************
+
+Storm Name: None                  Cyclone Number: 21S     Basin: AUW/SWI
+MFR Tropical Disturbance Number: 11
+
+   Date   Time   Lat      Lon    Cent  MSW   MSW        Remarks
+          (GMT)                 Press 1-min 10-min
+                                 (mb) (kts) (kts)
+-------------------------------------------------------------------------
+
+04 MAR 13 0400  13.0 S   96.5 E  1006         25  Perth Trop. WX Outlooks
+04 MAR 14 0400  14.5 S   94.5 E  1002         25
+04 MAR 15 0400  15.0 S   89.0 E  1002         25
+04 MAR 15 1200  15.5 S   87.1 E  1002         25  La Reunion bulletins
+04 MAR 18 0600  16.2 S   75.4 E  1004         25
+04 MAR 19 0600  15.2 S   69.2 E  1004         25
+04 MAR 20 0600  13.5 S   62.9 E  1004         25
+04 MAR 21 1200  10.2 S   57.8 E  1004         20
+04 MAR 23 1800   8.5 S   56.0 E         30        JTWC warnings
+04 MAR 24 0600   8.6 S   56.1 E         30
+04 MAR 24 1200   8.7 S   56.1 E         20
+04 MAR 25 0600   9.3 S   53.9 E  1004         20  La Reunion bulletins
+04 MAR 26 0600   9.6 S   53.2 S  1005         20  Locally 30 kts to S
+04 MAR 28 0600   9.2 S   51.5 E  1006         20
+
+Note: The discontinuous track of this long-lived, tenuous disturbance
+bespeaks its weak intensity and the disorganization of its central cloud
+features.  According to Huang Chunliang, this system was the Indian
+Ocean continuation of former Tropical Cyclone Evan which formed in
+the Gulf of Carpentaria on 1 March and quickly moved inland and
+weakened.  The Perth TCWC issued gale warnings on the remnants of
+Evan beginning on 3 March in the anticipation that it would regain
+tropical cyclone status, but were dropped on the 6th after it had
+shown no signs of redevelopment.
+
+*************************************************************************
+*************************************************************************
+
+NORTHWEST AUSTRALIA/SOUTHEAST INDIAN OCEAN (AUW) - Longitude 90E to 135E
+
+
+                        Sources of Information
+                        ----------------------
+
+     The track coordinates as well as the central pressure and 10-minute
+  average maximum sustained wind estimates were obtained from warnings
+  issued by the Tropical Cyclone Warning Centres at Perth, Western
+  Australia, and Darwin, Northern Territory.    The 1-minute average
+  maximum sustained wind estimates were taken from warnings issued by
+  the Joint Typhoon Warning Center (JTWC) of the U. S. Air Force and
+  Navy, located at Pearl Harbor, Hawaii.  The center position coordinates
+  from JTWC were compared with those from the Australian centres and
+  annotations made in the Remarks column when the differences in general
+  amounted to 40-50 nm or more.
+
+
+                            Systems Tracked
+                            ---------------
+
+   Tropical Cyclone NICKY-HELMA (17S / MFR-10)         08 - 13 Mar
+   Severe Tropical Cyclone FAY (18S)                   14 - 28 Mar
+   Severe Tropical Cyclone OSCAR-ITSENG (20S / MFR-12) 20 - 28 Mar
+
+*************************************************************************
+
+Storm Name: NICKY-HELMA           Cyclone Number: 17S     Basin: AUW/SWI
+MFR Tropical Disturbance Number: 10   (First named by Perth TCWC)
+
+   Date   Time   Lat      Lon    Cent  MSW   MSW        Remarks
+          (GMT)                 Press 1-min 10-min
+                                 (mb) (kts) (kts)
+-------------------------------------------------------------------------
+
+04 MAR 08 0400  13.6 S   90.6 E  1002         30
+04 MAR 08 1000  13.4 S   91.0 E  1002   30    30
+04 MAR 08 1600  13.0 S   91.3 E  1002         30
+04 MAR 08 2200  13.1 S   91.0 E  1000   25    30
+04 MAR 09 0400  13.2 S   90.7 E   995         40  Named TC Nicky by Perth
+04 MAR 09 1000  13.4 S   90.5 E   985   50    45
+04 MAR 09 1600  14.0 S   90.7 E   985         45
+04 MAR 09 2200  14.5 S   90.4 E   985   50    45
+04 MAR 10 0400  14.4 S   90.2 E   975         60
+04 MAR 10 1000  15.3 S   90.1 E   975   65    55
+04 MAR 10 1800  16.5 S   89.6 E   975         60  1st MFR wrng on Helma
+04 MAR 11 0000  17.2 S   88.9 E   975   65    60
+04 MAR 11 0600  17.8 S   88.1 E   972         60
+04 MAR 11 1200  18.6 S   87.5 E   972   65    60
+04 MAR 11 1800  19.2 S   87.4 E   974         60
+04 MAR 12 0000  19.6 S   87.1 E   976   70    60
+04 MAR 12 0600  19.4 S   85.8 E   980         55
+04 MAR 12 1200  19.7 S   85.5 E   985   55    45
+04 MAR 12 1800  20.1 S   85.6 E   990         40
+04 MAR 13 0000  21.0 S   84.3 E   994   45    35  JTWC: 21.1S/83.8E
+04 MAR 13 0600  22.7 S   84.2 E   998         25
+04 MAR 13 1200  22.2 S   85.1 E   998   25    20  JTWC: 23.1S/84.2E
+
+*************************************************************************
+
+Storm Name: FAY                   Cyclone Number: 18S     Basin: AUW
+(Storm named by the Darwin, Northern Territory, TCWC)
+
+   Date   Time   Lat      Lon    Cent  MSW   MSW        Remarks
+          (GMT)                 Press 1-min 10-min
+                                 (mb) (kts) (kts)
+-------------------------------------------------------------------------
+
+04 MAR 14 0530  10.5 S  135.5 E  1002         25
+04 MAR 14 1330  10.6 S  135.0 E  1002         25
+04 MAR 14 1830  10.0 S  135.2 E  1001         25  Relocated
+04 MAR 15 0030  10.5 S  134.5 E  1000         25
+04 MAR 15 0630  10.5 S  133.0 E   998         25
+04 MAR 15 1230  10.5 S  131.7 E   998         30
+04 MAR 15 1800  10.7 S  130.6 E   997         30
+04 MAR 16 0000  11.3 S  129.4 E   997         30
+04 MAR 16 0600  11.6 S  128.5 E   996   30    30  
+04 MAR 16 1200  11.7 S  127.9 E   995         35  Named TC Fay
+04 MAR 16 1800  11.8 S  127.6 E   992   35    40  JTWC: 12.3S/126.9E
+04 MAR 17 0000  12.1 S  127.9 E   992         40  Relocated
+04 MAR 17 0600  12.4 S  127.4 E   990   35    40  
+04 MAR 17 1200  12.7 S  127.1 E   985         45
+04 MAR 17 1800  12.8 S  126.8 E   980   45    50
+04 MAR 18 0000  13.0 S  126.8 E   978         55
+04 MAR 18 0600  13.1 S  126.7 E   976   65    60
+04 MAR 18 1200  13.2 S  126.6 E   972         65
+04 MAR 18 1800  13.2 S  125.9 E   970   75    70
+04 MAR 19 0000  12.6 S  125.6 E   964         70
+04 MAR 19 0400  12.7 S  125.5 E   964   75    70  Perth warnings
+04 MAR 19 1000  12.9 S  125.2 E   955         80
+04 MAR 19 1600  13.1 S  124.9 E   955   90    80
+04 MAR 19 2200  13.2 S  124.5 E   950         80
+04 MAR 20 0400  13.0 S  124.7 E   950   90    80
+04 MAR 20 1000  13.2 S  124.5 E   945         85
+04 MAR 20 1600  13.4 S  124.0 E   945  100    85
+04 MAR 20 2200  13.5 S  123.3 E   935         90
+04 MAR 21 0400  13.5 S  122.9 E   935  115    90
+04 MAR 21 1000  14.1 S  122.4 E   910        110
+04 MAR 21 1600  14.1 S  121.5 E   910  120   115
+04 MAR 21 2200  14.2 S  121.1 E   920        105
+04 MAR 22 0400  14.0 S  120.7 E   925  115   100
+04 MAR 22 1000  14.2 S  120.7 E   925        100
+04 MAR 22 1600  14.3 S  120.2 E   920        105
+04 MAR 22 2200  14.4 S  120.2 E   930        100
+04 MAR 23 0400  14.2 S  120.3 E   935  105    95
+04 MAR 23 1000  14.5 S  120.9 E   950         80
+04 MAR 23 1600  15.0 S  120.9 E   950   90    80
+04 MAR 23 2200  15.3 S  121.2 E   970         60
+04 MAR 24 0400  15.6 S  121.5 E   970   80    60
+04 MAR 24 1000  16.2 S  121.7 E   970         60
+04 MAR 24 1600  16.7 S  121.7 E   960   80    75
+04 MAR 24 2200  17.1 S  121.7 E   955         80
+04 MAR 25 0400  17.6 S  121.4 E   955   75    75
+04 MAR 25 1000  18.0 S  120.9 E   960         70
+04 MAR 25 1600  18.0 S  120.4 E   960   75    70
+04 MAR 25 2200  18.1 S  120.2 E   960         70
+04 MAR 26 0400  18.4 S  120.0 E   960   90    70
+04 MAR 26 1000  18.9 S  119.9 E   945         85
+04 MAR 26 1600  19.2 S  120.0 E   940  115    90
+04 MAR 26 2200  19.6 S  120.1 E   940         90
+04 MAR 27 0400  20.3 S  120.1 E   950   95    80  Inland
+04 MAR 27 1000  20.9 S  120.1 E   970         65
+04 MAR 27 1600  21.1 S  120.6 E   980   65    50
+04 MAR 27 2200  21.4 S  120.5 E   980         50
+04 MAR 28 0400  21.5 S  120.8 E   988         45
+04 MAR 28 1000  21.6 S  121.1 E   998         30
+
+*************************************************************************
+
+Storm Name: OSCAR-ITSENG          Cyclone Number: 20S     Basin: AUW/SWI
+MFR Tropical Disturbance Number: 12   (First named by Perth TCWC)
+
+   Date   Time   Lat      Lon    Cent  MSW   MSW        Remarks
+          (GMT)                 Press 1-min 10-min
+                                 (mb) (kts) (kts)
+-------------------------------------------------------------------------
+
+04 MAR 20 2200  12.0 S  102.0 E   998         30
+04 MAR 21 0600  13.3 S  103.8 E  1000         25
+04 MAR 22 0400  15.3 S  102.0 E  1002         25  Perth Trop Wx. Outlook
+04 MAR 23 0400  15.1 S   99.1 E   998         30
+04 MAR 23 1000  15.3 S   98.5 E   996   35    30
+04 MAR 23 1600  15.0 S   98.0 E   996         30
+04 MAR 23 2200  14.8 S   97.4 E   985   45    50  Named TC Oscar by Perth
+04 MAR 24 0400  14.5 S   96.6 E   985         50
+04 MAR 24 1000  14.8 S   95.7 E   980   55    55
+04 MAR 24 1600  14.8 S   95.1 E   975         60
+04 MAR 24 2200  15.1 S   93.7 E   975   60    60
+04 MAR 25 0400  15.6 S   93.3 E   960         70
+04 MAR 25 1000  16.4 S   92.5 E   960   70    70
+04 MAR 25 1600  16.4 S   92.7 E   950         75
+04 MAR 25 2200  17.0 S   92.1 E   935  110    95
+04 MAR 26 0400  17.3 S   92.2 E   935         95
+04 MAR 26 1000  17.7 S   92.0 E   935  105    95
+04 MAR 26 1600  17.8 S   91.7 E   935         95
+04 MAR 26 2200  17.9 S   91.3 E   940   90    90
+04 MAR 27 0400  17.9 S   90.7 E   965         70
+04 MAR 27 1000  19.1 S   90.5 E   970   50    55
+04 MAR 27 1600  19.8 S   90.2 E   975         50
+04 MAR 27 1800  19.4 S   89.9 E   978         55  1st MFR wrng on Itseng
+04 MAR 28 0000  19.5 S   89.3 E   986   35    50
+04 MAR 28 0600  19.5 S   89.0 E   995         30
+04 MAR 28 1200  19.7 S   89.2 E   998         30
+04 MAR 28 1800  20.0 S   89.0 E  1000         25  Locally 30 kts S quads
+
+*************************************************************************
+*************************************************************************
+
+NORTHEAST AUSTRALIA/CORAL SEA (AUE) - Longitude 135E to 160E
+
+
+                        Sources of Information
+                        ----------------------
+
+     The track coordinates as well as the central pressure and 10-minute
+  average maximum sustained wind estimates were obtained from warnings
+  issued by the Tropical Cyclone Warning Centres at Darwin, Northern
+  Territory; Brisbane, Queensland; and Port Moresby, Papua New Guinea.
+  The 1-minute average maximum sustained wind estimates were taken from
+  warnings issued by the Joint Typhoon Warning Center (JTWC) of the U. S.
+  Air Force and Navy, located at Pearl Harbor, Hawaii.    The center
+  position coordinates from JTWC were compared with those from the
+  Australian centres and annotations made in the Remarks column when the
+  differences in general amounted to 40-50 nm or more.
+
+
+                            Systems Tracked
+                            ---------------
+
+   Tropical Cyclone EVAN (15P)                         29 Feb - 06 Mar
+   Coral Sea Hybrid Cyclone                            02 - 05 Mar
+   Tropical Cyclone GRACE (19P / 07F)                  18 - 24 Mar
+
+*************************************************************************
+
+Storm Name: EVAN                  Cyclone Number: 15P     Basin: AUE/AUW
+(Storm named by the Darwin, Northern Territory, TCWC)
+
+   Date   Time   Lat      Lon    Cent  MSW   MSW        Remarks
+          (GMT)                 Press 1-min 10-min
+                                 (mb) (kts) (kts)
+-------------------------------------------------------------------------
+
+04 FEB 29 0030  14.0 S  140.0 E  1003         25
+04 FEB 29 0630  14.0 S  140.0 E  1002         25
+04 FEB 29 1230  14.0 S  139.7 E  1002         25
+04 FEB 29 1830  13.3 S  139.3 E  1000         30
+04 MAR 01 0000  13.3 S  138.7 E  1000         30
+04 MAR 01 0600  13.9 S  137.5 E   994         35  Named TC Evan
+04 MAR 01 1200  13.9 S  136.5 E   994         40  Over Groote Eylandt
+04 MAR 01 1800  14.0 S  135.5 E         35    30  Inland
+04 MAR 02 0000  14.1 S  134.8 E         30        JTWC warning
+04 MAR 02 0600  14.3 S  134.6 E         25             "
+04 MAR 03 0400  14.5 S  129.0 E  1000         30  Perth warnings
+04 MAR 03 1000  14.1 S  128.4 E  1000         30
+04 MAR 03 1600  14.3 S  126.6 E  1000         30
+04 MAR 03 2200  14.4 S  126.0 E  1000         30
+04 MAR 04 0400  14.7 S  125.0 E  1000         30
+04 MAR 04 1000  15.4 S  124.0 E   999         30
+04 MAR 04 1600  15.8 S  122.9 E   999         30
+04 MAR 04 2200  16.2 S  122.0 E   999         30
+04 MAR 05 0100  16.3 S  121.5 E   999         30
+04 MAR 05 0400  16.5 S  121.0 E  1000         30
+04 MAR 05 1000  16.5 S  120.0 E  1000         25
+04 MAR 05 1600  16.6 S  119.0 E  1000         25
+04 MAR 05 2200  17.0 S  118.2 E  1000         25
+04 MAR 06 0400  17.6 S  117.5 E  1000         25
+
+*************************************************************************
+
+Storm Name: None                  Cyclone Number: None    Basin: AUE
+(Storm was a subtropical or hybrid cyclone)
+
+   Date   Time   Lat      Lon    Cent  MSW   MSW        Remarks
+          (GMT)                 Press 1-min 10-min
+                                 (mb) (kts) (kts)
+-------------------------------------------------------------------------
+
+04 MAR 02 0000  14.0 S  154.0 E  1003         25
+04 MAR 02 0600  14.0 S  154.0 E  1002         25
+04 MAR 02 1200  14.0 S  153.0 E  1002         25
+04 MAR 02 1800  14.0 S  152.0 E  1001         25
+04 MAR 03 0000  14.0 S  151.0 E  1000         40  Secondary cntr 18S/159E
+04 MAR 03 0600  14.5 S  149.6 E  1000         40  Secondary cntr 18S/157E
+04 MAR 03 1200  13.5 S  150.0 E  1000         40  Trough to 20S/160E
+04 MAR 03 1800  14.5 S  151.5 E  1000         40          "
+04 MAR 04 0000  14.5 S  152.5 E  1002         45
+04 MAR 04 0600  15.0 S  153.0 E   998         40  New LOW fcst to form
+04 MAR 04 1200  20.5 S  157.0 E   999         40  Begin trk of new LOW
+04 MAR 04 1800  22.0 S  156.5 E   994         50
+04 MAR 05 0000  23.3 S  154.2 E   994         55
+04 MAR 05 0600  25.0 S  152.5 E   994         55
+04 MAR 05 1200  26.0 S  152.5 E   994         45  Inland
+04 MAR 05 1800  27.5 S  152.5 E   994         45  Moved out of BNE's AOR
+
+Note: The situation in the Coral Sea and along the Queensland coast was
+rather complex during the early days of March.  The track above follows
+the initial LOW through 04/0600 UTC with a secondary center's location
+given in the remarks.  The warnings from Brisbane shifted to a new LOW
+at 04/1200 UTC and dropped the earlier one.  This was the storm which
+adversely affected southeastern Queensland and northeastern New South
+Wales.  The storm moved out of Brisbane's AOR after 05/1800 UTC and I
+do not have any information on the system thereafter.
+
+*************************************************************************
+
+Storm Name: GRACE                 Cyclone Number: 19P     Basin: AUE/SPA
+Fiji Tropical Disturbance Number: 07F  (Name assigned by Brisbane TCWC)
+
+   Date   Time   Lat      Lon    Cent  MSW   MSW        Remarks
+          (GMT)                 Press 1-min 10-min
+                                 (mb) (kts) (kts)
+-------------------------------------------------------------------------
+
+04 MAR 18 0600  14.5 S  145.5 E   998         30
+04 MAR 18 1200  15.0 S  145.5 E   998         40  LOW not tropical yet
+04 MAR 18 1800  14.5 S  145.5 E   996         40
+04 MAR 19 0000  15.5 S  145.3 E   997         40
+04 MAR 19 0600  15.5 S  145.3 E   995         40  2nd LOW 16.5S/146.5E
+04 MAR 19 1200  16.5 S  146.5 E               30  Track of new LOW
+04 MAR 19 1800  15.6 S  146.3 E   994         30
+04 MAR 20 0000  16.0 S  146.5 E   994         40
+04 MAR 20 0600  16.5 S  147.1 E   993         40
+04 MAR 20 1200  16.5 S  148.4 E   993         40
+04 MAR 20 1800  16.3 S  149.4 E   992         40
+04 MAR 21 0000  16.3 S  150.5 E   994         40
+04 MAR 21 0600  17.3 S  152.0 E   990         40
+04 MAR 21 1200  18.5 S  153.5 E   990         40
+04 MAR 21 1800  20.0 S  155.0 E   988   35    45  Named TC Grace
+04 MAR 22 0000  20.3 S  155.9 E   985         50
+04 MAR 22 0600  20.9 S  156.9 E   985   30    50  JTWC: 20.3S/155.9E
+04 MAR 22 1200  22.3 S  158.2 E   985         50
+04 MAR 22 1800  22.5 S  159.0 E   985   25    50  JTWC: 21.6S/158.1E
+04 MAR 23 0000  22.6 S  160.0 E   985         50
+04 MAR 23 0600  23.0 S  160.6 E   985         45  Fiji warnings
+04 MAR 23 1200  23.4 S  161.4 E   988         40
+04 MAR 23 1800  23.6 S  162.3 E   988         45  Extratropical
+04 MAR 24 0000  22.9 S  162.6 E   988         45
+04 MAR 24 0600  23.0 S  163.0 E   988         45
+04 MAR 24 1200  23.0 S  164.0 E   986         55
+04 MAR 24 1800  23.0 S  164.5 E   986         55
+
+Note: Prior to Grace being named, gales were forecast well to the north
+and south of the center.  The definition of a tropical cyclone in WMO
+Region V requires that gales be present near the center; hence, the storm
+remained unnamed until there was evidence of gale-force winds near the
+LOW's center.  Following Fiji's last warning at 24/1800 UTC, general
+gale warnings were issued for a few more days for the extratropical
+remnants of Grace; however, no center coordinates were specified.
+
+*************************************************************************
+*************************************************************************
+
+SOUTH PACIFIC (SPA) - South Pacific Ocean East of Longitude 160E
+
+
+                        Sources of Information
+                        ----------------------
+
+     The track coordinates as well as the central pressure and 10-minute
+  average maximum sustained wind estimates were obtained from warnings
+  issued by the Tropical Cyclone Warning Centres at Nadi, Fiji, and
+  Wellington, New Zealand.  The 1-minute average maximum sustained wind
+  estimates were taken from warnings issued by the Joint Typhoon Warning
+  Center (JTWC) of the U. S. Air Force and Navy, located at Pearl Harbor,
+  Hawaii.  The center position coordinates from JTWC were compared with
+  those from the Southern Hemisphere centres and annotations made in the
+  Remarks column when the differences in general amounted to 40-50 nm
+  or more.
+
+
+                            Systems Tracked
+                            ---------------
+
+   Tropical Depression (06F)                           20 - 22 Mar
+   Tropical Depression (08F)                           30 Mar - 01 Apr
+
+*************************************************************************
+
+Storm Name: None                  Cyclone Number: None    Basin: SPA
+Fiji Tropical Disturbance Number: 06F
+
+   Date   Time   Lat      Lon    Cent  MSW   MSW        Remarks
+          (GMT)                 Press 1-min 10-min
+                                 (mb) (kts) (kts)
+-------------------------------------------------------------------------
+
+04 MAR 20 2100  18.5 S  164.5 E   998         25  Some peripheral gales
+04 MAR 21 0600  19.0 S  166.5 E   997         20            "
+04 MAR 21 2100  21.2 S  169.4 E   994         25            "
+04 MAR 22 0600  22.1 S  170.1 E   994         25            "
+04 MAR 22 1800  24.5 S  172.3 E  1000         25  Leaving Fiji's AOR
+
+*************************************************************************
+
+Storm Name: None                  Cyclone Number: None    Basin: SPA
+Fiji Tropical Disturbance Number: 08F
+
+   Date   Time   Lat      Lon    Cent  MSW   MSW        Remarks
+          (GMT)                 Press 1-min 10-min
+                                 (mb) (kts) (kts)
+-------------------------------------------------------------------------
+
+04 MAR 30 0600  23.0 S  173.0 W  1002         40  Gales well S of cntr
+04 MAR 30 1800  23.0 S  167.0 W  1002         35  Relocated/Gales to SW
+04 MAR 31 0600  22.5 S  167.5 W  1002         35  Gales well SW of cntr
+04 MAR 31 2100  21.9 S  162.7 W  1006             Relocated again
+04 APR 01 0600  22.0 S  163.0 W  1006             Becoming extratropical
+
+Note: The track for this system is highly dubious.  There are two very
+large jumps due to relocations, or else transferring the center of
+interest to another weak LLCC.  Also, in the Fiji bulletins, this system
+at one point was referred to as 09F due to a typographical error--that
+was corrected in the 31/2100 UTC Tropical Disturbance Summary.  No
+value was given for the MSW in the final two summaries, but a separate
+gale warning was issued as late as 31/1900 UTC.
+
+*************************************************************************
+*************************************************************************
+
+             !!!!!!  IMPORTANT NOTE - PLEASE READ  !!!!!!
+
+     To repeat the caveat which is included in the Author's Note
+  at the end of the cyclone summaries--the tropical cyclone tracks
+  I prepare are based upon the operational warnings/advisories/
+  advices/bulletins which are issued by the various tropical cyclone
+  warning agencies around the world.   Users of these tracks should
+  be aware that they are preliminary and subject to revision during
+  post-seasonal analyses of the cyclones by the forecasters and
+  analysts at the several warning centers.
+
+     For the Atlantic and Northeast Pacific basins, official tropical
+  cyclone reports and "best tracks" can be found at the website of
+  the Tropical Prediction Center/National Hurricane Center:
+
+     <http://www.nhc.noaa.gov>
+
+     The Joint Typhoon Warning Center's website contains links to their
+  Annual Tropical Cyclone Reports which include that agency's "best
+  tracks" for tropical cyclones in the Northwest Pacific basin, the
+  North Indian Ocean, and the Southern Hemisphere:
+
+     <http://199.10.200.33/jtwc.html>
+
+
+  SPECIAL NOTE:  Back issues of the global tropical cyclone summaries
+  and monthly cyclone track files can be obtained at the following
+  websites:
+
+    <ftp://ftp.aoml.noaa.gov/hrd/pub/landsea/padgett/>
+    <http://australiasevereweather.com/cyclones/>
+    <http://www.typhoon2000.ph>
+    <http://mpittweather.com>
+
+
+  PREPARED BY:
+
+  Gary Padgett              garyp@alaweb.com
+
+
+  SIGNIFICANT CONTRIBUTIONS BY:
+
+  Michael V. Padua          michaelpadua@hotmail.com 
+                            webmaster@typhoon2000.ph
+
+  Huang Chunliang           huangchunliang@hotmail.com
+
+*************************************************************************
+*************************************************************************
+*************************************************************************
+
