@@ -124,10 +124,11 @@
 #   [ (2004, 'Alex') ],
 
 # Non-retired Category 5 storms:
+#   [ (1950, 'Dog') ],
+#      [ (1951, 'Easy') ],
+#   [ (1958, 'Cleo') ],
 #   [ (1960, 'Ethel') ],
 #   [ (1971, 'Edith') ],
-#   [ (1958, 'Cleo') ],
-#   [ (1950, 'Dog') ],
 
      ) ],
   );
@@ -191,7 +192,9 @@
 #      [ ("--year 1915 --id 5", "1915 Louisiana hurricane") ],
 #   [ ("--year 1919 --wind 120", "1919 Florida Keys hurricane") ],
 #   [ ("--year 1926 --wind 130", "1926 Miami hurricane") ],
+#      [ ("--year 1926 --id 10", "1926 Havana-Bermuda hurricane") ],
 #   [ ("--year 1928 --wind 140", "1928 Okeechobee hurricane") ],
+#      [ ("--year 1930 --id 2", "1930 Dominican Republic hurricane") ],
 #   [ ("--year 1932 --wind 140 --extra 0", "1932 Bahamas hurricane") ],
 #   [ ("--year 1935 --wind 140 --extra 0", "1935 Labor Day hurricane") ],
 #   [ ("--year 1938 --wind 140", "1938 New England hurricane") ],
