@@ -30,6 +30,7 @@
 #     [ (1994, 'John') ],
 #     [ (1997, 'Linda') ],
 #     [ (1997, 'Nora') ]
+#     [ (1997, 'Paka') ],
 
     )],
    "natlantic" =>
@@ -119,6 +120,7 @@
 #      [ (1997, 'Danny') ],
 #      [ (1998, 'Bonnie') ],
 #      [ (1999, 'Bret') ],
+#      [ (1999, 'Dennis') ],
 #      [ (1999, 'Irene') ],
 #   [ (2000, 'Alberto') ],
 #   [ (2003, 'Odette', 0, 'Tropical Storm') ],
@@ -140,16 +142,22 @@
    "wpac" =>
    [ (
 #      [ (1956, 12, "Emma") ],
+#      [ (1959, 15, "Vera") ],
 #      [ (1979, 23, "Tip") ],
 #      [ (1984, 13, "Ike") ],
 #      [ (1988, 23, "Ruby") ],
+#      [ (1989, 32, "Gay") ],
 #      [ (1990, 27, "Mike") ],
 #      [ (1991, 21, "Mireille") ],
 #      [ (1991, 27, "Thelma", 0, "Tropical Storm") ],
+#      [ (1992, 15, "Omar") ],
+#      [ (1996, 10, "Herb") ],
 #      [ (2001, 32, "Vamei") ],
 #      [ (2002, 8, "Chataan") ],
 #      [ (2002, 21, "Rusa") ],
+#      [ (2002, 31, "Pongsona") ],
 #      [ (2003, 9, "Imbudo") ],
+#      [ (2004, 26, "Ma-on") ], # Doesn't work???
    ) ],
 
   );
@@ -160,7 +168,7 @@
    "nindian" =>
    [ (
 #      [ ("--year 1991 --id 2", "1991 Bangladesh cyclone") ],
-#      [ ("--year 1970 --id 12", "1970 Bhola cyclone") ],
+#      [ ("--year 1970 --id 15", "1970 Bhola cyclone") ],
 #      [ ("--year 1999 --id 5", "1999 Indian cyclone 05B") ],
      ) ],
 
@@ -253,6 +261,8 @@ sub mydosleep {
   }
 }
 
+$generated = 0;
+
 # Uncomment the next line to allow automatic uploads (DANGEROUS; UNTESTED)
 $real = 0;
 if ($real != 0 && $ARGV[0] ne "--real") {
@@ -284,6 +294,8 @@ sub generate {
       $sleeptime += 30;
     } while ($res != 0);
   }
+
+  $generated++;
 }
 
 system "rm -rf storms/";
@@ -347,4 +359,8 @@ foreach $basin (@basins) {
 
     generate("--input $basin.txt $args", "storms/$name track.png", $name2);
   }
+}
+
+if (!$real && $generated > 0) {
+  system("eog storms/* &");
 }
