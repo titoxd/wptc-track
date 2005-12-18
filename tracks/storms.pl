@@ -2,11 +2,11 @@
 
 %default =
   (
-   "natlantic" => "Hurricane",
-   "epac" => "Hurricane",
-   "wpac" => "Typhoon",
-   "nindian" => "Tropical Cyclone",
-   "south" => "Cyclone"
+   "natlantic" => [ ("Hurricane", "") ],
+   "epac" =>  [ ("Hurricane", "") ],
+   "wpac" =>  [ ("Typhoon", "") ],
+   "nindian" =>  [ ("Tropical Cyclone", "") ],
+   "south" =>  [ ("Cyclone", "--negy 1") ]
   );
 
 # Format: year, name, extra, type
@@ -104,6 +104,7 @@
 #      [ (1955, 'Hilda') ],
 #   [ (1966, 'Faith', 1) ],
 #   [ (1971, 'Ginger', 1) ],
+      [ (1982, 'Beryl') ],
 #      [ (1984, 'Diana') ],
 #      [ (1984, 'Lili') ],
 #		     [ (1985, 'Juan') ],
@@ -159,6 +160,16 @@
 #      [ (2003, 9, "Imbudo") ],
 #      [ (2004, 26, "Ma-on") ], # Doesn't work???
    ) ],
+
+   "nindian" =>
+   [ (
+#      [ (2004, 4, "Agni") ], # Not included
+     ) ],
+
+   "south" =>
+   [ (
+#      [ (2002, 6, "Zoe") ], # Broken
+     ) ],
 
   );
 
@@ -313,13 +324,13 @@ foreach $basin (@basins) {
 	print "Undefined basin $basin.\n";
 	exit;
       }
-      $type = $default{$basin};
+      $type = ${ $default{$basin} }[0];
     }
     if (!defined $extra) {
       $extra = 0; # ???
     }
 
-    generate("--input $basin.txt --extra $extra --year $year --name $name",
+    generate("${ $default{$basin} }[1] --input $basin.txt --extra $extra --year $year --name $name",
 	     "storms/$name" . "_$year" . "_track.png",
 	     "$type $name ($year)");
   }
@@ -337,13 +348,13 @@ foreach $basin (@basins) {
 	print "Undefined basin $basin.\n";
 	exit;
       }
-      $type = $default{$basin};
+      $type = ${ $default{$basin} }[0];
     }
     if (!defined $extra) {
       $extra = 0; # ???
     }
 
-    generate("--input $basin.txt --extra $extra --year $year --id $id",
+    generate("${ $default{$basin} }[1] --input $basin.txt --extra $extra --year $year --id $id",
 	     "storms/$name" . "_$year" . "_track.png",
 	     "$type $name ($year)");
   }
