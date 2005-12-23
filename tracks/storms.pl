@@ -128,6 +128,7 @@
 #      [ (1999, 'Dennis') ],
 #      [ (1999, 'Irene') ],
 #   [ (2000, 'Alberto') ],
+#      [ (2003, 'Ana') ],
 #   [ (2003, 'Odette', 0, 'Tropical Storm') ],
 #   [ (2004, 'Alex') ],
 
@@ -227,6 +228,7 @@
 #   [ ("--year 1947 --wind 140", "1947 Fort Lauderdale hurricane") ],
 #      [ ("--year 1952 --id 1", "1952 Groundhog Day tropical storm") ],
 #   [ ("--year 1959 --id 3 --extra 1", "1959 Escuminac hurricane") ],
+#      [ ("--year 1991 --id 8", "1991 Atlantic hurricane 8") ], # "Perfect storm"
 
 #      [ ("--year 1954 --id 11 --name Alice --extra 0", "Alice2 1954", "Hurricane Alice2 (1954)") ],
 
