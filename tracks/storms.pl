@@ -13,6 +13,10 @@
   (
    "natlantic" =>
    [(
+     "1994" =>
+     [(
+       #'Alberto', 'Beryl', 'Chris', 'Debby', 'Ernesto', 'Florence', 'Gordon'
+      )],
      "2000" =>
      [(
        #'Alberto', 'Beryl', 'Chris', 'Debby', 'Ernesto', 'Florence',
@@ -108,7 +112,6 @@
 #   [ (1998, 'Mitch') ],
 #   [ (1999, 'Floyd') ],
 #   [ (1999, 'Lenny') ],
-#   [ (2000, 'Keith') ],
 #   [ (2001, 'Allison', 0, 'Tropical Storm') ],
 #   [ (2001, 'Iris') ],
 #   [ (2001, 'Michelle') ],
@@ -135,8 +138,6 @@
 #      [ (1993, 'Bret') ],
 #      [ (1993, 'Emily') ],
 #      [ (1993, 'Gert') ],
-#   [ (1994, 'Alberto', 0, 'Tropical Storm') ],
-#   [ (1994, 'Gordon') ],
 #      [ (1995, 'Allison') ],
 #      [ (1995, 'Erin') ],
 #   [ (1996, 'Bertha') ],
@@ -145,7 +146,6 @@
 #      [ (1999, 'Bret') ],
 #      [ (1999, 'Dennis') ],
 #      [ (1999, 'Irene') ],
-#   [ (2000, 'Alberto') ],
 #      [ (2003, 'Ana') ],
 #   [ (2003, 'Odette', 0, 'Tropical Storm') ],
 
@@ -246,6 +246,7 @@
 #      [ ("--year 1952 --id 1", "1952 Groundhog Day tropical storm") ],
 #   [ ("--year 1959 --id 3 --extra 1", "1959 Escuminac hurricane") ],
 #      [ ("--year 1991 --id 8", "1991 Atlantic hurricane 8") ], # "Perfect storm"
+#      [ ("--year 2000 --id 15", "2000 Atlantic subtropical storm 15") ],
 
 #      [ ("--year 1954 --id 11 --name Alice --extra 0", "Alice2 1954", "Hurricane Alice2 (1954)") ],
 
