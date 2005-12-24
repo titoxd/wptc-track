@@ -13,6 +13,12 @@
   (
    "natlantic" =>
    [(
+     "2000" =>
+     [(
+       #'Alberto', 'Beryl', 'Chris', 'Debby', 'Ernesto', 'Florence',
+       #'Gordon', 'Helene', 'Isaac', 'Joyce', 'Keith',
+       #'Leslie', 'Michael', 'Nadine'
+       )],
      "2004" =>
      [(
 #       'Alex', 'Bonnie', 'Charley', 'Danielle', 'Earl', 'Frances',
