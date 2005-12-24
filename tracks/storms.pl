@@ -9,6 +9,20 @@
    "south" =>  [ ("Cyclone", "--negy 1") ]
   );
 
+%namedsimple = 
+  (
+   "natlantic" =>
+   [(
+     "2004" =>
+     [(
+#       'Alex', 'Bonnie', 'Charley', 'Danielle', 'Earl', 'Frances',
+#       'Gaston', 'Hermine', 'Ivan',
+#       '#10', # Not included in the best-track for some reason
+#       'Jeanne', 'Karl', 'Lisa', 'Matthew', 'Nicole', 'Otto'
+      )],
+    )],
+  );
+
 # Format: year, name, extra, type
 %named =
   (
@@ -97,10 +111,6 @@
 #   [ (2003, 'Fabian') ],
 #   [ (2003, 'Isabel') ],
 #   [ (2003, 'Juan') ],
-#   [ (2004, 'Charley') ],
-#   [ (2004, 'Frances') ],
-#   [ (2004, 'Ivan') ],
-#   [ (2004, 'Jeanne') ],
 
 # Non-retired but notable storms:
 #      [ (1955, 'Hilda') ],
@@ -132,7 +142,6 @@
 #   [ (2000, 'Alberto') ],
 #      [ (2003, 'Ana') ],
 #   [ (2003, 'Odette', 0, 'Tropical Storm') ],
-#   [ (2004, 'Alex') ],
 
 # Non-retired Category 5 storms:
 #   [ (1950, 'Dog') ],
@@ -319,6 +328,27 @@ sub generate {
 
 system "rm -rf storms/";
 system "mkdir -p storms";
+
+@basins = keys %namedsimple;
+foreach $basin (@basins) {
+  my %years = @{ $namedsimple{$basin} };
+  foreach my $year (keys %years) {
+    my @names = @{ $years{$year} };
+    foreach my $name (@names) {
+      my $args = "--input $basin.txt --extra 0 --year $year ${ $default{$basin} }[1]";
+
+      if ($name =~ /^#/) {
+	$name =~ s/^#//;
+	$args = "$args --id $name";
+      } else {
+	$args = "$args --name $name";
+      }
+      generate($args,
+	       "storms/$name" . "_$year" . "_track.png",
+	       "${ $default{$basin} }[0] $name ($year)");
+    }
+  }
+}
 
 @basins = keys %named;
 foreach $basin (@basins) {
