@@ -23,6 +23,17 @@
        #'Gordon', 'Helene', 'Isaac', 'Joyce', 'Keith',
        #'Leslie', 'Michael', 'Nadine'
        )],
+     "2003" =>
+     [(
+       #'Ana',
+#       'Bill', 'Claudette', 'Danny', 'Erika',
+       #'Fabian',
+#       'Grace', 'Henri',
+       #'Isabel', 'Juan',
+#       'Kate', 'Larry', 'Mindy', 'Nicholas',
+       #'Odette',
+#       'Peter',
+      )],
      "2004" =>
      [(
 #       'Alex', 'Bonnie', 'Charley', 'Danielle', 'Earl', 'Frances',
@@ -117,9 +128,6 @@
 #   [ (2001, 'Michelle') ],
 #   [ (2002, 'Isidore') ],
 #   [ (2002, 'Lili') ],
-#   [ (2003, 'Fabian') ],
-#   [ (2003, 'Isabel') ],
-#   [ (2003, 'Juan') ],
 
 # Non-retired but notable storms:
 #      [ (1955, 'Hilda') ],
@@ -146,8 +154,6 @@
 #      [ (1999, 'Bret') ],
 #      [ (1999, 'Dennis') ],
 #      [ (1999, 'Irene') ],
-#      [ (2003, 'Ana') ],
-#   [ (2003, 'Odette', 0, 'Tropical Storm') ],
 
 # Non-retired Category 5 storms:
 #   [ (1950, 'Dog') ],
