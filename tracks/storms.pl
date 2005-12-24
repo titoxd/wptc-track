@@ -27,10 +27,12 @@
 #     [ (2002, 'Kenna') ],
 
 # Non-retired but notable:
+#     [ (1993, 'Calvin') ],
 #     [ (1994, 'John') ],
 #     [ (1997, 'Linda') ],
 #     [ (1997, 'Nora') ]
 #     [ (1997, 'Paka') ],
+#     [ (2001, 'Juliette') ],
 
     )],
    "natlantic" =>
