@@ -23,16 +23,22 @@
        #'Gordon', 'Helene', 'Isaac', 'Joyce', 'Keith',
        #'Leslie', 'Michael', 'Nadine'
        )],
+     "2001" =>
+     [(
+       #'Allison', 'Barry', 'Chantal', 'Dean', 'Erin', 'Felix', 'Gabrielle',
+       #'Humberto', 'Iris', 'Jerry', 'Karen', 'Lorenzo', 'Michelle',
+       #'Noel', 'Olga'
+      )],
+     "2002" =>
+     [(
+       #'Arthur', 'Bertha', 'Cristobal', 'Dolly', 'Edouard', 'Fay', 'Gustav',
+       #'Hanna', 'Isidore', 'Josephine', 'Kyle', 'Lili'
+      )],
      "2003" =>
      [(
-       #'Ana',
-#       'Bill', 'Claudette', 'Danny', 'Erika',
-       #'Fabian',
-#       'Grace', 'Henri',
-       #'Isabel', 'Juan',
-#       'Kate', 'Larry', 'Mindy', 'Nicholas',
-       #'Odette',
-#       'Peter',
+       #'Ana', 'Bill', 'Claudette', 'Danny', 'Erika', 'Fabian', 'Grace',
+       #'Henri', 'Isabel', 'Juan', 'Kate', 'Larry', 'Mindy', 'Nicholas',
+       #'Odette', 'Peter',
       )],
      "2004" =>
      [(
@@ -123,11 +129,6 @@
 #   [ (1998, 'Mitch') ],
 #   [ (1999, 'Floyd') ],
 #   [ (1999, 'Lenny') ],
-#   [ (2001, 'Allison', 0, 'Tropical Storm') ],
-#   [ (2001, 'Iris') ],
-#   [ (2001, 'Michelle') ],
-#   [ (2002, 'Isidore') ],
-#   [ (2002, 'Lili') ],
 
 # Non-retired but notable storms:
 #      [ (1955, 'Hilda') ],
