@@ -68,7 +68,7 @@ static struct args read_args(int argc, char **argv)
       .id = 0,
       .name = NULL,
       .wind = 0,
-      .extra = true, /* Hmm, what should be default? */
+      .extra = false, /* Hmm, what should be default? */
 
       .format = 0,
       .input = "natlantic.txt",
@@ -263,7 +263,7 @@ static bool storm_matches(struct storm *storm, struct storm_arg *args)
 static bool pos_matches(struct pos *pos, struct storm_arg *args)
 {
   if (pos->type == EXTRATROPICAL || pos->type == LOW) {
-    if (!args->extra) {
+    if (pos->wind < 65 && !args->extra) {
       return false;
     }
   }
