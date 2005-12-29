@@ -134,7 +134,7 @@
 # Retired storms: (since 1954)
 #   [ (1954, 'Carol') ],
 #   [ (1954, 'Edna') ],
-#   [ (1954, 'Hazel') ],
+#   [ (1954, 'Hazel', 1) ],
 #   [ (1955, 'Connie') ],
 #   [ (1955, 'Diane') ],
 #   [ (1955, 'Ione') ],
