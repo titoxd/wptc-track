@@ -17,6 +17,59 @@
      [(
        #'Alberto', 'Beryl', 'Chris', 'Debby', 'Ernesto', 'Florence', 'Gordon'
       )],
+     "1995" =>
+     [(
+       #'Allison',
+       #'Barry', 'Chantal', 'Dean', 'Erin', 'Felix', 'Gabrielle',
+       #'Humberto',
+       #'Iris', 'Jerry', 'Karen',
+       #'Luis', 'Marilyn',
+       #'Noel',
+       #'Opal',
+       #'Pablo',
+       #'Roxanne',
+       #'Sebastien', 'Tanya',
+      )],
+     "1996" =>
+     [(
+       #'Arthur',
+       #'Bertha',
+       #'Cesar', # Done as Cesar-Douglas, below
+       #'Dolly', 'Edouard',
+       #'Fran',
+       #'Gustav',
+       #'Hortense',
+       #'Isidore', 'Josephine', 'Kyle', 'Lili', 'Marco'
+      )],
+     "1997" =>
+     [(
+       #'Ana', 'Bill', 'Claudette', 'Danny', 'Erika', 'Fabian', 'Grace'
+      )],
+     "1998" =>
+     [(
+       #'Alex',
+       #'Bonnie',
+       #'Charley', 'Danielle', 'Earl', 'Frances',
+       #'Georges',
+       #'Hermine',
+       #'Ivan', 'Jeanne', 'Karl', 'Lisa',
+       #'Mitch',
+       #'Nicole',
+      )],
+     "1999" =>
+     [(
+       #'Arlene',
+       #'Bret',
+       #'Cindy',
+       #'Dennis',
+       #'Emily',
+       #'Floyd',
+       #'Gert',
+       #'Harvey',
+       #'Irene',
+       #'Jose', 'Katrina',
+       #'Lenny'
+      )],
      "2000" =>
      [(
        #'Alberto', 'Beryl', 'Chris', 'Debby', 'Ernesto', 'Florence',
@@ -118,17 +171,7 @@
 #   [ (1990, 'Klaus') ],
 #   [ (1991, 'Bob') ],
 #   [ (1992, 'Andrew') ],
-#   [ (1995, 'Luis') ],
-#   [ (1995, 'Marilyn') ],
-#   [ (1995, 'Opal') ],
-#   [ (1995, 'Roxanne') ],
 # Cesar is listed under Cesar-Douglas, below
-#   [ (1996, 'Fran') ],
-#   [ (1996, 'Hortense') ],
-#   [ (1998, 'Georges') ],
-#   [ (1998, 'Mitch') ],
-#   [ (1999, 'Floyd') ],
-#   [ (1999, 'Lenny') ],
 
 # Non-retired but notable storms:
 #      [ (1955, 'Hilda') ],
@@ -147,14 +190,6 @@
 #      [ (1993, 'Bret') ],
 #      [ (1993, 'Emily') ],
 #      [ (1993, 'Gert') ],
-#      [ (1995, 'Allison') ],
-#      [ (1995, 'Erin') ],
-#   [ (1996, 'Bertha') ],
-#      [ (1997, 'Danny') ],
-#      [ (1998, 'Bonnie') ],
-#      [ (1999, 'Bret') ],
-#      [ (1999, 'Dennis') ],
-#      [ (1999, 'Irene') ],
 
 # Non-retired Category 5 storms:
 #   [ (1950, 'Dog') ],
@@ -253,6 +288,7 @@
 #      [ ("--year 1952 --id 1", "1952 Groundhog Day tropical storm") ],
 #   [ ("--year 1959 --id 3 --extra 1", "1959 Escuminac hurricane") ],
 #      [ ("--year 1991 --id 8", "1991 Atlantic hurricane 8") ], # "Perfect storm"
+#      [ ("--year 1997 --id 1", "1997 Atlantic subtropical storm 1") ],
 #      [ ("--year 2000 --id 15", "2000 Atlantic subtropical storm 15") ],
 
 #      [ ("--year 1954 --id 11 --name Alice --extra 0", "Alice2 1954", "Hurricane Alice2 (1954)") ],
