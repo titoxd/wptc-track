@@ -236,7 +236,7 @@
 
    "south" =>
    [ (
-#      [ (2002, 6, "Zoe") ], # Broken
+#      [ (2002, 6, "Zoe") ],
      ) ],
 
   );
@@ -329,6 +329,19 @@
 #   [ ("--input 2005/gamma.txt --format 1", "Gamma 2005", "Tropical Storm Gamma (2005)") ],
 #   [ ("--input 2005/delta.txt --format 1", "Delta 2005", "Tropical Storm Delta (2005)") ],
 #   [ ("--input 2005/epsilon.txt --format 1", "Epsilon 2005", "Tropical Storm Epsilon (2005)") ],
+     ) ],
+
+   "south" =>
+   [ (
+      # Southern hemisphere numbering is weird because the storms are numbered
+      # by season not by year, so there are two ID 5 storms in 1970 - one 
+      # part of 1969-70 and one part of 1970-71 seasons.
+#      [ ("--year 1970 --id 5 --wind 60", "Ada 1970", "Cyclone Ada (1970)") ],
+#      [ ("--year 1971 --id 9 --wind 60", "Althea 1971", "Cyclone Althea (1971)") ],
+#      [ ("--year 1974 --id 19", "Wanda 1974", "Tropical Storm Wanda (1974)") ],
+#      [ ("--year 1974 --id 7", "Tracy 1974", "Cyclone Tracy (1974)") ],
+#      [ ("--year 2000 --id 11", "Leon-Eline 2000", "Cyclone Leon-Eline (2000)") ],
+
      ) ],
   );
 
@@ -460,7 +473,7 @@ foreach $basin (@basins) {
       $name2 = $name;
     }
 
-    generate("--input $basin.txt $args", "storms/$name track.png", $name2);
+    generate("--input $basin.txt ${ $default {$basin} }[1] $args", "storms/$name track.png", $name2);
   }
 }
 
