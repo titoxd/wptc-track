@@ -121,6 +121,7 @@
 #     [ (2002, 'Kenna') ],
 
 # Non-retired but notable:
+#     [ (1982, 'Paul') ],
 #     [ (1993, 'Calvin') ],
 #     [ (1994, 'John') ],
 #     [ (1997, 'Linda') ],
@@ -174,9 +175,11 @@
 # Cesar is listed under Cesar-Douglas, below
 
 # Non-retired but notable storms:
+#      [ (1951, 'Charlie') ],
 #      [ (1955, 'Hilda') ],
 #      [ (1957, 'Carrie') ],
 #   [ (1966, 'Faith', 1) ],
+#      [ (1968, 'Gladys') ],
 #      [ (1969, 'Francelia') ],
 #   [ (1971, 'Ginger', 1) ],
 #      [ (1976, 'Belle') ],
@@ -284,6 +287,7 @@
 #   [ ("--year 1928 --wind 140", "1928 Okeechobee hurricane") ],
 #      [ ("--year 1930 --id 2", "1930 Dominican Republic hurricane") ],
 #   [ ("--year 1932 --wind 140 --extra 0", "1932 Bahamas hurricane") ],
+#      [ ("--year 1934 --id 2", "1934 Central America hurricane") ],
 #   [ ("--year 1935 --wind 140 --extra 0", "1935 Labor Day hurricane") ],
 #   [ ("--year 1938 --wind 140", "1938 New England hurricane") ],
 #   [ ("--year 1943 --id 1", "1943 Surprise hurricane") ],
@@ -297,10 +301,12 @@
 
 #      [ ("--year 1954 --id 11 --name Alice --extra 0", "Alice2 1954", "Hurricane Alice2 (1954)") ],
 
+      # Zone-crossers
 #      [ ("--year 1996 --name cesar --input1 epac.txt --year1 1996 --name1 douglas", "Cesar-Douglas 1996", "Hurricane Cesar-Douglas (1996)") ],
 #      [ ("--year 1974 --name fifi --input1 epac.txt --year1 1974 --name1 orlene", "Fifi-Orlene 1974", "Hurricane Fifi-Orlene (1974)") ],
 #      [ ("--year 1988 --name joan --input1 epac.txt --year1 1988 --name1 miriam", "Joan-Miriam 1988", "Hurricane Joan-Miriam (1988)") ],
 #      [ ("--year 1961 --name hattie --input1 epac.txt --year1 1961 --name1 simone --year2 1961 --input2 natlantic.txt --name2 inga", "Hattie-Simone-Inga 1961", "Hurricane Hattie-Simone-Inga (1961)") ],
+#      [ ("--year 1978 --name Greta --input1 epac.txt --year1 1978 --name1 Olivia", "Greta-Olivia 1978", "Hurricane Greta-Olivia (1978)") ],
 
 # 2005 storms
 #   [ ("--input 2005/arlene.txt --format 1", "Arlene 2005", "Tropical Storm Arlene (2005)") ],
