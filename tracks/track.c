@@ -471,6 +471,7 @@ static void get_color(double *r, double *g, double *b, struct pos *pos)
 #endif
 #endif
   int i;
+  double unknown[3] = COLOR(0xc0, 0xc0,0xc0);
 
 #if 0 /* Extratropical/low is now handled by shape not color. */
   double extratropical[3] = COLOR(0xc0, 0xc0,0xc0);
@@ -482,6 +483,13 @@ static void get_color(double *r, double *g, double *b, struct pos *pos)
     return;
   }
 #endif
+
+  if (pos->wind == 0) {
+    *r = unknown[0];
+    *g = unknown[1];
+    *b = unknown[2];
+    return;
+  }
 
   for (i = 0; winds[i + 1] < pos->wind && i < 6; i++) {
     /* Skip down until we get to the right category. */
