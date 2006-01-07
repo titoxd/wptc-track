@@ -335,7 +335,7 @@
 #   [ ("--input 2005/gamma.txt --format 1", "Gamma 2005", "Tropical Storm Gamma (2005)") ],
 #   [ ("--input 2005/delta.txt --format 1", "Delta 2005", "Tropical Storm Delta (2005)") ],
 #   [ ("--input 2005/epsilon.txt --format 1", "Epsilon 2005", "Hurricane Epsilon (2005)") ],
-   [ ("--input 2005/zeta.txt --format 1", "Zeta 2005", "Tropical Storm Zeta (2005)") ],
+#   [ ("--input 2005/zeta.txt --format 1", "Zeta 2005", "Tropical Storm Zeta (2005)") ],
      ) ],
 
    "south" =>
