@@ -13,6 +13,36 @@
   (
    "natlantic" =>
    [(
+     "1990" =>
+     [(
+       #'Arthur', 'Bertha', 'Cesar',
+       #'Diana',
+       #'Edouard', 'Fran', 'Gustav', 'Hortense', 'Isidore', 'Josephine',
+       #'Klaus',
+       #'Lili', 'Marco', 'Nana'
+      )],
+     "1991" =>
+     [(
+       #'Ana',
+       #'Bob',
+       #'Claudette', 'Danny', 'Erika', 'Fabian', 'Grace'
+       # Hurricane #8 is below
+      )],
+     "1992" =>
+     [(
+       #'Andrew',
+       #'Bonnie', 'Charley', 'Danielle', 'Earl', 'Frances'
+      )],
+     "1993" =>
+     [(
+       #'Arlene',
+       #'Bret',
+       #'Cindy', 'Dennis',
+       #'Emily',
+       #'Floyd',
+       #'Gert',
+       #'Harvey'
+      )],
      "1994" =>
      [(
        #'Alberto', 'Beryl', 'Chris', 'Debby', 'Ernesto', 'Florence', 'Gordon'
@@ -168,10 +198,6 @@
 #   [ (1988, 'Gilbert') ],
 # Joan is listed under Joan-Miriam, below.
 #   [ (1989, 'Hugo') ],
-#   [ (1990, 'Diana') ],
-#   [ (1990, 'Klaus') ],
-#   [ (1991, 'Bob') ],
-#   [ (1992, 'Andrew') ],
 # Cesar is listed under Cesar-Douglas, below
 
 # Non-retired but notable storms:
@@ -191,9 +217,6 @@
 #      [ (1986, 'Charley', 1) ],
 #      [ (1987, 'Emily') ],
 #		     [ (1989, 'Allison', 0, 'Tropical Storm') ],
-#      [ (1993, 'Bret') ],
-#      [ (1993, 'Emily') ],
-#      [ (1993, 'Gert') ],
 
 # Non-retired Category 5 storms:
 #   [ (1950, 'Dog') ],
