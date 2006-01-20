@@ -284,6 +284,7 @@ void init_storm(struct storm *storm)
 
   storm->npos = 0;
   storm->maxwind = 0;
+  storm->ace = 0;
   storm->maxlon = -180;
   storm->minlon = 180;
   storm->maxlat = -90;
@@ -341,6 +342,11 @@ void save_pos(struct storm_arg *args, struct stormdata *storms,
     storm->npos++;
 
     storm->maxwind = MAX(storm->maxwind, pos->wind);
+    if (pos->type == TROPICAL && pos->wind >= 35) {
+      /* ACE is the accumulation of the squares of the wind speed, in knots,
+       * of a tropical system with at least 35-knot winds. */
+      storm->ace += pos->wind * pos->wind;
+    }
 
     if (pos_matches(pos, args)) {
       storm->maxlon = MAX(pos->lon, storm->maxlon);
@@ -601,12 +607,92 @@ static void calc_dimensions(struct stormdata *storms, struct args *args)
   }
 }
 
+#ifdef ACE
+static int ace_compare(const void *a, const void *b)
+{
+  const struct storm *storma = a, *stormb = b;
+
+  return stormb->ace - storma->ace;
+}
+#endif
+
+static void print_extra_data(struct stormdata *storms)
+{
+#if 0 /* Earliest storm in each season */
+#define MAX_STORMS 25
+  int i, s;
+  struct storm **early[MAX_STORMS];
+  int nearly[MAX_STORMS];
+
+  for (i = 0; i < MAX_STORMS; i++) {
+    early[i] = NULL;
+    nearly[i] = 0;
+  }
+  for (s = 0; s < storms->nstorms; s++) {
+    struct storm *storm = storms->storms + s;
+#define DATE(storm) (storm->header.month * 31 + storm->header.day)
+
+    i = storm->header.id;
+    if (i >= MAX_STORMS || i < 0) {
+      printf("Error: storm %d found.\n", i);
+    }
+    if (nearly[i] == 0 || DATE(early[i][0]) > DATE(storm)) {
+      nearly[i] = 1;
+      early[i] = realloc(early[i], nearly[i] * sizeof(*early[i]));
+      early[i][0] = storm;
+    } else if (nearly[i] > 0 && DATE(early[i][0]) == DATE(storm)) {
+      nearly[i]++;
+      early[i] = realloc(early[i], nearly[i] * sizeof(*early[i]));
+      early[i][nearly[i] - 1] = storm;
+    }
+  }
+
+
+  for (i = 0; i < MAX_STORMS; i++) {
+    int j;
+
+    for (j = 0; j < nearly[i]; j++) {
+      printf(" %02d: %02d/%02d/%4d %s\n", i,
+	     early[i][j]->header.month,
+	     early[i][j]->header.day,
+	     early[i][j]->header.year,
+	     early[i][j]->header.name);
+    }
+  }
+#endif
+
+#ifdef ACE /* ACE data */
+  int s;
+
+  qsort(storms->storms, storms->nstorms, sizeof(*storms->storms), ace_compare);
+  for (s = 0; s < storms->nstorms; s++) {
+#if 0
+    /* Text format */
+    printf("%4d %2d %10s %f\n",
+	   storms->storms[s].header.year,
+	   storms->storms[s].header.id,
+	   storms->storms[s].header.name,
+	   (double)storms->storms[s].ace / 10000.0);
+#else
+    /* Wiki format */
+    printf("|-\n|%4d || %2d || %10s || %2.5f\n",
+	   storms->storms[s].header.year,
+	   storms->storms[s].header.id,
+	   storms->storms[s].header.name,
+	   (double)storms->storms[s].ace / 10000.0);
+#endif
+  }
+#endif
+}
+
 static void write_stormdata(struct stormdata *storms, struct args *args)
 {
   cairo_surface_t *surface;
   cairo_t *cr;
   int s, p;
   FILE *file;
+
+  print_extra_data(storms);
 
   calc_dimensions(storms, args);
 
@@ -725,51 +811,6 @@ static void write_stormdata(struct stormdata *storms, struct args *args)
   cairo_surface_destroy(surface);  
 }
 
-static void print_earliest(struct stormdata *storms)
-{
-#if 0
-#define MAX_STORMS 25
-  int i, s;
-  struct storm **early[MAX_STORMS];
-  int nearly[MAX_STORMS];
-
-  for (i = 0; i < MAX_STORMS; i++) {
-    early[i] = NULL;
-    nearly[i] = 0;
-  }
-  for (s = 0; s < storms->nstorms; s++) {
-    struct storm *storm = storms->storms + s;
-#define DATE(storm) (storm->header.month * 31 + storm->header.day)
-
-    i = storm->header.id;
-    if (i >= MAX_STORMS || i < 0) {
-      printf("Error: storm %d found.\n", i);
-    }
-    if (nearly[i] == 0 || DATE(early[i][0]) > DATE(storm)) {
-      nearly[i] = 1;
-      early[i] = realloc(early[i], nearly[i] * sizeof(*early[i]));
-      early[i][0] = storm;
-    } else if (nearly[i] > 0 && DATE(early[i][0]) == DATE(storm)) {
-      nearly[i]++;
-      early[i] = realloc(early[i], nearly[i] * sizeof(*early[i]));
-      early[i][nearly[i] - 1] = storm;
-    }
-  }
-
-  for (i = 0; i < MAX_STORMS; i++) {
-    int j;
-
-    for (j = 0; j < nearly[i]; j++) {
-      printf(" %02d: %02d/%02d/%4d %s\n", i,
-	     early[i][j]->header.month,
-	     early[i][j]->header.day,
-	     early[i][j]->header.year,
-	     early[i][j]->header.name);
-    }
-  }
-#endif
-}
-
 int main(int argc, char **argv)
 {
   struct args args = read_args(argc, argv);
@@ -797,7 +838,6 @@ int main(int argc, char **argv)
     count = storms->nstorms;
   }
 
-  print_earliest(storms);
   write_stormdata(storms, &args);
 
   free_stormdata(storms);

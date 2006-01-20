@@ -37,7 +37,10 @@ struct pos {
 
 struct storm {
   struct storm_header header;
+
   int maxwind;
+  int ace;
+
   double minlon, maxlon;
   double minlat, maxlat;
 
