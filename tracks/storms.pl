@@ -15,33 +15,22 @@
    [(
      "1990" =>
      [(
-       #'Arthur', 'Bertha', 'Cesar',
-       #'Diana',
-       #'Edouard', 'Fran', 'Gustav', 'Hortense', 'Isidore', 'Josephine',
-       #'Klaus',
-       #'Lili', 'Marco', 'Nana'
+       #'Arthur', 'Bertha', 'Cesar', 'Diana', 'Edouard', 'Fran', 'Gustav',
+       #'Hortense', 'Isidore', 'Josephine', 'Klaus', 'Lili', 'Marco', 'Nana'
       )],
      "1991" =>
      [(
-       #'Ana',
-       #'Bob',
-       #'Claudette', 'Danny', 'Erika', 'Fabian', 'Grace'
+       #'Ana', 'Bob', 'Claudette', 'Danny', 'Erika', 'Fabian', 'Grace'
        # Hurricane #8 is below
       )],
      "1992" =>
      [(
-       #'Andrew',
-       #'Bonnie', 'Charley', 'Danielle', 'Earl', 'Frances'
+       #'Andrew', 'Bonnie', 'Charley', 'Danielle', 'Earl', 'Frances'
       )],
      "1993" =>
      [(
-       #'Arlene',
-       #'Bret',
-       #'Cindy', 'Dennis',
-       #'Emily',
-       #'Floyd',
-       #'Gert',
-       #'Harvey'
+       #'Arlene', 'Bret', 'Cindy', 'Dennis', 'Emily', 'Floyd',
+       #'Gert', 'Harvey'
       )],
      "1994" =>
      [(
@@ -49,27 +38,15 @@
       )],
      "1995" =>
      [(
-       #'Allison',
-       #'Barry', 'Chantal', 'Dean', 'Erin', 'Felix', 'Gabrielle',
-       #'Humberto',
-       #'Iris', 'Jerry', 'Karen',
-       #'Luis', 'Marilyn',
-       #'Noel',
-       #'Opal',
-       #'Pablo',
-       #'Roxanne',
-       #'Sebastien', 'Tanya',
+       #'Allison', 'Barry', 'Chantal', 'Dean', 'Erin', 'Felix', 'Gabrielle',
+       #'Humberto', 'Iris', 'Jerry', 'Karen', 'Luis', 'Marilyn', 'Noel',
+       #'Opal', 'Pablo', 'Roxanne', 'Sebastien', 'Tanya',
       )],
      "1996" =>
      [(
-       #'Arthur',
-       #'Bertha',
-       #'Cesar', # Done as Cesar-Douglas, below
-       #'Dolly', 'Edouard',
-       #'Fran',
-       #'Gustav',
-       #'Hortense',
-       #'Isidore', 'Josephine', 'Kyle', 'Lili', 'Marco'
+       #'Arthur','Bertha', 'Dolly', 'Edouard', 'Fran', 'Gustav',
+       #'Hortense', 'Isidore', 'Josephine', 'Kyle', 'Lili', 'Marco'
+       # Cesar is done as Cesar-Douglas, below
       )],
      "1997" =>
      [(
@@ -77,28 +54,14 @@
       )],
      "1998" =>
      [(
-       #'Alex',
-       #'Bonnie',
-       #'Charley', 'Danielle', 'Earl', 'Frances',
-       #'Georges',
-       #'Hermine',
-       #'Ivan', 'Jeanne', 'Karl', 'Lisa',
-       #'Mitch',
-       #'Nicole',
+       #'Alex', 'Bonnie', 'Charley', 'Danielle', 'Earl', 'Frances',
+       #'Georges', 'Hermine','Ivan', 'Jeanne', 'Karl', 'Lisa',
+       #'Mitch', 'Nicole',
       )],
      "1999" =>
      [(
-       #'Arlene',
-       #'Bret',
-       #'Cindy',
-       #'Dennis',
-       #'Emily',
-       #'Floyd',
-       #'Gert',
-       #'Harvey',
-       #'Irene',
-       #'Jose', 'Katrina',
-       #'Lenny'
+       #'Arlene', 'Bret', 'Cindy', 'Dennis', 'Emily', 'Floyd',
+       #'Gert', 'Harvey', 'Irene', 'Jose', 'Katrina', 'Lenny'
       )],
      "2000" =>
      [(
