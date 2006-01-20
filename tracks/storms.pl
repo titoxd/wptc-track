@@ -302,7 +302,7 @@
 #   [ ("--year 1893 --id 6 --extra 0", "1893 Sea Islands hurricane") ],
 #      [ ("--year 1893 --id 10 --extra 0", "1893 Chenier Caminanda hurricane") ],
 #   [ ("--year 1899 --id 3", "1899 San Ciriaco hurricane") ],
-#   [ ("--year 1900 --wind 125 --extra 0", "1900 Galveston hurricane") ],
+#   [ ("--year 1900 --id 1 --extra 0", "1900 Galveston hurricane") ],
 #      [ ("--year 1915 --id 5", "1915 Louisiana hurricane") ],
 #   [ ("--year 1919 --wind 120", "1919 Florida Keys hurricane") ],
 #   [ ("--year 1926 --wind 130", "1926 Miami hurricane") ],
@@ -509,5 +509,5 @@ foreach $basin (@basins) {
 }
 
 if (!$real && $generated > 0) {
-  system("eog storms/* &");
+  system("eog storms/* 2>&1 >/dev/null &");
 }
