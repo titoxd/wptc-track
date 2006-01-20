@@ -319,6 +319,7 @@
 #      [ ("--year 1952 --id 1", "1952 Groundhog Day tropical storm") ],
 #   [ ("--year 1959 --id 3 --extra 1", "1959 Escuminac hurricane") ],
 #      [ ("--year 1991 --id 8", "1991 Atlantic hurricane 8") ], # "Perfect storm"
+#      [ ("--year 1992 --id 1", "1992 Atlantic subtropical storm 1") ],
 #      [ ("--year 1997 --id 1", "1997 Atlantic subtropical storm 1") ],
 #      [ ("--year 2000 --id 15", "2000 Atlantic subtropical storm 15") ],
 
