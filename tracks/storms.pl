@@ -13,6 +13,32 @@
   (
    "natlantic" =>
    [(
+     "1985" =>
+     [(
+       #'Ana', 'Bob', 'Claudette', 'Danny', 'Elena', 'Fabian',
+       #'Gloria', 'Henri', 'Isabel', 'Juan', 'Kate'
+      )],
+     "1986" =>
+     [(
+       #'Andrew', 'Bonnie', 'Charley', 'Danielle', 'Earl', 'Frances'
+      )],
+     "1987" =>
+     [(
+       #'Arlene', 'Bret', 'Cindy', 'Dennis', 'Emily', 'Floyd'
+       #TS1 is below
+      )],
+     "1988" =>
+     [(
+       #'Alberto', 'Beryl', 'Chris', 'Debby', 'Ernesto', 'Florence',
+       #'Gilbert', 'Helene', 'Isaac', 'Keith'
+       # Joan is handled as Joan-Miriam, below
+       # TS13 is below
+      )],
+     "1989" =>
+     [(
+       #'Allison', 'Barry', 'Chantal', 'Dean', 'Erin', 'Felix', 'Gabrielle',
+       #'Hugo', 'Iris', 'Jerry', 'Karen'
+      )],
      "1990" =>
      [(
        #'Arthur', 'Bertha', 'Cesar', 'Diana', 'Edouard', 'Fran', 'Gustav',
@@ -156,12 +182,6 @@
 #   [ (1979, 'Frederic') ],
 #   [ (1980, 'Allen') ],
 #   [ (1983, 'Alicia') ],
-#		     [ (1985, 'Elena') ],
-#   [ (1985, 'Gloria') ],
-#   [ (1988, 'Gilbert') ],
-# Joan is listed under Joan-Miriam, below.
-#   [ (1989, 'Hugo') ],
-# Cesar is listed under Cesar-Douglas, below
 
 # Non-retired but notable storms:
 #      [ (1951, 'Charlie') ],
@@ -175,11 +195,6 @@
 #      [ (1982, 'Beryl') ],
 #      [ (1984, 'Diana') ],
 #      [ (1984, 'Lili') ],
-#		     [ (1985, 'Juan') ],
-#      [ (1985, 'Kate') ],
-#      [ (1986, 'Charley', 1) ],
-#      [ (1987, 'Emily') ],
-#		     [ (1989, 'Allison', 0, 'Tropical Storm') ],
 
 # Non-retired Category 5 storms:
 #   [ (1950, 'Dog') ],
@@ -281,6 +296,10 @@
 #   [ ("--year 1947 --wind 140", "1947 Fort Lauderdale hurricane") ],
 #      [ ("--year 1952 --id 1", "1952 Groundhog Day tropical storm") ],
 #   [ ("--year 1959 --id 3 --extra 1", "1959 Escuminac hurricane") ],
+
+
+#      [ ("--year 1987 --id 1", "1987 Atlantic tropical storm 1") ],
+#      [ ("--year 1988 --id 6", "1988 Atlantic tropical storm 6") ],
 #      [ ("--year 1991 --id 8", "1991 Atlantic hurricane 8") ], # "Perfect storm"
 #      [ ("--year 1992 --id 1", "1992 Atlantic subtropical storm 1") ],
 #      [ ("--year 1997 --id 1", "1997 Atlantic subtropical storm 1") ],
