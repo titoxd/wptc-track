@@ -13,6 +13,31 @@
   (
    "natlantic" =>
    [(
+     "1980" =>
+     [(
+       #'Allen', 'Bonnie', 'Charley', 'Danielle', 'Earl',
+       #'Frances', 'Georges', 'Hermine', 'Ivan', 'Jeanne', 'Karl'
+      )],
+     "1981" =>
+     [(
+       #'Arlene', 'Bret', 'Cindy', 'Dennis', 'Emily', 'Floyd',
+       #'Gert', 'Harvey', 'Irene', 'Jose', 'Katrina'
+      )],
+     "1982" =>
+     [(
+       #'Alberto', 'Beryl', 'Chris', 'Debby', 'Ernesto',
+       #SS1 is below
+      )],
+     "1983" =>
+     [(
+       #'Alicia', 'Barry', 'Chantal', 'Dean'
+      )],
+     "1984" =>
+     [(
+       #'Arthur', 'Bertha', 'Cesar', 'Diana', 'Edouard', 'Fran',
+       #'Gustav', 'Hortense', 'Isidore', 'Josephine', 'Klaus', 'Lili'
+       #SS1 is below
+      )],
      "1985" =>
      [(
        #'Ana', 'Bob', 'Claudette', 'Danny', 'Elena', 'Fabian',
@@ -180,8 +205,6 @@
 #   [ (1977, 'Anita') ],
 #   [ (1979, 'David') ],
 #   [ (1979, 'Frederic') ],
-#   [ (1980, 'Allen') ],
-#   [ (1983, 'Alicia') ],
 
 # Non-retired but notable storms:
 #      [ (1951, 'Charlie') ],
@@ -192,9 +215,6 @@
 #      [ (1969, 'Francelia') ],
 #   [ (1971, 'Ginger', 1) ],
 #      [ (1976, 'Belle') ],
-#      [ (1982, 'Beryl') ],
-#      [ (1984, 'Diana') ],
-#      [ (1984, 'Lili') ],
 
 # Non-retired Category 5 storms:
 #   [ (1950, 'Dog') ],
@@ -298,6 +318,9 @@
 #   [ ("--year 1959 --id 3 --extra 1", "1959 Escuminac hurricane") ],
 
 
+#      [ ("--year 1981 --id 12", "1981 Atlantic subtropical storm 3") ],
+#      [ ("--year 1982 --id 2", "1982 Atlantic subtropical storm 1") ],
+#      [ ("--year 1984 --id 1", "1984 Atlantic subtropical storm 1") ],
 #      [ ("--year 1987 --id 1", "1987 Atlantic tropical storm 1") ],
 #      [ ("--year 1988 --id 6", "1988 Atlantic tropical storm 6") ],
 #      [ ("--year 1991 --id 8", "1991 Atlantic hurricane 8") ], # "Perfect storm"
