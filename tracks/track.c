@@ -18,6 +18,7 @@
 
 #include "hurdat.h"
 #include "md.h"
+#include "tcr.h"
 #include "track.h"
 
 #define MAX_STORMS 3
@@ -826,9 +827,15 @@ int main(int argc, char **argv)
     case 0:
       storms = read_stormdata_hurdat(storms, &args.storm[i]);
       break;
-    default:
+    case 1:
       storms = read_stormdata_md(storms, &args.storm[i]);
       break;
+    case 2:
+      storms = read_stormdata_tcr(storms, &args.storm[i]);
+      break;
+    default:
+      fprintf(stderr, "Invalid format.\n");
+      return -1;
     }
 
     if (storms->nstorms == count) {
