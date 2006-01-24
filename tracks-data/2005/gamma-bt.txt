@@ -1,0 +1,961 @@
+Tropical Cyclone Report
+Tropical Storm Gamma
+14-22 November 2005
+
+Stacy R. Stewart
+National Hurricane Center
+24 November 2005
+
+	Tropical Storm Gamma was a late season tropical cyclone that produced locally heavy rainfall and floods in Honduras and Belize that caused 37 deaths.
+	
+
+
+
+a.	Synoptic History
+
+A vigorous tropical wave moved off the west coast of Africa on 3 November and continued westward across the tropical Atlantic Ocean. For such a late season system, the wave maintained an unusually large amount of deep convection along and east of the wave axis until it reached the Windward Islands 10 days later. The sharp wave produced wind gusts to near tropical storm-force and locally heavy rainfall as it passed across the southern Windward Islands on 13 November. A broad and poorly-defined low pressure system developed along the southern portion of the wave axis late that same day when the system was located over the extreme southeastern Caribbean Sea. Deep convection had previously been displaced a couple hundred miles to the east due to moderate easterly shear, now began to develop close to the center of the surface low pressure system, and it is estimated that a tropical depression formed at 0000 UTC 14 November about 85 n mi west of St. Vincent. The “best track” chart of the tropical cyclone’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.
+
+Tropical Depression Twenty-Seven continued on a westward track at 10-15 kt and became better organized despite moderate upper-level westerly wind shear. Based on ship reports well to the northeast of the center indicating winds just below tropical storm strength, and Dvorak satellite intensity estimates of T2.5 or 35 kt, it is estimated that the cyclone reached tropical storm strength at 0600 UTC 15 November. However, this newly-acquired status was relatively short-lived as the westerly vertical shear continued to increase, causing Tropical Storm Gamma to weaken to a depression by 1800 UTC that same day, and degenerate into a tropical wave 24 hours later when the system was located about 265 n mi southeast of Jamaica. A deep-layer subtropical high pressure ridge over the southwestern Atlantic Ocean and Gulf of Mexico forced the remnants of Gamma westward at 20-22 kt across the central Caribbean Sea before the system slowed down across the western Caribbean Sea and eastern Honduras on 17 November.
+
+While the remnants of Gamma were racing westward across the Caribbean Sea, a broad  but well-defined low pressure system formed over Panama and moved northwestward over the southwestern Caribbean Sea and into northeastern Nicaragua on 16 November. That low pressure system continued its slow northwestward motion across Nicaragua and gradually merged or interacted with the remnants of Gamma over the mountainous terrain of east-central Honduras early on 18 November. It is estimated that Gamma regenerated into a tropical storm at 1800 UTC 18 November along the northern coast of Honduras near Limon. While the other low pressure system likely aided the regeneration of Gamma, it is difficult to determine precisely whether the remnant circulation of Gamma entrained the non-convective low pressure system, or vice versa, due to the complex interaction between the two systems over the elevated terrain (many areas exceed elevations of 6000 ft) of interior Honduras. However, deep convection associated with the remnant low- to mid-level vorticity center of Gamma maintained continuity throughout its lifetime, and it is estimated that the low-level circulation of the other low merged with the remnant low- to mid-level circulation of Gamma. This scenario was also forecast by several of the global and regional computer models and is, therefore, accepted as the most likely evolution of the regeneration of Gamma.
+
+Gamma drifted northward over the northwestern Caribbean Sea and slowly strengthened, reaching its peak intensity of 45 kt when it was located just east of Roatan Island at around 1200 UTC 19 November (Fig. 4). Later that day, Gamma began a slow drift to the east, and on 20 November began moving more quickly to the southeast. Moderate upper-level southerly shear gradually shifted around to the northwest and displaced most of the convection well to the southeast of the low-level center. This caused Gamma to weaken to a depression around 1200 UTC that day. The cyclone continued to rapidly weaken and degenerated into a non-convective remnant low pressure system early on 21 November, and dissipated by 0600 UTC on 22 November just east of Honduras-Nicaragua border.
+
+	Meteorological Statistics
+
+	Observations in Tropical Storm Gamma (Figs. 2 and 3) include satellite-based Dvorak technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB), the Satellite Analysis Branch (SAB) and the U. S. Air Force Weather Agency (AFWA), as well as flight-level observations from flights of the 53rd Weather Reconnaissance Squadron (WRS) of the U. S. Air Force Reserve Command.  Microwave satellite imagery from NOAA polar-orbiting satellites, the NASA Tropical Rainfall Measuring Mission (TRMM), the NASA QuikSCAT, and Defense Meteorological Satellite Program (DMSP) satellites were also useful in tracking Gamma.
+
+The 53rd WRS made a total of six fixes on Gamma when the cyclone had moved into the northwestern Caribbean Sea. Three investigative missions were also performed on 15, 17, and 18 November.  The maximum flight-level winds measured at 1500 ft were 56 kt at 2155 UTC 18 November on the west side of the circulation about midway between Roatan Island and the northern Honduras coast. The standard adjustment factor of 0.80 would normally yield an equivalent surface wind of 45 kt. However, the lack of deep convection in the western semicircle at that time likely prevented those winds from mixing down to the surface. But by early on 19 November, convection developed west through north of the surface center (Fig. 4) and those stronger flight-level winds appear to have mixed down to the surface based on a 1-minute surface wind report of 43 kt on Roatan Island, Honduras at 0730 UTC. The flight-level equivalent surface wind and the wind report from Roatan Island are the basis for the peak intensity of 45 kt.
+
+	Selected ship and buoy reports associated with Tropical Storm Gamma are given in Table 2, and selected surface observations from land stations are given in Table 3.
+
+	Most ships avoided Gamma’s tropical storm-force winds. However, early on 18 November, NOAA buoy 42057 and an unknown ship reported 35-kt winds in the northeastern quadrant of Gamma’s circulation.
+
+	No significant storm surge was reported due to Gamma’s relatively weak intensity. While considerable heavy rainfall-induced inland flooding was reported over Honduras and Belize, no official rainfall reports were available. There was, however, one unofficial rainfall total of 4.44 in reported on Roatan Island, Honduras.
+
+	Casualty and Damage Statistics
+	
+	Reports from the Government of Honduras and news media indicate there were a total of 37 deaths associated with Tropical Storm Gamma – 34 deaths in Honduras and 3 in Belize. The deaths were the result of flash floods and mud slides caused by heavy rainfall. In addition, 13 people were missing in Honduras. News reports from the Associated Press further indicate that “Gamma’s rains and winds affected more than 100,000 Hondurans, damaging their homes, cutting off their electricity, and leaving them without food and water.” The flooding destroyed 10 bridges and damaged 7 more in Honduras, and decimated more than 5,200 acres of banana crops. While no official damage estimates have been received, reports from private companies indicate banana crop losses were US$13-18 million.
+
+	Forecast and Warning Critique
+
+	Average official track errors (with the number of cases in parentheses) for Tropical Storm Gamma were 49 (17), 96 (13), 137 (9), 161 (5), 267 (2), 285 (6), and 263 (9) n mi for the 12, 24, 36, 48, 72, 96, and 120 h forecasts, respectively.  These errors are greater than the average official track errors for the 10-yr period 1995-2004
+
+ 	Errors given for the 96 and 120 h periods are averages over the four-year period 2001-4.  [(42, 75, 107, 138, 202, 236, and 310 n mi, respectively), (Table 4)]. While the absolute track forecast errors were larger than average, the cross-track errors were relatively low. The significant increase in forward speed early in Gamma’s lifetime was not anticipated by the official forecasts. After Gamma regenerated over the western Caribbean Sea, large track errors were the result of official forecasts taking the cyclone northeastward out of the Caribbean region and toward South Florida. The low- to mid-level high pressure ridge to the north was forecast by several of the NHC models, especially the GFDL model, which was to allow Gamma to move northward and then northeastward across western Cuba and the southern Florida Peninsula or the Florida Straits. In contrast, the ridge to the north remained intact, which kept Gamma over the northwestern Caribbean Sea and under the influence of significant vertical wind shear.
+
+	Average official intensity errors were 3, 7, 12, 17, 18, 23, and 26 kt for the 12, 24, 36, 48, 72, 96, and 120 h forecasts, respectively.  For comparison, the average official intensity errors over the 10-yr period 1995-2004 are 6, 10, 12, 15, 18, 20, and 22 kt, respectively. The  slightly larger than average intensity forecast errors were due to Gamma forecast to reach minimal hurricane strength rather than weaken and eventually degenerate into a tropical wave due to stronger than expected vertical wind shear. However, intensity forecast errors by the SHIPS and GFDL intensity models were as large or larger, with the GFDL model forecasting Gamma to become a major hurricane three times.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 1.	Best track for Tropical Storm Gamma, 14-22 November 2005.
+
+Date/Time
+(UTC)
+
+Latitude
+(oN)
+
+Longitude
+(oW)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+14 / 0000
+13.2
+62.1
+1007
+30
+tropical depression
+14 / 0600
+13.6
+62.8
+1006
+30
+"
+14 / 1200
+13.8
+63.4
+1006
+30
+"
+14 / 1800
+14.1
+64.2
+1005
+30
+"
+15 / 0000
+14.2
+65.0
+1004
+30
+"
+15 / 0600
+14.3
+66.0
+1004
+35
+tropical storm
+15 / 1200
+14.4
+67.1
+1004
+35
+"
+15 / 1800
+14.7
+68.4
+1005
+30
+tropical depression
+16 / 0000
+14.8
+69.9
+1006
+30
+"
+16 / 0600
+14.8
+71.5
+1006
+30
+"
+16 / 1200
+14.7
+73.1
+1006
+25
+"
+16 / 1800
+14.8
+75.4
+1006
+25
+tropical wave
+17 / 0000
+15.0
+77.6
+1007
+25
+"
+17 / 0600
+15.3
+79.7
+1008
+25
+"
+17 / 1200
+15.6
+81.7
+1007
+30
+"
+17 / 1800
+15.8
+83.1
+1007
+30
+"
+18 / 0000
+15.8
+84.1
+1007
+30
+"
+18 / 0600
+15.7
+84.8
+1006
+30
+"
+18 / 1200
+15.5
+85.5
+1006
+30
+"
+18 / 1800
+15.7
+85.6
+1006
+35
+tropical storm
+19 / 0000
+16.0
+85.6
+1005
+40
+"
+19 / 0600
+16.1
+85.6
+1004
+40
+"
+19 / 1200
+16.1
+85.4
+1002
+45
+"
+19 / 1800
+16.2
+85.2
+1004
+40
+"
+20 / 0000
+16.4
+85.0
+1005
+40
+"
+20 / 0600
+16.6
+85.0
+1006
+35
+"
+20 / 1200
+16.7
+85.2
+1007
+30
+tropical depression
+20 / 1800
+16.9
+85.5
+1007
+30
+"
+21 / 0000
+17.1
+85.5
+1008
+25
+"
+21 / 0600
+17.0
+85.2
+1008
+25
+remnant low
+21 / 1200
+16.7
+84.8
+1008
+25
+"
+21 / 1800
+16.4
+84.3
+1009
+25
+"
+22 / 0000
+15.4
+83.5
+1009
+25
+"
+22 / 0600
+
+
+
+
+dissipated
+19 / 1200
+16.1
+85.4
+1002
+45
+minimum pressure
+ 
+
+Table 2.         Selected ship and buoy reports for Tropical Storm Gamma, 14-22 November 2005.
+
+Date/Time (UTC)
+
+Ship call sign
+
+
+Latitude
+(oN)
+
+Longitude
+(oW)
+
+Wind
+dir/speed (kt)
+
+Pressure 
+(mb)
+14 / 0000
+ZCBU6
+14.4
+61.1
+120 / 27
+
+14 / 2000
+V7CY9
+15.6
+63.9
+110 / 29
+1005.5
+14 / 2300
+V7CY9
+15.0
+63.8
+110 / 30
+1006.6
+15 / 1500
+V7CY9
+13.7
+65.6
+120 / 31
+1007.6
+15 / 1500
+C6PZ3
+13.7
+64.5
+120 / 30
+
+15 / 1800
+C6PZ3
+14.0
+65.1
+130 / 32
+
+15 / 2100
+C6PZ3
+14.2
+65.9
+110 / 31
+
+16 / 0600
+C6KD4
+15.1
+73.2
+060 / 30
+1008.8
+17 / 1230
+Buoy 42057
+17.6
+80.8
+080 / 33
+
+17 / 1530
+Buoy 42057
+17.6
+80.8
+080 / 31
+
+17 / 2330
+Buoy 42057
+17.6
+80.8
+070 / 31 G 35
+
+18 / 0345
+Buoy 42057
+17.6
+80.8
+070 / 33 G 37
+
+18 / 0130
+Buoy 42056
+19.9
+85.1
+035 / 31
+
+18 / 0600
+ZCDF4
+17.9
+80.6
+100 / 32
+1009.4
+18 / 0635
+Buoy 42057
+17.6
+80.8
+070 / 35 G 39
+
+18 / 0750
+Buoy 42057
+17.6
+80.8
+
+1008.4
+18 / 0825
+Buoy 42057
+17.6
+80.8
+105 / 33 G 37
+
+18 / 0820
+Buoy 42057
+17.6
+80.8
+101 / 31 G 39
+
+18 / 0850
+Buoy 42056
+19.9
+85.1
+
+1010.5
+18 / 0900
+KS049
+18.3
+87.6
+030 / 30
+
+18 / 1200
+SHIP
+19.2
+83.0
+040 / 35
+1010.7
+18 / 1540
+Buoy 42056
+19.9
+85.1
+053 / 31 G 41
+
+18 / 2050
+Buoy 42057
+17.6
+80.8
+
+1008.5
+19 / 0020
+Buoy 42057
+17.6
+80.8
+106 / 27 G 35
+
+19 / 0950
+Buoy 42056
+19.9
+85.1
+
+1010.3
+G  peak gust
+
+
+Table 3.	Selected surface observations for Tropical Storm Gamma, 14-22 November 2005.
+Location
+Minimum Sea Level Pressure
+Maximum Surface
+Wind Speed
+Storm surge
+(ft)c
+Storm
+tide
+(ft)d
+Total
+rain
+(in)
+
+Date/
+time
+(UTC)
+Press.
+(mb)
+Date/
+time
+(UTC)a
+Sustained
+(kt)b
+Gust
+(kt)
+
+
+
+Grantley Adams IAP (TBPB), Bridgetown, Barbados
+13/2000
+1008.0
+14/0100
+27
+
+
+
+
+Hewanorra IAP (TLPL), St. Lucia
+13/2100
+1007.0
+14/0000
+29
+33
+
+
+
+Roatan, Honduras (Lago Vista Scuba, Inc. unofficial observation)
+18/2200
+1001.8
+19/0615
+42
+
+
+
+
+Roatan, Honduras (Lago Vista Scuba, Inc. unofficial observation)
+19/0730
+1002.7
+19/0730
+43
+
+
+
+4.44
+a  Date/time is for sustained wind when both sustained and gust are listed.
+b  Except as noted, sustained wind averaging periods for C-MAN and land-based ASOS reports are 2 min; buoy averaging periods are 8 min.
+c  Storm surge is water height above normal astronomical tide level.
+d  Storm tide is water height above National Geodetic Vertical Datum (1929 mean sea level).
+
+Table 4.	Preliminary forecast evaluation (heterogeneous sample) for Tropical Storm 
+Gamma, 14-22 November 2005.  Forecast errors (n mi) are followed by the number of forecasts
+ in parentheses.  Errors smaller than the NHC official forecast are shown in bold-face type.
+ Verification includes the depression stage, but does not include the extratropical stage, if any.
+
+Forecast Technique
+
+
+Forecast Period (h)
+
+
+
+
+
+12
+
+
+24
+
+
+36
+
+
+48
+
+
+72
+
+
+96
+
+
+120
+
+CLP5
+  53 (17)
+ 102 (13)
+ 153 ( 9)
+ 197 ( 5)
+ 338 ( 4)
+ 509 ( 8)
+ 665 ( 9)
+GFNI
+  51 (10)
+  30 ( 3)
+
+
+ 482 ( 4)
+ 374 ( 5)
+ 334 ( 3)
+GFDI
+  43 (17)
+  80 (13)
+ 125 ( 9)
+ 147 ( 5)
+ 172 ( 4)
+ 195 ( 8)
+ 202 ( 9)
+GFDL*
+  39 (17)
+  76 (13)
+ 104 ( 9)
+ 119 ( 5)
+ 175 ( 3)
+ 181 ( 7)
+ 211 ( 9)
+GFDN
+  63 (12)
+  82 ( 5)
+ 125 ( 1)
+
+ 383 ( 3)
+ 279 ( 5)
+ 348 ( 3)
+GFSI
+  51 (13)
+  83 (11)
+ 131 ( 7)
+ 176 ( 2)
+  17 ( 1)
+  42 ( 1)
+
+GFSO*
+  64 (11)
+ 103 ( 9)
+ 128 ( 7)
+ 190 ( 2)
+  83 ( 1)
+  58 ( 1)
+
+AEMI
+  49 (15)
+  91 (10)
+ 154 ( 7)
+ 178 ( 3)
+
+
+
+NGPI
+  49 (14)
+  86 ( 9)
+ 129 ( 5)
+ 167 ( 1)
+ 191 ( 4)
+ 237 ( 8)
+ 261 ( 7)
+NGPS*
+  44 (14)
+  79 (10)
+ 132 ( 6)
+ 127 ( 2)
+ 159 ( 4)
+ 186 ( 8)
+ 234 ( 8)
+UKMI
+  51 (15)
+  84 (11)
+  90 ( 7)
+  51 ( 3)
+ 224 ( 4)
+ 370 ( 8)
+ 360 ( 7)
+UKM*
+  61 ( 9)
+ 104 ( 7)
+ 131 ( 5)
+ 120 ( 3)
+ 180 ( 2)
+ 285 ( 4)
+ 385 ( 5)
+A98E
+  51 (17)
+  93 (13)
+ 145 ( 9)
+ 213 ( 5)
+ 192 ( 4)
+ 271 ( 8)
+ 294 ( 9)
+A9UK
+  55 ( 8)
+  95 ( 6)
+ 111 ( 4)
+ 180 ( 3)
+ 243 ( 2)
+
+
+BAMD
+  87 (17)
+ 180 (13)
+ 294 ( 9)
+ 392 ( 5)
+ 305 ( 4)
+ 454 ( 8)
+ 527 ( 9)
+BAMM
+  53 (17)
+  99 (13)
+ 164 ( 9)
+ 205 ( 5)
+ 140 ( 4)
+ 133 ( 8)
+ 247 ( 9)
+BAMS
+  60 (17)
+ 111 (13)
+ 156 ( 9)
+ 163 ( 5)
+ 101 ( 4)
+ 279 ( 8)
+ 416 ( 9)
+CONU
+  41 (17)
+  72 (12)
+ 107 ( 8)
+ 114 ( 3)
+ 257 ( 4)
+ 285 ( 8)
+ 272 ( 7)
+GUNA
+  33 (10)
+  68 ( 8)
+ 111 ( 4)
+
+  79 ( 1)
+  98 ( 1)
+
+FSSE
+  47 ( 6)
+  84 ( 5)
+ 129 ( 3)
+ 125 ( 1)
+
+
+
+OFCL
+  49 (17)
+  96 (13)
+ 137 ( 9)
+ 161 ( 5)
+ 267 ( 2)
+ 285 ( 6)
+ 263 ( 9)
+
+NHC Official
+(1995-2004 mean)
+
+
+      42 
+
+(3400)
+
+
+
+75 
+
+(3116)
+
+
+
+107
+
+ (2848)
+
+
+
+138
+
+(2575)
+
+
+
+202
+
+ (2117)
+
+
+
+236 
+
+(649)
+
+
+
+310 
+
+(535)
+
+
+*Output from these models are unavailable at forecast time.
+Errors given for the 96 and 120 h periods are averages over the four-year period 2001-4
+Table 5.	Watch and warning summary for Tropical Storm Gamma, 14-22 November 2005.
+Date/Time (UTC)
+Action
+Location
+18 / 2100
+Tropical Storm Warning issued
+All Bay Islands of Honduras
+18 / 2100
+Tropical Storm Warning issued
+Entire Coast of Belize
+18 / 2100
+Tropical Storm Watch issued
+Eastern Yucatan, Mexico from Belize-Mexico border northward to Punta Allen
+19 / 0400
+Tropical Storm Warning modified
+Eastern Yucatan Coast from Belize-Mexico border northward to Punta Gruesa
+19 / 0400
+Tropical Storm Watch modified
+Eastern Yucatan. Mexico from north of  Punta Gruesa northward to Tulum
+19 / 1500
+Tropical Storm Warning discontinued
+Southern Belize south of Belize City
+19 / 2100
+Tropical Storm Warning discontinued
+All of Belize
+19 / 2100
+Tropical Storm Warning discontinued
+All of Yucatan Peninsula, Mexico
+20 / 1500
+Tropical Storm Warning discontinued
+All Bay Islands of Honduras
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1.	Best track positions for Tropical Storm Gamma, 14-22 November 2005.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed
+curve for Tropical Storm Gamma, 14-22 November 2005.  Aircraft observations have been 
+adjusted for elevation using an 80% adjustment factor for observations from 850 mb and 1500 ft.
+Objective Dvorak estimates represent linear averages over a three-hour period ending on the 
+nominal observation time.
+
+
+
+
+
+
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for 
+Tropical Storm Gamma, 14-22 November 2005. Objective Dvorak estimates represent linear 
+averages over a three-hour period ending on the nominal observation time. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4.  Passive microwave data (85 GHz channel) on 19 Nov 2005 of Gamma near its peak 
+intensity of 45 kt. The tight low-level circulation center can be seen near 16O N 85.5O W, or just 
+offshore the north-central coast of Honduras, in the (a) 1009 UTC TRMM and (b) 1205 UTC 
+SSMI images. (satellite imagery courtesy of the  U.S. Navy Fleet Numerical Meteorology and 
+Oceanography Center, Monterey, CA)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16
+
+
+

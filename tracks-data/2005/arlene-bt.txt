@@ -1,0 +1,2269 @@
+Tropical Cyclone Report
+Tropical Storm Arlene
+8-13 June 2005
+Lixion A. Avila and Daniel P. Brown
+
+National Hurricane Center
+20 July 2005
+
+
+	Arlene made landfall on the Florida Panhandle just west of Pensacola, causing minimal damage.
+
+a.	Synoptic History
+
+The origin of Arlene is not clear but it appears to be associated with the interaction of the Intertropical Convergence Zone (ITCZ) and a tropical wave.  The ITCZ near 90°W was centered over Central America during the first few days of June. This zone became a little more convectively active when a westward moving tropical wave moved across Central America on 5-6 June.  Thereafter, another tropical wave, this one a little more vigorous, moved across the western Caribbean Sea on 7-8 June, resulting in pressure falls and a significant increase in cloudiness and thunderstorms over the region.  Vertical wind shear gradually relaxed as an upper-level ridge developed over the large area of disturbed weather.  The system became better organized and it is estimated that a tropical depression formed at 1800 UTC 8 June just north of the northeastern coast of Honduras.  Very deep convection developed in cyclonically curved bands to the north and east of the center of circulation and the depression became Tropical Storm Arlene at 0600 UTC 9 June, about 150 n mi west-southwest of Grand Cayman.  
+
+Arlene began to move slowly northward with steady intensification and its center crossed western Cuba very near Cabo Corrientes with winds of 45 knots early 10 June. These winds were confined to rain bands in the eastern semicircle, primarily over water.  Once in the Gulf of Mexico, Arlene moved between the north and north-northwest and continued to strengthen. The cyclone reached its peak intensity of 60 knots and a minimum pressure of 989 mb at 0100 UTC 11 June over the northeastern Gulf.  Thereafter, dry air began to enter the circulation and deep convection diminished considerably, resulting in a gradual weakening.  Arlene made landfall as a 50-kt tropical storm just west of Pensacola, Florida about 1900 UTC 11 June.  Arlene continued to weaken as it moved northward, farther inland.  It turned northeastward and became extratropical at 1800 UTC 13 June just northeast of Flint, Michigan and was absorbed by a front at 1200 UTC 14 June.  The “best track” chart of the tropical cyclone’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.
+
+
+		Meteorological Statistics
+
+	Observations in Arlene (Figs. 2 and 3) include satellite-based Dvorak technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB), the Satellite Analysis Branch (SAB) and the U. S. Air Force Weather Agency (AFWA), as well as flight-level observations from flights of the 53rd Weather Reconnaissance Squadron of the U. S. Air Force Reserve Command and the NOAA P-3. The latter included surface wind data from the Stepped Frequency Microwave Radiometer (SFMR).  Microwave satellite imagery from NOAA polar-orbiting satellites, the NASA Tropical Rainfall Measuring Mission (TRMM), the NASA QuikSCAT, and Defense Meteorological Satellite Program (DMSP) satellites were also useful during Arlene.  Table 2 includes ship observations with winds of at least 34 knots and Table 3 shows selected surface observations including rainfall and storm surge.   The strongest 1-min sustained wind reported by a land station was 41 knots at Punta del Este, on the Isle of Youth, Cuba. The strongest gust was 52 knots and occurred at fire station at Navarre, Florida. After landfall, Arlene spread 3 to 7 inches of rain over the central and eastern United States according to data provided by the Hydrometeorological Prediction Center (HPC). 
+
+	Arlene was characterized by its large circulation and the lack of inner convective core. In fact, there were various centers rotating around a larger gyre throughout the storm’s lifetime. The cyclone was very asymmetric with the strongest winds confined to rain bands to the north and east of the circulation center.  Only just prior to landfall, satellite pictures revealed a more symmetric cloud pattern which was more typical of a tropical cyclone.  
+
+
+c.	Casualty and Damage Statistics
+	
+	The NWS forecast office in Miami reported that a Russian exchange student died in a rip current triggered by Arlene on 10 June at Miami Beach. Reports from NWS forecast offices indicate that there was little or no damage caused by Arlene. 
+
+ 
+d.	Forecast and Warning Critique
+
+	Arlene’s track forecast errors were much smaller that the average official track errors for the 10-yr period 1995-2004
+
+ 	Errors given for the 96 and 120 h periods are averages over the four-year period 2001-4. . The United Kingdom model (UKMET) outperformed the official forecast at all times except at 12 hours.  There were just a few 96-h and no 120-h forecasts to verify. Table 4 lists the forecast errors for a selection of track forecast models.  Average official intensity errors were 7, 9, 7, 9, 9 and 5 kt for the 12, 24, 36, 48, 72, and 96 h forecasts, respectively.  For comparison, the average official intensity errors over the 10-yr period 1995-2004 are 6, 10, 12, 15, 18, and 20.  Global models were very good in forecasting the development of a tropical cyclone in the northwestern Caribbean Sea a few days in advance.  
+	
+          Track models were quite clustered, reducing the uncertainty of the forecast. However, because Arlene had a large area of tropical storm force winds to the north and east of the center, the tropical storm warning area was also large. Arlene also was forecast to be very near hurricane strength and taking into consideration the general uncertainty in intensity forecasting, a hurricane warning was issued for a small portion of the area already in place tropical storm warning.   A summary of the coastal watches and warnings is included in Table 5.
+ 
+
+Table 1.	Best track for Tropical Storm Arlene, 8-13 June 2005.
+
+
+Date/Time
+(UTC)
+
+Latitude
+(EN)
+
+Longitude
+(EW)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+08 / 1800
+16.9
+ 84.0
+1004
+ 25
+Tropical depression  
+09 / 0000
+17.4
+ 83.9
+1003
+ 30
+ "              
+09 / 0600
+18.2
+ 83.9
+1003
+ 35
+tropical storm    
+09 / 1200
+19.0
+ 84.0
+1002
+ 35
+  "          
+09 / 1800
+19.7
+ 84.1
+1002
+ 35
+  "          
+10 / 0000
+20.4
+ 84.2
+1001
+ 40
+  "          
+10 / 0600
+21.2
+ 84.4
+1000
+ 45
+  "          
+10 / 1200
+23.0
+ 84.8
+1000
+ 50
+  "          
+10 / 1800
+24.9
+ 85.1
+ 995
+ 55
+  "          
+11 / 0000
+26.5
+ 85.6
+ 990
+ 60
+  "          
+11 / 0600
+27.7
+ 86.8
+ 993
+ 60
+  "          
+11 / 1200
+28.9
+ 87.2
+ 990
+ 55
+  "          
+11 / 1800
+30.1
+ 87.5
+ 991
+ 50
+  "          
+12 / 0000
+31.4
+ 87.6
+ 994
+ 30
+Tropical depression  
+12 / 0600
+32.7
+ 87.7
+ 998
+ 25
+  "          
+12 / 1200
+35.0
+ 88.0
+1003
+ 20
+  "          
+12 / 1800
+37.0
+ 87.8
+1005
+ 20
+  "          
+13 / 0000
+38.5
+ 87.5
+1006
+ 20
+  "          
+13 / 0600
+40.5
+ 86.0
+1006
+ 20
+  "          
+13 / 1200
+42.0
+ 85.0
+1005
+ 20
+   low          
+13 / 1800
+43.0
+ 84.0
+1005
+ 20
+     extratropical    
+14 / 0000
+43.7
+ 81.1
+1003
+ 20
+  "           
+14 / 0600
+44.8
+ 77.6
+1001
+ 20
+  "
+14 / 1200
+
+
+
+
+Absorbed by front
+10/  0800
+21.8
+ 84.5
+1000
+45
+Landfall near Cabo Corrientes, western Cuba
+11 / 1900
+30.3
+ 87.5
+ 991
+ 50
+Landfall  near and just west of Pensacola 
+11 / 0100
+26.5
+ 85.6
+ 989
+ 60
+   minimum pressure
+   
+   
+
+Table 2.	Selected ship reports with winds of at least 34 kt for Tropical Storm Arlene, 8-13 June 2005.
+
+
+Date/Time (UTC)
+
+Ship call sign
+
+
+Latitude
+(EN)
+
+Longitude
+(EW)
+
+Wind
+dir/speed (kt)
+
+Pressure 
+(mb)
+08 / 2100
+ZCDG8 
+ 19.4
+  80.7
+070 /  35
+1004.2
+09 / 0900
+3FFL8 
+ 19.4
+  81.8
+140 /  40
+1005.0
+09 / 1800
+3FFL8 
+ 18.9
+  81.2
+200 /  40
+1008.0
+09 / 2245
+ELWX5 
+ 20.7
+  86.7
+350 /  38
+1003.2
+09 / 2345
+ELWX5 
+ 20.6
+  86.3
+350 /  39
+1002.6
+10 / 0045
+ELWX5 
+ 20.5
+  85.9
+350 /  42
+1002.1
+10 / 0045
+SHIP  
+ 20.5
+  85.9
+350 /  42
+1002.1
+10 / 0145
+ELWX5 
+ 20.4
+  85.6
+340 /  39
+1002.2
+10 / 0700
+C6FM9 
+ 25.3
+  79.8
+090 /  35
+1011.0
+10 / 1300
+C6FM6 
+ 25.2
+  86.8
+040 /  36
+1004.0
+10 / 1400
+KGBE  
+ 24.5
+  84.1
+120 /  40
+1001.3
+10 / 1500
+C6FM5 
+ 24.0
+  85.0
+330 /  35
+1001.5
+10 / 1600
+VRWG6 
+ 25.8
+  87.8
+*** /  38
+1007.0
+10 / 1645
+ELWX5 
+ 19.8
+  82.2
+170 /  35
+1007.6
+10 / 1800
+ZCDG8 
+ 23.1
+  83.7
+220 /  47
+1004.2
+10 / 1800
+3FPS9 
+ 24.0
+  82.3
+160 /  58
+1004.0
+10 / 1800
+KGBE  
+ 25.1
+  83.8
+150 /  40
+1009.0
+10 / 1800
+VRWG6 
+ 25.6
+  87.1
+*** /  35
+1004.0
+10 / 1845
+ELWX5 
+ 20.2
+  82.7
+170 /  37
+1006.0
+10 / 1900
+C6FM6 
+ 26.1
+  87.3
+040 /  37
+1004.0
+10 / 2000
+FWYF1 
+ 25.6
+  80.1
+120 /  38
+1011.1
+10 / 2100
+ZCDG8 
+ 23.5
+  82.7
+160 /  35
+1005.1
+10 / 2100
+C6FM5 
+ 25.6
+  84.0
+180 /  40
+1000.5
+10 / 2100
+V7HD2 
+ 27.7
+  87.9
+060 /  37
+1015.5
+10 / 2200
+C6FM6 
+ 26.2
+  88.6
+040 /  37
+1004.0
+10 / 2200
+V7HD2 
+ 27.7
+  87.9
+060 /  42
+1008.0
+10 / 2300
+C6FM9 
+ 25.9
+  79.7
+100 /  35
+1011.0
+10 / 2300
+ELXL3 
+ 28.0
+  88.1
+060 /  37
+1007.0
+11 / 0000
+ZCDG8 
+ 23.9
+  80.6
+180 /  45
+1006.3
+11 / 0000
+3FPS9 
+ 24.5
+  80.8
+120 /  35
+1008.0
+11 / 0000
+C6FM5 
+ 26.3
+  83.5
+140 /  51
+1004.0
+11 / 0000
+WFKW  
+ 27.5
+  88.7
+060 /  38
+1006.8
+11 / 0000
+V7HD2 
+ 27.7
+  87.9
+080 /  35
+1008.0
+11 / 0050
+42039 
+ 28.8
+  85.6
+080 /  35
+1005.0
+11 / 0100
+C6FM6 
+ 26.1
+  89.2
+040 /  37
+1004.0
+11 / 0200
+ELXL3 
+ 28.0
+  88.1
+070 /  40
+1005.0
+11 / 0300
+C6FM5 
+ 27.0
+  83.2
+120 /  42
+1005.0
+11 / 0400
+ELXL3 
+ 28.0
+  88.1
+060 /  36
+1004.0
+11 / 0600
+SGOF1 
+ 29.4
+  84.9
+080 /  36
+1005.1
+11 / 0650
+42039 
+ 28.8
+  85.6
+100 /  35
+ 999.0
+11 / 0700
+SGOF1 
+ 29.4
+  84.9
+110 /  37
+1004.8
+11 / 0800
+SGOF1 
+ 29.4
+  84.9
+100 /  37
+1004.2
+11 / 0900
+SGOF1 
+ 29.4
+  84.9
+110 /  38
+1004.4
+11 / 1000
+SGOF1 
+ 29.4
+  84.9
+120 /  36
+1004.4
+11 / 1100
+SGOF1 
+ 29.4
+  84.9
+110 /  35
+1004.5
+
+
+Table 3.	Selected surface observations for Tropical Storm Arlene 8-13 June, 2005.
+
+
+
+Minimum Sea Level Pressure
+Maximum Surface 
+Wind Speed
+Storm surge
+(ft)c
+Storm
+tide
+(ft)d
+Total
+rain
+(in)
+
+Date/
+time
+(UTC)
+Press.
+(mb)
+Date/
+time
+(UTC)a
+Sustained
+(kt)b
+Gust
+(kt)
+
+
+
+Cuba
+
+
+
+
+
+
+
+
+Cuba Francia
+10/0900
+1003.3
+10/0200
+30
+38
+
+
+6.56
+Nueva Gerona
+10/0900
+1003.3
+10/0205
+29
+38
+
+
+
+Santa Fe
+10/0800
+1001.9
+10/0700
+32
+41
+
+
+6.00
+Punta del Este
+10/0900
+1002.9
+10/0725
+41
+43
+
+
+5.63
+Cabo  San Antonio
+10/0920
+1001.6
+
+
+
+
+
+
+Santa Lucia
+10/1200
+1001.0
+
+
+
+
+
+0.68
+Isabel Rubio
+10/0920
+999.9
+
+
+
+
+
+2.97
+San Juan y Martinez
+10/1310
+1001.4
+
+
+
+
+
+4.45
+Pinar del Rio
+10/1100
+1000.5
+
+
+
+
+
+6.81
+La Palma
+10/1000
+1001.0
+10/1015
+
+42
+
+
+3.69
+Paso Real de San Diego
+10/1110
+1005.5
+
+
+
+
+
+5.31
+Bahia Honda
+10/1100
+1002.3
+10/1150
+
+35
+
+
+4.09
+Casa Blanca
+10/1000
+1004.4
+10/1100
+35
+41
+
+
+2.01
+
+
+
+
+
+
+
+
+
+Florida
+
+
+
+
+
+
+
+
+Dry Tortugas, Fort Jefferson
+National Park Service
+
+
+10/1600
+39
+48
+
+
+2.70
+Key West (EYW)
+10/2353
+1005.7
+11/0303
+32
+41
+
+
+
+Key West NAS (NRB)
+
+
+11/0129
+
+40
+
+
+
+Carysfort Reef Light
+
+
+10/1000
+30
+35
+
+
+
+Duck Key
+
+
+09/2200
+
+44
+
+
+
+Marathon
+Curry Hammock State Park
+
+
+
+
+
+
+
+2.81
+Key Largo
+John Pennekamp State Park
+
+
+
+
+
+
+
+2.80
+Miami (MIA)
+
+
+10/1700
+
+36
+
+
+4.08
+Miami Beach (MBF)
+
+
+10/1800
+
+37
+
+
+
+Tamiami Airport (TMB)
+
+
+10/1100
+
+38
+
+
+
+Flamingo (FLM)
+
+
+10/1400
+
+39
+
+
+
+Fort Lauderdale (FLL)
+
+
+
+
+
+
+
+2.23
+West Palm Beach (PBI)
+
+
+
+
+
+
+
+1.58
+Naples (APF)
+
+
+
+
+
+
+
+6.25
+Clewiston
+
+
+
+
+
+
+
+4.15
+Hollywood
+
+
+
+
+
+
+
+2.65
+Homestead
+
+
+
+
+
+
+
+4.20
+Immokalee
+
+
+
+
+
+
+
+2.78
+Marco Island
+
+
+
+
+
+
+
+3.86
+Fort Myers (FMY)
+
+
+
+
+
+
+
+2.28
+Fort Myers (RSW)
+
+
+
+
+
+
+
+1.87
+Buckingham
+
+
+
+
+
+
+
+1.25
+Punta Gorda
+
+
+
+
+
+
+
+1.20
+Fort Ogden
+
+
+
+
+
+
+
+1.45
+Winterhaven 
+
+
+
+
+
+
+
+1.75
+Lakeland
+
+
+
+
+
+
+
+1.55
+Fort Meade
+
+
+
+
+
+
+
+1.34
+Tampa Dam
+
+
+
+
+
+
+
+1.76
+Pinellas Park
+
+
+
+
+
+
+
+2.30
+Suwannee
+
+
+
+
+
+
+
+1.27
+Tallahassee (TLH)
+11/1853
+1007.4
+
+
+
+
+
+2.05
+Panama City (PFN)
+11/1453
+1002.9
+
+
+
+
+
+2.06
+Apalachicola (AAF)
+11/0956
+1004.3
+11/1021
+
+39
+
+
+2.57
+Destin (DTS)
+11/1854
+1000.0
+11/1844
+
+39
+
+
+
+Tyndall AFB (PAM)
+11/1355
+1003.7
+11/1542
+
+34
+
+
+
+Cross City (CTY)
+11/1853
+1008.9
+
+
+
+
+
+0.65
+Marianna (MAI)
+
+
+
+
+
+
+
+1.33
+Pensacola (PNS)
+11/1927
+991.9
+11/1913
+33
+44
+
+
+
+Hurlburt AFB (HRT)
+11/1910
+999.0
+11/1915
+
+40
+
+
+
+Elgin AFB (VPS)
+
+
+11/1947
+
+43
+
+
+
+Pensacola NAS (NPA)
+11/1856
+991.5
+11/1656
+
+39
+
+
+
+Whiting Field NAS (NSE)
+11/1955
+994.9
+11/1951
+
+47
+
+
+3.29
+Fort Walton Beach 
+
+
+11/1709
+
+38
+
+
+
+Santa Rosa Beach
+
+
+11/1623
+
+33
+
+
+
+Shalimar
+
+
+11/1824
+
+36
+
+
+
+Navarre Fire Station
+
+
+11/1910
+
+52
+
+
+
+Crestview
+
+
+11/2029
+
+36
+
+
+
+Gulf Breeze 
+11/1850
+994.2
+
+
+
+
+
+3.56
+Pensacola (WEAR-TV)
+11/1924
+988.8
+
+
+
+
+
+3.38
+Pace
+
+
+
+
+
+
+
+4.42
+Molina (Escambia River)
+
+
+
+
+
+
+
+3.02
+Dowling Park 
+
+
+
+
+
+
+
+4.95
+Marianna
+
+
+
+
+
+
+
+2.25
+Mayo
+
+
+
+
+
+
+
+2.13
+Monticello 
+
+
+
+
+
+
+
+1.10
+Panacea 
+
+
+
+
+
+
+
+2.13
+St. Marks
+
+
+
+
+
+
+
+3.67
+Sea Hag Marina
+
+
+
+
+
+
+
+3.90
+Tallahassee Airport
+
+
+
+
+
+
+
+1.46
+Walton County
+
+
+
+
+
+5
+
+
+Bay County
+
+
+
+
+
+3
+
+
+Gulf County
+
+
+
+
+
+3
+
+
+Franklin County
+
+
+
+
+
+3
+
+
+Wakulla County
+
+
+
+
+
+3-4
+
+
+Jefferson County
+
+
+
+
+
+2
+
+
+Pensacola USCG
+
+
+
+
+
+
+3.90
+
+Santa Rosa Sound
+
+
+
+
+
+
+2.69
+
+Destin
+
+
+
+
+
+
+3.33
+
+
+
+
+
+
+
+
+
+
+Georgia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Albany
+
+
+
+
+
+
+
+1.64
+Blairsville
+
+
+
+
+
+
+
+3.96
+Clayton
+
+
+
+
+
+
+
+5.31
+Choestoe
+
+
+
+
+
+
+
+4.93
+Crisp County Power Dam
+
+
+
+
+
+
+
+4.12
+Fort Gaines
+
+
+
+
+
+
+
+1.53
+Georgetown
+
+
+
+
+
+
+
+1.55
+Leesburg
+
+
+
+
+
+
+
+2.10
+Nacoochee
+
+
+
+
+
+
+
+4.27
+Pine Mountain
+
+
+
+
+
+
+
+6.10
+Sautee
+
+
+
+
+
+
+
+4.59
+Tifton
+
+
+
+
+
+
+
+2.21
+Valdosta
+
+
+
+
+
+
+
+1.51
+
+
+
+
+
+
+
+
+
+Alabama
+
+
+
+
+
+
+
+
+Dothan (DHN)
+11/2053
+1005.2
+
+
+
+
+
+1.50
+Evergreen Airport (GZH)
+11/2231
+997.6
+11/2323
+
+36
+
+
+3.06
+Mobile (MOB)
+11/2130
+999.3
+
+
+
+
+
+4.52
+Brookley Field (BFM)
+11/2036
+998.3
+
+
+
+
+
+
+Dauphin Island
+
+
+11/1416
+
+35
+
+2.71
+3.73
+Bay Minette
+11/2115
+995.3
+
+
+
+
+
+3.10
+Atmore
+11/2025
+994.6
+
+
+
+
+
+3.25
+Geneva
+
+
+
+
+
+
+
+1.97
+Alberta
+
+
+
+
+
+
+
+4.60
+Brewton
+
+
+
+
+
+
+
+3.65
+Jackson
+
+
+
+
+
+
+
+3.17
+Robertsdale
+
+
+
+
+
+
+
+3.53
+Thomasville
+
+
+
+
+
+
+
+3.55
+Wallace
+
+
+
+
+
+
+
+3.80
+Whatley
+
+
+
+
+
+
+
+3.30
+Mobile (NWS Office)
+
+
+
+
+
+
+
+5.06
+Millers Ferry Dam
+
+
+
+
+
+
+
+6.77
+Magnolia Springs
+
+
+
+
+
+
+
+3.09
+East Fowl River
+
+
+
+
+
+
+
+3.80
+Mobile (2 south)
+
+
+
+
+
+
+
+5.81
+Semmes
+
+
+
+
+
+
+
+3.82
+Silverhill (3 south)
+
+
+
+
+
+
+
+3.22
+Perdido Pass
+
+
+
+
+
+
+3.69
+
+Mobile State Docks
+
+
+
+
+
+
+3.03
+
+Cedar Point
+
+
+
+
+
+
+2.82
+
+Bayou La Batre
+
+
+
+
+
+
+3.10
+
+Mobile (Middle Bay)
+
+
+
+
+
+
+2.89
+
+
+
+
+
+
+
+
+
+
+Mississippi
+
+
+
+
+
+
+
+
+Pascagoula (PQL)
+11/2036
+1000.7
+
+
+
+
+
+1.74
+Gulfport (GPT)
+11/2216
+1002.7
+
+
+
+
+
+
+Aberdeen Lock and Dam
+
+
+
+
+
+
+
+6.77
+Mobile NWS office
+
+
+
+
+
+
+
+5.06
+
+
+
+
+
+
+
+
+
+Buoys and CMAN sites
+
+
+
+
+
+
+
+
+FWYF1 
+(Fowey Rocks C-Man)
+(25.6ºN 80.1ºW)
+11/0100
+1010.1
+10/2000
+34
+43
+
+
+
+MLRF1
+(Molasses Reef C-Man)
+(25.0ºN 80.4ºW)
+11/0100
+1008.8
+10/0200
+32
+40
+
+
+
+LONF1 
+(Long Key C-Man)
+(24.8ºN 80.9ºW)
+11/0000
+1008.1
+10/0900
+
+36
+
+
+
+SMKF1 
+(Sombrero Key C-Man)
+(24.6ºN 81.1ºW)
+10/2200
+1008.3
+11/0110
+34
+39
+
+
+
+SANF1 
+(Sand Key C-Man)
+(24.5ºN 81.9ºW)
+10/2200
+1005.5
+10/0010
+32
+38
+
+
+
+SG0F1 
+(Tyndall AFB Tower C)
+(29.4ºN 89.9ºW)
+11/0800
+1004.2
+11/0900
+
+46
+
+
+
+APCF1 
+(Apalachicola C-MAN)
+(29.7ºN 85.0ºW)
+11/1330
+1005.5
+11/1000
+
+38
+
+
+
+SHPF1
+(Shell Point C-MAN)  (30.1ºN 84.3ºW)
+11/1654
+1007.6
+
+
+
+
+
+
+DPIA1
+(Dauphin Island C-MAN)  (30.3ºN 88.1ºW)
+11/1905
+997.8
+11/1520
+35
+43
+
+
+
+42056
+(19.9ºN 85.1ºW)
+09/2217
+1001.7
+09/0450
+
+35
+
+
+
+42036
+(28.5ºN 84.5ºW)
+11/1050
+997.7
+11/0650
+
+41
+
+
+
+42039
+(28.8ºN 86.0ºW)
+11/0650
+1002.5
+11/0350
+
+45
+
+
+
+42040
+(29.2ºN 88.2ºW)
+11/1350
+998.6
+11/1350
+34
+43
+
+
+
+42007
+(30.1ºN 88.8ºW)
+11/1810
+1000.7
+11/1748
+
+37
+
+
+
+a  Date/time is for sustained wind when both sustained and gust are listed.
+b  Except as noted, sustained wind averaging periods for C-MAN and land-based ASOS reports are 2 min; buoy averaging periods are 8 min.
+c  Storm surge is water height above normal astronomical tide level.
+d  Storm tide is water height above National Geodetic Vertical Datum (1929 mean sea level).
+e  2 min average
+f  5 min average
+g 10 min average
+h  Record incomplete due to instrument failure.
+i Water height above mean lower low water.
+
+
+
+
+
+
+
+
+Table. 4.  Preliminary forecast evaluation (heterogeneous sample) for Arlene, 8-13, June 2005.  Forecast errors (n mi) are followed by the number of forecasts in parentheses.  Errors smaller than the NHC official forecast are shown in bold-face type.  Verification includes the depression stage, but does not include the extratropical stage, if any.
+
+
+Forecast Technique
+
+
+Forecast Period (h)
+
+
+
+
+
+12
+
+
+24
+
+
+36
+
+
+48
+
+
+72
+
+
+96
+
+
+120
+
+CLP5
+  51 (14)
+ 118 (14)
+ 191 (13)
+ 286 (11)
+ 534 ( 7)
+ 692 ( 3)
+
+GFNI
+  44 (10)
+  70 (10)
+  83 ( 9)
+ 102 ( 7)
+ 124 ( 3)
+
+
+GFDI
+  40 (14)
+  83 (14)
+ 111 (13)
+ 124 (11)
+ 136 ( 7)
+ 160 ( 3)
+
+GFDL
+  35 (12)
+  69 (12)
+ 108 (12)
+ 134 (10)
+ 127 ( 6)
+ 101 ( 2)
+
+GFDN
+  51 (10)
+  85 (10)
+ 102 (10)
+ 120 ( 8)
+ 151 ( 4)
+
+
+GFSI
+  37 (12)
+  70 (12)
+  96 (11)
+ 186 ( 8)
+ 375 ( 4)
+
+
+GFSO
+  33 (12)
+  60 (12)
+  86 (11)
+ 140 ( 9)
+ 342 ( 5)
+ 479 ( 1)
+
+NGPI
+  38 (10)
+  49 (10)
+  63 ( 9)
+  99 ( 7)
+ 189 ( 3)
+
+
+NGPS
+  43 (12)
+  63 (12)
+  75 (10)
+ 110 ( 8)
+ 221 ( 4)
+
+
+UKMI
+  32 (12)
+  44 (12)
+  54 (11)
+  64 ( 9)
+ 122 ( 5)
+  89 ( 1)
+
+UKM 
+  32 ( 7)
+  35 ( 7)
+  52 ( 6)
+  69 ( 5)
+ 108 ( 3)
+  31 ( 1)
+
+A98E
+  51 (14)
+ 102 (14)
+ 164 (13)
+ 231 (11)
+ 397 ( 7)
+ 521 ( 3)
+
+A9UK
+  45 ( 7)
+  95 ( 7)
+ 149 ( 6)
+ 200 ( 5)
+ 372 ( 3)
+
+
+BAMD
+  45 (14)
+  81 (14)
+ 102 (13)
+ 113 (11)
+ 141 ( 7)
+ 165 ( 3)
+
+BAMM
+  44 (14)
+  91 (14)
+ 137 (13)
+ 165 (11)
+ 203 ( 7)
+ 337 ( 3)
+
+BAMS
+  60 (14)
+ 136 (14)
+ 207 (13)
+ 273 (11)
+ 344 ( 7)
+ 445 ( 3)
+
+CONU
+  34 (12)
+  53 (12)
+  63 (11)
+  85 ( 9)
+  77 ( 5)
+  86 ( 1)
+
+GUNA
+  32 (10)
+  46 (10)
+  62 ( 9)
+  99 ( 7)
+ 100 ( 3)
+
+
+FSSE
+  33 (11)
+  52 (11)
+  57 ( 9)
+  96 ( 8)
+ 140 ( 5)
+
+
+OFCL
+  32 (14)
+  51 (14)
+  67 (12)
+  72 (11)
+ 117 ( 7)
+ 213 ( 3)
+
+
+NHC Official
+(1995-2004 mean)
+
+
+42 (3400)
+
+
+
+75 (3116)
+
+
+
+107 (2848)
+
+
+
+138 (2575)
+
+
+
+202 (2117)
+
+
+
+236 (649)
+
+
+
+
+
+
+
+
+
+
+
+Table 5. Watch and warning summary for Tropical Storm Arlene 8-13 June, 2005.
+
+Date/Time (UTC)
+Action
+Location
+08 / 2100
+Tropical Storm Watch issued
+Western Cuba for the Province of Pinar Del Rio and the Isle of Youth
+ 09 / 0300
+Tropical Storm Warning replaced Tropical Storm Watch 
+Western Cuba for the Province of Pinar Del Rio and the Isle of Youth
+ 09 / 1200
+Tropical Storm Warning extended
+Western Cuba for the Province of Pinar Del Rio, the Isle of Youth, the City of Havana, and the Havana Province. 
+ 09 / 1500
+Tropical Storm Warning issued
+Cayman Islands
+ 09 / 1500
+Tropical Storm Warning issued 
+Dry Tortugas
+ 09 / 2100
+Tropical Storm Warning discontinued
+Cayman Islands
+ 10 / 0900
+Tropical Storm Watch issued
+Morgan City to Indian Pass
+10 / 1500
+Tropical Storm Warning discontinued
+for  Cuba
+ 10 / 1500
+Tropical Storm Warning issued
+Grand Isle to St. Marks including Lake Pontchartrain
+ 10 / 1500
+Hurricane Watch issued
+Pearl River to Panama City
+10/ 2100
+Tropical Storm Warning extended
+Grand Isle to Steinhatchee River including Lake Pontchartrain
+10/ 2100
+Hurricane Watch extended
+Pearl River to Indian Pass
+ 10 / 2100
+Tropical Storm Watch discontinued 
+Morgan City to Grand Isle
+11/ 0300
+Hurricane Warning issued
+Pascagoula to Destin
+11/ 0300
+Tropical Storm Warning discontinued
+Dry Tortugas
+11/ 1500
+Tropical Storm Warning discontinued
+Ochlocknee River to Steinhatchee River
+11/ 2100
+Hurricane Watches and Warnings discontinued
+All
+11/ 2100
+Tropical Storm Warning modified
+Alabama/Mississippi border to Panama City
+12/ 0300
+Tropical Storm Warning discontinued
+All
+
+
+
+
+
+
+
+
+
+
+Figure 1. 	Best track positions for Tropical Storm Arlene 8-13 June, 2005. Positions after 			landfall were adjusted using data from the Hydrometeorological Prediction Center 		(HPC). 
+
+
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve for Arlene, 8-13 June, 2005.  Aircraft observations have been adjusted for elevation using 80%, reduction factors for observations from 1500 ft or less. Wind best track after landfall was completed using HPC estimates.  Vertical black line marks the landfall time.
+
+
+
+
+
+
+
+
+
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Tropical Storm Arlene, 8-13 June, 2005.  Pressure best after landfall was completed using HPC estimates.  Vertical black line marks the landfall time.
+
+
+
+
+
+13
+

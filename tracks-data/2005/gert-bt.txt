@@ -1,0 +1,298 @@
+Tropical Cyclone Report
+Tropical Storm Gert
+23-25 July 2005
+Lixion A. Avila 
+
+National Hurricane Center
+10 August 2005
+
+
+	Tropical Storm Gert made landfall over eastern Mexico bringing heavy rains.
+
+a.	Synoptic History
+
+Gert developed from a prolific tropical wave that moved off the west coast of Africa on 10 July. The wave spawned a well-organized surface low as it moved near the Cape Verde Islands, but the low failed to develop further when it moved northwestward over the cooler waters of the eastern Atlantic and into a strong wind shear environment.  The wave continued westward, producing a marked low- to mid- level cyclonic wind shift in the Lesser Antilles on 18 July. The wave became convectively active as it moved over Puerto Rico and Hispaniola and spawned Tropical Storm Franklin near the Central Bahamas.  The southern portion of the wave continued westward over the central and western Caribbean Sea where thunderstorm activity increased.  Data from Central America and Yucatan indicated that a low pressure area, associated with the wave, formed in the Gulf of Honduras just east of Chetumal, Mexico on 22 July.  The low quickly moved inland over Yucatan with no additional development. It then moved west-northwestward and reached the Bay of Campeche early on the 23rd with a broad circulation lacking deep convection.  The thunderstorm activity developed in bands surrounding the broad inner circulation and it is estimated that a tropical depression formed at 1800 UTC 23 July about 255 n mi east-southeast of Tuxpan, Mexico.  An area of convection developed near the center and it is estimated that the depression became Tropical Storm Gert at 0600 UTC 24 July.  The cyclone continued to develop and reached its maximum intensity of 40 knots, with a minimum pressure of 1005 mb, at 0000 UTC 25 July at landfall, just north of Cabo Rojo, Mexico. Gert continued west-northwestward and then westward, weakened over high terrain, and dissipated by 0000 UTC 26 July. The “best track” chart of the tropical cyclone’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.
+
+
+		Meteorological Statistics
+
+	Observations in Gert (Figs. 2 and 3) include satellite-based Dvorak technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB), the Satellite Analysis Branch (SAB) and the U. S. Air Force Weather Agency (AFWA), as well as flight-level observations from flights of the 53rd Weather Reconnaissance Squadron of the U. S. Air Force Reserve Command. Data from the NOAA P-3, which was conducting a research mission in the Bay of Campeche, was extremely valuable in depicting the circulation and the structure of the incipient cyclone.   Microwave satellite imagery from NOAA polar-orbiting satellites, the NASA Tropical Rainfall Measuring Mission (TRMM), the NASA QuikSCAT, and Defense Meteorological Satellite Program (DMSP) satellites were also useful to track Gert.  
+
+	During the formative stage in the Bay of Campeche, Gert had a large circulation with two or three smaller centers of circulation rotating within the gyre. The mean center of this gyre was used to construct the best track.
+ 
+c.	Casualty and Damage Statistics
+
+	There are no reports of casualties or damage associated with Gert.
+	 
+d.	Forecast and Warning Critique
+
+            The Government of Mexico initially issued a tropical storm warning for eastern Mexico from Palma Sola northward to Cabo Rojo and a tropical storm watch northward to La Cruz at 2100 UTC 23 July.  The tropical storm warning was first extended northward to La Cruz at 0300 UTC 24 July, when data from the NOAA research plane indicated that the cyclone had a large area of strong winds within the circulation. The tropical storm warning was then extended farther northward to La Pesca at 1500 UTC 24 July, because Gert showed potential for additional strengthening and the forecast track was little bit farther to the north than previously indicated. It was always emphasized that the main threat from Gert was rainfall, especially in areas affected by Hurricane Emily a few days before. 
+
+	There were few verifying forecasts and these are included in Table 2.  In general, both the official forecast and model guidance indicated the genesis and intensification of Gert prior to landfall, as well as a general west-northwest track toward Mexico.  Gert’s track forecast errors were smaller than the average official track errors for the 10-yr period 1995-2004. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 1.	Best track for Tropical Storm Gert, 23-25 June 2005.
+
+
+Date/Time
+(UTC)
+
+Latitude
+(?N)
+
+Longitude
+(?W)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+23 / 1800
+19.3
+ 92.9
+1011
+ 25
+ tropical depression  
+24 / 0000
+19.8
+ 93.8
+1009
+ 30
+           "          
+24 / 0600
+20.8
+ 95.0
+1009
+ 35
+    tropical storm    
+24 / 1200
+21.0
+ 95.8
+1008
+ 35
+           "          
+24 / 1800
+21.4
+ 96.6
+1007
+ 35
+           "          
+25 / 0000
+21.8
+ 97.6
+1005
+ 40
+           "          
+25 / 0600
+22.3
+ 98.6
+1006
+ 30
+ tropical depression  
+25 / 1200
+22.5
+100.0
+1006
+ 25
+           "          
+25 / 1800
+22.5
+101.4
+1007
+ 20
+         low          
+26 / 0000 
+
+
+
+
+     dissipated
+25 / 0000
+21.8
+ 97.6
+1005
+ 40
+ Landfall just north of Cabo Rojo,Mexico       
+25 / 0000
+21.8
+ 97.6
+1005
+ 40
+   minimum pressure
+   
+   
+   
+Table. 2.  Preliminary forecast evaluation (heterogeneous sample) for Gert, 23-25, July 2005.  Forecast errors (n mi) are followed by the number of forecasts in parentheses.  Errors smaller than the NHC official forecast are shown in bold-face type.  Verification includes the depression stage.
+
+Forecast Technique
+
+
+Forecast Period (h)
+
+
+
+
+
+12
+
+
+24
+
+
+36
+
+CLP5
+ 42 ( 6)
+ 74 ( 4)
+125 ( 2)
+GFNI
+ 89 ( 4)
+ 87 ( 2)
+
+GFDI
+ 66 ( 6)
+ 95 ( 4)
+102 ( 2)
+GFDL
+ 70 ( 6)
+ 15 ( 4)
+162 ( 2)
+GFDN
+ 79 ( 5)
+ 41 ( 2)
+274 ( 1)
+GFSI
+ 37 ( 5)
+ 21 ( 1)
+ 64 ( 1)
+GFSO
+ 78 ( 6)
+ 61 ( 3)
+ 21 ( 1)
+NGPI
+ 68 ( 6)
+ 91 ( 4)
+122 ( 2)
+NGPS
+ 53 ( 5)
+ 97 ( 3)
+155 ( 1)
+UKMI
+ 48 ( 4)
+ 79 ( 2)
+
+UKM 
+ 52 ( 3)
+ 73 ( 2)
+106 ( 1)
+A98E
+ 38 ( 6)
+ 36 ( 4)
+ 33 ( 2)
+A9UK
+ 32 ( 3)
+ 29 ( 2)
+ 38 ( 1)
+BAMD
+ 34 ( 6)
+ 60 ( 4)
+ 76 ( 2)
+BAMM
+ 35 ( 6)
+ 50 ( 4)
+ 64 ( 2)
+BAMS
+ 35 ( 6)
+ 42 ( 4)
+ 46 ( 2)
+CONU
+ 52 ( 6)
+ 89 ( 4)
+101 ( 2)
+GUNA
+ 37 ( 4)
+
+
+FSSE
+ 39 ( 3)
+ 74 (1)
+
+OFCL
+ 34 (6)
+ 55 (4)
+ 95(2)
+NHC Official (1995-2004) mean 
+42(3400)
+75(3116)
+107(2848)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. 	Best track positions for Tropical Storm Gert 23-25 July, 2005. 
+
+
+
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve for Gert, 23-25 July, 2005.  Aircraft observations have been adjusted for elevation using 80%, reduction factors for observations from 1500 ft or less.  Vertical black line marks the landfall time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Tropical Storm Gert, 23-25 July, 2005.  Vertical black line marks the landfall time.
+
+
+
+
+
+7
+

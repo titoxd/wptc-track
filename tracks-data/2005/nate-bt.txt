@@ -1,0 +1,688 @@
+Tropical Cyclone Report
+Hurricane Nate
+5-10 September 2005
+
+Stacy R. Stewart
+National Hurricane Center
+29 November 2005
+
+
+	Nate was a category 1 hurricane (on the Saffir-Simpson Hurricane Scale) that briefly threatened Bermuda before merging with an extratropical low pressure system over the central Atlantic Ocean.
+
+
+
+
+	Synoptic History
+
+	Nate’s origin was the result of a complex interaction between a tropical wave and a broad upper-level low pressure system located northeast of the Bahamas. The incipient wave moved off the west coast of Africa on 30 August and maintained a vigorous area of convection along the wave axis as it moved westward across the far eastern Atlantic. However, by 1 September most of the deep thunderstorm activity had been stripped away by strong southwesterly winds ahead of a sharp mid- to upper-level trough that extended southward from the central Atlantic Ocean into the deep tropics. Despite the lack of convection, the wave remained well-defined as it moved west-northwestward. The wave fragmented into two pieces, with the northern portion of the wave passing between the Leeward Islands and Hurricane Maria on 3 September, while the innocuous southern portion of the wave moved westward into the Caribbean Sea. By early on 4 September, the northern portion of the wave began to interact with a large but weak upper-level low and elongated surface trough located about midway between Bermuda and the northern Leeward Islands. Low vertical wind shear conditions in the northeast quadrant of the upper-level low allowed for convection to redevelop and organize along the wave axis. This prompted the commencement of satellite classifications at 1200 UTC that same day. Convective banding features gradually formed around the periphery of a broad surface low pressure system and, based on conventional and QuikSCAT satellite data, it is estimated that a tropical depression formed at 1800 UTC 5 September about 305 n mi south-southwest of Bermuda. The “best track” chart of the tropical cyclone’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.
+
+	The cyclone drifted northeastward toward Bermuda for the next two days. Weak wind shear allowed the cyclone to steadily strengthen into a tropical storm just 6 h later and into a hurricane at 1200 UTC 7 September about 225 n mi south-southwest of Bermuda. The large mid- to upper-tropospheric low northeast of the Bahamas gradually opened up into a broad trough as a strong shortwave trough approached the low from the northwest. The larger mid-tropospheric trough gradually became elongated northeast to southwest on late on 7 September as the sharp shortwave trough dug southward along the west side of the synoptic-scale trough. After crawling along at less than 5 kt for nearly 3 days, the increasing southwesterly flow on the southeast side of the broad trough caused Nate to accelerate northeastward at a faster forward speed of 10-15 kt, passing about 110 n mi southeast of Bermuda at 1200 UTC 8 September. The increasing vertical wind shear ahead of the strong shortwave trough also slowed the intensification process and Nate struggled to reach its peak intensity of 80 kt at 0000 UTC 9 September. Later that day, Nate turned east-northeastward and continued to accelerate, reaching a forward speed of 28 kt at times. Unfavorable vertical wind shear and an abundance of mid-level dry air gradually began to take its toll, and Nate weakened to a tropical storm by 1800 UTC that same day. Slow weakening continued as the shear ahead of the approaching deep-layer trough and associated cold front continued to increase. By 1800 UTC 10 September, all the convection had been stripped away and Nate became an extratropical low pressure system about 700 n mi west of the Azores Islands. Shortly thereafter, the remnant low pressure merged with a weak stationary front that extended southwestward from extratropical cyclone Maria that was located about 750 n mi northeast of Nate. Extratropical Nate moved northeastward along the frontal boundary as a gale center for the next 2 days, and was absorbed by a larger extratropical low pressure system and frontal zone by 0000 UTC 13 September about 240 n mi north-northeast of the Azores Islands.
+
+	Meteorological Statistics
+
+	Observations in Hurricane Nate (Figs. 2 and 3) include satellite-based Dvorak technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB), the Satellite Analysis Branch (SAB) and the U. S. Air Force Weather Agency (AFWA), as well as flight-level and dropwindsonde observations from flights of the 53rd Weather Reconnaissance Squadron of the U. S. Air Force Reserve Command.  Microwave satellite imagery from NOAA polar-orbiting satellites, the NASA Tropical Rainfall Measuring Mission (TRMM), the NASA QuikSCAT, and Defense Meteorological Satellite Program (DMSP) satellites were also useful in tracking Nate.
+
+When it appeared that Nate was going to pass close to Bermuda as a hurricane on 8-9 September, the 53rd Weather Reconnaissance Squadron was tasked to assess Nate’s intensity and the horizontal extent of tropical storm-force winds in the northern semicircle. Due to the considerable flight distance involved, only two center fixes could be made. The maximum flight-level wind measured by the aircraft at 700 mb was 85 kt in the southeastern quadrant at 0610 UTC 8 September. Those winds equate to approximately 77 kt surface winds, which confirmed the satellite-based intensity estimate of 75 kt that had been used in the previous two operational forecasts. The minimum aircraft-reported central pressure was 982 mb at 0748 UTC 8 September. The maximum intensity of 80 kt is based on both conventional and microwave satellite signatures, which showed significant improvement after the reconnaissance flight. Later that day, a cloud-filled eye became evident in visible imagery (not shown) and a well-defined eye became evident in a 2358 UTC SSMI microwave overpass (Fig. 4). The 80-kt peak intensity is also consistent with a University of Wisconsin-Cooperative Institute for Meteorological Satellite Studies (UW-CIMSS) AMSU intensity estimate of 80 kt at 0632 UTC 9 September.
+
+	There were only two ship reports of tropical storm-force winds associated with Hurricane Nate. The Maersk New Orleans (call sign ELZY3), located about 180 n mi north of Nate, reported an east-northeast wind of 41 kt at 1200 UTC 8 September, and a ship with call sign WCZ858, located about 150 n mi east-southeast of the Nate’s center, reported a south-southwest wind of 35 kt at 0600 UTC 10 September. That same day on Bermuda, a 2-minute average wind of 30 kt from the east was observed at 1130 UTC, followed by a gust to 42 kt at 1525 UTC. Additional information pertaining to Nate’s effects on Bermuda can be found in Table 2.
+
+	Casualty and Damage Statistics
+	
+	There were no reports of damages or casualties associated with Hurricane Nate.
+
+	Forecast and Warning Critique
+
+	Average official track errors (with the number of cases in parentheses) for Hurricane Nate were 41 (18), 72 (16), 118 (14), 170 (12), 370 (8), and 754 (4) n mi for the 12, 24, 36, 48, 72, and 96 h forecasts, respectively.  These errors are near normal through 24 h, but were larger than the average official track errors in 36-96 h for the 10-yr period 1995-2004
+
+ 	Errors given for the 96 and 120 h periods are averages over the four-year period 2001-4.  [42, 75, 107, 138, 202, and 236 n mi, respectively, (Table 3)]. The large track errors in the latter periods are due to the first few forecasts that took Nate westward, and then north and northeastward on a small, slow clockwise track. These forecasts were consistent with the majority of the available computer model guidance, and subsequent forecasts maintained continuity with the slower official forecasts, which resulted in the large track errors. However, once it became apparent by 1200 UTC 6 September that Nate was not going to remain south of Bermuda as long as originally expected, official track forecast speeds were increased. This resulted in a decrease in forecast errors by more than 50% percent at 72 and 96 h.
+
+	Average official intensity errors were 3, 7, 10, 13, 17, and 10 kt for the 12, 24, 36, 48, 72, and 96 h forecasts, respectively.  For comparison, the average official intensity errors over the 10-yr period 1995-2004 are 6, 10, 12, 15, 18, and 20 kt, respectively. These errors are smaller than average, although the first few intensity forecasts were too low since less strengthening was expected. 
+
+	Tropical storm watches and warnings, as well as a hurricane watch, were issued for Bermuda on 7 September (Table 4), when official forecasts were indicating Nate could pass over or very close to the island on 8-9 September. However, the abrupt turn to the east-northeast early on 8 September spared Bermuda the cyclone’s brunt as Nate passed more than 100 n mi to the southeast later that day.
+
+Acknowledgements
+
+	Weather data from Bermuda and the immediate marine area was provided by the Bermuda Weather Service.
+
+ Table 1.	Best track for Hurricane Nate, 5-10 September 2005.
+
+Date/Time
+(UTC)
+
+Latitude
+(oN)
+
+Longitude
+(oW)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+05 / 1800
+28.4
+67.0
+1008
+30
+tropical depression
+06 / 0000
+28.4
+66.6
+1005
+35
+tropical storm
+06 / 0600
+28.5
+66.5
+1002
+40
+"
+06 / 1200
+28.5
+66.5
+1000
+50
+"
+06 / 1800
+28.6
+66.4
+997
+50
+"
+07 / 0000
+28.7
+66.3
+994
+55
+"
+07 / 0600
+28.7
+66.3
+990
+60
+"
+07 / 1200
+28.9
+66.2
+987
+65
+hurricane
+07 / 1800
+29.3
+66.0
+985
+70
+"
+08 / 0000
+29.6
+65.7
+984
+75
+"
+08 / 0600
+30.0
+65.0
+982
+75
+"
+08 / 1200
+30.5
+63.8
+982
+75
+"
+08 / 1800
+31.4
+62.7
+982
+75
+"
+09 / 0000
+32.6
+61.1
+979
+80
+"
+09 / 0600
+33.4
+59.1
+985
+70
+"
+09 / 1200
+34.0
+55.8
+986
+65
+"
+09 / 1800
+34.5
+53.4
+991
+55
+tropical storm
+10 / 0000
+34.7
+50.8
+997
+55
+"
+10 / 0600
+34.6
+49.0
+997
+45
+"
+10 / 1200
+34.5
+45.9
+997
+45
+"
+10 / 1800
+34.9
+44.1
+997
+45
+extratropical
+11 / 0000
+35.2
+42.1
+999
+40
+"
+11 / 0600
+36.0
+40.6
+1000
+40
+"
+11 / 1200
+37.4
+38.3
+1001
+40
+"
+11 / 1800
+39.2
+35.6
+1001
+40
+"
+12 / 0000
+41.6
+33.3
+1002
+40
+"
+12 / 0600
+43.5
+32.0
+1002
+35
+"
+12 / 1200
+44.0
+28.1
+1003
+35
+"
+12 / 1800
+46.0
+25.0
+1003
+35
+"
+13 / 0000
+
+
+
+
+merged with larger extratropical low
+09 / 0000
+32.6
+61.1
+979
+80
+minimum pressure
+
+Table 2.    Selected surface observations for Hurricane Nate, 5-10 September 2005.
+Location
+Minimum Sea Level Pressure
+Maximum Surface
+Wind Speed
+Storm surge
+(ft)c
+Storm
+tide
+(ft)d
+Total
+rain
+(in)
+
+Date/
+time
+(UTC)
+Press.
+(mb)
+Date/
+time
+(UTC)a
+Sustained
+(kt)b
+Gust
+(kt)
+
+
+
+Bermuda
+
+
+
+
+
+
+
+
+Bermuda IAP (TXKF)
+08/1755 e
+1008.2
+08/1130
+30 f
+
+
+
+0.94
+Bermuda IAP (TXKF)
+
+
+08/1525
+
+42
+
+
+
+Offshore Platform (60 ft ASL)
+
+
+08/1149
+38 f
+
+
+
+
+Site at west end of  Bermuda
+(120 ft ASL)
+
+
+08/1418
+39 f
+
+
+
+
+Site at west end of  Bermuda
+(120 ft ASL)
+
+
+08/1545
+
+50
+
+
+
+a  Date/time is for sustained wind when both sustained and gust are listed.
+b  Except as noted, sustained wind averaging periods for Coastal-Marine Automated Network 
+    (C-MAN) and land-based ASOS reports are 2 min; buoy averaging periods are 8 min.
+c  Storm surge is water height above normal astronomical tide level.
+d  Storm tide is water height above National Geodetic Vertical Datum (1929 mean sea level).
+e  last of multiple occurrences
+f  2-minute average
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 3.	Preliminary forecast evaluation (heterogeneous sample) for Hurricane Nate, 5-10 
+September 2005.  Forecast errors (n mi) are followed by the number of forecasts in parentheses. 
+ Errors smaller than the NHC official forecast are shown in bold-face type.  Verification includes
+ the depression stage, but does not include the extratropical stage, if any.
+
+Forecast Technique
+
+
+Forecast Period (h)
+
+
+
+
+
+12
+
+
+24
+
+
+36
+
+
+48
+
+
+72
+
+
+96
+
+
+120
+
+CLP5
+  60 (18)
+ 129 (16)
+ 214 (14)
+ 318 (12)
+ 515 ( 8)
+ 699 ( 4)
+
+GFNI
+  39 (16)
+  76 (14)
+ 140 (12)
+ 213 (10)
+ 396 ( 6)
+ 801 ( 2)
+
+
+
+GFDI
+  45 (18)
+  78 (16)
+ 117 (14)
+ 173 (12)
+ 367 ( 8)
+ 700 ( 4)
+
+
+
+GFDL *
+  50 (18)
+  82 (16)
+ 119 (14)
+ 166 (12)
+ 322 ( 8)
+ 604 ( 4)
+
+
+
+GFDN
+  42 (16)
+  67 (14)
+ 112 (12)
+ 186 (10)
+ 373 ( 6)
+ 716 ( 3)
+
+
+
+GFSI
+  47 (17)
+  74 (15)
+ 100 (13)
+ 129 (11)
+ 293 ( 7)
+ 415 ( 3)
+
+
+
+GFSO *
+  48 (18)
+  79 (16)
+  98 (14)
+ 143 (12)
+ 274 ( 7)
+ 419 ( 4)
+
+
+
+AEMI
+  46 (17)
+  79 (15)
+ 119 (13)
+ 163 (11)
+ 323 ( 7)
+ 497 ( 2)
+
+NGPI
+  41 (18)
+  74 (16)
+ 124 (14)
+ 175 (12)
+ 248 ( 7)
+ 558 ( 3)
+
+NGPS *
+  42 (18)
+  64 (16)
+ 108 (14)
+ 160 (12)
+ 206 ( 7)
+ 320 ( 3)
+
+UKMI
+  42 (16)
+  69 (14)
+ 103 (12)
+ 141 (10)
+ 278 ( 6)
+ 425 ( 2)
+
+UKM  *
+  57 ( 9)
+  82 ( 8)
+ 112 ( 7)
+ 139 ( 6)
+ 266 ( 4)
+ 446 ( 2)
+
+A98E
+  57 (18)
+  87 (16)
+ 118 (14)
+ 141 (12)
+ 269 ( 8)
+ 484 ( 4)
+
+A9UK
+  61 ( 8)
+ 101 ( 7)
+ 167 ( 7)
+ 209 ( 6)
+ 389 ( 4)
+
+
+BAMD   
+  50 (18)
+  81 (16)
+ 107 (14)
+ 158 (12)
+ 299 ( 8)
+ 307 ( 4)
+
+BAMM  
+  54 (18)
+  94 (16)
+ 129 (14)
+ 184 (12)
+ 386 ( 8)
+ 727 ( 4)
+
+BAMS
+  68 (18)
+ 139 (16)
+ 230 (14)
+ 312 (12)
+ 624 ( 8)
+1074 ( 4)
+
+CONU
+  38 (18)
+  69 (16)
+ 117 (14)
+ 170 (12)
+ 328 ( 8)
+ 628 ( 4)
+
+GUNA
+  39 (16)
+  64 (14)
+ 102 (12)
+ 139 (10)
+ 267 ( 6)
+ 415 ( 2)
+
+FSSE
+  34 (16)
+  53 (14)
+ 102 (12)
+ 144 (10)
+ 278 ( 6)
+ 748 ( 1)
+
+OFCL
+  41 (18)
+  72 (16)
+ 118 (14)
+ 170 (12)
+ 370 ( 8)
+ 754 ( 4)
+
+
+NHC Official
+(1995-2004 mean)
+
+
+42 
+
+(3400)
+
+
+
+75 
+
+(3116)
+
+
+
+107
+
+ (2848)
+
+
+
+138
+
+ (2575)
+
+
+
+202
+
+ (2117)
+
+
+
+236 
+
+(649)
+
+
+
+310 
+
+(535)
+
+
+*Output from these models was unavailable at forecast time.
+Errors given for the 96 and 120 h periods are averages over the four-year period 2001-4Table 4.	Watch and warning summary for Hurricane Nate, 5-10 September 2005.
+Date/Time (UTC)
+
+Action
+
+Location
+ 7 / 0900
+Tropical Storm Watch issued
+Bermuda
+ 7 / 1500
+Tropical Storm Watch changed to Tropical Storm Warning
+Bermuda
+ 7 / 1500
+Tropical Storm Watch changed to Hurricane Watch
+Bermuda
+ 8 / 0900
+Hurricane Watch changed to Tropical Storm Warning
+Bermuda
+ 8 / 2100
+Tropical Storm Warning discontinued
+Bermuda
+
+
+
+
+Figure 1.	Best track positions for Hurricane Nate, 5-10 September 2005. 
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve 
+for Hurricane Nate, 5-10 September 2005.  Aircraft observations have been adjusted for elevation using 
+a 90% adjustment factor for observations from 700 mb. 
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for 
+Hurricane Nate, 5-10 September 2005. 
+
+Figure 4.	DMSP SSMI microwave image at 2358 UTC 8 September when Nate was near
+its peak intensity of 80 kt. Note the well-defined eye that was just beginning to show signs of 
+convective erosion on the south side due to increasing southwesterly vertical wind shear (image 
+courtesy of U.S. Navy  Fleet Numerical Meteorology and Oceanography Center, Monterey, CA).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12
+
+
+

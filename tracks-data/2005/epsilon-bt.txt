@@ -1,0 +1,580 @@
+Tropical Cyclone Report
+Hurricane Epsilon
+29 November – 8 December 2005
+
+James L. Franklin
+National Hurricane Center
+7 January 2006
+
+
+	Epsilon, the 26th named tropical cyclone of the 2005 hurricane season, developed from a non-tropical upper-level area of low pressure in the central subtropical Atlantic, becoming the second tropical cyclone to do so in this area within the span of a week.   It was only the sixth hurricane on record in the month of December.
+
+
+
+
+
+	Synoptic History
+
+	 Late on 27 November a surface gale center developed beneath a non-tropical upper-level area of low pressure about 1000 n mi east of Bermuda.  At this time a stationary front extended from just north of the surface low eastward to the vicinity of Tropical Storm Delta, which was then beginning to lose tropical characteristics.  The surface low began to separate from the frontal zone the following day, but as it did so the associated non-frontal convection was limited and poorly organized.  Very early on 29 November, however, a burst of deep convection developed just north of the surface low center, and by 1500 UTC had wrapped completely around the center into a ring not more than 40 n mi across.  Based on the development of this organized core convection, and the presumption that the convection was co-located with the system’s radius of maximum wind, it is assessed that the low became a tropical storm near 0600 UTC 29 November.   The “best track” chart of the tropical cyclone’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.
+
+	After becoming a tropical storm, Epsilon moved west-southwestward along the southern periphery of a high-latitude ridge.  Initially, Epsilon was embedded within the upper low from which it formed, and this provided a weak-shear and unstable environment conducive to modest strengthening.  Epsilon developed a ragged eye and its winds reached 55 kt on 30 November.  Still embedded within the upper low, Epsilon then executed a cyclonic loop on 1 December with little change in strength as a deep-layer trough approached from the western Atlantic.  The upper-low then weakened, leaving Epsilon in a light west-southwesterly flow ahead of the approaching trough.  Moving northeastward, Epsilon strengthened over 22?C waters and became a hurricane at 1800 UTC 2 December, about 850 n mi east-northeast of Bermuda.
+
+	Epsilon turned eastward on 3 December, remaining south of the main belt of strong westerlies.  Anticyclonic outflow developed in the northern semicircle and the hurricane took on an annular appearance with a large 30-35 n mi diameter eye.   Little change in structure or strength occurred over the next two days as Epsilon continued leisurely eastward over cool waters, with Epsilon’s estimated peak intensity of 75 kt occurring early on 5 December.  Late that day, the frontal zone associated with the deep-layer trough passed just north of Epsilon, and with high pressure building behind this trough, Epsilon’s eastward motion began to slow.   Epsilon turned southwestward to the south of the building ridge on 6 December, maintaining hurricane strength along with its large eye in the weak-shear environment to the south of the ridge.   On the following day, however, strong upper-level northwesterly flow swept over the tropical cyclone, disrupting the eye and displacing the deep convection to the southeast of the center.   After spending five days as a hurricane - a record for December - Epsilon weakened to a tropical storm at 1800 UTC 7 December about 800 n mi southwest of the Azores.  The strong shear continued, and stripped Epsilon of its deep convection early on 8 December.  Epsilon weakened to a tropical depression at 1200 UTC that day and had degenerated to a remnant low by 1800 UTC.  On 9 December, the remnant circulation began to elongate in advance of an approaching frontal zone and the circulation dissipated later that day.  
+
+
+	Meteorological Statistics
+
+	Observations in Epsilon (Figs. 2 and 3) include satellite-based Dvorak technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB), the Satellite Analysis Branch (SAB) and the U. S. Air Force Weather Agency (AFWA).  Microwave satellite imagery from NOAA polar-orbiting satellites, the NASA Tropical Rainfall Measuring Mission (TRMM), the NASA QuikSCAT, and Defense Meteorological Satellite Program (DMSP) satellites were also useful in tracking Epsilon. 
+
+	Prior to becoming a tropical storm, Epsilon’s satellite appearance resembled some classic Hebert-Poteat subtropical cyclones, and a case can be made for classifying Epsilon as subtropical late on 28 November.  However, subtropical cyclones are by definition non-frontal, and it is judged here that the system did not have enough organized non-frontal convection prior to 0600 UTC 29 November to consider the low either a subtropical or tropical cyclone.
+
+	Epsilon’s satellite presentation oscillated within a fairly narrow range over a 5-day period, with subjective Dvorak T-numbers ranging between T3.5 (55 kt) and T4.5 (77 kt).  At one point during this time, Epsilon was operationally downgraded to a tropical storm.  Considerable smoothing to the operational intensity estimates has been applied.  QuikSCAT data (particularly on 2 and 3 December) suggest that Epsilon might have been a little weaker than assessed here, but due to the resolution of the instrument the data are not conclusive.   The peak intensity is assigned to 0600-1200 UTC 5 December, to coincide with the time of the highest objective Dvorak classification of T4.7.  Epsilon’s estimated peak wind of 75 kt is a little below the nominal wind corresponding to a T4.7 (Fig. 2); this assessment is based on the presumption that the relatively cool sea-surface temperatures and shallow convection might result in surface winds slightly lower than normal for this classification.  
+
+	There were no ship reports of winds of tropical storm force associated directly with the circulation of Epsilon, although there were reports of gales associated with the antecedent non-tropical area of low pressure.	
+								
+
+	Casualty and Damage Statistics
+	
+	There were no reports of damage or casualties associated with Epsilon.
+
+
+	Forecast and Warning Critique
+
+	NHC Tropical Weather Outlooks first mentioned the precursor area of low pressure about 30 h prior to the first advisory on Epsilon, indicating that the low had some potential for tropical or subtropical development.
+
+	Average official track errors (with the number of cases in parentheses) for Epsilon were 29 (35), 53 (33), 75 (31), 94 (29), 152 (25), 293 (21), and 544 (17) n mi for the 12, 24, 36, 48, 72, 96, and 120 h forecasts, respectively.  These errors are lower than the average official track errors for the 10-yr period 1995-2004
+
+ 	Errors given for the 96 and 120 h periods are averages over the four-year period 2001-4.  through 72 h, and higher than the long-term means thereafter (Table 4).  The large errors at the longer ranges resulted from early forecasts that failed to anticipate the southwestward turn.  Of the primary guidance models, the UKMI was the first to indicate this turn would occur.  The BAMM also performed very well with Epsilon.
+
+	Average official intensity errors were 8, 11, 16, 22, 23, 24, and 24 kt for the 12, 24, 36, 48, 72, 96, and 120 h forecasts, respectively.  For comparison, the average official intensity errors over the 10-yr period 1995-2004 are 6, 10, 12, 15, 18, 20, and 22 kt, respectively.  Virtually all the forecasts at 24 h and beyond had a significant low bias, as they consistently predicted weakening much earlier than what was observed.   The GFDI did a good job forecasting that Epsilon would maintain its strength over cooler waters in an otherwise favorable thermodynamic environment.  The SHIPS model, which had even larger biases than the official forecast, likely overestimated the actual shear directly over Epsilon.
+
+
+Table 1.	Best track for Hurricane Epsilon, 29 November - 8 December 2005.
+
+
+Date/Time
+(UTC)
+
+Latitude
+(EN)
+
+Longitude
+(EW)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+29 / 0600
+31.5
+ 49.2
+ 993
+ 45
+tropical storm
+29 / 1200
+31.6
+ 50.0
+ 993
+ 45
+"
+29 / 1800
+31.4
+ 50.8
+ 993
+ 45
+"
+30 / 0000
+31.4
+ 51.5
+ 993
+ 45
+"
+30 / 0600
+31.1
+ 52.5
+ 992
+ 50
+"
+30 / 1200
+30.8
+ 53.5
+ 991
+ 55
+"
+30 / 1800
+30.1
+ 54.2
+ 991
+ 50
+"
+01 / 0000
+29.7
+ 53.8
+ 992
+ 50
+"
+01 / 0600
+30.0
+ 52.7
+ 992
+ 50
+"
+01 / 1200
+30.8
+ 51.9
+ 992
+ 50
+"
+01 / 1800
+31.4
+ 51.3
+ 991
+ 55
+"
+02 / 0000
+31.9
+ 50.6
+ 991
+ 55
+"
+02 / 0600
+32.5
+ 49.8
+ 990
+ 55
+"
+02 / 1200
+33.2
+ 48.9
+ 989
+ 60
+"
+02 / 1800
+33.9
+ 47.9
+ 987
+ 65
+hurricane
+03 / 0000
+34.3
+ 47.1
+ 987
+ 65
+"
+03 / 0600
+34.5
+ 46.2
+ 987
+ 65
+"
+03 / 1200
+34.5
+ 45.0
+ 987
+ 65
+"
+03 / 1800
+34.5
+ 43.7
+ 987
+ 65
+"
+04 / 0000
+34.3
+ 42.3
+ 987
+ 65
+"
+04 / 0600
+34.4
+ 41.1
+ 987
+ 65
+"
+04 / 1200
+34.3
+ 39.8
+ 984
+ 70
+"
+04 / 1800
+34.3
+ 38.8
+ 985
+ 70
+"
+05 / 0000
+34.2
+ 37.8
+ 985
+ 70
+"
+05 / 0600
+34.0
+ 36.7
+ 981
+ 75
+"
+05 / 1200
+33.8
+ 35.5
+ 981
+ 75
+"
+05 / 1800
+33.7
+ 34.6
+ 985
+ 70
+"
+06 / 0000
+33.4
+ 33.8
+ 986
+ 65
+"
+06 / 0600
+33.1
+ 33.7
+ 986
+ 65
+"
+06 / 1200
+32.3
+ 33.7
+ 987
+ 65
+"
+06 / 1800
+31.6
+ 34.2
+ 987
+ 65
+"
+07 / 0000
+30.8
+ 34.9
+ 987
+ 65
+"
+07 / 0600
+30.1
+ 36.0
+ 987
+ 65
+"
+07 / 1200
+29.4
+ 37.1
+ 987
+ 65
+"
+07 / 1800
+28.7
+ 38.1
+ 991
+ 60
+tropical storm
+08 / 0000
+28.2
+ 38.8
+ 997
+ 50
+"
+08 / 0600
+27.4
+ 39.3
+1003
+ 35
+"
+08 / 1200
+26.5
+ 40.0
+1005
+ 30
+tropical depression
+08 / 1800
+25.9
+ 40.5
+1006
+ 30
+low
+09 / 0000
+25.5
+ 40.6
+1007
+ 30
+"
+09 / 0600
+25.1
+ 40.4
+1008
+ 25
+"
+09 / 1200
+24.7
+ 40.1
+1009
+ 25
+"
+09 / 1800
+24.7
+ 39.2
+1009
+ 25
+"
+10 / 0000
+
+
+
+
+dissipated
+05 / 0600
+34.0
+ 36.7
+ 981
+ 75
+minimum pressure
+   
+   
+
+Table 2.	Preliminary forecast evaluation (heterogeneous sample) for Hurricane Epsilon, 29 November - 8 December 2005.  Forecast errors (n mi) are followed by the number of forecasts in parentheses.  Errors smaller than the NHC official forecast are shown in bold-face type.  Verification includes the depression stage, but does not include the extratropical stage, if any.  Table includes only guidance available at forecast time.
+
+
+Forecast Technique
+
+
+Forecast Period (h)
+
+
+
+
+
+12
+
+
+24
+
+
+36
+
+
+48
+
+
+72
+
+
+96
+
+
+120
+
+CLP5
+47 (35)
+114 (33)
+206 (31)
+314 (29)
+431 (25)
+592 (21)
+754 (17)
+GFNI
+32 (33)
+58 (31)
+85 (29)
+120 (27)
+234 (23)
+424 (19)
+569 (13)
+GFDI
+27 (34)
+47 (32)
+69 (30)
+96 (28)
+188 (23)
+405 (19)
+687 (13)
+GFSI
+29 (34)
+48 (32)
+61 (30)
+85 (28)
+160 (23)
+299 (18)
+561 (12)
+AEMI
+27 (34)
+45 (32)
+63 (30)
+91 (28)
+187 (24)
+338 (20)
+438 (16)
+NGPI
+35 (34)
+61 (32)
+90 (30)
+119 (28)
+205 (24)
+275 (20)
+320 (16)
+UKMI
+45 (32)
+82 (30)
+119 (28)
+150 (24)
+179 (16)
+223 (12)
+292 ( 6)
+A98E
+43 (35)
+95 (33)
+141 (31)
+189 (29)
+285 (25)
+406 (21)
+566 (17)
+A9UK
+46 (18)
+112 (17)
+184 (16)
+240 (15)
+323 (13)
+
+
+BAMD
+59 (34)
+112 (32)
+153 (30)
+186 (28)
+304 (25)
+601 (21)
+1133 (17)
+BAMM
+28 (35)
+54 (33)
+77 (31)
+94 (29)
+142 (25)
+194 (21)
+266 (17)
+BAMS
+42 (35)
+78 (33)
+119 (31)
+156 (29)
+214 (25)
+218 (21)
+206 (17)
+CONU
+29 (34)
+50 (32)
+73 (30)
+96 (28)
+182 (24)
+312 (20)
+450 (16)
+GUNA
+30 (32)
+51 (30)
+71 (28)
+94 (24)
+142 (16)
+279 (11)
+567 ( 4)
+FSSE
+33 (32)
+58 (30)
+78 (25)
+97 (15)
+65 ( 6)
+85 ( 2)
+315 ( 2)
+OFCL
+29 (35)
+53 (33)
+75 (31)
+94 (29)
+152 (25)
+293 (21)
+544 (17)
+
+NHC Official
+(1995-2004 mean)
+
+
+42
+
+(3400)
+
+75 
+
+(3116)
+
+107
+
+(2848)
+
+
+
+138
+
+ (2575)
+
+
+
+202
+
+ (2117)
+
+
+
+236 
+
+(649)
+
+
+
+310 
+
+(535)
+
+
+
+
+
+
+
+
+Figure 1.	Best track positions for Hurricane Epsilon, 29 November - 8 December 2005.  
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Epsilon, 29 November - 8 December 2005.  
+
+
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Hurricane Epsilon, 29 November - 8 December 2005. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+
+
+

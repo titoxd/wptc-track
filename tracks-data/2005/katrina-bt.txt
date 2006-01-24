@@ -1,0 +1,4296 @@
+Tropical Cyclone Report
+Hurricane Katrina
+23-30 August 2005
+
+Richard D. Knabb, Jamie R. Rhome, and Daniel P. Brown
+National Hurricane Center
+20 December 2005
+
+
+Katrina was an extraordinarily powerful and deadly hurricane that carved a wide swath of catastrophic damage and inflicted large loss of life.  It was the costliest and one of the five deadliest hurricanes to ever strike the United States.  Katrina first caused fatalities and damage in southern Florida as a Category 1 hurricane on the Saffir-Simpson Hurricane Scale.  After reaching Category 5 intensity over the central Gulf of Mexico, Katrina weakened to Category 3 before making landfall on the northern Gulf coast.  Even so, the damage and loss of life inflicted by this massive hurricane in Louisiana and Mississippi were staggering, with significant effects extending into the Florida panhandle, Georgia, and Alabama.  Considering the scope of its impacts, Katrina was one of the most devastating natural disasters in United States history.
+
+
+
+
+
+	Synoptic History
+
+The complex genesis of Katrina involved the interaction of a tropical wave, the middle tropospheric remnants of Tropical Depression Ten, and an upper tropospheric trough.  This trough, located over the western Atlantic and the Bahamas, produced strong westerly shear across Tropical Depression Ten, causing it to degenerate on 14 August approximately 825 n mi east of Barbados.   The low-level circulation gradually weakened while continuing westward, and it eventually dissipated on 21 August in the vicinity of Cuba.  Meanwhile, a middle tropospheric circulation originating from Tropical Depression Ten lagged behind and passed north of the Leeward Islands on 18-19 August.  A tropical wave moved through the Leeward Islands and merged with the middle tropospheric remnants of Tropical Depression Ten on 19 August, forming a large area of showers and thunderstorms north of Puerto Rico.  This activity continued to move slowly northwestward, passing north of Hispaniola and then consolidating just east of the Turks and Caicos during the afternoon of 22 August.  Dvorak satellite classifications from the Tropical Analysis and Forecast Branch (TAFB) of the Tropical Prediction Center (TPC) began at 1800 UTC that day.  The upper tropospheric trough weakened as it moved westward toward Florida, and the shear relaxed enough to allow the system to develop into a tropical depression by 1800 UTC 23 August over the southeastern Bahamas about 175 n mi southeast of Nassau.  The depression was designated Tropical Depression Twelve rather than “Ten” because a separate tropical wave appeared to be partially responsible for the cyclogenesis, and, more importantly, the low-level circulation of Tropical Depression Ten was clearly not involved.
+
+The “best track” of the path of the center of Katrina is displayed in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.  The depression continued to become organized over the central Bahamas during the evening of 23 August.  Deep convection increased overnight in the eastern semicircle of the cyclone and formed a well-defined band that began to wrap around the north side of the circulation center early on the morning of 24 August.  Based on aircraft reconnaissance flight-level wind data, the cyclone became Katrina, the 11th tropical storm of the 2005 Atlantic hurricane season, at 1200 UTC 24 August when it was centered over the central Bahamas about 65 n mi east-southeast of Nassau.  Initially the storm moved northwestward within a weakness in the lower tropospheric subtropical ridge.  However, as the storm developed an inner core and evolved into a deeper cyclone on 24 August, it came under the influence of a strengthening middle to upper tropospheric ridge over the northern Gulf of Mexico and southern United States.  This ridge turned Katrina westward on 25 August toward southern Florida.  Katrina generated an intense burst of deep convection over the low-level center during the afternoon of 25 August while positioned over the northwestern Bahamas.  Further strengthening ensued, and Katrina is estimated to have reached hurricane status near 2100 UTC 25 August, less than two hours before its center made landfall on the southeastern coast of Florida.
+
+The strengthening ridge over the northern Gulf of Mexico and southern United States produced northeasterly middle- to upper-level tropospheric flow that forced Katrina to turn west-southwestward as it neared southern Florida.  Katrina made its first landfall in the United States as a Category 1 hurricane on the Saffir-Simpson Hurricane Scale, with maximum sustained winds of 70 knots, near the border of Miami-Dade County and Broward County at approximately 2230 UTC 25 August.  While not discernible in conventional satellite imagery, a well-defined eye became evident on the Miami National Weather Service (NWS) WSR-88D Doppler radar just prior to landfall on the southeastern Florida coast.  In fact, the eye feature actually became better defined while Katrina moved inland, and it remained intact during its entire track across the peninsula.  The convective pattern of Katrina as it crossed southern Florida was rather asymmetric due to northerly wind shear, which placed the strongest winds and heaviest rains south and east of the center in Miami-Dade County.  Katrina continued west-southwestward overnight and spent only about six hours over land, mostly over the water-laden Everglades.  Surface observations and velocity estimates from the Miami and Key West Doppler radars indicated that Katrina weakened over mainland Monroe County to a tropical storm with maximum sustained winds of 60 knots.  The center of Tropical Storm Katrina then emerged into the southeastern Gulf of Mexico at approximately 0500 UTC on 26 August just north of Cape Sable.
+
+Once back over water, Katrina quickly regained hurricane status at 0600 UTC with maximum sustained winds of 65 knots.  Even though the center of Katrina continued west-southwestward over the southeastern Gulf of Mexico and away from the southern Florida peninsula, a strong and well-defined rain band impacted large portions of the Florida Keys with tropical storm-force winds for much of the day on 26 August.  Sustained hurricane-force winds were briefly measured at Dry Tortugas on the far western end of the island chain that afternoon.
+
+Situated beneath a very large upper-level anticyclone that dominated the entire Gulf of Mexico by 26 August, resulting in very weak wind shear and efficient upper-level outflow, Katrina embarked upon two periods of rapid intensification (defined as a 30 kt or greater intensity increase in a 24-h period) between 26 and 28 August.  The first period involved an increase in the maximum sustained winds from 65 kt to 95 kt in the 24-h period ending 0600 UTC 27 August.  An eye became clearly evident in infrared satellite imagery early on 27 August, and Katrina became a Category 3 hurricane with 100 kt winds at 1200 UTC that morning about 365 n mi southeast of the mouth of the Mississippi River.  During the remainder of the day, the inner eyewall deteriorated while a new, outer eyewall formed, and the intensity leveled off at 100 kt.  Accompanying the intensification and the subsequent deterioration of the inner eyewall was a significant expansion of the wind field on 27 August.  Katrina nearly doubled in size on 27 August, and by the end of that day tropical storm-force winds extended up to about 140 n mi from the center.  The strong middle- to upper-tropospheric ridge that had kept Katrina on a west-southwestward track over the Florida peninsula and southeastern Gulf of Mexico began to shift eastward toward Florida, while a mid-latitude trough amplified over the north-central United States.  This evolving pattern resulted in a general westward motion on 27 August and a turn toward the northwest on 28 August when Katrina moved around the western periphery of the retreating ridge.  As Katrina churned westward on 27 August, it produced tropical storm-force winds and heavy rainfall over portions of western Cuba.  The new eyewall contracted into a sharply-defined ring by 0000 UTC 28 August, and a second, more rapid intensification then occurred.  Katrina strengthened from a low-end Category 3 hurricane to a Category 5 in less than 12 h, reaching an intensity of 145 kt by 1200 UTC 28 August.  Katrina attained its peak intensity of 150 kt at 1800 UTC 28 August about 170 n mi southeast of the mouth of the Mississippi River.  The wind field continued to expand on 28 August, and by late that day tropical storm-force winds extended out to about 200 n mi from the center, and hurricane-force winds extended out to about 90 n mi from the center, making Katrina not only extremely intense but also exceptionally large.
+
+The new eyewall that formed late on 27 August and contracted early on 28 August began to erode on its southern side very late on 28 August, while another outer ring of convection consolidated.  These structural changes likely contributed to the rapid weakening that was observed prior to final landfall.  Katrina turned northward, toward the northern Gulf coast, around the ridge over Florida early on 29 August.  The hurricane then made landfall, at the upper end of Category 3 intensity with estimated maximum sustained winds of 110 kt, near Buras, Louisiana at 1110 UTC 29 August.  Katrina continued northward and made its final landfall near the mouth of the Pearl River at the Louisiana/Mississippi border, still as a Category 3 hurricane with an estimated intensity of 105 kt.  The rapid weakening of Katrina, from its peak intensity of 150 kt to 110 kt during the last 18 h or so leading up to the first Gulf landfall, appears to have been primarily due to internal structural changes, specifically the deterioration of the inner eyewall without the complete formation of a new outer eyewall.  However, Katrina remained very large as it weakened, and the extent of tropical storm-force and hurricane-force winds was nearly the same at final landfall on 29 August as it had been late on 28 August.  The weakening could have been aided by entrainment of dry air that was seen eroding the deep convection over the western semicircle while Katrina approached the coast.  Gradually increasing wind shear, slightly lower ocean temperatures, and (following the first Gulf landfall) interaction with land each could also have played a role.  Without extensive investigation, however, it is not possible to assess the relative roles played by these various factors.  The weakening of major hurricanes as they approach the northern Gulf coast has occurred on several occasions in the past when one or more of these factors have been in place.  Indeed, an unpublished study by the National Hurricane Center (NHC) reveals that, during the past 20 years, all 11 hurricanes having a central pressure less than 973 mb 12 h before landfall in the northern Gulf of Mexico weakened during these last 12 h.
+
+Katrina weakened rapidly after moving inland over southern and central Mississippi, becoming a Category 1 hurricane by 1800 UTC 29 August.  It weakened to a tropical storm about six hours later just northwest of Meridian, Mississippi.  Katrina accelerated on 30 August, between the ridge over the southeastern United States and an eastward-moving trough over the Great Lakes.  It turned northeastward over the Tennessee Valley and became a tropical depression at 1200 UTC 30 August.  The depression continued northeastward and transformed into an extratropical low pressure system by 0000 UTC 31 August.  The low was absorbed within a frontal zone later that day over the eastern Great Lakes.
+
+
+	Meteorological Statistics and Observations
+
+Observations in Katrina (Figs. 2 and 3) include data from satellites, aircraft, airborne and ground-based radars, conventional land-based surface and upper-air observing sites, Coastal-Marine Automated Network (C-MAN) stations, National Ocean Service (NOS) stations, ocean data buoys, and ships.  Selected ship reports of winds of tropical storm force associated with Hurricane Katrina are given in Table 2, and selected surface observations from land stations and from coastal and fixed ocean data buoys are given in Table 3.  Data from many Automated Surface Observing System (ASOS) sites, C-MAN stations, and buoys are incomplete due to power outages and other weather-induced failures prior to when peak winds and minimum pressures occurred.
+
+Satellite observations include geostationary satellite-based Dvorak Technique intensity estimates from TAFB, the Satellite Analysis Branch (SAB), and the U. S. Air Force Weather Agency (AFWA).  Microwave satellite data and imagery from National Oceanic and Atmospheric Administration (NOAA) near-polar-orbiting satellites, Defense Meteorological Satellite Program (DMSP) satellites, and National Aeronautics and Space Administration (NASA) satellites including the Tropical Rainfall Measuring Mission (TRMM), QuikSCAT, and Aqua, were also useful in tracking Katrina and assessing changes in its internal structure.
+
+Aircraft reconnaissance missions were tasked on an almost continuous schedule from the genesis of Katrina until its final landfall.  Observations from aircraft include flight-level and dropwindsonde data from 12 operational missions into Katrina, conducted by the 53rd Weather Reconnaissance Squadron of the U. S. Air Force Reserve Command, which produced 46 center fixes.  Three missions were flown by the NOAA Aircraft Operations Center (AOC) Hurricane Hunter WP-3D aircraft, producing additional flight-level and dropwindsonde observations, 19 center fixes, real-time data from the Stepped Frequency Microwave Radiometer (SFMR), and airborne Doppler radar-derived wind analyses provided by NOAA’s Hurricane Research Division (HRD).  Additionally, the NOAA G-IV jet conducted six synoptic surveillance missions during 24-29 August to collect dropwindsonde observations, primarily for enhancing the amount of data available to operational numerical models that provided guidance to NHC forecasters.  An Air Force C-130J aircraft conducted one surveillance mission jointly with the G-IV on 25 August.
+
+NWS WSR-88D Doppler radars across the southeastern United States and U. S. Department of Defense radars located in the Bahamas provided center fixes on Katrina.  NWS WSR-88D velocity data were used to help estimate the intensity of Katrina when it was near or over land.
+
+Katrina’s Florida landfall intensity of 70 kt near 2230 UTC 25 August is based on reduction to the surface of elevated velocities from the NWS Miami WSR-88D radar.  The Miami radar, and 65 kt winds measured by the SFMR onboard a NOAA Hurricane Hunter aircraft, also indicated that Katrina had earlier become a 65 kt hurricane at about 2100 UTC.  Due to Katrina’s asymmetric convective pattern as it passed over the Florida peninsula, the strongest winds occurred south and east of the center in Miami-Dade County.  While the eye moved west-southwestward over northern Miami-Dade, it passed over the NWS Miami Forecast Office / National Hurricane Center facility near Sweetwater, Florida (Fig. 4), where a pressure of 983 mb was measured at 0105 UTC 26 August.  The eastern eyewall moved over the facility a few minutes later and sustained winds of 60 kt with a gust to 76 kt were measured near 0115 UTC.  The strongest sustained wind measured by a land-based anemometer was 63 kt on Virginia Key (Table 3).  Doppler velocities from both the Miami and Key West WSR-88D radars suggest that maximum sustained surface winds were likely just less than hurricane strength while Katrina was centered over mainland Monroe County and while crossing the southwestern Florida coast.  However, these data, combined with Dvorak satellite intensity estimates, indicate Katrina regained hurricane strength shortly after emerging over the Gulf of Mexico early on 26 August.  Later that day, from about 1930 UTC to 2130 UTC, the Dry Tortugas C-MAN station (elevation 6 m) located about 60 n mi west of Key West, Florida reported sustained hurricane-force winds, as strong as 71 kt, with a gust to 91 kt.  While sustained hurricane-force winds were not reported elsewhere in the Florida Keys, much of the island chain experienced sustained tropical storm-force winds with peak gusts between 60 and 70 kt while the center of Katrina passed to the north on 26 August (Table 3).
+
+Aircraft data indicate that Katrina continued to strengthen on 26 August, but concentric maxima in flight-level wind data and microwave imagery from several near-polar-orbiting satellites depict an eyewall replacement cycle that occurred on 27 August.  The deterioration of the inner eyewall can be seen by comparing Figs. 5a and 5b.  This cycle temporarily prevented further strengthening, and aircraft data and Dvorak estimates indicate the intensity remained steady near 100 kt throughout that day.  Katrina produced tropical storm-force winds in portions of western Cuba on 27 August, with gusts as strong as 54 kt and rainfall totals exceeding 8 inches in some locations.  After the new eyewall consolidated and began to contract very early on 28 August (Fig. 5c), Katrina deepened that morning at a very rapid rate.  Dropwindsonde observations from the Air Force and NOAA Hurricane Hunter aircraft indicate the central pressure fell 32 mb in 12 h, to 909 mb by 1200 UTC 28 August.  The first wind observation to support Category 5 intensity was a peak 700 mb flight-level wind of 153 kt at about 1100 UTC 28 August, which corresponds to about 138 kt at the surface, using the 90% adjustment based on the mean eyewall wind profile derived from several past storms.  The strongest flight-level wind measurement in Katrina was 166 kt near 1400 UTC that day, corresponding to about 150 kt at the surface.  Dropwindsondes on 28 August provided surface wind estimates, derived from the mean wind over the lowest 150 m of the sounding (labeled ‘LLM’ in Fig. 2), that were no greater than about 130-135 kt, but a few of these sondes directly measured 140-143 kt winds at 10 m.  However, none of these sondes were released precisely from the point where flight-level winds were 166 kt, and it is also not likely that any of these sondes measured the maximum surface wind in the circulation.  The SFMR, with a post-storm recalibration applied to compensate for a previous low bias at extremely high wind speeds, estimated surface winds as strong as 141 kt on the afternoon of 28 August, when maximum flight-level winds were about 160 kt.  All available data from dropwindsondes and the SFMR indicate that, on average, the 90% adjustment of flight-level winds to the surface was valid until very late on 28 August.
+
+The central pressure in Katrina fell to 902 mb near 1800 UTC 28 August.  This pressure was (at the time) the fourth lowest on record in the Atlantic basin, behind 888 mb in Gilbert (1988), 892 mb in the Labor Day Hurricane of 1935, and 899 mb in Allen (1980).  However, it has since quickly fallen to sixth lowest, following an observation of 897 mb in Hurricane Rita in September 2005 and the new record of 882 mb in Hurricane Wilma in October 2005.  Based on the 902 mb pressure, and on the earlier 166 kt flight-level wind, the peak best track intensity of 150 kt is estimated to have occurred at 1800 UTC 28 August.  Fig. 6 is a visible satellite image of Katrina at that time.
+
+The structure of Katrina changed dramatically from 28 to 29 August as it approached the northern Gulf coast.  TRMM 85 GHz imagery at 2133 UTC 28 August revealed a developing outer eyewall, and subsequent microwave overpasses depicted the inner eyewall steadily eroding, especially on the southern side.  The central pressure gradually rose to 920 mb by the time of the initial Louisiana landfall near Buras at about 1110 UTC 29 August.  Maximum 700 mb flight-level winds were still 130-135 kt east of the eye around that time and were the basis for the operationally assessed intensity of 120 kt at the Buras landfall and at 1200 UTC.  NWS Slidell WSR-88D radar data confirmed the strength of these flight-level winds, but the center of the hurricane was much too distant for the radar to provide concurrent near-surface wind estimates close to the eye.  Post-storm analysis of numerous dropwindsonde profiles indicates that the structure of Katrina had changed since the previous day when it was at its peak intensity, such that the usual 90% adjustment of flight-level winds would likely provide overestimates of the surface winds on 29 August.  Comparison of flight-level winds collocated with dropwindsondes and SFMR data suggest the flight-level to surface reduction factor that morning was closer to 80% or perhaps even less.  Additional evidence of this structural transformation comes from airborne Doppler radar-derived wind speed cross sections on 29 August, obtained from the NOAA Hurricane Hunter aircraft (example in Fig. 7).  These data reveal an unusual, broad, and elevated wind maximum in the 2-4 km layer (centered near the 700 mb flight level), well above the more typical location of the maximum wind near the top of the boundary layer (~500 m) that had been observed on 28 August.  The example in Fig. 7b is one of several cross sections from east of the eye on the morning of 29 August that depict the atypical elevated wind maximum.
+
+The aircraft data from 29 August indicate that the structural changes in Katrina were associated with its rapid weakening to a high-end Category 3 hurricane just before landfall in Louisiana.  The strongest surface (10 m) wind measured by dropwindsonde on the morning of 29 August was 99 kt from two separate sondes.  The maximum surface wind estimate from a dropwindsonde, derived from the mean wind over the lowest 150 m of the sounding using an average adjustment derived from profiles in several storms, was 98 kt.  However, analysis of several dropwindsonde profiles from 29 August suggests that a slightly different adjustment could have been valid that day.  This difference would result in 10 m wind estimates derived from the lowest 150 m of the dropwindsonde profiles being 3-5 kt stronger, or up to about 103 kt.  The maximum surface wind measured by the SFMR on 29 August was 96 kt just after 1200 UTC.  The best track intensity of Katrina at 1200 UTC 29 August, shortly after the initial Louisiana landfall when the central pressure was 923 mb, has been adjusted downward in post-storm analysis to 110 kt from the operationally assessed value of 120 kt.  The Buras, LA landfall intensity about one hour earlier has also been estimated at 110 kt, when the central pressure was only slightly lower at 920 mb.  This estimate is still about 10% greater than the maximum surface winds from the dropwindsondes and SFMR, accounting for the possibility that these instruments did not sample the maximum wind.  It is worth noting that Katrina was likely at Category 4 strength with maximum sustained winds of about 115 kt near 0900 UTC 29 August, a couple of hours before the center made landfall near Buras, LA.  Due to the large (~25-30 n mi) radius of maximum winds, it is possible that sustained winds of Category 4 strength briefly impacted the extreme southeastern tip of Louisiana in advance of landfall of the center.
+
+The estimated Buras landfall intensity of 110 kt, just beneath the threshold of Category 4, is quite low relative to many other hurricanes with a comparable minimum central pressure.  In fact, the central pressure of 920 mb is now the lowest on record in the Atlantic basin for an intensity of 110 kt, surpassing Hurricane Floyd (1999) that at one point had a central pressure of 930 mb with an intensity of 110 kt.  The 920 mb pressure is also the third lowest at U. S. landfall on record, behind only Hurricane Camille in 1969 (909 mb) and the 1935 Labor Day hurricane that struck the Florida Keys (892 mb).  The relatively weak winds in Katrina for such a low pressure are the result of the broadening pressure field on 29 August that spread the pressure gradient over a much larger than average distance from the center, as confirmed by both surface and aircraft observations.  The generally weakening convection likely also reduced momentum mixing down to the surface, contributing to surface winds being less than what the usual 90% adjustment from flight level winds would dictate.  Katrina exemplifies that there is not simply a direct one-to-one relationship between the central pressure and the maximum sustained winds in a hurricane.
+
+The central pressure in Katrina continued to gradually rise during the next few hours leading up to its final landfall near the Louisiana/Mississippi border at about 1445 UTC, when the pressure had reached 928 mb.  The eastern eyewall of the hurricane remained too distant from the NWS Slidell WSR-88D radar during this period for the radar to provide near-surface wind estimates where the strongest winds were occurring.  However, all available data from aircraft indicate that Katrina’s winds weakened only slightly between the first and last Gulf coast landfalls.  Just prior to final landfall, surface (10 m) winds measured by dropwindsonde were as strong as 99 kt, adjustment to the surface of the mean wind speed in the lowest 150 m of dropwindsonde profiles yielded surface winds of 90-95 kt, and SFMR winds were as strong as 91 kt.  Making a similar assumption, as for the Buras landfall intensity, that the available data did not sample the maximum wind in the circulation, Katrina is estimated to have made final landfall at an intensity of 105 kt, 5 kt less than what was assessed operationally.
+
+The strongest sustained wind measured from a fixed location at the surface on the morning of 29 August was 76 kt at 0820 UTC by the C-MAN station at Grand Isle, LA.  This station’s anemometer, at 16 m elevation, failed at about 0900 UTC, about two hours before closest approach of the eye.  The Southwest Pass, LA C-MAN station (30 m elevation) measured a sustained wind of 71 kt at 0420 UTC, before the station failed at about 0500 UTC due to storm surge, about four hours prior to closest approach of the eye.  The strongest reported wind gust, although unofficial, was 117 kt in Poplarville, MS at the Pearl River County Emergency Operations Center (EOC).  A gust to 108 kt was reported in Pascagoula, MS at the Jackson County EOC.  The strongest gust from an official reporting station was 99 kt at the Grand Isle C-MAN station at 0838 UTC 29 August, about 2.5 hours prior to the Buras, LA landfall.
+
+While the intensity of Katrina was Category 3 as the center of the eye made its closest approach (about 20 n mi) to the east of downtown New Orleans, the strongest winds corresponding to that intensity were likely present only over water to the east of the eye.  The sustained winds over all of metropolitan New Orleans and Lake Pontchartrain likely remained weaker than Category 3 strength.  The strongest sustained wind in New Orleans is subject to speculation since observations are sparse, due in part to the power failures that disabled ASOS stations in the area before peak wind conditions occurred.  However, the NASA Michoud Assembly Facility in eastern New Orleans measured a 1-minute sustained wind of 84 kt (at an elevation of about 12 m) near 1100 UTC 29 August.  Also, a few instrumented towers placed in various locations in the metropolitan area by the Florida Coastal Monitoring Program (FCMP) and by Texas Tech University measured sustained winds in the range of 61-68 kt.  The Mid-Lake Pontchartrain NWS site (16 m elevation), located along the Lake Pontchartrain Causeway about 8 n mi north of the south shore of the lake, also measured a one-minute sustained wind of 68 kt.  Even though these various sites likely did not experience the maximum wind in the area, the Mid-Lake Pontchartrain site had open marine exposure, unlike most locations in the city of New Orleans.  It appears likely that most of the city experienced sustained surface winds of Category 1 or Category 2 strength.  It is important to note, however, that winds in a hurricane generally increase from the ground upward to a few hundred meters in altitude, and the sustained winds experienced on upper floors of high-rise buildings were likely stronger than the winds at the same location near the ground.  For example, on average the 25th story of a building would experience a sustained wind corresponding to one Saffir-Simpson category stronger than that experienced at the standard observing height of 10 m.
+
+A precise measurement of the storm surge produced by Katrina along the northern Gulf coast is complicated by many factors, including the widespread failures of tide gauges.  Additionally, in many locations, most of the buildings along the coast were completely destroyed, leaving few structures within which to identify still-water marks.  Survey crews are still collecting data and conducting analyses as of this writing, without yet an explicit attempt to separate out the surge component of the high water mark measurements that are also a result of waves and, to a lesser extent, tides.  An unofficial storm tide (actual level of sea water) observation of 28 feet at the Hancock, Mississippi Emergency Operations Center suggests that the storm surge produced by Katrina was as high as about 27 feet at that location.  This observation provides an indication of the magnitude of the event, and comparable surge heights could have occurred along other portions of the western and central Gulf coast of Mississippi.  The surge appears to have penetrated at least six miles inland in many portions of coastal Mississippi and up to 12 miles inland along bays and rivers.  The surge crossed Interstate 10 in many locations.  Katrina produced a lesser but still very significant storm surge along the eastern Gulf coast of Mississippi and along the coast of Alabama.  Observations suggest the storm surge was about 10 feet as far east as Mobile, Alabama where Katrina caused flooding several miles inland from the Gulf coast along Mobile Bay.
+
+Although the storm surge was higher to the east of the path of the eye of Katrina, a very significant storm surge also occurred west of the path of the eye, but the height of the surge is uncertain, in part because tide gauge observations along the southeastern coast of Louisiana were very limited and incomplete.  As the level of Lake Pontchartain rose, several feet of water were pushed into communities along its northeastern shore from Slidell to Mandeville, Louisiana.  The surge severely strained the levee system in the New Orleans area.  Several of the levees and floodwalls were overtopped and/or breached at different times on the day of landfall, although the specific times and exact causes of failure remain uncertain as of this writing.  The surge overtopped large sections of the levees during the morning of 29 August east of New Orleans, in Orleans Parish and St. Bernard Parish, and it also pushed water up the Intracoastal Waterway and into the Industrial Canal.  The water rise in Lake Pontchartrain strained the floodwalls along the canals adjacent to its southern shore, including the 17th Street Canal and the London Avenue Canal.  Breaches along both the Industrial Canal east of downtown New Orleans and the 17th Street Canal northwest of downtown appear to have occurred during the early morning on 29 August, possibly even before the eye made initial landfall in Louisiana.  Breaches along the London Avenue Canal north of downtown appear to have occurred later that night.  Overall, about 80% of the city of New Orleans flooded, to varying depths up to about 20 feet, within a day or so after landfall of the eye.  Following the setbacks caused by additional flooding associated with the late September 2005 passage of Hurricane Rita to the south, the Army Corps of Engineers reported on 11 October 2005, 43 days after Katrina’s landfall, that all floodwaters had been removed from the city of New Orleans.
+
+The massive storm surge produced by Katrina, even though it had weakened from Category 5 intensity the previous day to Category 3 at landfall in Louisiana, can be generally explained by the huge size of the storm.  Katrina had on 29 August a large (about 25-30 n mi) radius of maximum winds and a very wide swath of hurricane force winds that extended at least 75 n mi to the east from the center.  Even though Hurricane Camille (1969) was more intense than Katrina at landfall while following a similar track, Camille was far more compact and produced comparably high storm surge values along a much narrower swath.  Also, Katrina had already generated large northward-propagating swells, leading to substantial wave setup along the northern Gulf coast, when it was at Category 4 and 5 strength during the 24 hours or so before landfall.  In fact, buoy 42040, operated by the National Data Buoy Center (NDBC) and located about 64 n mi south of Dauphin Island, Alabama, reported a significant wave height (defined as the average of the one-third highest waves) of 30 feet as early as 0000 UTC 29 August.  This buoy later measured a peak significant wave height of 55 feet at 1100 UTC that matches the largest significant wave height ever measured by a NDBC buoy.  Overall, Katrina’s very high water levels are attributable to a large Category 3 hurricane’s storm surge being enhanced by waves generated not long before by a Category 5 strength storm.
+
+Katrina also produced some storm surge outside of the northern Gulf coast hurricane warning areas.  Gauge data indicate that storm surge ranged from up to about five feet along the Florida panhandle to about one or two feet along most of the west-central coast of Florida.  About two to four feet of storm surge occurred along the extreme southwestern Florida coast.  A storm surge of about two feet was reported at Key West, Florida as Katrina passed by to the north on 26 August.  The surge was also small, about two feet, along portions of the southeastern coast of Florida.
+
+Rainfall distributions associated with Katrina across southern Florida were highly asymmetric about the storm track, with the greatest floods occurring over the southern semicircle of the hurricane, primarily affecting portions of southern Miami-Dade County.  Selected rainfall totals from Miami-Dade County include 14.04 inches at Homestead Air Force Base, 12.25 inches at Florida City, and 11.13 inches in Cutler Ridge.  Rainfall amounts to the north of the center over northern Miami-Dade County and Broward County were generally 2 to 4 inches.  Rainfall amounts over interior and western portions of the southern Florida peninsula were much less and generally ranged from 1 to 3 inches (Table 3).
+ 
+	Precipitation amounts during the landfall along the northern Gulf coast were greatest along and just west of the track of the center.  A large swath of 8-10 inches of rain fell across southeastern Louisiana and southwestern Mississippi, with a small area of 10-12 inches over eastern Louisiana, including 11.63 inches reported at the Slidell, LA NWS office.  Katrina produced rainfall amounts of 4-8 inches well inland over Mississippi and portions of the Tennessee Valley.
+
+	Katrina produced a total of 33 reported tornadoes.  One tornado was reported in the Florida Keys on the morning of 26 August.  On 29-30 August, 17 tornadoes were reported in Georgia, four in Alabama, and 11 in Mississippi.  The Georgia tornadoes were the most on record in that state for any single day in the month of August, and one of them caused the only August tornado fatality on record in Georgia.
+								
+
+	Casualty and Damage Statistics
+	
+	Katrina was a large and intense hurricane that struck a portion of the United States coastline along the northern Gulf of Mexico that is particularly vulnerable to storm surge, leading to loss of life and property damage of immense proportions.  The scope of human suffering inflicted by Hurricane Katrina in the United States has been greater than that of any hurricane to strike this country in several generations.
+
+	The total number of fatalities known, as of this writing, to be either directly or indirectly related to Katrina is 1336, based on reports to date from state and local officials in five states: 1090 fatalities in Louisiana, 228 in Mississippi, 14 in Florida, 2 in Georgia, and 2 in Alabama.  The total number of fatalities directly related to the forces of Katrina is estimated to be about 1200 spread across four states, with about 1000 of these in Louisiana, about 200 in Mississippi, 6 in Florida, and one in Georgia.  Especially for Louisiana and Mississippi, the number of direct fatalities is highly uncertain and the true number might not ever be known.  This uncertainty exists because complete statistics on causes of death are only available from some areas.  As of this writing, bodies are still being found, many of those found have not yet been identified, and the causes of many deaths remain under investigation.  More than four thousand persons are still reported missing, so it is possible the death toll could grow beyond current estimates.
+
+Presumably, most of the deaths in Louisiana were directly caused by the widespread storm surge-induced flooding and its miserable aftermath in the New Orleans area.  However, several indirect fatalities in Louisiana have been confirmed or are suspected, and some deaths included in the total appear to not be related to Katrina at all.  Louisiana also reports that persons of more than 60 years of age constituted the majority of the Katrina-related fatalities among its residents.  The vast majority of the fatalities in Mississippi probably were directly caused by the storm surge in the three coastal counties.  In Florida, three of the direct fatalities were caused by downed trees in Broward County, and the three others were due to drowning in Miami-Dade County.  Two deaths were also reported in Georgia, with one directly caused by a tornado and the other occurring in a car accident indirectly related to the storm.  Alabama reported two indirect fatalities in a car accident during the storm.  Despite the fact that inland fresh water floods produced the majority of fatalities due to tropical cyclones during the past few decades, Katrina provides a grim reminder that storm surge poses the greatest potential cause for large loss of life in a single hurricane in this country.
+
+Where Katrina ranks among the deadliest hurricanes on record in the United States is somewhat uncertain, due to the unknown number of fatalities caused directly by this hurricane and by some others in the past.  Katrina is surpassed by the Galveston, Texas hurricane in 1900 that claimed at least 8000 lives, and it appears to be surpassed by the 1928 Lake Okeechobee, Florida hurricane with over 2500 fatalities.  If the assumption is correct that most of the Katrina-related fatalities were caused directly by the storm, then Katrina ranks as the third deadliest hurricane in the United States since 1900, and the deadliest in 77 years.  However, two hurricanes in 1893 might each have been directly responsible for more fatalities in the United States than Katrina.  One of these struck the southeastern Louisiana barrier island of Cheniere Caminanda and killed about 2000 people, while another struck Georgia and South Carolina and claimed somewhere between 1000 and 2000 lives.  As a result, Katrina ranks fourth or fifth on the list of the deadliest hurricanes on record in the United States.
+
+	The extent, magnitude, and impacts of the damage caused by Katrina are staggering and are well beyond the scope of this report to fully describe.  Thousands of homes and businesses throughout entire neighborhoods in the New Orleans metropolitan area were destroyed by flood.  Strong winds also caused damage in the New Orleans area, including downtown where windows in some high rise buildings were blown out and the roof of the Louisiana Superdome was partially peeled away.  The storm surge of Katrina struck the Mississippi coastline with such ferocity that entire coastal communities were obliterated, some left with little more than the foundations upon which homes, businesses, government facilities, and other historical buildings once stood.  Despite being more distant from the eye of Katrina, the storm surge over Dauphin Island, Alabama destroyed or damaged dozens of beachfront homes and cut a new canal through the island’s western end.  Many of the most severely impacted areas along the northern Gulf coast could take years to completely rebuild.  Katrina’s heavy rains in southern Florida flooded some neighborhoods, primarily in Miami-Dade County.  Many other structures from Florida and Georgia westward to Louisiana that avoided surge or fresh water floods, including some areas well inland, were damaged by strong winds and tornadoes.  Considerable damage to some homes and agricultural facilities was caused by several tornadoes in Georgia.  Strong winds caused significant tree damage throughout much of Mississippi and Alabama.  Combining all of the areas it impacted, Katrina left about three million people without electricity, some for several weeks.
+
+The economic and environmental ramifications of Katrina have been widespread and could in some respects be long-lasting, due to impacts on large population and tourism centers, the oil and gas industry, and transportation.  The hurricane severely impacted or destroyed workplaces in New Orleans and other heavily populated areas of the northern Gulf coast, resulting in thousands of lost jobs and millions of dollars in lost tax revenues for the impacted communities and states.  Along the Mississippi coast, several large casinos on floating barges were damaged or destroyed when the surge pushed them onshore.  Large numbers of evacuees have not returned home, producing a shortage of workers for those businesses that have reopened.  Major beach erosion occurred along the tourism-dependent coasts of Mississippi and Alabama.  A significant percentage of United States oil refining capacity was disrupted after the storm due to flooded refineries, crippled pipelines, and several oil rigs and platforms damaged, adrift or capsized.  An oil rig under construction along the Mobile River in Alabama was dislodged, floated 1.5 miles northward, and struck the Cochrane Bridge just north of downtown Mobile.  An offshore oil rig washed up near the beach of Dauphin Island, Alabama.  Several million gallons of oil were spilled from damaged facilities scattered throughout southeastern Louisiana.  While several facilities have since resumed operations, as of this writing oil and natural gas production and refining capacity in the northern Gulf of Mexico region remains less than that prior to Katrina.  Key transportation arteries were disrupted or cut off by the hurricane.  Traffic along the Mississippi River was below normal capacity for at least two weeks following the storm.  Major highways into and through New Orleans were blocked by floods.  Major bridges along the northern Gulf coast were destroyed, including several in Mississippi and the Interstate 10 Twin Span Bridge connecting New Orleans and Slidell, Louisiana.
+
+Estimates of the insured property losses caused by Katrina vary considerably and range between about $20 billion and $60 billion.  The American Insurance Services Group (AISG) estimates that Katrina is responsible for $38.1 billion of insured losses in the United States.  A preliminary estimate of the total damage cost of Katrina is assumed to be roughly twice the insured losses (using the AISG estimate), or about $75 billion.  This figure would make Katrina far and away the costliest hurricane in United States history.  Even after adjusting for inflation, the estimated total damage cost of Katrina is roughly double that of Hurricane Andrew (1992).  Normalizing for inflation and for increases in population and wealth, only the 1926 hurricane that struck southern Florida surpasses Katrina in terms of damage cost.  However, this would not be the case if the values on the higher end of the range of Katrina estimates are later found to be the most accurate.  The Insurance Information Institute reports that, mostly due to Katrina but combined with significant impacts from the other hurricanes striking the United States this year, 2005 was by a large margin the costliest year ever for insured catastrophe losses in this country.
+
+	Data provided by the Federal Emergency Management Agency (FEMA) indicate that over 1.2 million people along the northern Gulf coast from southeastern Louisiana to Alabama were under some type of evacuation order, but it is not clear how many people actually evacuated.  Media reports indicate that many displaced residents have moved either temporarily or permanently to other areas in the United States.  A large number of these people might never return to live in their pre-Katrina homes or cities.  Thousands of people are still living in hotels and temporary shelters as of this writing.  Some people remain separated from other family members and/or are unable to determine if their family member(s) survived the storm.
+
+
+	Forecast and Warning Critique
+
+The possibility of development of the system that eventually became Katrina was conveyed in the Tropical Weather Outlook (TWO) issued by the NHC, beginning about 36 hours before it became a depression on 23 August.  Only gradual development was anticipated in the TWO until the incipient system began to consolidate early in the morning of 23 August, about 12 hours before the first advisory was issued.  The possibility that a depression could form later in the day was conveyed in the 11:30 am EDT issuance of the TWO on 23 August.
+
+Average official forecast track errors in nautical miles (n mi) (with number of cases in parentheses) for Katrina were 24 (27), 42 (25), 64 (23), 96 (21), 174 (17), 213 (13), and 244 (9) for the 12, 24, 36, 48, 72, 96, and 120 h forecasts respectively.   These forecast errors were considerably less than the average official Atlantic track errors for the 10-year period 1995-2004 of 42, 75, 107, 138, 202, 236, 310 for the 12, 24, 36, 48, 72, 96, and 120 h forecasts, respectively (Table 4).  Note that average errors at 96 and 120 h reflect only the period 2001-2004 when those forecasts had been made either experimentally (2001-02) or operationally (2003-04).  The 12-48 h official forecasts during Katrina represented significant improvements of 43%, 44%, 40%, and 31%, respectively, over the corresponding 10-year averages.  The relatively small errors at 12-48 hours greatly helped in the issuance of generally accurate and timely coastal watches and warnings (Table 5).  The 72, 96, and 120 h official track forecast errors were still less than the long-term averages, but only by 14%, 10%, and 25%, respectively.  The errors at these longer lead times can be partially attributed to the difficult forecast scenario associated with Katrina’s west-southwestward motion across the southern Florida peninsula and eastern Gulf of Mexico.
+
+ 	Even though the official track forecasts were generally much better than the previous 10-year averages, the official forecasts were bettered on average at various lead times by several of the numerical models (Table 4).  Specifically, the interpolated United Kingdom Met. Office global model (UKMI), the Florida State University Superensemble (FSSE), and the CONU and GUNA consensus models on average provided forecasts that were more accurate than the official forecast out to 72 h.  The interpolated versions of the GFDL and NOGAPS models, GFDI and NGPI, on average were more accurate for Katrina than the official forecast at 72 and 96 h; GFDI was also more accurate than the official forecast at 120 h.  Contributing to the lower GFDI errors was the fact that, before Katrina crossed Florida, the GFDI forecast a more southerly track across the Florida peninsula and a track farther to the west over the Gulf of Mexico than the official forecast.
+
+	The official track forecasts for Katrina issued within about two and a half days of landfall of the center in Louisiana were exceptionally accurate and consistent.  Every official forecast that was issued beginning at 2100 UTC 26 August showed a track crossing the coast of Mississippi and/or southeastern Louisiana.  The NHC does not explicitly issue forecasts for the precise location or timing of landfall.  However, it is instructive to examine the forecasts for Katrina verifying at 1200 UTC 29 August, less than an hour following the initial Louisiana landfall.  The official track forecasts issued 12, 24, 36, and 48 hours prior to 1200 UTC 29 August were in error by only 19, 24, 32, and 56 n mi, respectively.  These errors are less than half the magnitude of the corresponding 10-year averages among all Atlantic basin forecasts.  Importantly, they were all issued with a hurricane watch or warning in effect for the northern Gulf coast.  Much of the credit for these very small errors must be given to the guidance provided by several dynamical models during this time frame.
+
+	Average official intensity forecast errors during Katrina were 10, 17, 22, 28, 47, 43, and 36 kt for the 12, 24, 36, 48, 72, 96, and 120 h forecasts, respectively.  These errors were considerably larger than the corresponding Atlantic 10-year (1995-2004) averages of 6, 10, 12, 15, 18, 20, and 22 kt.  Despite the larger than average intensity errors, the official forecasts did provide some useful indications, especially with respect to the issued watches and warnings, of what the intensity could be at the initial United States landfall in Florida.  Additionally, every official forecast within about three days of landfall in Louisiana correctly anticipated that Katrina would be a major hurricane (at least Category 3) at landfall on the northern Gulf coast.  The average official intensity forecast errors at all lead times were less than those for the SHIPS model (with inland decay component included), the GFNI (interpolated GFDN), and the FSSE.  However, the GFDI (interpolated GFDL) intensity forecasts were on average more accurate than the official intensity forecasts, except at 12 and 120 h.  Katrina was an unusually intense hurricane and underwent two rapid intensification periods, including the very rapid strengthening from Category 3 to Category 5 on the morning of 28 August.  Obviously, accurately forecasting the timing and magnitude of such events remains an operational challenge, in part because the available intensity guidance models generally have little or no skill in forecasting rapid intensity changes.  However, the GFDI was quite accurate in forecasting, about two days in advance, that Katrina would reach the Category 2/3 intensity threshold early on 27 August.  In fact, it was in error by only 2 kt with its 24-h forecast of Katrina’s strengthening from 65 kt to 95 kt by 0600 UTC 27 August.  The GFDI model also consistently forecast Katrina to reach Category 4 intensity beyond that time and to remain a major hurricane until landfall on the northern Gulf coast.  The GFDI fell short of forecasting at any lead time the strengthening of the winds from Category 3 to Category 5 intensity on 28 August.  However, the model did forecast the central pressure to fall to about 920 mb beginning about two days before that occurred on 28 August, and it even forecast the pressure to fall below 910 mb about 24 hours in advance of when the 902 mb minimum pressure was observed.
+
+	Table 5 lists all of the coastal watches and warnings issued for Katrina.  A tropical storm warning was issued for the central and northwestern Bahamas at 2100 UTC 23 August, approximately 15 hours before Katrina strengthened into a tropical storm over the Bahamas.  A tropical storm watch was issued on 24 August at 0300 UTC, approximately 43.5 hours prior to the landfall of the center of Katrina in Florida, for portions of the Florida Keys and the southern peninsula of Florida from Seven Mile Bridge northward to Vero Beach.  A hurricane watch was later issued from Florida City to Vero Beach on 24 August at 1500 UTC, approximately 31.5 hours ahead of landfall of the center, and this was changed to a hurricane warning on August 25 at 0300 UTC, approximately 19.5 hours prior to landfall.  The lead times on the hurricane watch and warning for southern Florida were less than the usual targets of 36 and 24 hours, respectively, since Katrina’s forward motion toward the peninsula later on 25 August was faster than forecast.  However, the hurricane watch and warning were issued while Katrina was still a tropical storm.  Despite the uncertainties in intensity forecasting, strengthening to a hurricane before the Florida landfall was correctly forecast from the time the hurricane watch was issued.  Strengthening to near the threshold of hurricane status before landfall was also indicated in every advisory on Katrina issued prior to that time.
+
+	A tropical storm watch was issued for the middle and upper Florida Keys about two days before tropical storm conditions reached those areas.  However, subsequent tropical storm watches and warnings for the Florida Keys and the southwestern coast of the Florida peninsula were issued with less than the desired lead times, due to the actual motion of Katrina across the peninsula being more rapid and more toward the west-southwest than forecast.  A tropical storm warning was issued at 2100 UTC 25 August for the Florida Keys from Key West northeastward, and along the southwestern coast of Florida from Longboat Key southward, about nine hours before tropical storm-force winds began in portions of that warning area.  Additionally, while a tropical storm warning was issued for Dry Tortugas at 0500 UTC 26 August, a hurricane warning was never issued for that island.  Sustained hurricane-force winds were reported there for a brief period near 2100 UTC 26 August.  However, sustained hurricane-force winds were not reported anywhere else in the Florida Keys.
+
+A hurricane watch was initially issued for the Louisiana coast from Morgan City to the mouth of the Pearl River at the Mississippi border, on 27 August at 1500 UTC, approximately 44 hours in advance of the initial Louisiana landfall of the center of Katrina.  This watch was extended eastward at 2100 UTC that day to include the entire coastlines of Mississippi and Alabama, more than 41 hours prior the landfall of the center near the Louisiana/Mississippi border.  A hurricane warning was later issued from Morgan City to the Florida/Alabama border at 0300 UTC 28 August, approximately 32 hours in advance of the initial Louisiana landfall of the center and more than 35 hours prior to the final landfall of the center.  These long lead times were necessary to account for the large extent of hurricane-force winds from the center, and the need to complete preparations before the even earlier arrival on the coast of tropical storm-force winds.  The timing of the watches and warnings was especially prudent given that Katrina reached the coast slightly faster than forecast at the time they were issued.  To allow for sufficient lead time while accounting for forecast uncertainty, these watch and warning areas were fairly large.  However, since hurricane-force winds extended at least 75 n mi to the east from the center of Katrina on the morning of final landfall, if the watch and warning areas had been any smaller on the eastern end, portions of the coastline would not have been properly warned.  Sustained hurricane-force winds were reported as far east as Dauphin Island, Alabama, leaving at most about 30 n mi to spare within the eastern end of the hurricane warning area.
+
+
+	  Acknowledgements
+
+Some of the aircraft reconnaissance data in this report were processed, interpreted, and furnished by NOAA’s Hurricane Research Division (HRD).  Special appreciation is extended to Dr. Peter Black (HRD), Mr. Eric Ulhorn (HRD), and Mr. James Franklin (NHC) for their analysis of this data.  Dr. Stephen Baig, NHC Storm Surge Team Leader, provided storm surge data, and Mr. Colin McAdie (NHC) provided archived WSR-88D radar data.  Most of the surface observations in this report were provided by the National Data Buoy Center (NDBC) and by several National Weather Service Forecast Offices in Florida, Georgia, Alabama, Mississippi, Louisiana, and Tennessee.
+Table 1.	Best track for Hurricane Katrina, 23-30 August 2005.
+
+
+Date/Time
+(UTC)
+
+Latitude
+(°N)
+
+Longitude
+(°W)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+23 / 1800
+23.1
+ 75.1
+1008
+ 30
+tropical depression
+24 / 0000
+23.4
+ 75.7
+1007
+ 30
+"
+24 / 0600
+23.8
+ 76.2
+1007
+ 30
+"
+24 / 1200
+24.5
+ 76.5
+1006
+ 35
+tropical storm
+24 / 1800
+25.4
+ 76.9
+1003
+ 40
+"
+25 / 0000
+26.0
+ 77.7
+1000
+ 45
+"
+25 / 0600
+26.1
+ 78.4
+ 997
+ 50
+"
+25 / 1200
+26.2
+ 79.0
+ 994
+ 55
+"
+25 / 1800
+26.2
+ 79.6
+ 988
+ 60
+"
+26 / 0000
+25.9
+ 80.3
+ 983
+ 70
+hurricane
+26 / 0600
+25.4
+ 81.3
+ 987
+ 65
+"
+26 / 1200
+25.1
+ 82.0
+ 979
+ 75
+"
+26 / 1800
+24.9
+ 82.6
+ 968
+ 85
+"
+27 / 0000
+24.6
+ 83.3
+ 959
+ 90
+"
+27 / 0600
+24.4
+ 84.0
+ 950
+ 95
+"
+27 / 1200
+24.4
+ 84.7
+ 942
+100
+"
+27 / 1800
+24.5
+ 85.3
+ 948
+100
+"
+28 / 0000
+24.8
+ 85.9
+ 941
+100
+"
+28 / 0600
+25.2
+ 86.7
+ 930
+125
+"
+28 / 1200
+25.7
+ 87.7
+ 909
+145
+"
+28 / 1800
+26.3
+ 88.6
+ 902
+150
+"
+29 / 0000
+27.2
+ 89.2
+ 905
+140
+"
+29 / 0600
+28.2
+ 89.6
+ 913
+125
+"
+29 / 1200
+29.5
+ 89.6
+ 923
+110
+"
+29 / 1800
+31.1
+ 89.6
+ 948
+ 80
+"
+30 / 0000
+32.6
+ 89.1
+ 961
+ 50
+tropical storm
+30 / 0600
+34.1
+ 88.6
+ 978
+ 40
+"
+30 / 1200
+35.6
+ 88.0
+ 985
+ 30
+tropical depression
+30 / 1800
+37.0
+ 87.0
+ 990
+ 30
+"
+31 / 0000
+38.6
+ 85.3
+ 994
+ 30
+extratropical
+31 / 0600
+40.1
+ 82.9
+ 996
+ 25
+"
+31 / 1200
+
+
+
+
+merged with front
+28 / 1800
+26.3
+ 88.6
+ 902
+150
+Maximum wind and minimum pressure
+25 / 2230
+26.0
+86.1
+984
+70
+FL landfall at Broward/Miami-Dade County line
+29 / 1110
+29.3
+89.6
+920
+110
+Landfall near Buras, LA
+29 / 1445
+30.2
+89.6
+928
+105
+Landfall near LA/MS border
+   
+Table 2.	Selected ship reports with winds of at least 34 kt for Hurricane Katrina, 23-30 			August 2005.
+
+
+Date/Time (UTC)
+
+Ship call sign
+
+
+Latitude
+(°N)
+
+Longitude
+(°W)
+
+Wind
+dir/speed (kt)
+
+Pressure 
+(mb)
+25 / 1800
+ZCAM5 
+ 26.8
+  79.3
+080 /  37
+1005.5
+26 / 0600
+WNDG  
+ 24.5
+  80.3
+190 /  45
+1005.0
+26 / 0600
+WTER  
+ 24.6
+  81.8
+260 /  40
+ 999.3
+26 / 0600
+KSYP  
+ 24.8
+  80.4
+180 /  36
+1004.5
+26 / 1200
+WFJN  
+ 24.0
+  81.8
+250 /  37
+1003.0
+26 / 1400
+WTER  
+ 24.6
+  81.8
+200 /  50
+1000.8
+26 / 1500
+WTER  
+ 24.6
+  81.8
+200 /  55
+1000.8
+26 / 1800
+WTER  
+ 24.6
+  81.8
+180 /  39
+1002.9
+26 / 1900
+WTER  
+ 24.6
+  81.8
+160 /  52
+1002.2
+26 / 2100
+C6FM9 
+ 24.4
+  80.4
+180 /  40
+1007.0
+26 / 2100
+WTER  
+ 24.6
+  81.8
+160 /  35
+1001.4
+27 / 0000
+ELQQ4 
+ 24.1
+  82.0
+180 /  37
+1000.5
+27 / 0600
+V7DW6 
+ 22.8
+  84.3
+240 /  45
+ 999.0
+27 / 1200
+KS049 
+ 22.7
+  84.5
+240 /  36
+ 994.1
+27 / 1800
+H3VR  
+ 23.2
+  83.3
+190 /  40
+1001.0
+27 / 1800
+KS049 
+ 23.5
+  82.6
+160 /  41
+ 994.5
+27 / 1800
+ELQQ4 
+ 25.5
+  83.1
+120 /  37
+1003.5
+27 / 2100
+WDB325
+ 23.8
+  86.8
+340 /  38
+ 995.2
+27 / 2100
+WGXO  
+ 23.8
+  82.8
+150 /  37
+1001.2
+28 / 0000
+PFSK  
+ 21.1
+  84.4
+200 /  35
+1005.5
+28 / 0000
+WGXO  
+ 23.5
+  83.2
+160 /  37
+1000.3
+28 / 0300
+WGXO  
+ 23.2
+  83.8
+160 /  37
+1002.0
+28 / 0300
+WDB325
+ 23.7
+  85.5
+220 /  37
+ 996.0
+28 / 0600
+WGXO  
+ 23.0
+  84.5
+170 /  44
+1001.2
+28 / 0600
+WDB325
+ 23.7
+  84.7
+190 /  54
+ 999.5
+28 / 0800
+V7HD3 
+ 27.6
+  92.1
+000 /  35
+ 994.0
+28 / 0900
+WDB325
+ 23.7
+  84.0
+190 /  48
+1001.2
+28 / 1200
+WGXO  
+ 23.0
+  85.9
+190 /  44
+ 999.5
+28 / 1200
+PFSK  
+ 23.0
+  85.7
+200 /  37
+1001.9
+28 / 1200
+PJOJ  
+ 27.6
+  83.0
+130 /  35
+1007.3
+28 / 1400
+AUBK  
+ 24.0
+  88.3
+250 /  37
+1000.0
+28 / 1400
+VRZN8 
+ 27.9
+  91.0
+040 /  47
+
+28 / 1500
+WGXO  
+ 23.0
+  86.8
+210 /  40
+1000.8
+28 / 1500
+C6FE5 
+ 23.1
+  86.5
+190 /  36
+1006.5
+28 / 1500
+V7HD2 
+ 27.1
+  91.6
+010 /  40
+1003.0
+28 / 1700
+VRZN8 
+ 27.9
+  91.7
+040 /  47
+ 
+28 / 1800
+C6FE5 
+ 23.8
+  87.0
+200 /  36
+1004.5
+28 / 1800
+MCLQ4 
+ 26.0
+  84.9
+180 /  42
+1005.0
+28 / 1800
+V7HC8 
+ 27.5
+  90.6
+020 /  40
+ 998.0
+28 / 2100
+WGXO  
+ 23.5
+  88.2
+240 /  37
+ 998.5
+28 / 2100
+V7HC6 
+ 26.2
+  91.4
+350 /  35
+ 993.0
+28 / 2100
+V7EA2 
+ 26.9
+  91.7
+350 /  37
+ 989.4
+28 / 2100
+V7HD2 
+ 27.0
+  92.3
+350 /  35
+1001.0
+28 / 2100
+V7HC8 
+ 27.4
+  90.9
+010 /  35
+ 997.0
+29 / 0000
+WGXO  
+ 23.7
+  89.1
+230 /  37
+ 998.8
+29 / 0000
+C6KJ5 
+ 24.9
+  89.4
+240 /  38
+ 994.5
+29 / 0000
+V7HC6 
+ 26.2
+  91.4
+320 /  40
+ 993.1
+29 / 0000
+ELXL3 
+ 26.6
+  90.9
+310 /  55
+ 990.0
+29 / 0000
+V7EA2 
+ 26.8
+  91.7
+340 /  44
+ 986.8
+29 / 0000
+V7HD2 
+ 27.0
+  92.7
+350 /  40
+1001.0
+29 / 0000
+V7HC9 
+ 27.1
+  92.6
+020 /  37
+ 998.6
+29 / 0200
+VRZN8 
+ 26.5
+  92.7
+350 /  54
+ 997.0
+29 / 0300
+C6KJ5 
+ 25.2
+  89.7
+220 /  38
+ 995.7
+29 / 0300
+ELXL3 
+ 26.5
+  90.8
+310 /  52
+ 991.0
+29 / 0300
+V7EA2 
+ 26.8
+  91.7
+320 /  44
+ 988.2
+29 / 0400
+V7HC8 
+ 27.1
+  91.4
+350 /  40
+ 996.0
+29 / 0500
+VRZN8 
+ 26.4
+  92.2
+330 /  54
+ 996.0
+29 / 0600
+C6KJ5 
+ 25.5
+  90.0
+220 /  38
+ 997.0
+29 / 0600
+ELXL3 
+ 26.4
+  90.8
+290 /  45
+ 994.0
+29 / 0600
+V7HC9 
+ 27.0
+  92.7
+340 /  37
+ 998.3
+29 / 0600
+MCLQ4 
+ 27.6
+  85.2
+150 /  36
+1005.6
+29 / 0700
+V7EA2 
+ 26.8
+  91.7
+300 /  40
+ 988.0
+29 / 0800
+V7HC9 
+ 27.0
+  92.7
+320 /  38
+ 998.6
+29 / 0900
+C6KJ5 
+ 25.9
+  90.5
+220 /  35
+ 997.5
+29 / 0900
+VRZN8 
+ 26.3
+  91.4
+330 /  54
+ 995.0
+29 / 0900
+ELXL3 
+ 26.4
+  90.8
+260 /  44
+ 996.0
+29 / 0900
+V7EA2 
+ 26.8
+  91.7
+290 /  35
+ 989.9
+29 / 1100
+C6FM8 
+ 22.3
+  88.0
+230 /  35
+1009.0
+29 / 1200
+VRZN8 
+ 26.5
+  91.0
+040 /  47
+ 995.0
+29 / 1200
+MCLQ4 
+ 28.3
+  85.5
+170 /  36
+1004.3
+29 / 1500
+VRZN8 
+ 26.9
+  90.7
+270 /  54
+ 999.0
+29 / 1800
+MCLQ4 
+ 28.3
+  86.4
+200 /  39
+1004.8
+
+
+
+
+
+
+
+
+
+
+
+
+Table 3.     Selected surface observations for Hurricane Katrina, 23-30 August 2005.
+
+
+Location
+Minimum Sea Level Pressure
+Maximum Surface
+Wind Speed
+Storm surge
+(ft)c
+Storm
+tide
+(ft)d
+Total
+rain
+(in)
+
+Date/
+time
+(UTC)
+Press.
+(mb)
+Date/
+time
+(UTC)a
+Sustained
+(kt)b
+Gust
+(kt)
+
+
+
+Florida
+
+
+
+
+
+
+
+
+    Official 
+
+
+
+
+
+
+
+
+WFO Miami (near Sweetwater)
+26/0105
+983.1
+26/0115
+60
+76
+
+
+5.90
+Virginia Key (RSMAS)
+25/2254
+990.2
+25/2355
+63
+81
+
+
+
+Fort Lauderdale (KFLL)
+25/2245
+988.8
+25/2355
+52
+71
+
+
+3.07
+West Kendall (KTMB)
+26/0109
+986.1
+26/0137
+43
+66
+
+
+7.71i
+Miami (KMIA)
+26/0020
+987.8
+26/0124
+42
+68
+
+
+5.10
+Virginia Key (AOML)
+25/2300
+988.0
+25/2330
+
+66
+
+
+7.40
+Boca Raton (KBCT)
+
+
+25/1950
+
+56
+
+
+
+Fort Lauderdale- Executive Airport  (KFXE)
+
+
+26/0028
+41
+57
+
+
+2.90
+Pompano Beach (KPMP)
+25/2213
+997.6
+25/2213
+41
+54
+
+
+1.63
+Opa Locka (KOPF)
+25/2327
+987.5
+25/2229
+39
+57
+
+
+
+Pembroke Pines (KHWO)
+25/2156
+992.9i
+25/2156
+39i
+56i
+
+
+
+Miami Beach (KMBF)
+26/0000
+987.8
+26/0000
+30
+47
+
+
+3.48
+West Palm Beach (KPBI)
+25/2000
+1005i
+26/0243
+28i
+35i
+
+
+1.21
+Naples (KAPF)
+26/1100
+1002i
+26/1711
+24i
+36i
+
+
+0.66
+Homestead (KHST)
+
+
+
+
+
+
+
+14.04
+Chekikae
+
+
+26/0235
+
+66
+
+
+8.14
+Racoon Pointe
+
+
+26/0435
+
+34
+
+
+3.94
+Tenrawe
+
+
+26/0220
+
+63
+
+
+3.70
+Cachee
+
+
+26/0715
+
+58
+
+
+5.31
+Ochopeee
+
+
+26/1135
+
+44
+
+
+1.36
+Oasise
+
+
+26/0430
+
+55
+
+
+1.55
+Key West (KEYW)
+26/1353
+999.3
+26/1527
+53
+64
+
+e 2.5
+10.05
+Key West Naval Air Station (KNQX)
+
+
+26/1549
+48
+60
+
+
+
+Marathon (KMTH)
+26/0728
+1000.7
+26/0836
+30
+44
+
+
+9.71
+Big Pine Key
+
+
+26/1340
+33
+44
+
+
+
+Fort Myers (KFMY)
+26/0950
+1004.4
+26/1742
+26
+34
+
+
+1.17
+Fort Myers (KRSW)
+26/1008
+1004.1
+26/1649
+27
+35
+
+
+1.53
+Punta Gorda (KPGD)
+26/0956
+1006.4
+26/1728
+29
+36
+
+
+1.37
+Winter Haven (KGIF)
+26/2019
+1008.5
+26/2038
+28
+34
+
+
+0.21
+St. Petersburg (KSPG)
+27/2053
+1006.4
+26/1837
+34
+42
+
+
+0.33
+Fort Myers 
+
+
+
+
+
+0.96
+2.34
+
+St. Petersburg
+
+
+
+
+
+1.07
+3.35
+
+Clearwater Beach 
+
+
+
+
+
+1.13
+3.81
+
+Apalachicola (KAAF)
+29/1850
+1005.1
+29/2055
+28
+34
+
+
+0.27
+Panama City (KPFN)
+29/1650
+1002.4
+29/1507
+24
+34
+
+
+0.44
+Destin (KDTS)
+29/2053
+999.3
+29/1722
+30
+44
+
+
+
+Pensacola (KPNS)
+29/1757
+995.3
+29/1452
+49
+60
+
+
+
+Crestview (KCEW)
+29/1523
+998.9
+29/1855
+30
+38
+
+
+
+Eglin Air Force Base (KVPS)
+29/2023
+998.9
+29/1958
+33
+46
+
+
+
+Mary Esther (KHRT)
+29/1935
+998.9
+29/1517
+38
+52
+
+
+
+Pensacola Naval Air Station (KNPA)
+29/1756
+995.3
+29/1811
+49
+62
+
+
+
+Pensacola (PENF1)
+
+
+
+
+
+
+5.37
+
+Santa Rosa Sound (FWLF1)
+
+
+
+
+
+
+4.10
+
+Destin (EPSF1)
+
+
+
+
+
+
+4.52
+
+     Unofficial 
+
+
+
+
+
+
+
+
+North Miami Beach
+25/2330
+985 
+
+
+
+
+
+
+Pembroke Park
+25/2214
+985.8
+
+
+
+
+
+
+Homestead General Airport
+
+
+26/0345
+
+84
+
+
+11.80
+Port Everglades
+
+
+25/2300
+
+80
+
+
+
+West Kendall 
+(Country Walk)
+
+
+26/0130
+
+75
+
+
+6.93
+Miami – The Falls
+(from Weather Underground)
+26/0050
+988.7
+26/0150
+
+56
+
+
+
+Palmetto Bay
+26/0005
+994.9
+
+
+
+
+
+
+Pembroke Pines
+
+
+25/2000
+
+56
+
+
+
+Weston (from Weather Underground)
+26/0130
+997.2
+26/0130
+
+40
+
+
+
+Boynton Beach 
+25/2000
+1003.2
+25/2000
+
+48
+
+
+2.51
+Davie
+
+
+25/2314
+
+64
+
+
+
+Fort Lauderdale
+
+
+25/2218
+
+58
+
+
+
+Miramar
+
+
+26/0042
+
+57
+
+
+
+Hialeah
+
+
+26/0044
+
+52
+
+
+
+Cooper City
+
+
+26/0020
+
+52
+
+
+
+Miami Shores
+
+
+25/2318
+
+51
+
+
+
+Pompano Beach 
+
+
+25/2339
+
+50
+
+
+
+Pembroke Park
+
+
+26/0029
+
+47
+
+
+
+Coral Springs
+
+
+26/0020
+
+43
+
+
+
+Perrine
+
+
+25/2330
+
+42
+
+
+
+Marco Island
+
+
+26/1530
+
+67
+
+
+
+Cudjoe Key
+
+
+26/1103
+44
+63
+
+
+
+Perrine
+
+
+
+
+
+
+
+16.33i
+Key Biscayne
+
+
+
+
+
+
+
+7.36
+Hialeah
+
+
+
+
+
+
+
+4.30
+Big Cypress
+
+
+
+
+
+
+
+3.93
+Hollywood
+
+
+
+
+
+
+
+3.78
+Fort Lauderdale
+
+
+
+
+
+
+
+3.51
+West Boynton Beach
+
+
+
+
+
+
+
+2.66
+Palm Beach Gardens
+
+
+
+
+
+
+
+2.57
+Devils Garden
+
+
+
+
+
+
+
+2.20
+Florida Cityj
+(SFWMD S179)
+
+
+
+
+
+
+
+12.25
+West Perrinej
+(SFWMD S331)
+
+
+
+
+
+
+
+11.71
+Cutler Ridgej 
+(SFWMD S165)
+
+
+
+
+
+
+
+11.13
+Florida Cityj
+(SFWMD SDAF1)
+
+
+
+
+
+
+
+6.30
+Florida Cityj
+(SFWMD BBBF1)
+
+
+
+
+
+
+
+6.02
+Gouldsj
+(SFWMD BCPF1)
+
+
+
+
+
+
+
+4.57
+Leisure Cityj
+(SFWMD BHMF1)
+
+
+
+
+
+
+
+4.40
+Curry Hammock State Park
+
+
+
+
+
+
+
+9.89
+Key Largo (John Pennekamp State Park)
+
+
+
+
+
+
+
+5.94
+Flamingo
+
+
+
+
+
+2-4 
+3-5
+
+Key West 
+Southermost Point
+
+
+
+
+
+
+2.5
+
+Steinhatchee
+
+
+
+
+
+
+
+2.40
+Walton County
+
+
+
+
+
+5
+
+
+Bay County
+
+
+
+
+
+5
+
+
+Gulf County
+
+
+
+
+
+5
+
+
+Franklin County
+
+
+
+
+
+5
+
+
+Wakulla County
+
+
+
+
+
+5
+
+
+Taylor County
+
+
+
+
+
+2
+
+
+Dixie County
+
+
+
+
+
+2
+
+
+Eglin Air Base Sensor 
+(6 mi west of Mary Esther)
+
+
+29/1434
+51
+60
+
+
+
+Destin
+
+
+
+
+37
+
+
+
+Pensacola (WEAR TV)
+
+
+
+
+50
+
+
+3.06
+Philpot
+
+
+
+
+
+
+
+7.80
+Milton
+
+
+
+
+
+
+
+4.50
+Molina
+
+
+
+
+
+
+
+5.00
+Okaloosa County
+
+
+
+
+
+
+e 4-6
+
+Santa Rosa County
+
+
+
+
+
+
+e 5-8
+
+Escambia County
+
+
+
+
+
+
+e 7-9
+
+
+
+
+
+
+
+
+
+
+Cuba
+
+
+
+
+
+
+
+
+P. R. de San Diego
+27/0600
+1003.3
+27/0940
+25
+32
+
+
+5.16
+San Juan y Martinez
+26/2300
+1002.6
+27/1550
+35
+45
+
+
+8.45
+Bahia Honda
+27/0600
+1001.2
+27/0950
+32
+40
+
+
+5.24
+Pinar del Rio
+27/1305
+1002.3
+27/1605
+38
+48
+
+
+8.20
+La Palma
+27/0900
+1000.6
+27/0930
+40
+50
+
+
+5.84
+Isabel Rubio
+27/0850
+1002.3
+27/0635
+37
+46
+
+
+8.30
+Cabo de San Antonio
+27/1200
+1001.8
+27/0930
+46
+54
+
+
+0.98
+Santa Lucia
+27/0900
+996.4
+27/1030
+35
+44
+
+
+2.06
+Casa Blanca
+
+
+27/0505
+43
+52
+
+
+
+Santiago de las Vegas
+27/0500
+1003.2
+27/0600
+37
+41
+
+
+6.94
+
+
+
+
+
+
+
+
+
+Alabama
+
+
+
+
+
+
+
+
+     Official
+
+
+
+
+
+
+
+
+Dothan (KDHN)
+29/1758
+1002.0
+29/1848
+24
+38
+
+
+2.16
+Mobile (KMOB)
+29/1632
+983.4
+29/1546
+57
+72
+
+
+3.80
+Mobile (KBFM)
+29/1653
+985.8
+29/1501
+58
+73
+
+
+
+Evergreen (KGZH)
+29/2224
+993.9
+29/2008
+32
+42
+
+
+
+Mobile State Docks (MBRA1)
+
+
+
+
+
+
+11.45
+
+Dauphin Island (DAUA1)
+
+
+
+
+
+
+6.63
+
+Perdido Pass (PPSA1)
+
+
+
+
+
+
+5.81
+
+Open Ponde
+
+
+29/1620
+
+37
+
+
+2.27
+Birmingham (KBHM)
+30/0340
+992.9
+30/0418
+31
+45
+
+
+0.78
+Oakmulgeee
+
+
+30/0220
+
+43i
+
+
+
+Montgomery (KMGM)
+30/0059
+995
+30/0108
+31
+39
+
+
+0.20
+Anniston (KANB)
+30/0720
+997.5
+30/0720
+29
+37
+
+
+
+Troy (KTOI)
+30/0101
+999
+30/0147
+27
+36
+
+
+2.18
+Calera (KEET)
+30/0349
+993
+30/0345
+28i
+39i
+
+
+0.83i
+Huntsville (KHSV)
+30/0934
+991.2
+
+
+
+
+
+2.05
+Decatur (KDCU)
+30/0522
+990.2
+
+
+
+
+
+2.33
+Muscle Shoals  (KMSL)
+30/0721
+986.1
+
+
+
+
+
+3.52
+     Unofficial
+
+
+
+
+
+
+
+
+Mobile Bay 
+(USS Alabama)
+
+
+
+
+90
+
+e 12
+
+Semmes
+29/1715
+982.7
+
+
+57
+
+
+5.70
+Daphne
+
+
+
+
+
+
+
+4.97
+Thomasville
+
+
+
+
+
+
+
+3.17
+Oak Grove
+
+
+
+
+
+
+
+6.00
+Baldwin County
+
+
+
+
+
+
+e 9-11
+
+Mobile County
+
+
+
+
+
+
+e 10-13
+
+Cuba
+
+955.0
+
+
+69
+
+
+
+Vance
+
+
+
+
+59
+
+
+
+Jefferson County 
+(Jimmie Hale Mission)
+
+992.2
+
+
+52
+
+
+
+Jefferson County
+(Limbaugh Toyota)
+
+992.9
+
+
+41
+
+
+
+Jefferson County
+(Advent School)
+
+992.9
+
+
+37
+
+
+
+Birmingham Race Course
+
+995.6
+
+
+45
+
+
+
+Guin
+
+986.5
+
+
+41
+
+
+
+Ranburne
+
+
+
+
+39
+
+
+
+Attalla
+
+
+
+
+34
+
+
+
+Vance County
+(Mercedes Benz)
+
+988.5
+
+
+
+
+
+
+Gadsden
+
+998.3
+
+
+
+
+
+0.92
+Hamilton
+
+
+
+
+
+
+
+4.82
+Addison
+
+
+
+
+
+
+
+3.62
+Selma
+
+
+
+
+
+
+
+2.00
+Anderson
+
+
+
+
+
+
+
+4.35
+Athens
+
+
+
+
+
+
+
+2.59
+Mount Hester
+
+
+
+
+
+
+
+6.85
+Dime
+
+
+
+
+
+
+
+3.31
+Hodges
+
+
+
+
+
+
+
+3.96
+Red Bay
+
+
+
+
+
+
+
+5.90
+Russellville
+
+
+
+
+
+
+
+6.95
+Russellville TVA
+
+
+
+
+
+
+
+6.10
+Hytop
+
+
+
+
+
+
+
+2.06
+Oakland
+
+
+
+
+
+
+
+2.12
+Wilson Dam
+
+
+
+
+
+
+
+3.57
+Moulton TVA
+
+
+
+
+
+
+
+3.84
+Athens TVA
+
+
+
+
+
+
+
+2.47
+Monrovia- West
+
+
+
+
+
+
+
+3.07
+Guntersville
+
+
+
+
+
+
+
+2.16
+Northwest Morgan County
+
+
+
+
+
+
+
+2.59
+Pence
+
+
+
+
+
+
+
+2.14
+Toney
+
+
+
+
+
+
+
+2.67
+
+
+
+
+
+
+
+
+
+Tennessee
+
+
+
+
+
+
+
+
+     Official
+
+
+
+
+
+
+
+
+Fort Campbelle
+
+
+30/0915
+
+36
+
+
+3.01
+Camden Towere
+
+
+30/0505
+
+52
+
+
+2.42
+Meigs EOCe
+
+
+30/1605
+
+36
+
+
+0.46
+Coker Creeke
+
+
+30/1540
+
+49
+
+
+1.50
+     Unofficial
+
+
+
+
+
+
+
+
+Sewanee
+
+
+
+
+
+
+
+2.58
+University of the South
+
+
+
+
+
+
+
+2.49
+
+
+
+
+
+
+
+
+
+Mississippi
+
+
+
+
+
+
+
+
+     Official
+
+
+
+
+
+
+
+
+Pascagoula (KPQL)
+
+
+29/0953
+38i
+44i
+
+
+
+Biloxi – Keesler AFB (KBIX)
+
+
+29/1400
+52i
+85i
+
+
+
+Gulfport (KGPT)
+
+
+29/1025
+40i
+55i
+
+
+
+Pascagoula (PSCM6)
+
+
+
+
+
+
+12.16 i
+
+Green Pass (GRPL1)
+
+
+
+
+
+
+11.27 i
+
+Meridian (KNMM)
+29/2355
+964.4i
+29/2051
+
+70i
+
+
+
+Jackson (KJAN)
+29/2129
+973.3
+29/2014
+
+56
+
+
+3.93
+Columbus (KCBM)
+30/0355
+980.4
+30/0100
+
+50
+
+
+5.79
+Greenwood (KGWO)
+
+
+29/2153
+
+46
+
+
+
+Greenville (KGLH)
+30/0156
+992.8
+29/2223
+
+44
+
+
+2.08
+Sharkey Delta Roade
+
+
+30/0105
+
+44
+
+
+3.87
+Holmese
+
+
+30/0105
+
+51
+
+
+5.48
+Hancocke
+
+
+29/1605
+43
+74
+
+
+10.05
+Pikee
+
+
+29/1705
+34
+57
+
+
+
+Wausaue
+
+
+29/1705
+
+57i
+
+
+5.96
+Greenee
+
+
+29/1610
+
+57i
+
+
+
+Black Creeke
+
+
+29/1800
+43
+69
+
+
+7.64
+Neshobae
+
+
+29/2110
+
+52
+
+
+6.53
+Bienvillee
+
+
+29/2105
+
+48
+
+
+6.35
+Copiahe
+
+
+29/1705
+
+44
+
+
+
+Budee
+
+
+29/1905
+
+43
+
+
+3.71
+Covingtone
+
+
+29/2005
+
+47
+
+
+
+Marione
+
+
+29/1605
+
+38
+
+
+8.19
+Winborne
+
+
+30/0205
+
+35
+
+
+4.00
+     Unofficial 
+
+
+
+
+
+
+
+
+Wortham (Biloxi River)
+
+
+
+
+
+
+26
+
+Hancock County EOC
+
+
+
+
+
+
+28
+
+Jackson County EOC, Pascagoula
+
+
+
+
+108i
+
+
+
+Pearl River County EOC, Poplarville
+
+
+
+
+117i
+
+
+
+Stennis Space Center (Texas Tech Univ. 10 m tower)
+
+
+29/1500
+59
+102
+
+
+
+Pascagoula (Florida Coastal Monitoring Program (FCMP) tower)
+
+
+29/1549
+64
+
+
+
+
+Pascagoula (Univ. of South Alabama Mesonet site)
+29/1451
+976
+29/1413
+58
+66
+
+
+
+Agricola (Univ. of South Alabama Mesonet site)
+29/1649
+969
+29/1520
+29
+51
+
+
+
+Laurel 
+
+
+29/1900
+
+96i
+
+
+
+Forrest
+
+
+29/1800
+
+87i
+
+
+
+Columbia
+29/1800
+951.0
+29/1800
+
+70
+
+
+
+Starkville
+30/0300
+977.0
+30/0030
+
+66
+
+
+
+Columbia
+
+
+
+
+
+
+
+8.20
+Noxapater
+
+
+
+
+
+
+
+7.90
+Ackerman (Tombigbee National Forest)
+
+
+
+
+
+
+
+7.52
+North of Hattiesburg (Bowie Creek)
+
+
+
+
+
+
+
+7.35
+Conehatta
+
+
+
+
+
+
+
+7.00
+Kosciusko (13 m SSE)
+
+
+
+
+
+
+
+6.80
+Brooklyn
+
+
+
+
+
+
+
+6.78
+Philadelphia
+
+
+
+
+
+
+
+6.72
+Sanford (Okatoma River)
+
+
+
+
+
+
+
+6.19
+Edinburg
+
+
+
+
+
+
+
+6.15
+Pelahatchie
+
+
+
+
+
+
+
+5.90
+Ofahoma
+
+
+
+
+
+
+
+5.88
+Ethel
+
+
+
+
+
+
+
+5.70
+Hattiesburg
+
+
+
+
+
+
+
+5.18
+Kosciusko
+
+
+
+
+
+
+
+4.27
+
+
+
+
+
+
+
+
+
+Louisiana
+
+
+
+
+
+
+
+
+     Official
+
+
+
+
+
+
+
+
+Slidell (KASD)
+29/1400
+954.4i
+29/1243
+32i
+44i
+
+
+
+Bootheville (KBVE)
+
+
+28/2137
+26i
+39i
+
+
+
+New Orleans Intl Airport (KMSY)
+
+
+29/0305
+29i
+38i
+
+
+
+New Orleans Intl Airport LLWAS 30-ft tower
+
+
+29/1405
+
+64
+
+
+
+New Orleans Intl Airport LLWAS 120-ft tower
+
+
+29/1340
+
+85
+
+
+
+New Orleans Lakefront Airport (KNEW)
+29/1300
+958.4i
+29/1153
+60i
+75i
+
+
+
+Tallulah (KTVR)
+
+
+29/1834
+
+48i
+
+
+
+Slidell NWS
+29/1438
+934.1
+
+
+
+
+
+11.63
+Ponte a la Hache (BGNL1)
+
+
+
+
+
+
+14.14 i
+
+Lake Maurepas (MAUL1)
+
+
+
+
+
+
+3.05 i
+
+Big Branch NWRe
+
+
+29/1620
+
+50
+
+
+14.92
+     Unofficial
+
+
+
+
+
+
+
+
+Buras (Univ. of LA-Monroe 2 m tower)
+29/1116
+920.2
+29/1021
+73
+99
+
+
+
+Slidell  (videographer at Memorial Hospital)
+29/1505
+931
+29/1435
+
+e 105
+
+
+
+NASA Michoud Assembly Facility
+29/1404
+949.9
+29/1100
+84
+
+
+
+
+Belle Chase NAS 
+(FCMP tower)
+
+
+29/1427
+68
+89
+
+
+
+Galliano (FCMP tower)
+
+
+29/0936
+67
+83
+
+
+
+Slidell Airport (Texas Tech Univ. 10 m tower)
+
+
+29/1500
+61
+87
+
+
+
+Vacherie (Texas Tech Univ. 10 m tower)
+
+
+29/1200
+48
+64
+
+
+
+Grand Isle
+
+
+
+
+
+12
+
+
+Port Fourchon
+
+
+
+
+
+8
+
+
+Gretna
+29/1400
+950.6
+
+
+
+
+
+
+Baton Rouge – Ben Hur Farmh
+
+
+29/1438
+43
+54
+
+
+2.83
+Baton Rouge – Burden Plantationh
+
+
+29/1404
+34
+48
+
+
+2.96
+Port Sulphurh
+29/1000
+962.2i
+29/0937
+75i
+88i
+
+
+
+Franklintonh
+29/1615
+953.7
+29/1915
+43
+69
+
+
+5.03
+Houmah
+29/1244
+976.6
+29/1100
+44
+60
+
+
+3.68
+Hammondh
+29/1602
+965.3
+29/1644
+48
+66
+
+
+4.61
+Manchach
+29/1558
+960.9
+29/1559
+59
+74
+
+
+5.55
+Livingston Southh
+29/1637
+974.5
+29/1432
+35
+49
+
+
+2.68
+Livingston Westh
+29/1608
+972.8
+29/1451
+
+42
+
+
+2.21
+St. Gabrielh
+29/1436
+979.5
+29/1643
+44
+53
+
+
+
+
+
+
+
+
+
+
+
+
+Buoys/C-MAN/NOS Sites
+
+
+
+
+
+
+
+
+Settlement Point (SPGF1)
+(26.7ºN 79.0ºW)
+25/1100
+1004.2
+25/1050
+36
+45
+
+
+
+Fowey Rocks (FWYF1)
+(25.6ºN 80.1ºW)
+26/0000
+997.8 
+26/2310
+57
+69
+
+
+
+Virginia Key NOS (VAKF1)
+(25.7ºN 80.2ºW)
+25/2254
+990.2
+25/2330
+55
+67
+1.0
+3.2
+
+Vaca Key NOS (VCAF1)
+(24.7ºN 81.1ºW)
+26/0724
+1000.5
+25/2200
+27
+41
+
+2.0
+
+Sombrero Key (SMKF1)
+(24.6ºN 81.1ºW)
+26/0900
+1000.6
+26/0900
+58
+69
+
+
+
+Long Key (LONF1)
+(24.8ºN 80.9ºW)
+26/0700
+1000.2
+26/0820
+45
+60
+
+2.1
+
+Molasses Reef (MLRF1)
+(25.0ºN 80.4ºW)
+26/0500
+1001.7
+26/0600
+53
+67
+
+
+
+NW Florida Bay (NFBF1)
+(25.1ºN 81.1ºW)
+26/0554
+994.2i
+26/0654
+51i
+60i
+
+2.5
+
+Dry Tortugas  (DRYF1)
+(24.6ºN 82.9ºW)
+26/2000
+974.4
+26/2000
+70
+91
+
+
+
+Sand Key (SANF1)
+(24.5ºN 81.9ºW)
+26/1500
+999.7
+26/1530
+54
+67
+
+
+
+Key West NOS (KYWF1)
+(24.6ºN 81.8ºW)
+26/1300
+999.8
+26/1818
+40
+52
+
+1.4
+
+Naples Pier NOS (NPSF1)
+(26.1ºN 81.8ºW)
+26/1000
+1002.6
+26/0700
+18
+32
+2.5
+3.0
+
+Buoy 42014
+(25.3ºN 82.2ºW)
+26/1429
+977.9
+
+
+
+
+
+
+Buoy 42003
+(26.0ºN 85.9ºW)
+28/0350
+987.8i
+28/0230
+57i
+78i
+
+
+
+Buoy 42001
+(25.8ºN 89.7ºW)
+28/1950
+981.3
+28/2030
+48
+64
+
+
+
+Cedar Key (CDRF1)
+(29.1ºN 83.3ºW)
+28/0900
+1007.8
+28/2220
+30
+37
+2.07
+5.1
+
+Tyndall AFB Tower (SGOF1) (29.4ºN 84.5ºW)
+29/1000
+1005.5
+29/1000
+35
+42
+
+
+
+Panama City Beach NOS (PCBF1) (30.2ºN 85.9ºW)
+29/2024
+1002.3
+29/1448
+38i
+48i
+
+4.2
+
+Pensacola NOS (PCLF1)
+(30.4ºN 87.2ºW)
+29/1300
+995.7i
+29/1700
+37i
+49i
+
+3.1
+
+Buoy 42036
+(28.5ºN 84.5ºW)
+28/0950
+1003.7
+29/1050
+29
+35
+
+
+
+Buoy 42039
+(28.8ºN 86.0ºW)
+29/0950
+1000.2
+29/0850
+37
+47
+
+
+
+Dauphin Island (DPIA1)
+(30.3ºN 88.1ºW)
+29/1505
+986.1
+29/1350
+66
+89
+
+6.2
+
+Buoy 42040
+(29.2ºN 88.2ºW)
+29/0950
+979.3
+29/1010
+55
+72
+
+
+
+Buoy 42067
+(30.0ºN 88.7ºW)
+
+
+29/1130
+60i
+76i
+
+
+
+Buoy 42007 (30.1ºN 88.8ºW; went adrift ~29/0500 UTC)
+29/1450
+927.4
+29/1535
+56
+74
+
+
+
+Waveland NOS (WAVM6)
+(30.3ºN 89.4ºW)
+29/0936
+986.5i
+29/0936
+44i
+54i
+
+
+
+SW Pass (NOS tide gauge)
+(28.9ºN 89.4ºW)
+29/0948
+921.6
+
+
+
+
+
+
+Southwest Pass (BURL1)
+(28.9ºN 89.4ºW)
+29/0500
+979.7i
+29/0420
+72i
+88i
+
+
+
+Grand Isle (GDIL1)
+(29.3ºN 90.0ºW)
+29/1100
+944.3
+29/0820
+76i
+99i
+
+
+
+Bayou LaBranch NOS (LABL1)
+(30.1ºN 90.4ºW)
+29/1130
+976.9i
+29/1130
+43i
+61i
+
+
+
+Bayou Gauche NOS (BYGL1)
+(29.8ºN 90.4ºW)
+29/1042
+975.4i
+
+
+
+
+
+
+Isle Dernieres (ILDL1)f
+(29.1ºN 90.5ºW)
+29/1100
+968.4i
+29/1000
+67i
+84i
+
+
+
+Mid-Lake Pontchartrain NWS Gauge
+
+
+29/1520
+68
+86
+
+6.8
+
+Tambour Bay (TAML1)g
+(29.2ºN 90.7ºW)
+29/1100
+972.9i
+29/1000
+55i
+69i
+
+
+
+LUMCOM Marine Center
+(LUML1) (29.3ºN 90.7ºW) 
+29/1100
+970.5i
+29/0800
+43i
+54i
+
+
+
+Salt Point (SLPL1) f
+(29.5ºN 91.6ºW) 
+29/1000
+990.3i
+29/1000
+33i
+38i
+
+
+
+Marsh Island (MRSL1) f
+(29.4ºN 92.1ºW)
+29/1100
+993.7
+
+
+
+
+
+
+Buoy 42038
+(27.4ºN 92.6ºW)
+29/0450
+996.6
+29/0030
+32
+41
+
+
+
+
+a  Date/time is for sustained wind when both sustained and gust are listed.
+b  Except as noted, sustained wind averaging periods for C-MAN and land-based ASOS reports are 2 min.; buoy averaging periods are 8 min.
+c  Storm surge is water height above normal astronomical tide level.
+d  Storm tide is water height above National Geodetic Vertical Datum (1929 mean sea level).
+e  Remote Automated Weather Station (RAWS)
+f  Louisiana State University (LSU) Coastal Studies Institute Station
+g  Louisiana Universities Marine Consortium site
+h  LSU Ag Center site
+i  Incomplete data
+j  South Florida Water Management District (SFWMD) site
+Table 4.	Preliminary forecast evaluation (heterogeneous sample) for Hurricane Katrina, 23-30 August 2005.  Forecast errors (n mi) are followed by the number of forecasts in parentheses.  Errors smaller than the NHC official forecast are shown in bold-face type.  Verification includes the depression stage, but does not include the extratropical stage.  Models not available at the time the official forecasts were made are indicated by (*).
+
+
+Forecast Technique
+
+
+Forecast Period (h)
+
+
+
+
+
+12
+
+
+24
+
+
+36
+
+
+48
+
+
+72
+
+
+96
+
+
+120
+
+CLP5
+  35 (27)
+  81 (25)
+ 148 (23)
+ 222 (21)
+ 379 (17)
+ 521 (13)
+ 690 ( 9)
+GFNI
+  27 (25)
+  45 (23)
+  59 (21)
+  73 (19)
+ 149 (14)
+ 194 (10)
+ 196 ( 6)
+GFDI
+  31 (27)
+  55 (25)
+  75 (23)
+  97 (21)
+ 147 (17)
+ 184 (13)
+ 165 ( 9)
+GFDL*
+  27 (26)
+  53 (25)
+  72 (23)
+  92 (21)
+ 133 (17)
+ 168 (13)
+ 188 ( 9)
+GFDN*
+  34 (24)
+  50 (24)
+  60 (22)
+  71 (20)
+ 133 (15)
+ 183 (11)
+ 193 ( 7)
+GFSI
+  27 (25)
+  49 (23)
+  75 (21)
+ 104 (19)
+ 191 (15)
+ 331 (11)
+ 493 ( 7)
+GFSO*
+  26 (26)
+  43 (24)
+  71 (22)
+  94 (20)
+ 165 (16)
+ 290 (12)
+ 489 ( 8)
+AEMI
+  27 (25)
+  46 (23)
+  67 (21)
+  91 (19)
+ 152 (15)
+ 254 (11)
+ 367 ( 7)
+NGPI
+  27 (27)
+  48 (25)
+  72 (23)
+  96 (21)
+ 161 (17)
+ 194 (13)
+ 242 ( 9)
+NGPS*
+  34 (26)
+  54 (24)
+  80 (22)
+  96 (20)
+ 143 (16)
+ 179 (12)
+ 203 ( 8)
+UKMI
+  21 (23)
+  33 (22)
+  53 (21)
+  85 (19)
+ 154 (15)
+ 263 (11)
+ 380 ( 7)
+UKM* 
+  28 (13)
+  28 (12)
+  40 (11)
+  67 (10)
+ 128 ( 8)
+ 208 ( 6)
+ 324 ( 4)
+A98E
+  33 (27)
+  58 (25)
+  81 (23)
+ 126 (21)
+ 238 (17)
+ 346 (13)
+ 411 ( 9)
+A9UK
+  32 (13)
+  63 (12)
+  96 (11)
+ 129 (10)
+ 209 ( 8)
+
+
+BAMD
+  26 (27)
+  45 (25)
+  65 (23)
+  86 (21)
+ 111 (17)
+ 197 (13)
+ 326 ( 9)
+BAMM
+  31 (27)
+  61 (25)
+  86 (23)
+ 108 (21)
+ 143 (17)
+ 229 (13)
+ 398 ( 9)
+BAMS
+  59 (25)
+ 109 (23)
+ 138 (21)
+ 158 (19)
+ 185 (16)
+ 255 (12)
+ 408 ( 9)
+CONU
+  21 (27)
+  37 (25)
+  54 (23)
+  78 (21)
+ 148 (17)
+ 196 (13)
+ 260 ( 9)
+GUNA
+  21 (23)
+  38 (22)
+  57 (21)
+  84 (19)
+ 156 (15)
+ 229 (11)
+ 307 ( 7)
+FSSE
+  21 (22)
+  38 (22)
+  61 (20)
+  95 (18)
+ 160 (14)
+ 221 (10)
+ 253 ( 6)
+OFCL
+  24 (27)
+  42 (25)
+  64 (23)
+  96 (21)
+ 174 (17)
+ 213 (13)
+ 234 ( 9)
+
+NHC Official
+(1995-2004 mean)
+
+
+42 
+
+(3400)
+
+75
+
+(3116)
+
+107
+
+(2848)
+
+138
+
+(2575)
+
+202
+
+(2117)
+
+236
+
+(649)
+
+310
+
+(535)
+Table 5.	Coastal watch and warning summary for Hurricane Katrina, 23-30 August 2005.
+
+Date/Time (UTC)
+Action
+Location
+23 / 2100
+Tropical Storm Warning issued
+Central Bahamas to NW Bahamas
+24 / 0300
+Tropical Storm Watch issued
+Seven Mile Bridge to Vero Beach
+24 / 1500
+Tropical Storm Watch modified to
+Seven Mile Bridge to Florida City
+24 / 1500
+Tropical Storm Warning and Hurricane Watch issued
+Florida City to Vero Beach
+24 / 2100
+Tropical Storm Watch issued
+Vero Beach to Titusville
+24 / 2100
+Tropical Storm Warning/ Hurricane Watch  issued
+Lake Okeechobee
+25 / 0300
+Tropical Storm Warning/Hurricane Watch  changed to Hurricane Warning
+Florida City to Vero Beach  and Lake Okeechobee
+25 / 0900
+Tropical Storm Watch Issued
+Florida City to Englewood including Florida Bay
+25 / 1500
+Tropical Storm Warning modified to 
+Grand Bahama, Bimini, and the Berry Islands in the NW Bahamas 
+25 / 2100
+Hurricane Warning modified to
+Florida City to Jupiter Inlet including Lake Okeechobee
+25 / 2100
+Tropical Storm Warning issued
+Jupiter Inlet to Vero Beach, 
+Key West to Ocean Reef & Florida City to Longboat Key including Florida Bay
+25 / 2100
+Tropical Storm Watch issued
+Longboat Key to Anclote Key
+25 / 2300
+Tropical Storm Warning discontinued
+Grand Bahama, Bimini, and the Berry Islands in the NW Bahamas
+26 / 0300
+Tropical Storm Watch discontinued
+Vero Beach to Titusville
+26 / 0300
+Tropical Storm Warning discontinued
+Jupiter Inlet to Vero Beach
+26 / 0500
+Hurricane Warning Changed to Tropical Storm Warning 
+Deerfield Beach to Florida City 
+26 / 0500
+Hurricane Warning discontinued
+Deerfield Beach to Jupiter and Lake Okeechobee
+26 / 0500
+Tropical Storm Warning modified to
+Dry Tortugas to Ocean Reef including Florida Bay and Florida City to Longboat Key
+26 / 1500
+Tropical Storm Warning modified to
+Florida City to Longboat Key, all the Florida Keys and Florida Bay
+26 / 2100
+Tropical Storm Watch discontinued
+All
+26 / 2100
+Tropical Storm Warning discontinued
+Florida City to Longboat Key
+27 / 0900
+Tropical Storm Warning modified to
+Dry Tortugas to Seven Mile Bridge
+27 / 1500
+Tropical Storm Warning modified to
+Dry Tortugas to Key West
+27 / 1500
+Hurricane Watch issued
+Morgan City to Pearl River
+27 / 2100
+Tropical Storm Warning discontinued
+All
+27 / 2100
+Hurricane Watch modified
+Intracoastal City to FL/AL border
+28 / 0300
+Hurricane Warning issued
+Morgan City to FL/AL border including Lake Pontchartrain
+28 / 0300
+Tropical Storm Warning issued
+FL/AL border to Destin
+28 / 0300
+Tropical Storm Warning issued
+Intracoastal City to Morgan City
+28 / 0300
+Hurricane Watch modified to
+FL/AL border to Destin
+28 / 0900
+Tropical Storm Warning issued
+Destin to Indian Pass and Intracoastal City to Cameron
+29 / 1500
+Hurricane Watch discontinued
+All
+29 / 2100
+Hurricane Warning changed to Tropical Storm Warning
+Pearl River to FL/AL border including Lake Pontchartrain
+29 / 2100
+Hurricane and Tropical Storm Warnings discontinued
+Cameron to Pearl River and FL/AL border to Destin 
+30 / 0300
+Tropical Storm Warning discontinued
+All
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1.	Best track positions for Hurricane Katrina, 23-30 August 2005.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Katrina, 23-30 			August 2005.  Aircraft observations have been adjusted for elevation using 90%, 80%, and 80% reduction factors for 			observations from 700 mb, 850 mb, and 1500 ft, respectively.  Dropwindsonde observations include actual 10 m winds 			(sfc), as well as surface estimates derived from the mean wind over the lowest 150 m of the wind sounding (LLM),  and 		from the sounding boundary layer mean (MBL).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Hurricane Katrina, 23-30 August 			2005.
+
+
+Figure 4.  	Radar reflectivity image from the Miami WSR-88D radar at 0100 UTC 26 August 2005, as the center of Hurricane 			Katrina passed over northern Miami-Dade County, Florida and near the NWS Miami Weather Forecast Office / 				National Hurricane Center (located where denoted by the ‘x’ labelled “NHC”).
+
+
+
+A						B
+
+
+						C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 5.	Passive microwave imagery from the NASA TRMM satellite depicting the eyewall replacement cycle in Hurricane Katrina on 27-28 August 2005, at (a) 0420 UTC 27 August, (b), 2052 UTC 27 August, and (c) 0324 UTC 28 August 2005.  All images are from the 85GHz channel in which ice scattering reveals areas of deep convection displayed in the red shades.  Images courtesy of the Naval Research Laboratory (NRL).
+
+
+Figure 6.	GOES-12 visible image of Hurricane Katrina over the central Gulf of Mexico at 1745 UTC 28 August 2005, near the time of its peak intensity of 150 kt.
+
+
+
+	
+
+
+
+A) 2000 UTC 28 August						B) 1000 UTC 29 August
+
+
+
+
+
+Figure 7.	Airborne Doppler radar-derived wind speed cross sections obtained from a NOAA WP-3D Hurricane Hunter aircraft at approximately (a) 2000 UTC 28 August 2005 and (b) 1000 UTC 29 August 2005.  Radial distance from the center of the hurricane increases to the right, and both cross sections extend toward the east from the center of the hurricane.  Wind speeds are in meters per second (m/s) as indicated by color shades with legend beneath the diagrams.  Wind speeds derived from the radar extend down to about the 300 m level.  Note the broad and elevated wind maximum in the 2-4 km layer on 29 August (centered near the 700 mb flight level), which was not present on 28 August when the maximum winds were concentrated at the more typical location near the top of the boundary layer (~500 m).  The 65-69 m/s winds in the 300-500 m layer in panel (b), in the isolated area at a radius of 50-55 km from the center, correspond to no more than about 105 kt winds at the surface, using an average adjustment of the mean boundary layer winds to the surface.  Graphics courtesy of the NOAA Hurricane Research Division (HRD).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40
+
+
+
+
+

@@ -1,0 +1,3333 @@
+Table 1.  Best track for Hurricane Wilma, 15-25 October 2005.
+
+Date/Time
+(UTC)
+
+Latitude
+(?N)
+
+Longitude
+(?W)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+15 / 1800
+17.6
+ 78.5
+1004
+ 25
+ tropical depression  
+16 / 0000
+17.6
+ 78.8
+1004
+ 25
+"
+16 / 0600
+17.5
+ 79.0
+1003
+ 30
+"
+16 / 1200
+17.5
+ 79.2
+1003
+ 30
+"
+16 / 1800
+17.5
+ 79.4
+1002
+ 30
+"
+17 / 0000
+17.4
+ 79.6
+1001
+ 30
+"
+17 / 0600
+16.9
+ 79.6
+1000
+ 35
+tropical storm
+17 / 1200
+16.3
+ 79.7
+ 999
+ 40
+"
+17 / 1800
+16.0
+ 79.8
+ 997
+ 45
+"
+18 / 0000
+15.8
+ 79.9
+ 988
+ 55
+"
+18 / 0600
+15.7
+ 79.9
+ 982
+ 60
+"
+18 / 1200
+16.2
+ 80.3
+ 979
+ 65
+hurricane
+18 / 1800
+16.6
+ 81.1
+ 975
+ 75
+"
+19 / 0000
+16.6
+ 81.8
+ 946
+130
+"
+19 / 0600
+17.0
+ 82.2
+ 892
+150
+"
+19 / 1200
+17.3
+ 82.8
+ 882
+160
+"
+19 / 1800
+17.4
+ 83.4
+ 892
+140
+"
+20 / 0000
+17.9
+ 84.0
+ 892
+135
+"
+20 / 0600
+18.1
+ 84.7
+ 901
+130
+"
+20 / 1200
+18.3
+ 85.2
+ 910
+130
+"
+20 / 1800
+18.6
+ 85.5
+ 917
+130
+"
+21 / 0000
+19.1
+ 85.8
+ 924
+130
+"
+21 / 0600
+19.5
+ 86.1
+ 930
+130
+"
+21 / 1200
+20.1
+ 86.4
+ 929
+125
+"
+21 / 1800
+20.3
+ 86.7
+ 926
+120
+"
+22 / 0000
+20.6
+ 86.8
+ 930
+120
+"
+22 / 0600
+20.8
+ 87.0
+ 935
+110
+"
+22 / 1200
+21.0
+ 87.1
+ 947
+100
+"
+22 / 1800
+21.3
+ 87.1
+ 958
+ 85
+"
+23 / 0000
+21.6
+ 87.0
+ 960
+ 85
+"
+23 / 0600
+21.8
+ 86.8
+ 962
+ 85
+"
+23 / 1200
+22.4
+ 86.1
+ 961
+ 85
+"
+23 / 1800
+23.1
+ 85.4
+ 963
+ 90
+"
+24 / 0000
+24.0
+ 84.3
+ 958
+ 95
+"
+24 / 0600
+25.0
+ 83.1
+ 953
+110
+"
+24 / 1200
+26.2
+ 81.0
+ 950
+95
+"
+24 / 1800
+28.0
+ 78.8
+ 955
+105
+"
+25 / 0000
+30.1
+ 76.0
+ 955
+110
+"
+25 / 0600
+33.3
+ 72.0
+ 963
+100
+"
+25 / 1200
+36.8
+ 67.9
+ 970
+ 90
+"
+25 / 1800
+40.5
+ 63.5
+ 976
+ 75
+hurricane
+26 / 0000
+42.5
+ 60.0
+ 978
+ 60
+extratropical
+26 / 0600
+44.0
+ 57.5
+ 982
+ 55
+"
+26 / 1200
+45.0
+ 55.0
+ 986
+ 50
+"
+26 / 1800
+45.5
+ 52.0
+ 990
+ 40
+"
+27 / 0000
+
+  
+
+
+merged with low
+21 / 2145
+20.6
+86.8
+927
+130
+landfall on Cozumel, Mexico 
+22 / 0330
+20.8
+86.9
+933
+115
+landfall near Puerto Morelos, Mexico
+24 / 1030
+25.9
+81.7
+950
+105
+landfall near Cape Romano, Florida
+19 / 1200
+17.3
+ 82.8
+ 882
+160
+minimum pressure
+   
+   
+
+Table 2.	Selected ship and drifting buoy reports with winds of at least 34 kt for Hurricane Wilma, 15-25 October 2005.
+
+Date/Time (UTC)
+
+Ship call sign
+
+
+Latitude
+(?N)
+
+Longitude
+(?W)
+
+Wind
+dir/speed (kt)
+
+Pressure 
+(mb)
+20 / 1200
+WCY845
+ 18.8
+  80.2
+130 /  36
+1007.0
+20 / 2100
+DDPH  
+ 18.9
+  82.3
+140 /  35
+1004.0
+23 / 2100
+A8FN3 
+ 20.3
+  84.2
+240 /  43
+1001.6
+23 / 2100
+P3GY9 
+ 21.8
+  85.3
+260 /  46
+ 993.0
+24 / 0000
+ZCAM4 
+ 23.4
+  88.1
+340 /  37
+1002.2
+24 / 0000
+V7HD2 
+ 28.3
+  88.0
+010 /  37
+1009.0
+24 / 0600
+WCY845
+ 20.0
+  82.6
+230 /  35
+1004.0
+24 / 0600
+KS049 
+ 26.4
+  85.2
+010 /  39
+ 993.8
+24 / 0900
+KS049 
+ 25.7
+  86.0
+350 /  41
+ 997.6
+24 / 1054
+ANCF1 
+ 28.2
+  82.8
+010 /  37
+ 999.0
+24 / 1154
+FHPF1 
+ 28.1
+  82.8
+020 /  39
+ 999.6
+24 / 1200
+H3VT  
+ 25.6
+  77.1
+160 /  44
+1002.0
+24 / 1200
+WAAH  
+ 26.8
+  76.9
+160 /  37
+1000.0
+24 / 1300
+PMYF1 
+ 26.9
+  80.6
+110 /  43
+ -99.0
+24 / 1500
+WAAH  
+ 26.2
+  76.2
+170 /  39
+ 999.5
+24 / 1800
+MYSU5 
+ 24.1
+  74.8
+190 /  49
+1005.6
+24 / 1800
+V7HD2 
+ 28.3
+  87.7
+340 /  36
+1015.0
+24 / 1800
+41625 
+ 27.6
+  70.5
+210 /  43
+1002.7
+24 / 1900
+41646 
+ 25.3
+  75.5
+200 /  41
+1001.2
+24 / 2000
+41646 
+ 25.3
+  75.5
+200 /  39
+1000.3
+24 / 2100
+WAAH  
+ 25.7
+  75.8
+230 /  44
+ 997.8
+24 / 2128
+TYBG1 
+ 31.6
+  79.9
+330 /  35
+ 996.0
+24 / 2200
+3FMX7 
+ 36.4
+  74.6
+020 /  47
+ 996.4
+24 / 2200
+41630 
+ 26.7
+  74.0
+220 /  41
+ 999.5
+24 / 2233
+SKMG1 
+ 31.5
+  80.2
+310 /  37
+ 998.0
+24 / 2333
+SKMG1 
+ 31.5
+  80.2
+310 /  39
+ 999.4
+25 / 0000
+ZCDF4 
+ 23.2
+  79.0
+270 /  38
+1007.9
+25 / 0000
+PDBO  
+ 28.6
+  67.2
+210 /  35
+1008.8
+25 / 0000
+KRHX  
+ 35.5
+  75.2
+020 /  41
+ 992.0
+25 / 0000
+41625 
+ 27.7
+  70.5
+200 /  39
+1005.7
+25 / 0050
+41934 
+ 28.6
+  72.5
+*** /  41
+ 997.4
+25 / 0059
+BRBN4 
+ 39.6
+  74.2
+070 /  35
+1002.4
+25 / 0128
+TYBG1 
+ 31.6
+  79.9
+310 /  39
+1000.5
+25 / 0200
+41625 
+ 27.8
+  70.4
+210 /  41
+1006.2
+25 / 0300
+KRHX  
+ 36.2
+  75.3
+050 /  40
+ 990.8
+25 / 0459
+AVAN4 
+ 39.1
+  74.7
+070 /  35
+ 995.0
+25 / 0500
+3FMX7 
+ 37.4
+  74.4
+020 /  48
+ 989.2
+25 / 0600
+A8ER9 
+ 34.9
+  75.2
+350 /  37
+ 989.0
+25 / 0600
+ZCDC2 
+ 37.0
+  75.1
+030 /  38
+ 991.0
+25 / 0600
+A8CJ2 
+ 37.4
+  74.2
+050 /  37
+ 987.0
+25 / 0600
+KAQP  
+ 40.2
+  66.3
+090 /  36
+ 997.5
+25 / 0659
+BRBN4 
+ 39.6
+  74.2
+050 /  35
+ 994.1
+25 / 0900
+KRPB  
+ 35.5
+  75.2
+300 /  37
+ 990.1
+25 / 0900
+WMVF  
+ 41.5
+  70.7
+070 /  35
+1001.0
+25 / 1100
+3FMX7 
+ 38.0
+  74.2
+010 /  37
+ 986.6
+25 / 1200
+V2AW5 
+ 27.3
+  69.0
+190 /  37
+1015.0
+25 / 1200
+ZCDC2 
+ 37.7
+  74.7
+350 /  35
+ 990.3
+25 / 1200
+SHJC  
+ 40.1
+  70.1
+070 /  58
+ 990.4
+25 / 1200
+VRWG6 
+ 43.8
+  62.9
+070 /  40
+1013.0
+25 / 1500
+VOTV  
+ 43.5
+  70.0
+040 /  43
+1002.0
+
+
+
+
+Table 3.	Selected surface observations for Hurricane Wilma, 15-25 October 2005.
+Location
+Minimum Sea Level Pressure
+Maximum Surface
+Wind Speed
+Storm surge
+(ft)c
+Storm
+tide
+(ft)d
+Total
+rain
+(in)
+
+Date/
+time
+(UTC)
+Press.
+(mb)
+Date/
+time
+(UTC)a
+Sustained
+(kt)b
+Gust
+(kt)
+
+
+
+Mexico
+
+
+
+
+
+
+
+
+Cancun 
+
+
+22/0000
+87
+113
+
+
+
+Cozumel
+
+928.0
+
+
+
+
+
+
+Isla Mujeres 
+22/1930
+968.6
+22/0200
+71
+94
+
+
+62.05
+Siankaan 
+
+
+
+
+
+
+
+29.25
+
+
+
+
+
+
+
+
+
+Cuba
+
+
+
+
+
+
+
+
+Bahia Honda
+
+
+23/2225
+49
+60
+
+
+
+Caibarien
+
+
+24/1459
+27
+34
+
+
+
+Casa Blanca 
+
+
+24/0040
+62
+73
+
+
+
+Colon 
+
+
+24/0503
+27
+43
+
+
+
+Cuba  Francia 
+
+
+23/1650
+38
+48
+
+
+
+Indio Hatuey
+
+
+24/0500
+27
+37
+
+
+
+Isabel Rubio
+
+
+23/0220
+38
+51
+
+
+
+Jovellanos
+
+
+24/0755
+29
+39
+
+
+
+La Fe 
+
+
+20/1256
+41
+51
+
+
+
+La Palma
+
+
+23/2240
+48
+60
+
+
+
+Paso Real de San Diego 
+
+
+23/1705
+24
+42
+
+
+
+Pinar del Rio
+
+
+23/2150
+38
+50
+
+
+
+Playa Giron 
+
+
+23/1959
+32
+46
+
+
+
+Punta del Este
+
+
+20/1635
+40
+50
+
+
+
+San Juan y Martinez
+
+
+23/1625
+47
+53
+
+
+
+Santa Lucia
+
+
+23/2315
+52
+65
+
+
+
+Santiago de la Vegas 
+
+
+23/2025
+43
+57
+
+
+
+Santo Domingo 
+
+
+24/0550
+28
+38
+
+
+
+Union de Reyes 
+
+
+24/0615
+26
+35
+
+
+
+Varadero
+
+
+24/0602
+43
+53
+
+
+
+Yabu 
+
+
+24/0552
+29
+39
+
+
+
+
+
+
+
+
+
+
+
+
+Florida 
+
+
+
+
+
+
+
+
+2 W TNT  (FCMP)
+
+
+24/1311
+77
+101
+
+
+
+20 Mile Bend  (S-5AE) 
+
+
+
+
+
+
+
+4.33
+7W Weston FCMP Tower T1
+(26.1oN  80.5oW)
+24/1254
+952.2
+24/1429
+77
+92
+
+
+
+Alligator Alley West 
+ (S-140)
+
+
+
+
+
+
+
+4.61
+Andytown  (ANDF1) 
+
+
+
+
+
+
+
+4.47
+Belle Glade  (BELLW)
+SFWMD
+24/1215
+953.6
+24/1515
+68
+102
+
+
+
+Big Cypress  (BCSI) 
+24/1130
+951.4
+24/1345
+35
+70
+
+
+5.19
+Bings Landing  (NOS)
+
+
+24/2100
+18
+37
+0.86
+
+
+Brighton  (S-129) 
+
+
+
+
+
+
+
+5.65
+Brooksville (KBKV)
+24/1206
+1000.3
+24/1829
+25
+34
+
+
+1.08
+Cache  (LPIF1) 
+
+
+24/1115
+57
+97
+
+
+
+Chekika  (CHKF1) 
+
+
+24/1235
+67
+98
+
+
+
+Chokoloskee  (USGS) 
+
+
+
+
+
+7.0
+
+
+Clermont  COOP
+
+
+
+
+
+
+
+3.82
+Clewiston  (CFSW) 
+
+
+24/1415
+53
+73
+
+
+
+Clewiston Field Station (COE) 
+
+
+
+
+
+
+
+7.31
+Coral Springs  (CSPF1) 
+
+
+
+
+
+
+
+2.67
+Crescent City  CREF1
+
+
+
+
+
+
+
+3.02
+Daytona Beach  (KDAB) 
+24/1857
+997.3
+24/1857
+25
+38
+
+
+4.82
+Daytona Beach   COOP
+
+
+
+
+
+
+
+4.25
+Deland  COOP 
+
+
+
+
+
+
+
+3.18
+Everglades City (EGC) 
+
+
+24/0955
+49
+
+
+
+
+FCMP  Tower  T0 
+(25.9oN  81.3oW) 
+24/1050
+952.2
+24/1227
+63
+82
+
+
+
+FCMP  Tower  T2
+(25.9oN  80.9oW)
+24/1149
+955.2
+24/1057
+71
+95
+
+
+
+Fernandina Beach (NOS)
+24/2100
+1001.2
+
+
+
+1.13
+
+
+FIU Main  (FCMP) 
+
+
+24/1411
+ 60e
+83e
+
+
+
+Forever  FL COOP 
+
+
+
+
+
+
+
+8.00
+Fort Lauderdale 
+(KFLL) 
+24/1336
+961.4
+24/1211
+61
+86
+
+
+3.04
+Fort Lauderdale Executive (KFXE) 
+24/1133
+977.3
+
+
+
+
+
+
+Fort Myers  (KFMY) 
+24/1102
+976.0
+24/1216
+54
+66
+
+
+
+Fort Myers  (KRSW) 
+24/1153
+972.6
+24/1229
+51
+69
+
+
+5.44
+Fort Pierce  (KFPR) 
+24/1448
+968.5
+24/1606
+ 45e
+ 68e
+
+
+5.47
+Fort Pierce WP COOP
+
+
+
+
+
+
+
+6.02
+Hastings  ARC   HTGF1
+
+
+
+
+
+
+
+3.65
+Hialeah  (HIAF1)
+
+
+
+
+
+
+
+1.23
+Hillsboro  Canal  (S-2) 
+
+
+
+
+
+
+
+5.25
+Islamorada 
+
+
+24/0926
+
+94
+
+
+
+Jacksonville Int’l Airport (KJAX) 
+24/2058
+1001.0
+
+
+
+
+
+
+Kennedy Space Center Shuttle Landing Facility  
+
+
+
+
+
+
+
+10.78
+Key West  (KEYW) 
+
+
+24/0616
+62
+72
+
+
+2.02
+Key West Harbor  (NOS) 
+24/0818
+977.2
+24/0836
+51
+74
+2.76
+
+
+Kissimmee  COOP
+
+
+
+
+
+
+
+4.73
+Lake Okeechobee (L001)
+SFWMD
+
+
+24/1515 
+74
+93
+
+
+
+Lake Okeechobee (L006)
+SFWMD
+
+
+24/1500
+80
+97
+
+
+7.00
+Lake Okeechobee SW (LOKEEM)  SFWMD
+
+
+
+
+
+
+
+7.14
+Lake Okeechobee (LZ40)
+SFWMD
+
+
+24/1500
+79
+95
+
+
+
+Lakeland  (KLAL) 
+
+
+
+
+
+
+
+7.34
+Lakeport  (S-131) 
+
+
+
+
+
+
+
+6.00
+Leesburg  (KLEE) 
+24/1846
+999.0
+24/1806
+28
+35
+
+
+4.88
+Lisbon  COOP
+
+
+
+
+
+
+
+5.03
+Loxahatchee  (LXWS)
+24/1300
+954.3
+24/1545
+62
+98
+
+
+3.12
+Loxahatchee West 
+
+
+
+
+
+
+
+3.82
+MacDill AFB  (KMCF)
+
+
+24/1055
+21
+37
+
+
+2.53
+Mayport  (NOS) 
+24/2030
+1000.6
+24/2030
+25
+33
+0.82
+
+
+Melbourne (KMLB) 
+24/1520
+987.1
+24/1600
+       42
+52
+
+
+4.25
+Melbourne  (NWS) 
+
+
+24/1607
+
+67
+
+
+4.96
+Miami (KMIA) 
+24/1225
+967.5
+24/1230
+58
+80
+
+
+0.76
+Miccosukee School 
+
+
+24/1100
+
+93
+
+
+
+Miles City  (RKIF1) 
+
+
+24/1235
+34
+76
+
+
+4.69
+NAS Jacksonville
+ (KNIP)
+24/1959
+1000.3
+
+
+
+
+
+
+NASA LC39B 
+(28.6oN  80.6oW) 
+
+
+24/1640
+ 56
+82
+
+
+2.79
+Naples  (KAPF) 
+24/0942
+965.8
+24/1207
+ 53e
+ 71e
+
+
+6.63
+Naples Pier  (NPSF1,NOS) 
+24/1024
+960.9
+24/1200
+73
+89
+2.64
+
+
+Oasis  (OASF1) 
+
+
+24/1330
+46
+86
+
+
+2.33
+Ocala  (KOCF) 
+24/1735
+1001.0
+24/1735
+23 
+34
+
+
+
+Ochoppi FCMP Tower T2 
+
+
+24/1227
+64
+84
+
+
+
+Ochopee  (OCOF1) 
+
+
+24/1335
+47
+
+
+
+3.74
+Opa Locka (KOPF) 
+24/1316
+964.8
+24/1216
+ 74e
+ 91e
+
+
+
+Orlando  (KMCO) 
+24/1437
+994.6
+24/1212
+35
+42
+
+
+5.17
+Orlando  (KORL) 
+24/1434
+997.0
+24/1723
+30
+43
+
+
+3.88
+Orlando East  COOP
+
+
+
+
+
+
+
+4.61
+Ortona  (ORTF1) 
+
+
+
+
+
+
+
+4.52
+Palm Bay  COOP
+
+
+
+
+
+
+
+5.47
+Palmdale   
+
+
+
+
+
+
+
+4.56
+Patrick AFB 
+
+
+24/1521
+
+64
+
+
+6.95
+Pinecastle Bombing Range (KNAE) 
+24/1851
+998.6
+
+
+
+
+
+
+Plymouth  COOP 
+
+
+
+
+
+
+
+3.81
+Pompano Beach (KPMP) 
+24/1240
+ 961.1e
+24/1240
+ 72e
+ 85e
+
+
+
+Ponce Inlet  COOP
+
+
+
+
+
+
+
+3.07
+Port Canaveral  USCG  
+24/1600
+992.0
+24/1500
+45
+69
+
+
+
+Punta Gorda  (KPGD)
+24/1153
+985.8
+24/1252
+45
+61
+
+
+3.93
+ROTNWX  (SFWMD) 
+24/1145
+951.0
+24/1200
+ 56e
+ 87e
+
+
+
+S7WX  (SFWMD) 
+24/1215
+952.3
+24/1530
+56
+90
+
+
+
+S-140  (SFWMD) 
+
+
+24/1345
+58
+94
+
+
+
+STA5WX  (SFWMD) 
+24/1145
+950.5
+
+
+
+
+
+
+St. Augustine  (KSGJ) 
+24/1945
+999.7
+
+
+
+
+
+
+St. Petersburg  (KPIE) 
+24/1145
+997.6
+24/1707
+33
+43
+
+
+1.64
+St. Petersburg  (KSPG) 
+24/1153
+995.9
+24/1144
+32
+41
+
+
+
+Sanford  (KSFB) 
+24/1820
+995.9
+24/1859
+28
+37
+
+
+3.59
+Sanford  COOP
+
+
+
+
+
+
+
+3.22
+Sarasota  (KSRQ)
+24/1042
+991.9
+24/1350
+31
+42
+
+
+3.81
+Stuart  (COOP)
+
+
+
+
+
+
+
+4.55
+Sweetwater (Miami WFO) 
+24/1210
+966.5
+24/1147
+57
+90
+
+
+4.42
+Tampa (KTPA)
+24/1130
+997.3
+24/1629
+30
+38
+
+
+1.44
+Tenraw  (ENPF1)
+
+
+24/1120
+66
+92
+
+
+2.64
+Titusville  COOP
+
+
+
+
+
+
+
+6.90
+Vaca Key (NOS) 
+24/0924
+983.0
+24/1412
+
+52
+6.43
+
+
+Vandenburg  (KVDF)
+
+
+24/1654
+23
+36
+
+
+
+Venice  
+
+
+
+
+
+
+
+7.45
+Vero Beach  (KVRB)
+24/1531
+975.3
+24/1353
+35e
+48e
+
+
+5.53
+Vero Beach  (COOP)
+
+
+
+
+
+
+
+5.50
+Vilano Beach  (NOS)
+
+
+24/1800
+27
+37
+1.77
+
+
+  Virginia Key  (VAKF1)
+24/1300
+972.4
+24/1318
+65
+87
+3.61
+
+
+West Palm Beach (KPBI)
+24/1225
+975.0
+24/1310
+71
+88
+
+
+1.07
+West Kendall (KTMB) 
+24/1152
+970.5
+24/1133
+ 50e
+ 72e
+
+
+1.18
+Winter Haven  (KGIF)
+24/1236
+995.3
+24/1630
+31
+40
+
+
+4.77
+
+
+
+
+
+
+
+
+
+Georgia 
+
+
+
+
+
+
+
+
+Glynco Airport (KBQK)
+24/2019
+1001.4
+24/2059
+15
+22
+
+
+
+New Brunswick (KNRB) 
+24/2053
+1000.7
+24/0536
+21
+27
+
+
+
+Saint Simons Island (KSSI) 
+24/2120
+1001.0
+24/1949
+18
+27
+0.52
+
+1.69
+Waycross  (KAYS) 
+24/2058
+1003.0
+24/2058
+21
+29
+
+
+
+
+
+
+
+
+
+
+
+
+Buoy/CMAN
+
+
+
+
+
+
+
+
+NOAA Buoy  41009
+(28.5oN 80.2oW)
+24/1720
+985.2
+24/1720
+52
+68
+
+
+
+NOAA Buoy  41010
+(29.0oN 78.5oW)
+24/1950
+969.5
+24/2050
+62
+82
+
+
+
+NOAA Buoy  41012
+(30.0oN 80.6oW)
+24/1950
+995.3
+24/1950
+37
+45
+
+
+
+NOAA Buoy  42003
+(26.1oN 85.9oW)
+23/2050
+997.8
+24/1020
+36        (10 min)
+47
+
+
+
+Buoy  42013
+(27.2oN 83.0oW) 
+24/1010
+993.1
+24/1110
+41
+49
+
+
+
+Buoy  42023
+(26.1oN 83.1oW)
+24/0759
+982.5
+24/0959
+49
+
+
+
+
+NOAA Buoy  42036
+(28.5oN 84.5oW)
+24/1150
+1002.3
+24/0850
+37
+43
+
+
+
+NOAA Buoy 42056
+(19.9oN 85.1oW)
+21/0800
+986.6
+21/0416
+67
+81
+
+
+
+NOAA Buoy 42057
+(17.6oN 80.7oW)
+18/2200
+998.1
+19/0600
+50
+59
+
+
+
+NOAA Buoy 44004
+(38.5oN  70.5oW)
+25/0050
+1002.1
+25/0050
+37
+
+
+
+
+NOAA Buoy 44005
+(43.2oN  69.2oW)
+25/1750
+992.4
+25/1650
+39
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOAA Buoy 44007
+(43.5oN  70.1oW)
+25/1650
+997.6
+25/1650
+35
+
+
+
+
+NOAA Buoy 44008
+(40.5oN  69.4oW)
+25/1350
+984.9
+25/1350
+39
+
+
+
+
+NOAA Buoy 44009
+(38.5oN  74.7oW)
+25/0650
+989.1
+25/0750
+37
+
+
+
+
+NOAA Buoy 44013
+(42.4oN  70.7oW)
+25/1650
+993.8
+25/1550
+37
+
+
+
+
+NOAA Buoy 44017
+(40.7oN  72.0oW)
+25/1550
+988.1
+25/1250
+41
+
+
+
+
+NOAA Buoy 44018
+(41.3oN  69.3oW)
+25/1350
+987.4
+25/1450
+37
+
+
+
+
+NOAA Buoy 44025
+(40.3oN  73.2oW)
+25/1450
+988.7
+25/0950
+39
+
+
+
+
+NOAA Buoy 44027
+(44.3oN  67.3oW)
+25/1750
+997.5
+25/1750
+39
+
+
+
+
+NOAA Buoy 44034
+(44.1oN  68.1oW)
+25/1704
+999.9
+25/1704
+35
+
+
+
+
+NOAA Buoy 44142
+(42.5oN  64.0oW)
+25/1700
+992.4
+25/1700
+37
+
+
+
+
+Anclote Key  (ANCF1)
+(28.2oN  82.8oW)
+
+
+24/1054
+37
+47
+
+
+
+Big Carlos Pass  (BGCF1)
+(26.4oN  81.9oW)
+24/1054
+969.2
+24/1054
+56
+76
+
+
+
+Clearwater Beach (CWBF1) 
+(28.0oN  82.8oW)
+
+
+24/1400
+41
+48
+
+
+
+Cedar Key  (CDRF1)
+(29.1oN  83.0oW)
+24/1100
+1003.2
+24/1650
+20
+33
+
+
+
+Duck Pier  (DUCN7)
+(36.2oN 75.7oW)
+24/2200
+998.4
+24/2130
+37
+
+
+
+
+Fowey Rocks  (FWYF1)
+(25.6oN 80.1oW) 
+24/1243
+975.3
+24/1159
+88
+107
+
+
+
+Fort Myers  (FMRF1)
+(26.7oN  81.9oW)
+
+
+24/1242
+46
+62
+
+
+
+Fred Howard 
+(COMPS FHP)
+
+
+24/1154
+39
+49
+
+
+
+Homosassa  
+(COMPS HOM)
+24/1754
+1001.0
+24/1654
+31
+
+
+
+
+Isle of Shoals  (IOSN3)
+(43.0oN  70.6oW)
+25/1600
+995.4
+25/1600
+46
+
+
+
+
+Long Key  (LONF1) 
+(24.8oN 80.9oW)
+24/1100
+982.2
+24/0930
+57
+76
+4.0
+
+
+Mt Desert Rock  MDRM1)
+(44.0o N 68.1oW)
+25/1700
+997.1
+25/1700
+49
+
+
+
+
+Matinicus Rock  (MISM1)
+(43.8oN  68.9oW)
+25/1700
+997.1
+25/1400
+45
+
+
+
+
+Molasses Reef  (MLRF1)
+(25.0oN 80.4oW)
+24/1200
+982.3
+24/1220
+66
+81
+
+
+
+Port Richey  (PTRF1)
+(28.3oN  82.7oW)
+
+
+24/1654
+25
+37
+
+
+
+St. Augustine  (SAUF1) 
+(29.9oN  81.3oW)
+24/2005
+999.9
+24/1440
+35
+44
+
+
+
+Settlement Point  (SPGF1)
+(26.7oN  79.0oW)
+24/1600
+969.9
+24/1600
+83
+103
+
+
+
+Sombrero Key  (SMKF1)
+(24.6oN 81.1oW)
+24/1000
+983.4
+24/0920
+76
+91
+2.1
+
+
+Tyndall  Tower (SGOF1)
+(29.4oN  84.9oW)
+24/1100
+1007.3
+24/1400
+40
+
+
+
+
+U.S. Navy Tower  No. R8
+(31.6oN  79.9oW, TYBG1)
+24/2128
+996.0
+24/2128
+35
+
+
+
+
+Venice  (VENF1)
+(27.1oN  82.4oW)
+24/1100
+990.0
+24/1500
+44
+55
+
+
+
+Woods Hole  (BUZM3)
+(41.4oN  71.0oW)
+25/1700
+989.0
+25/1300
+48
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unofficial Observations
+
+
+
+
+
+
+
+
+Florida 
+
+
+
+
+
+
+
+
+Apopka
+
+
+
+
+
+
+
+9.35
+Arcadia  (FAWN)
+
+
+24/1245
+34
+56
+
+
+
+Archbold 
+
+
+24/1322
+
+64
+
+
+6.07
+Avalon  COOP 
+
+
+
+
+
+
+
+3.25
+Balm  (FAWN)
+
+
+24/1045
+28
+44
+
+
+
+Boynton Beach 
+(26.6oN 80.1oW)
+24/1400
+954.5
+
+
+
+
+
+
+W Boynton Beach (KFLBOYNT4)
+24/1358
+953.2
+24/1554
+78
+103
+
+
+
+Collier County EOC
+
+
+24/1316
+
+109
+
+
+
+Cudjoe Key 
+
+
+24/0913
+
+107
+
+
+
+Deerfield Beach
+(26.3oN 80.1oW) 
+24/1400
+956.2
+
+
+
+
+
+
+Doral CBS-4 TV
+
+
+24/1149
+
+99
+
+
+
+Dry Tortugas Nat’l Park 
+
+
+24/0515
+
+116
+
+
+
+Duck Key 
+
+
+
+
+75
+
+
+2.39
+Everglades City  
+Mark Suddath 
+HLP Tower
+24/0955
+953.9
+
+
+117
+
+
+
+Fort Pierce (FAWN) 
+
+
+
+
+
+
+
+6.09
+Grant
+
+
+
+
+
+
+
+5.99
+Interstate 75 and Florida. Highway 80
+24/1130
+978.7
+
+56
+74
+
+
+
+John Pennekamp State Park 
+
+
+
+
+
+
+
+1.50
+Kenansville  COOP
+
+
+
+
+
+
+
+5.64
+Lake Alfred  (FAWN)
+
+
+24/1215
+16
+38
+
+
+
+Lake Wales  RAWS
+(LWEF1)
+
+
+24/1345
+24
+43
+
+
+
+Lantana 
+ (26.6oN 80.1oW)
+24/1415
+953.2
+
+
+
+
+
+
+Marco Island 
+24/1015
+954.0
+
+
+117
+
+
+
+Martin County F&R Hobe Sound  MCFR1  (AWS)
+24/1514
+954.6
+
+
+
+
+
+
+Martin County EOC Stuart MCEOP (AWS) 
+24/1444
+957.0
+
+
+
+
+
+
+Melbourne Beach 
+
+
+
+
+
+
+
+5.14
+Melbourne  F.I.T  
+
+
+24/1651
+
+64
+
+
+
+Miramar  TV 6
+
+
+24/1222
+
+91
+
+
+
+Mountain Lake  
+
+
+
+
+
+
+
+6.00
+Mulberry 
+
+
+
+
+
+
+
+6.93
+Nettles Island  COOP 
+
+
+
+
+
+
+
+0.08
+North Port 
+
+
+
+
+
+
+
+5.67
+North Port  2N
+
+
+
+
+
+
+
+6.42
+Okahumpka  COOP
+
+
+
+
+
+
+
+5.33
+Ona  (FAWN)
+
+
+24/1800
+20
+46
+
+
+
+Orange Springs  OSPF1 
+
+
+
+
+
+
+
+1.59
+Palm Bay  COOP 
+
+
+24/1602
+
+60
+
+
+
+Palm Beach Gardens 
+(26.8oN 80.3oW)
+24/1415
+951.8
+
+
+
+
+
+
+Palm Beach Gardens
+(26.9oN  80.2oW) 
+24/1445
+953.5
+
+
+
+
+
+
+Palm Beach Jonathan Dickinson Missile Tracking Annex 
+
+
+24/1310
+71
+99
+
+
+
+Palm Coast  WOGF1 
+
+
+
+
+
+
+
+3.95
+Pembroke Pines 
+24/1300
+960.0
+
+
+
+
+
+
+Pierson  COOP 
+
+
+
+
+
+
+
+2.80
+Pompano Beach 
+
+
+24/1248
+
+104
+
+
+
+Ponce Inlet  COOP 
+
+
+
+
+
+
+
+2.65
+Port Salerno  COOP
+
+
+
+
+
+
+
+0.14
+Punta Gorda  8 NE 
+
+
+
+
+
+
+
+7.57
+Scottsmoor  COOP 
+
+
+
+
+
+
+
+2.95
+Sebring  (FAWN)
+
+
+24/1245
+21
+52
+
+
+
+South Fork St. Lucie River 
+
+
+UNK
+
+116
+
+
+
+South Miami 
+24/1230
+969.0
+
+
+
+
+
+
+Starke  SRKF1
+
+
+
+
+
+
+
+1.16
+Stuart Skywarn Spotter
+(27.1oN 80.2oW)  
+
+
+24/1419
+
+94
+
+
+
+Tamarac  BSO  
+BSO01  (AWC) 
+24/1314
+955.6
+
+
+
+
+
+
+Titusville  COOP 
+
+
+
+
+
+
+
+2.87
+Umatilla  COOP
+
+
+
+
+
+
+
+4.29
+Weston  BSO 
+DNBS2  (AWC) 
+24/1314
+957.3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a  Date/time is for sustained wind when both sustained and gust are listed.
+b  Except as noted, sustained wind averaging periods for C-MAN and land-based ASOS reports are 2 min; buoy averaging periods are 8 min, and SFWMD observations are 15 min.
+c  Storm surge is water height above normal astronomical tide level.
+d  Storm tide is water height above National Geodetic Vertical Datum (1929 mean sea level).
+e Instrumentation failed
+f  Incomplete or missing data 
+
+Table 4.	Preliminary forecast evaluation (heterogeneous sample) for Hurricane Wilma, 15-25 October 2005.  Forecast errors (n mi) are followed by the number of forecasts in parentheses.  Errors smaller than the NHC official forecast are shown in bold-face type.  Verification includes the depression stage, but does not include the extratropical stage.
+
+
+Forecast Technique
+
+
+Forecast Period (h)
+
+
+
+
+
+12
+
+
+24
+
+
+36
+
+
+48
+
+
+72
+
+
+96
+
+
+120
+
+CLP5
+  47 (38)
+ 115 (36)
+ 185 (34)
+ 249 (32)
+ 319 (28)
+ 381 (24)
+ 396 (20)
+GFNI
+  40 (37)
+  79 (34)
+ 122 (33)
+ 172 (31)
+ 258 (27)
+ 366 (23)
+ 463 (19)
+GFDI
+  33 (39)
+  55 (37)
+  76 (35)
+  98 (33)
+ 164 (29)
+ 361 (25)
+ 563 (21)
+GFSI
+  32 (39)
+  52 (37)
+  65 (35)
+  84 (33)
+ 132 (29)
+ 265 (25)
+ 429 (21)
+AEMI
+  31 (39)
+  49 (37)
+  63 (35)
+  81 (33)
+ 126 (29)
+ 240 (25)
+ 328 (21)
+NGPI
+  35 (38)
+  69 (35)
+ 104 (33)
+ 139 (31)
+ 218 (27)
+ 339 (23)
+ 441 (19)
+UKMI
+  30 (37)
+  43 (35)
+  57 (33)
+  77 (31)
+ 113 (27)
+ 240 (23)
+ 340 (19)
+A98E
+  39 (38)
+  79 (36)
+ 109 (34)
+ 140 (32)
+ 184 (28)
+ 243 (24)
+ 380 (20)
+A9UK
+  39 (19)
+  77 (18)
+ 107 (17)
+ 140 (16)
+ 199 (14)
+
+
+BAMD
+  49 (38)
+  88 (36)
+ 115 (34)
+ 132 (32)
+ 197 (28)
+ 379 (24)
+ 533 (20)
+BAMM
+  52 (38)
+  82 (36)
+ 108 (34)
+ 128 (32)
+ 196 (28)
+ 340 (24)
+ 453 (20)
+BAMS
+  73 (37)
+ 124 (35)
+ 165 (33)
+ 192 (31)
+ 231 (28)
+ 332 (24)
+ 414 (20)
+CONU
+  29 (39)
+  48 (37)
+  71 (35)
+  96 (33)
+ 150 (29)
+ 271 (25)
+ 373 (21)
+GUNA
+  26 (37)
+  43 (35)
+  64 (33)
+  85 (31)
+ 140 (27)
+ 279 (23)
+ 401 (19)
+FSSE
+  21 (33)
+  31 (31)
+  40 (29)
+  63 (27)
+ 142 (23)
+ 308 (19)
+ 480 (15)
+OFCL
+  29 (39)
+  42 (37)
+  61 (35)
+  84 (33)
+ 136 (29)
+ 264 (25)
+ 382 (21)
+
+NHC Official
+(1995-2004 mean)
+
+
+42 (3400)
+
+
+
+75 (3116)
+
+
+
+107 (2848)
+
+
+
+138 (2575)
+
+
+
+202 (2117)
+
+
+
+236 (649)
+
+
+
+310 (535)
+
+
+
+      Table 5.  Watch and warning summary for Hurricane Wilma, 15-25 October 2005.
+
+Date/Time (UTC)
+Action
+Location
+16/0900
+Hurricane Watch and Tropical Storm Warning Issued
+Cayman Islands
+17/1500
+Tropical Storm Warning Issued
+Honduras from the Honduras/ Nicaragua Border to Cabo Camaron
+18/2100
+Hurricane Watch Issued
+Cuba from the Provinces of Matanzas westward through Pinar Del Rio and the Isle of Youth
+18/2100
+Hurricane Watch Issued
+Mexico from Punta Allen to Cabo Catoche
+19/0300
+Hurricane Watch Issued
+Mexico S of Punta Allen to Punta Gruesa
+19/1500
+Hurricane Watch changed to Hurricane Warning
+Mexico from San Felipe to Tulum including Cozumel and nearby islands
+19/1500
+Tropical Storm Warning Issued
+Mexico from S of Tulum to Chetumal
+19/1500
+Tropical Storm Warning Issued
+Belize from the Border with Mexico to Belize City
+19/1800
+Hurricane Watch and Tropical Storm Warning Discontinued
+Cayman Islands
+20/0300
+Hurricane Watch/Tropical Storm Warning changed to Hurricane Warning
+Mexico from S of  Tulum to Punta Allen
+20/0300
+Hurricane Watch Issued
+Mexico from W of San Felipe to Celestun
+20/0300
+Tropical Storm Warning Issued
+Cuba for the provinces of La Habana, Ciudad de la Habana, Pinar del Rio, and the Isle of Youth
+20/0900
+Tropical Storm Warning Issued
+Mexico from W of San Felipe to Celestun
+20/1500
+Tropical Storm Warning changed to Hurricane Warning
+Mexico from S of Punta Allen to Chetumal
+21/0300
+Tropical Storm Warning Discontinued
+Honduras from the Honduras/ Nicaragua Border to Cabo Camaron
+21/1500
+Tropical Storm Warning Discontinued
+Belize from the Border with Mexico to Belize City
+22/1500
+Hurricane Watch Issued
+All of the Florida Keys including the Dry Tortugas and Florida Bay
+22/2100
+Hurricane Watch Issued
+West coast of Florida from Longboat Key southward and the east coast of Florida from Titusville southward including Lake Okeechobee
+22/2100
+Hurricane Watch changed to Hurricane Warning
+Cuban provinces of Ciudad de la Habana, La Habana, and Pinar del Rio
+22/2100
+Tropical Storm Watch Issued
+Florida from N of Longboat Key to the Steinhatchee River and from north of Titusville to Fernandina Beach
+23/0300
+Hurricane Watch changed to Hurricane Warning
+The Florida Keys including the Dry Tortugas and Florida Bay, the W coast of Florida from Longboat Key southward, the E coast of Florida from Jupiter Inlet southward including Lake Okeechobee
+23/0300
+Hurricane Watch Issued
+NW Bahamas including the Abacos, Andros Island, Berry Islands, Bimini, Eleuthera, Grand Bahama Island, and New Providence
+23/0600
+Hurricane Warning Discontinued
+Mexico from S of Punta Gresa to Punta Allen
+23/0600
+Hurricane Watch Discontinued
+Mexico from W of San Felipe to Celestun
+23/0600
+Tropical Storm Warning Discontinued
+Mexico from W of Progreso to Celestun
+23/0900
+Hurricane Watch changed to Hurricane Warning
+Florida from N of Jupiter Inlet to Titusville
+23/0900
+Tropical Storm Watch changed to Tropical Storm Warning
+Florida from N of Titusville to Flagler Beach
+23/1200
+Hurricane Warning Issued
+NW Bahamas including the Abacos, Andros Island, Berry Islands, Bimini, Eleuthera, Grand Bahama Island, and New Providence
+23/1500
+Hurricane Warning changed to Tropical Storm Warning
+Mexico from San Felipe to Punta Gresa
+23/1500
+Tropical Storm Warning Discontinued
+Mexico from W of San Felipe to Progreso
+23/2100
+All Warnings Discontinued
+Mexico
+24/0300
+Tropical Storm Watch changed to Tropical Storm Warning
+Florida from N of Titusville to St. Augustine
+24/1500
+Tropical Storm Watch Discontinued
+Florida from N of St. Augustine to Fernandina Beach
+24/1700
+Tropical Storm Warning Discontinued
+Florida from N of Longboat Key to the Steinhatchee River
+24/1830
+Hurricane Warning changed to Tropical Storm Warning
+The Florida Keys including the Dry Tortugas and Florida Bay, Florida W Coast from Longboat Key southward and Florida E Coast from S of Florida City including Lake Okeechobee
+24/1830
+Watches/Warnings Discontinued
+Cuba
+24/2100
+Watches/Warnings Discontinued
+Florida
+24/2100
+Warnings Discontinued
+Bahamas
+
+
+
+
+Figure 1.	Best track positions for Hurricane Wilma, October 2005.  Track during the extratropical stage is partially based on analyses from the NOAA Ocean Prediction Center.
+
+
+
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Wilma, 15-25 October 2005.  In most cases, aircraft observations have been adjusted for elevation using 90%, 80%, and 80% reduction factors for observations from 700 mb, 850 mb, and 1500 ft, respectively.  Estimates during the extratropical stage are based partially on analyses from the NOAA Ocean Prediction Center.  Vertical lines denote landfalls.
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Hurricane Wilma, 15-25 October 2005. Estimates during the extratropical stage are based partially on analyses from the NOAA Ocean Prediction Center.  Vertical lines denote landfalls.
+
+
+
+
+
+
+
+
+Figure 4.	Image of Wilma over South Florida at 1223 UTC from the Miami National Weather Service WSR-88D radar.  
+
+
+
+
+14
+
+
+
+
+
+15
+
+
+

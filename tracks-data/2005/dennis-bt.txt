@@ -1,0 +1,3040 @@
+Tropical Cyclone Report
+Hurricane Dennis
+4 – 13 July 2005
+
+Jack Beven
+National Hurricane Center
+22 November 2005
+Updated for damages 16 December 2005
+
+
+	Hurricane Dennis was an unusually strong July major hurricane that left a trail of destruction from the Caribbean Sea to the northern coast of the Gulf of Mexico.
+
+
+
+
+
+	Synoptic History
+
+Dennis formed from a tropical wave that moved westward from the coast of Africa on 29 June.  The system began to organize on 2 July with the formation of a broad area of low pressure with two embedded swirls of low clouds.  Convection increased near both low-level centers on 3 July.  The western system moved through the southern Windward Islands on 4 July and lost organization over the southeastern Caribbean.  The eastern system continued to develop, becoming a tropical depression over the southern Windward Islands near 1800 UTC 4 July.  The “best track” chart of Dennis’ path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.
+
+The depression initially moved westward.  It turned west-northwestward on 5 July as it became a tropical storm.  Dennis reached hurricane strength early on 7 July, then rapidly intensified into a Category 4 hurricane with winds of 120 kt before making landfall near Punta del Ingles in southeastern Cuba near 0245 UTC 8 July.  During this intensification, the central pressure fell 31 mb in 24 h.
+
+Dennis weakened to a Category 3 hurricane while passing across southeastern Cuba.  Once offshore in the Gulf of Guacanayabo, the hurricane moved west-northwestward parallel to the south coast of Cuba and again intensified to Category 4 status.  Maximum sustained winds reached a peak of 130 kt at 1200 UTC 8 July, then decreased to 120 kt before Dennis made landfall near Punta Mangles Altos, Cuba near 1845 UTC that day.  Dennis then traversed a long section of western Cuba before emerging into the Gulf of Mexico just east of Havana around 0900 UTC 9 July.  Dennis weakened significantly over Cuba, with the maximum sustained winds decreasing to 75 kt by the time the center left the island.
+
+Dennis gradually intensified for the next 6-12 h over the Gulf of Mexico, then began another cycle of rapid intensification near 1800 UTC 9 July, accompanied by a turn toward the north-northwest.  During this intensification, the central pressure fell 37 mb in 24 h, including 20 mb in 6 h and 11 mb in 1 h 35 min.  Maximum sustained winds reached a third peak of 125 kt near 1200 UTC 10 July.  Thereafter, weakening occurred, likely due to mid/upper-level dry air from the western Gulf of Mexico entrained into the hurricane.  The maximum sustained winds decreased to 105 kt and the central pressure rose to 946 mb before Dennis made landfall on Santa Rosa Island, Florida, between Navarre Beach and Gulf Breeze, about 1930 UTC 10 July.
+
+Dennis continued north-northwestward after landfall, with the center moving across the western Florida Panhandle into southwestern Alabama before it weakened into a tropical storm.  It became a depression as it moved into east-central Mississippi on 11 July.  The cyclone turned northward later that day and northeastward on 12 July as it moved into the Ohio Valley.  On 13 July, Dennis weakened to a low pressure area, which meandered over the Ohio Valley through 15 July.  The Dennis-low accelerated northeastward on 16 July and was absorbed into a larger low over northwestern Ontario on 18 July.
+
+
+	Meteorological Statistics
+
+Observations in Dennis (Figs. 2 and 3) include satellite-based Dvorak technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB), the Satellite Analysis Branch (SAB) and the U. S. Air Force Weather Agency (AFWA), as well as flight-level and dropwindsonde observations from flights of the 53rd Weather Reconnaissance Squadron of the U. S. Air Force Reserve Command and the NOAA Aircraft Operations Center.  Microwave satellite imagery from NOAA polar-orbiting satellites, the NASA Tropical Rainfall Measuring Mission (TRMM), the NASA QuikSCAT, the NASA Aqua, and Defense Meteorological Satellite Program (DMSP) satellites were also useful in tracking Dennis.
+
+The 53rd Weather Reconnaissance Squadron made 43 center fixes on Dennis, with the NOAA aircraft contributing an additional 10 fixes.  The maximum flight-level winds measured by the aircraft at 700 mb were 150 kt at 1325 UTC 8 July.  Additionally, the aircraft measured 700 mb flight-level winds of 134 kt at 2314 UTC 7 July and 140 kt at 0801 UTC 10 July.  Dropsondes in the eyewall of Dennis reported 116-kt surface winds at 1515 UTC 10 July and 114 kt at 1705 UTC 8 July.  The minimum aircraft-reported central pressure was 930 mb at 1143 UTC 10 July, with a 937 mb pressure measured at 1517 UTC 8 July.  The last aircraft-reported pressure near landfall was 946 mb at 1930 UTC 10 July.
+
+Ship reports of winds of tropical storm force associated with Dennis are given in Table 2, and selected surface observations from land stations and data buoys are given in Table 3.	
+
+Dennis brought hurricane conditions to portions of southeastern Cuba, and to a swath through central and western Cuba (Table 3).  Cabo Cruz reported 116-kt sustained winds with a gust to 129 kt at 0200 UTC 8 July, with a minimum pressure of 956 mb at 0240 UTC just before the eye passed over the station.  The anemometer was destroyed, and it is possible more extreme winds occurred.  Unión de Reyes reported sustained winds of 96 kt with a gust to 107 kt at 2350 UTC 8 July, and there are numerous other reports of sustained hurricane-force winds.
+
+Dennis also brought hurricane conditions to portions of the western Florida Panhandle and southwestern Alabama.  An instrumented tower run by the Florida Coastal Monitoring Program (FCMP) at Navarre measured 1-min average winds (5-m elevation) of 86 kt and a gust to 105 kt at 1921 UTC 10 July.  This tower was a few miles east of the radius of maximum winds.  Another FCMP tower at the Pensacola Airport measured 1-min average winds (10-m elevation) of 71 kt with a gust to 83 kt just west of the eye at 1946 UTC.  A Florida Automated Weather Network station at Jay reported sustained winds of 62 kt at 1845 UTC.
+
+While hurricane-force winds associated with Dennis covered only a small area near the eye, the hurricane had a large cyclonic envelope with tropical storm-force winds extending well to the east of the center over southern Florida and the Florida Panhandle.  The Coastal Marine Automated Station (C-MAN) at Sand Key, Florida, reported 10-min average winds (13.1-m elevation) of 54 kt with a gust to 68 kt at 0820 UTC 9 July, while the C-MAN station at Sombrero Key, Florida, reported 2-min average winds (48.5-m elevation) of 64 kt with a gust of 76 kt at 0800 UTC 9 July.  A National Ocean Service station at Panama City Beach, Florida, reported 6-min average winds (6.1-m elevation) of 51 kt with a gust to 63 kt at 1800 UTC 10 July.  Tropical storm conditions also occurred over the metropolitan areas of southeastern Florida, elsewhere along the Florida west coast and the Florida Big Bend region, and over portions of southwestern Alabama.  Wind gusts to tropical-storm force occurred as far inland as eastern Mississippi and as far west as southeastern Louisiana.
+
+Shipping avoided the intense core of Dennis.  The highest marine wind was 56 kt at 2300 UTC 8 July from the Caribbean Princess. 
+
+	The lowest official pressure from any land station was 956 mb at Cabo Cruz, Cuba, at 0240 UTC 8 July.  The FCMP tower at the Pensacola Airport measured a pressure of 956.3 mb at 1943 UTC 10 July, while the FCMP tower in Navarre measure a pressure of 965.2 mb at 1909 UTC that day.  A storm chaser in Pace, Florida, measured an unofficial pressure of 945 mb at 1910 UTC 10 July as the eye passed over.
+
+	Dennis produced a storm surge of 6-7 ft above normal tide levels on Santa Rosa Island near where the center made landfall.  This surge overwashed Santa Rosa Island near and west of Navarre Beach.  A storm surge of 6-9 ft above normal tide levels occurred in Apalachee Bay, Florida, which inundated parts of the town of St. Marks and other nearby areas (Figure 4).  This surge was higher than currently known wind reports would support for that area, and roughly 3.5 ft higher that the surge forecast from the Sea, Lake, and Overland Surge from Hurricanes (SLOSH) model.  This surge was likely triggered by an oceanic trapped shelf wave that propagated northward along the Florida west coast.  Modeling results from the Center for Ocean-Atmospheric Prediction Studies at Florida State University suggest that although Dennis was roughly 150 n mi west of the area, this remotely generated sea-level rise added 3-4 ft to the surge in and around Apalachee Bay.  (Reference: Personal communication with James O’Brien, Steve Morey, and Dimitri Dukhovskoy, COAPS, FSU.)  A storm surge of 4-6 ft occurred elsewhere in the Florida Panhandle.  Storm surges of 3-5 ft above normal tide levels occurred elsewhere along the Florida west coast, in the Florida Keys, and along the coast of Alabama.  Tides of 2-4 ft above normal were reported along the coasts of Mississippi and southeastern Louisiana.  Storm surge data from Cuba are currently not available.
+
+	Dennis produced widespread heavy rainfall over Cuba.  Topes de Collantes reported a 24-h total of 27.67 in, while Las Piedra reported a 24-h total of 15.13 in.  Storm totals for both places were likely higher.  Rainfalls of 6-12 in were reported from other Cuban stations.  In the United States, Dennis produced widespread heavy rainfall along the track from the western Florida Panhandle to the Ohio Valley, and east of the track in Georgia and the remainder of Florida.  A station 10 miles northwest of Camden, Alabama, reported a storm total rainfall of 12.80 in (Table 4), while Monticello, Florida, reported 6.95 in.
+
+	So far, Dennis is known to have caused nine tornadoes in Florida and one in Georgia.  All were rated F0 except for an F1 near Bradenton, Florida.  Additionally, numerous strong squalls occurred in the outer bands of Dennis over southern Florida.  These produced a gust of 73 kt at the Fowey Rocks C-MAN station and a gust of 63 kt at Chekika in southern Miami-Dade County.
+								
+
+	Casualty and Damage Statistics
+
+Media reports indicate Dennis is directly responsible for 41 deaths – 22 in Haiti, 16 in Cuba and 3 in the United States.  The fatalities in the U. S. included a drowning on a sunken boat in the Florida Keys, a drowning in rough surf at Dania Beach, Florida, and a man crushed by a falling tree near Atlanta, Georgia.  Dennis was also indirectly responsible for twelve deaths in Florida – two from electrocution, two from carbon monoxide poisoning, four from automobile accidents, two accidental falls during clean-up, and two cases of natural causes exacerbated by storm stress.
+
+The American Insurance Services Group estimates the insured property damage in the United States at $1.115 billion.  Based on a doubling of this figure to account for uninsured property damage, the total U. S. damage estimate for Dennis is $2.23 billion. 
+
+
+	Forecast and Warning Critique
+
+Average official track errors (with the number of cases in parentheses) for Dennis were 25 (26), 36 (26), 51 (26), 61 (26), 65 (22), 74 (18), and 154 (14) n mi for the 12, 24, 36, 48, 72, 96, and 120 h forecasts, respectively.  These errors are significantly lower than the average official track errors for the 10-yr period 1995-2004
+
+ 	Errors given for the 96 and 120 h periods are averages over the four-year period 2001-4.  (42, 75, 107, 138, 202, 236, and 310 n mi, respectively), (Table 5).  These errors were also lower than the corresponding track forecast errors for the vast majority of the guidance, as none of the models consistently outperformed the official forecasts.
+
+	Average official intensity errors were 11, 18, 16, 16, 23, 16, and 37 kt for the 12, 24, 36, 48, 72, 96, and 120 h forecasts, respectively.  For comparison, the average official intensity errors over the 10-yr period 1995-2004 are 6, 10, 12, 15, 18, 20, and 22 kt, respectively.  The relatively large intensity errors mainly resulted from underforecasting how quickly Dennis would intensify over both the Caribbean and the Gulf of Mexico. 
+
+	Table 6 gives the watches and warnings associated with Dennis.
+
+
+Acknowledgements
+
+	Much of the data for this report was supplied by the National Weather Service WFOs in Key West, Miami, Tampa, and Tallahassee FL, Mobile, AL, and Slidell, La, as well as by the University of South Florida Coastal Ocean Monitoring and Prediction System (COMPS) and the Florida Automated Weather Network (FAWN).  NOAA buoy and C-MAN data were provided by the National Data Buoy Center.  NOS data were provided by the NOAA National Ocean Service.  Remote Automated Weather Stations (RAWS) data were provided by the National Interagency Fire Center.  United States Geological Survey (USGS) data were provided by the NWISWeb web site.  Supplementary rainfall data and portions of the remnant low track were provided by David Roth of the Hydrometeorological Prediction Center.  Several of the unofficial observations were obtained from the Weather Underground web site.  Jennifer Pralgo of the TPC Storm Surge unit provided the storm surge figure.
+Table 1.	Best track for Hurricane Dennis, 4 – 13 July 2005.
+
+Date/Time
+(UTC)
+
+Latitude
+(EN)
+
+Longitude
+(EW)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+04 / 1800
+12.0
+ 60.8
+1010
+ 25
+tropical depression
+05 / 0000
+12.2
+ 62.5
+1009
+ 30
+“
+05 / 0600
+12.5
+ 64.2
+1008
+ 30
+“
+05 / 1200
+13.0
+ 65.9
+1007
+ 35
+tropical storm
+05 / 1800
+13.6
+ 67.3
+1005
+ 40
+“
+06 / 0000
+14.3
+ 68.5
+1000
+ 45
+“
+06 / 0600
+14.7
+ 69.7
+ 995
+ 50
+“
+06 / 1200
+15.1
+ 70.9
+ 991
+ 55
+“
+06 / 1800
+15.6
+ 71.9
+ 989
+ 60
+“
+07 / 0000
+16.2
+ 73.0
+ 982
+ 70
+hurricane
+07 / 0600
+16.7
+ 74.1
+ 972
+ 80
+“
+07 / 1200
+17.6
+ 74.9
+ 967
+ 90
+“
+07 / 1800
+18.5
+ 76.1
+ 957
+100
+“
+08 / 0000
+19.4
+ 77.1
+ 951
+120
+“
+08 / 0600
+20.3
+ 78.4
+ 953
+110
+“
+08 / 1200
+20.9
+ 79.5
+ 938
+130
+“
+08 / 1800
+22.0
+ 80.6
+ 941
+120
+“
+09 / 0000
+22.7
+ 81.6
+ 960
+100
+“
+09 / 0600
+23.4
+ 82.5
+ 973
+ 75
+“
+09 / 1200
+24.3
+ 83.4
+ 967
+ 80
+“
+09 / 1800
+25.2
+ 84.2
+ 962
+ 90
+“
+10 / 0000
+26.1
+ 85.0
+ 942
+110
+“
+10 / 0600
+27.2
+ 85.8
+ 935
+125
+“
+10 / 1200
+28.5
+ 86.3
+ 930
+120
+“
+10 / 1800
+29.9
+ 86.9
+ 942
+110
+“
+11 / 0000
+31.5
+ 87.7
+ 970
+ 45
+tropical storm
+11 / 0600
+32.6
+ 88.5
+ 991
+ 30
+tropical depression
+11 / 1200
+33.9
+ 88.8
+ 997
+ 25
+“
+11 / 1800
+35.3
+ 89.1
+1002
+ 20
+“
+12 / 0000
+36.4
+ 89.2
+1003
+ 20
+“
+12 / 0600
+37.1
+ 89.0
+1005
+ 15
+“
+12 / 1200
+37.7
+ 88.7
+1007
+ 15
+“
+12 / 1800
+38.1
+ 88.3
+1008
+ 15
+“
+13 / 0000
+38.5
+ 87.8
+1009
+ 15
+“
+13 / 0600
+38.9
+ 87.2
+1010
+ 15
+“
+13 / 1200
+39.2
+ 86.5
+1010
+ 15
+remnant low
+13 / 1800
+39.2
+ 85.8
+1010
+ 15
+“
+14 / 0000
+39.2
+ 85.7
+1009
+ 10
+“
+14 / 0600
+39.0
+ 85.6
+1009
+ 10
+“
+14 / 1200
+38.7
+ 85.6
+1010
+ 10
+“
+14 / 1800
+38.4
+ 85.6
+1010
+ 10
+“
+15 / 0000
+38.1
+ 85.9
+1009
+ 10
+“
+15 / 0600
+37.9
+86.2
+1010
+10
+“
+15 / 1200
+38.1
+86.4
+1012
+10
+“
+15 / 1800
+38.4
+86.6
+1012
+10
+“
+16 / 0000
+38.6
+86.8
+1011
+10
+“
+16 / 0600
+39.4
+86.5
+1013
+10
+“
+16 / 1200
+40.2
+86.2
+1014
+10
+“
+16 / 1800
+40.8
+85.2
+1014
+10
+“
+17 / 0000
+41.3
+84.1
+1013
+10
+“
+17 / 0600
+42.2
+83.2
+1013
+10
+“
+17 / 1200
+43.1
+82.3
+1013
+10
+“
+17 / 1800
+43.9
+81.4
+1012
+10
+“
+18 / 0000
+44.6
+80.5
+1010
+10
+“
+18 / 0600
+45.8
+79.8
+1009
+10
+“
+18 / 1200
+
+
+
+
+absorbed by larger low
+04 / 2100
+12.1
+61.6
+1009
+30
+landfall on Grenada
+08 / 0245
+19.9
+77.6
+956
+120
+landfall near Punta del Ingles, Cuba
+08 / 1845
+22.1
+80.7
+941
+120
+landfall just west of Punta Mangles Altos, Cuba
+10 / 1930
+30.4
+87.1
+946
+105
+landfall on Santa Rosa Island, Florida, 10 miles west of Navarre Beach
+10 / 1200
+28.5
+ 86.3
+ 930
+120
+minimum pressure
+08 / 1200
+20.9
+ 79.5
+ 938
+130
+maximum wind
+   
+   
+
+Table 2.	Selected ship reports with winds of at least 34 kt for Hurricane Dennis, 4 – 13 July 2005.
+
+
+Date/Time (UTC)
+
+Ship call sign
+
+
+Latitude
+(EN)
+
+Longitude
+(EW)
+
+Wind
+dir/speed (kt)
+
+Pressure 
+(mb)
+07 / 1800
+UBC Stavanger
+ 15.3
+  76.8
+260 /  43
+ N/A
+07 / 1800
+Lombok Strait
+ 18.3
+  74.9
+160 /  41
+1007.0
+08 / 2300
+Caribbean Princess
+ 24.9
+  79.8
+110 /  56
+1008.1
+09 / 0000
+C6FM9 
+ 26.0
+  79.6
+100 /  35
+1012.0
+09 / 1800
+Sealand Florida
+ 23.6
+  82.6
+190 /  37
+1003.8
+09 / 2000
+Julius Hammer
+ 23.6
+  82.4
+160 /  37
+1007.0
+09 / 2100
+Sealand Florida
+ 23.8
+  81.6
+140 /  40
+1006.6
+10 / 0530
+Explorer of the Seas
+ 26.3
+  79.2
+120 /  44
+1012.5
+10 / 0600
+Sea Horse
+ 25.3
+  80.0
+140 /  35
+1019.0
+10 / 0600
+KS049 
+ 25.9
+  83.3
+160 /  39
+ 999.9
+10 / 0600
+Carnival Glory
+ 26.5
+  78.9
+140 /  40
+1015.0
+10 / 0657
+Explorer of the Seas
+ 26.0
+  79.6
+100 /  41
+1012.0
+10 / 1500
+KS049 
+ 27.6
+  83.2
+190 /  48
+1001.8
+13 / 2200
+Canadian Enterprise
+ 42.0
+  81.5
+130 /  40
+ N/A
+
+
+
+
+Table 3.	Selected surface observations for Hurricane Dennis, 4 – 13 July 2005.
+
+Location
+Minimum Sea Level Pressure
+Maximum Surface
+Wind Speed
+Storm surge
+(ft)c
+Storm
+tide
+(ft)d
+Total
+rain
+(in)
+
+Date/
+time
+(UTC)
+Press.
+(mb)
+Date/
+time
+(UTC)a
+Sustained
+(kt)b
+Gust
+(kt)
+
+
+
+Cuba
+
+
+
+
+
+
+
+
+Aguada de Pasajeros
+08/2100
+977.9
+08/2108
+96
+104
+
+
+
+Bainoa
+09/0250
+974.5
+09/0230
+62
+67
+
+
+9.34
+Batabanó
+09/0455
+991.7
+09/ N/A
+38
+48
+
+
+5.26
+Bauta
+09/0410
+988.9
+09/ N/A
+35
+43
+
+
+5.55
+Cabo Cruz
+08/0240
+956.0
+08/0200
+116h
+129h
+
+
+
+Caibarién
+08/1800
+1000.0
+08/1600
+31
+46
+
+
+
+Camagüey
+08/0600
+1007.0
+08/0500
+38
+51
+
+
+
+Camilo Cienfuegos
+08/1000
+1007.1
+08/ N/A
+36
+41
+
+
+
+Casa Blanca
+09/0445
+975.0
+09/0610
+68
+75
+
+
+3.64
+Cayo Coco
+08/0900
+1008.3
+08/ N/A
+30
+49
+
+
+
+Cienfuegos
+08/1800
+982.1
+08/1850
+81
+85
+
+
+
+Colón
+08/2110
+988.6
+08/2110
+58
+73
+
+
+10.76
+El Jíbaro
+08/1400
+1002.0
+08/1315
+56
+63
+
+
+9.27
+Esmeralda
+08/0700
+1005.9
+08/0650
+35
+47
+
+
+
+Florida
+08/0900
+1005.2
+08/0803
+38
+51
+
+
+
+Guantánamo
+07/ N/A
+1001.3
+07/1850
+37
+41
+
+
+
+Güines
+09/0210
+981.1
+09/0200
+50
+57
+
+
+
+Güira de Melena
+09/0515
+994.2
+09/ N/A
+29
+36
+
+
+4.23
+Indio Hautey
+08/2200
+994.0
+08/2000
+62
+67
+
+
+
+Jovellanos
+08/2200
+985.2
+08/2350
+58
+73
+
+
+12.26
+Júcaro
+08/1200
+1004.5
+08/ N/A
+45
+57
+
+
+9.57
+Jucarito
+08/0200
+1006.2
+08/0440
+35
+46
+
+
+
+Las Piedra
+08/1550
+1000.9
+08/1543
+64
+99
+
+
+15.13
+Las Tunas
+08/0200
+1008.0
+08/0950
+35
+42
+
+
+
+Manzanillo
+08/0215
+1003.6
+08/0135
+38
+51
+
+
+
+Melena del Sur
+09/0230
+990.8
+09/ N/A
+44
+56
+
+
+10.40
+Nuevitas
+08/0700
+1000.8
+08/0600
+43
+51
+
+
+
+Palo Seco
+08/0600
+1007.5
+08/0600
+29
+39
+
+
+
+Puerto Padre
+08/0000
+1008.4
+07/1910
+35
+44
+
+
+
+Sagua la Grande
+08/2100
+1002.1
+08/1700
+43
+59
+
+
+
+Sancti Spíritus
+08/1500
+1003.3
+08/1750
+46
+60
+
+
+9.25
+Santa Cruz del Sur
+08/0645
+999.4
+08/0600
+71
+89
+
+
+
+Santiago de las Vegas
+09/0540
+989.0
+09/0610
+68
+75
+
+
+5.54
+Santo Domingo
+08/1750
+1000.9
+08/1700
+56
+63
+
+
+12.46
+Tapaste
+09/0230
+977.0
+
+
+
+
+
+11.28
+Topes de Collantes
+
+
+08/1555
+81
+89
+
+
+27.67
+Trinidad
+08/1620
+988.6
+08/1600
+94
+103
+
+
+14.11
+Unión de Reyes
+09/0000
+972.5
+08/2350
+96
+107
+
+
+11.59
+Varadero
+09/0000
+994.2
+08/2330
+54
+67
+
+
+6.62
+Veguitas
+08/0200
+1002.8
+08/0000
+28
+41
+
+
+
+Venezuela
+08/1200
+1005.6
+08/ N/A
+45
+50
+
+
+
+Yabú
+08/1800
+1001.3
+08/1300
+31
+51
+
+
+8.06
+
+
+
+
+
+
+
+
+
+Florida
+
+
+
+
+
+
+
+
+Apalachicola (KAAF)
+10/1646
+1000.7
+11/0420
+28
+33
+
+
+2.07
+Apalachicolaf h
+10/1700
+1001.5
+10/1124
+41
+56
+6.94
+8.11
+
+Big Pine Key
+
+
+09/1600
+34
+48
+
+
+
+Brooksville (KBKV)
+09/2228
+1009.1
+10/1652
+24
+37
+
+
+1.82
+Cachej
+
+
+09/0716
+
+50
+
+
+
+Carysfort Reef Light
+
+
+09/1500
+51
+59
+
+
+
+Chekikaj
+
+
+09/0337
+
+63
+
+
+4.08
+Crestview (KCEW)
+10/2009
+989.5
+10/2024
+37
+50
+
+
+
+Clearwater Beachf
+10/1000
+1006.4
+09/2100
+30
+42
+3.87
+5.15
+
+Cross City (KCTY)
+10.1754
+1008.5
+09/2318
+
+39
+
+
+4.32
+Destin (KDTS)
+
+
+10/1929
+49
+64
+
+
+
+Destin (FCMP tower)
+10/1858
+986.9
+10/1921
+55
+70
+
+
+
+Eglin AFB A-5
+10/1844
+983.1
+10/1544
+73
+
+
+
+
+Eglin AFB A-13B
+
+
+10/1934
+73
+90
+
+
+
+Eglin AFB B-71
+10/1958
+982.1
+10/1906
+51
+82
+
+
+
+Eglin AFB B-75
+10/1940
+977.7
+10/1958
+46
+77
+
+
+
+Eglin AFB Valparaiso (KVPS)
+10/1923
+986.1
+10/1923
+48
+72
+
+
+
+Eglin AFB Yellow River
+10/1952
+968.5
+
+
+
+
+
+
+Everglades City
+09/1201
+1007.2
+09/1601
+22
+39
+
+
+
+Flamingo
+09/0703
+1005.5
+09/0703
+52
+59
+
+
+
+Ft. Lauderdale (KFLL)
+09/0841
+1010.9
+09/0857
+26
+41
+
+
+
+Ft. Lauderdale (KFXE)
+09/0921
+1011.2
+09/1008
+29
+39
+
+
+
+Ft. Myers (KFMY)
+09/2336
+1007.8
+09/2000
+30
+40
+
+
+4.54
+Ft. Myers (KRSW)
+09/2336
+1007.5
+09/1929
+29
+37
+
+
+
+Ft. Myersf
+09/2300
+1008.7
+09/2000
+
+36
+2.85
+3.20
+
+Homestead ARB (KHST)
+09/0555
+1007.5
+09/0102
+24
+38
+
+
+
+Jayl
+
+
+10/1845
+62
+
+
+
+
+Kendall Tamiami (KTMB)
+09/0728
+1007.5
+09/0112
+38
+56
+
+
+3.59
+Key West (KEYW)
+09/0853
+1001.9
+09/1017
+53
+64
+
+
+5.81
+Key Westf
+09/0848
+1002.3
+09/1524
+27
+44
+1.67
+2.97
+
+Marathon (KMTH)
+09/0853
+1006.5
+09/0752
+33
+47
+
+
+1.88
+McKay Bayf
+
+
+09/1706
+28
+47
+3.38
+4.84
+
+Miami Beach 
+09/0902
+1005.8
+09/0202
+35
+60
+
+
+1.92
+Miami Intl. (KMIA)
+09/0622
+1009.7
+08/2222
+36
+44
+
+
+2.39
+Naples (KAPF)
+09/2210
+1005.8
+09/1759
+33
+47
+
+
+2.95
+Naplesf
+09/2300
+1009.4
+09/0800
+
+38
+2.99
+4.26
+
+Navarre (FCMP tower)
+10/1909
+965.2
+10/1921
+86
+105
+
+
+
+New Pass Mote Labg
+10/0000
+1005.0
+09/1630
+
+40
+
+
+
+Oasisj
+
+
+00/0034
+
+37
+
+
+
+Ochopeej
+
+
+09/1536
+
+37
+
+
+3.29
+Old Port Tampaf
+
+
+09/1712
+
+33
+3.20
+4.63
+
+Opa Locka (KOPF)
+08/0140
+1010.9
+09/0315
+44
+58
+
+
+2.45
+Panama City (KPFN)
+10/1707
+1001.5
+10/1757
+33
+48
+
+
+3.46
+Panama City Beachf
+10/1800
+994.1
+10/1800
+51
+63
+5.72
+6.79
+
+Pembroke Pines (KHWO)
+09/0706
+1010.5
+09/0753
+33
+50
+
+
+3.09
+Pensacola (KPNS)
+10/1952
+956.6
+10/2002
+66
+81
+
+
+4.11
+Pensacola (FCMP tower)
+10/1943
+956.3
+10/1946
+71
+83
+
+
+
+Pensacolaf
+10/1900
+968.7
+10/1900
+35
+51
+4.16
+5.52
+
+Pemsacola NAS (KNPA)
+20/1956
+976.6
+10/1750
+39
+50
+
+
+
+Pompano Beach (KPMP)
+09/0900
+1011.6
+09/1025
+30
+43
+
+
+1.02
+Port Manateef
+
+
+09/2242
+28
+41
+2.87
+4.09
+
+Punta Gorda (KPGD)
+09/2359
+1008.5
+08/2038
+35
+44
+
+
+4.39
+St. Marks Eastj
+
+
+10/2114
+
+37
+
+
+
+St. Marks Westj
+
+
+10/1546
+
+44
+
+
+3.75
+St. Petersburg (KPIE)
+09/2353
+1007.5
+09/1044
+38
+50
+
+
+2.40
+St. Petersburg (KSPG)
+09/2350
+1007.1
+09/1706
+37
+45
+
+
+2.45
+St. Petersburgf
+
+
+10/1212
+31
+42
+3.15
+4.49
+
+Sarasota (KSRQ)
+10/0009
+1006.1
+09/2057
+31
+38
+
+
+1.83
+Summerland Key
+
+
+09/0800
+36
+50
+
+
+
+Tallahassee (KTLH)
+10/2027
+1005.4
+10/1537
+33
+44
+
+
+6.64
+Tampa Bay C-CUTf
+09/2252
+1004.1
+09/2222
+39
+48
+
+
+
+Tampa Intl. (KTPA)
+09/2354
+1008.5
+09/1718
+27
+37
+
+
+1.73
+Tampa MacDill AFB (KMCF)
+
+
+10/1155
+33
+43
+
+
+1.63
+Tenrawj
+
+
+09/0723
+
+48
+
+
+
+The Villages (KVVG)
+
+
+09/2225
+
+41
+
+
+
+Vaca Keyf
+09/0718
+1005.8
+09/0600
+
+44
+
+1.2
+
+Vandenburg (KVDF)
+
+
+09/1757
+
+35
+
+
+
+Virginia Keyf
+09/0700
+1009.8
+09/0300
+31
+51
+0.6
+2.6
+
+West Palm Beach (KPBI)
+09/0709
+1012.2
+09/1053
+27
+38
+
+
+2.04
+Winter Haven (KGIF)
+09/2226
+1009.8
+09/2314
+26
+35
+
+
+2.40
+
+
+
+
+
+
+
+
+
+Alabama
+
+
+
+
+
+
+
+
+Covington Cntyj
+
+
+10/2220
+
+43
+
+
+
+Dothan (KDHN)
+10/2237
+999.2
+10/1839
+33
+44
+
+
+3.07
+Mobile (KMOB)
+10/2228
+990.5
+10/1837
+32
+42
+
+
+3.71
+Tuskegeej
+
+
+10/2325
+
+36
+
+
+
+
+
+
+
+
+
+
+
+
+Georgia
+
+
+
+
+
+
+
+
+Adelj
+
+
+10/2000
+
+34
+
+
+
+Albany
+10/2310
+1007.5
+10/1853
+25
+37
+
+
+4.59
+Valdosta
+10/2048
+1009.8
+10/1858
+24
+34
+
+
+3.91
+
+
+
+
+
+
+
+
+
+Mississippi
+
+
+
+
+
+
+
+
+Bienvillej
+
+
+11/0505
+
+34
+
+
+
+Biloxi (KBIX)
+
+
+10/1923
+26
+40
+
+
+
+Biloxif
+
+
+
+
+
+2.21
+3.36
+
+Greenej
+
+
+10/2310
+
+34
+
+
+
+Gulfport (KGPT)
+10/2254
+997.6
+10/1952
+27
+36
+
+
+0.43
+Lauderdalej
+
+
+10.2310
+
+48
+
+
+
+Neshobaj
+
+
+11/0310
+
+41
+
+
+
+Ocean Springsf
+10/2242
+995.9
+
+
+
+2.50
+2.97
+
+Pascagoula (KPQL)
+10/2325
+994.2
+10/1931
+
+34
+
+
+1.06
+Wausauj
+
+
+11/0105
+
+37
+
+
+
+Waveland
+10/2254
+1000.0
+
+
+
+1.66
+2.11
+
+
+
+
+
+
+
+
+
+
+Louisiana
+
+
+
+
+
+
+
+
+Lake Ponchartrain Mid-lake
+
+
+10/2210
+34
+42
+
+
+
+New Orleans Lakefront (KNEW)
+11/0030
+1003.7
+10/2120
+31
+41
+
+
+0.08
+SW Passf
+10/2306
+1004.0
+10/0636
+33
+38
+1.29
+2.54
+
+
+
+
+
+
+
+
+
+
+Buoys/C-MAN
+
+
+
+
+
+
+
+
+NOAA 42003 (26.0N 85.9W)
+10/0000
+991.5
+09/2310
+38e
+49
+
+
+
+NOAA 42007 (30.1N 88.8W)
+10/2150
+995.1
+10/1940
+34
+45
+
+
+
+COMPS 42013 (27.2N 82.9W)g
+09/2210
+1004.5
+10/0210
+45
+
+
+
+
+COMPS 42014 (25.3N 82.2W)g h
+09/1129
+1001.6
+
+
+
+
+
+
+COMPS 42021 (28.3N 83.3W)g
+10/1100
+1005.4
+
+
+
+
+
+
+NOAA 42036 (28.5N 84.5W)h
+10/1150
+996.4
+10/0640
+46e
+58
+
+
+
+NOAA 42039 (28.8N 86.0W)h
+10/1250
+979.0
+10/1050
+47
+58
+
+
+
+NOAA 42058 (15.0N 75.0W)
+07/0750
+1006.9
+07/1350
+27
+35
+
+
+
+USM 42067 (30.0N 88.7W)i
+
+
+10/2140
+34
+45
+
+
+
+Burrwood, LA (BURL1)
+10/2300
+1003.7
+10/0640
+33
+39
+
+
+
+Cedar Key, FL (CDRF1)
+10/1000
+1009.7
+10/0050
+42e
+51
+4.81
+7.79
+
+Dauphin Island, AL (DPIA1)
+10/2100
+990.6
+10/1740
+44e
+57
+2.76
+3.51
+
+Fowey Rocks, FL (FWYF1)
+09/0800
+1009.7
+09/0720
+52e
+73
+
+
+
+Grand Isle, LA (GDIL1)
+11/0000
+1004.7
+10/2120
+27
+35
+1.05
+2.01
+
+Homosassa, FL (HSSF1)g
+10/0948
+1008.8
+09/1948
+36
+52
+
+
+
+Keaton Beach, FL (KTNF1)
+10/1500
+1008.1
+10/1918
+34
+48
+
+
+
+Long Key, FL (LONF1)
+09/0700
+1005.7
+09/1250
+41e
+54
+
+
+
+Molasses Reef, FL (MLRF1)
+09/0700
+1007.6
+09/0000
+45
+58
+
+
+
+NW Florida Bay (NFBF1) g
+09/0724
+1006.1
+09/0600
+41
+54
+
+1.2
+
+Sand Key, FL (SANF1)
+09/0900
+999.4
+09/0920
+54e
+68
+
+
+
+Shell Point, FL (SHPF1)g
+10/1430
+1006.0
+10/1700
+32
+41
+
+
+
+Sombrero Key, FL (SMKF1)
+09/0800
+1005.5
+09/0800
+64
+76
+1.3
+2.6
+
+Tyndall Tower, FL (SGOF1)
+10/1400
+1000.4
+10/1440
+55e
+68
+
+
+
+Venice, FL (VENF1)
+10/0000
+1006.0
+10/1500
+36
+41
+
+
+
+
+
+
+
+
+
+
+
+
+Unofficial Observations
+
+
+
+
+
+
+
+
+Florida
+
+
+
+
+
+
+
+
+Boca Grandek
+09/2300
+1006.3
+09/2225
+
+34
+
+
+
+Cape Coralk
+09/2340
+1006.3
+09/1924
+
+40
+
+
+
+Cudjoe Key
+
+
+09/0756
+
+57
+
+
+
+Duck Key
+
+
+09/1045
+
+66
+
+
+
+Largok
+09/2330
+1007.3
+09/2130
+
+40
+
+
+
+New Port Richeyk
+09/2230
+1007.3
+09/1745
+
+37
+
+
+
+Nicevillek
+10/1750
+988.4
+10/1919
+39
+61
+
+
+
+Pace
+
+
+10/1956
+
+92
+
+3.5
+6.90
+Pace
+10/1910
+945.0
+
+
+
+
+
+
+Pensacola
+
+
+10/1943
+
+69
+
+
+
+Pensacola (WEAR)
+10/ N/A
+968.5
+10/ N/A
+
+46
+
+
+7.67
+Perdido Key
+
+
+10/1515
+30
+42
+
+
+
+St. Petersburgk
+09/2320
+1005.0
+09/2200
+
+38
+
+
+
+St. Petersburgk
+09/2315
+1007.3
+09/2120
+
+35
+
+
+
+St. Petersburg Beachk
+09/2345
+1002.6
+09/2231
+
+45
+
+
+
+Southwood (Florida High)
+10/2015
+1005.6
+10/2350
+24
+34
+
+
+6.96
+Tallahassee (FSU)
+
+
+
+
+
+
+
+6.64
+Venice HSk
+09/2310
+1006.0
+08/2115
+
+36
+
+
+
+
+
+
+
+
+
+
+
+
+Alabama
+
+
+
+
+
+
+
+
+Foleyk
+10/1925
+983.6
+10/1600
+
+37
+
+
+
+Lillian
+10/2127
+986.8
+10/1829
+
+38
+
+
+
+Loxley
+
+
+10/1945
+
+43
+
+
+
+Mobilek
+10/2200
+991.4
+09/2000
+
+35
+
+
+
+Mobile Bay (USS Alabama)
+10/2137
+987.8
+10/1948
+
+67
+
+
+
+
+a  Date/time is for sustained wind when both sustained and gust are listed.
+b  Except as noted, sustained wind averaging periods for C-MAN and land-based ASOS reports are 2 min; buoy averaging periods are 8 min.
+c  Storm surge is water height above normal astronomical tide level.
+d  Storm tide is water height above National Geodetic Vertical Datum (1929 mean sea level).
+e  10-min average.
+f  National Ocean Service station – sustained winds are 6-min averages.
+g  University of South Florida COMPS station.
+h  Incomplete record – more extreme values may have occurred.
+i  University of Southern Mississippi station.
+j  RAWS station.
+k  Weather Underground station.
+l  Florida Automated Weather Network station.
+Table 4.  Supplemental storm-total rainfall observations for Hurricane Dennis, 4 – 13 July 2005.
+Location
+Rainfall (in)
+
+Location
+Rainfall (in)
+Florida
+
+
+Georgia
+
+Andytown 2N
+4.13
+
+Ahsburn (ASHG1)
+4.70
+Big Cypress
+4.65
+
+Bainbridge (BAIG1)
+5.79
+Coral Springs
+3.27
+
+Camilla (CAMG1)
+4.37
+Coral Springs 11W
+3.06
+
+Crisp Cnty Power Dam (WWCG1)
+5.86
+Ft. Lauderdale WP
+4.36
+
+Dawson (DAWG1)
+5.78
+Hillsboro Canal
+3.05
+
+Leesburg (LEEG1)
+6.14
+Hollywood
+5.03
+
+Moultrie (MOUG1)
+6.00
+Lakeland
+3.02
+
+Tifton (TFTG1)
+4.52
+Marco Island
+3.03
+
+
+
+Mariana (MARF1)
+3.75
+
+Alabama
+
+Miles City
+4.13
+
+Bay Minette
+4.65
+Miramar 17W
+4.66
+
+Brewton 
+3.50
+Monticello (MTCF1)
+6.95
+
+Camden 10 NW
+12.80
+Moore Haven
+3.05
+
+Evergreen
+3.81
+Niceville
+5.15
+
+Geneva (GVAA1)
+3.48
+Oasis Ranger Station
+3.05
+
+Jackson
+4.24
+Ona
+3.33
+
+
+
+Ortona
+4.88
+
+
+
+Pennsuco
+4.30
+
+
+
+Perrine
+6.89
+
+
+
+Plantation
+4.49
+
+
+
+Quincy (QCYF1)
+4.97
+
+
+
+Racoon Point
+4.09
+
+
+
+South Bay
+3.25
+
+
+
+Steinhatchee (SHMF1)
+3.75
+
+
+
+Sweetwater 14N
+4.07
+
+
+
+
+Table 5.  Preliminary forecast evaluation (heterogeneous sample) for Hurricane Dennis, 4 – 13 July 2005.  Forecast errors (n mi) are followed by the number of forecasts in parentheses.  Errors smaller than the NHC official forecast are shown in bold-face type.  Verification includes the depression stage, but does not include the extratropical stage, if any.
+
+Forecast Technique
+
+
+Forecast Period (h)
+
+
+
+
+
+12
+
+
+24
+
+
+36
+
+
+48
+
+
+72
+
+
+96
+
+
+120
+
+CLP5
+32 (27)
+62 (27)
+96 (27)
+135 (27)
+192 (23)
+266 (19)
+354 (15)
+GFDI
+36 (26)
+64 (26)
+84 (26)
+100 (26)
+113 (22)
+122 (18)
+162 (14)
+GFDL*
+34 (26)
+69 (26)
+87 (26)
+103 (26)
+118 (23)
+109 (19)
+152 (15)
+GFNI
+31 (21)
+58 (21)
+79 (21)
+102 (21)
+152 (18)
+217 (14)
+253 (10)
+GFDN*
+27 (18)
+60 (17)
+81 (17)
+95 (16)
+140 (13)
+231 (11)
+289 ( 6)
+FV4
+53 (25)
+89 (25)
+112 (24)
+113 (24)
+89 (21)
+121 (17)
+230 (13)
+AF1I
+31 (21)
+64 (21)
+97 (21)
+140 (21)
+254 (17)
+
+
+AFW1*
+36 (11)
+60 (11)
+83 (11)
+118 (11)
+195 (9)
+
+
+COAI
+23 (13)
+45 (13)
+75 (13)
+106 (13)
+213 ( 9)
+
+
+COAL*
+32 ( 8)
+50 ( 8)
+83 ( 8)
+104 ( 7)
+193 ( 5)
+
+
+COEI
+39 (20)
+75 (20)
+107 (20)
+129 (18)
+
+
+
+COCE*
+29 (10)
+64 (10)
+106 (10)
+121 ( 9)
+
+
+
+ETAI
+43 (23)
+89 (23)
+125 (23)
+148 (22)
+201 (17)
+
+
+ETA*
+37 (25)
+82 (25)
+118 (25)
+142 (23)
+198 (18)
+
+
+GFSI
+31 (25)
+46 (25)
+57 (25)
+64 (25)
+77 (21)
+132 (17)
+229 (13)
+GFSO*
+38 (25)
+56 (25)
+63 (25)
+71 (25)
+73 (22)
+105 (18)
+179 (14)
+NGPI
+21 (23)
+42 (23)
+61 (23)
+82 (23)
+101 (19)
+122 (15)
+136 (11)
+NGPS*
+25 (25)
+44 (24)
+66 (24)
+84 (23)
+107 (19)
+134 (15)
+134 (11)
+UKMI
+25 (25)
+38 (25)
+52 (25)
+68 (25)
+98 (21)
+179 (17)
+288 (13)
+UKM* 
+26 (14)
+36 (14)
+50 (14)
+63 (13)
+98 (11)
+141 ( 9)
+250 ( 7)
+A98E
+30 (27)
+53 (27)
+72 (27)
+84 (27)
+121 (23)
+174 (19)
+255 (15)
+A9UK
+26 (12)
+44 (12)
+56 (12)
+62 (12)
+87 (10)
+
+
+BAMD
+26 (27)
+40 (27)
+56 (27)
+74 (27)
+106 (23)
+175 (19)
+278 (15)
+BAMM
+27 (27)
+45 (27)
+65 (27)
+82 (27)
+114 (23)
+156 (19)
+235 (15)
+BAMS
+39 (26)
+63 (26)
+84 (26)
+101 (26)
+136 (22)
+190 (18)
+275 (14)
+LBAR
+29 (27)
+45 (27)
+68 (27)
+90 (27)
+137 (23)
+143 (19)
+210 (15)
+CONU
+23 (25)
+41 (25)
+55 (25)
+70 (25)
+84 (21)
+124 (17)
+173 (13)
+GUNS
+22 (23)
+40 (23)
+56 (23)
+70 (23)
+82 (19)
+114 (15)
+147 (11)
+GUNA
+22 (23)
+41 (23)
+53 (23)
+65 (23)
+75 (19)
+106 (15)
+155 (11)
+FSSE
+23 (22)
+40 (22)
+48 (22)
+62 (21)
+78 (16)
+148 (14)
+273 ( 9)
+OHPC
+31 (25)
+46 (25)
+58 (25)
+70 (25)
+77 (21)
+125 (17)
+224 (13)
+OFCI
+26 (25)
+39 (25)
+54 (25)
+62 (25)
+68 (21)
+90 (17)
+192 (13)
+OFCL
+25 (26)
+36 (26)
+51 (26)
+61 (26)
+65 (22)
+74 (18)
+154 (14)
+
+NHC Official
+(1995-2004 mean)
+
+
+42 (3400)
+
+75 (3116)
+
+107 (2848)
+
+138 (2575)
+
+202 (2117)
+
+236 (649)
+
+310 (535)
+* Output from these models was unavailable at forecast time.
+Table 6.	Watch and warning summary for Hurricane Dennis, 4 – 13 July 2005.
+Date/Time (UTC)
+Action
+Location
+5 / 1500
+Tropical Storm Watch issued
+Barahona Dominican Republic to Port au Prince Haiti
+ 5 / 2100
+Tropical Storm Warning issued
+Barahona Dominican Republic to Port au Prince Haiti
+ 5 / 2100
+Hurricane Watch issued
+Jamaica and the southwest peninsula of Haiti west of the Dominican Republic border
+ 6 / 0300
+Hurricane Watch issued
+Cayman Is.
+ 6 / 0600
+Hurricane Watch issued
+Eastern Cuba including Las Tunas, Granma, Santiego de Cuba, Guantanamo, and Holguin
+ 6 / 0900
+Hurricane Warning issued
+Jamaica and the southwest peninsula of Haiti west of the Dominican Republic border
+ 6 / 0900
+Tropical Storm Warning issued
+South coast of the Dominican Republic from Barahona westward to the Haiti border
+ 6 / 1500
+Hurricane Watch issued
+Cuba including Sancti Spiritus, Ciego de Avila, and Camaguey
+ 6 / 2100
+Hurricane Warning issued
+Eastern Cuba including Granma, Santiago de Cuba, and Guantanamo
+ 7 / 0000
+Tropical Storm Warning discontinued
+Dominican Republic
+ 7 / 0300
+Hurricane Warning issued
+Cayman Is.
+ 7 / 1500
+Tropical Storm Watch issued
+Florida west coast from Bonita Beach southward and Florida east coast from Golden Beach to Ocean Reef
+ 7 / 1500
+Hurricane Warning issued
+Cuba including Matanzas, Villa Clara, Cienfuegos, Sancti Spiritus, Camaguey, and Las Tunas
+ 7 / 1500
+Hurricane Watch issued
+Cuba including Isle of Youth, Pinar del Rio, La Habana, Ciudad de la Habana, and Holguin
+ 7 / 1500
+Hurricane Watch issued
+Florida Keys and Florida Bay
+ 7 / 2100
+Tropical Storm Warning issued
+Florida Keys east of Seven Mile Bridge to Ocean Reef including Florida Bay
+ 7 / 2100
+Hurricane Warning issued
+Florida Keys from Seven Mile Bridge westward
+ 8 / 0300
+Tropical Storm Warning issued
+Florida west coast from Bonita Beach southward and Florida east coast from Golden Beach to Ocean Reef
+ 8 / 0300
+Tropical Storm Watch issued
+Florida west coast north of Bonita Beach to Longboat Key
+ 8 / 0300
+Hurricane Warning issued
+Cuba including La Habana and Ciudad de la Habana
+ 8 / 0300
+Hurricane Warning discontinued
+Southwest peninsula of Haiti
+ 8 / 0900
+Hurricane Warning discontinued
+Jamaica
+ 8 / 1200
+Hurricane Warning changed to Tropical Storm Warning
+Cayman Brac and Little Cayman
+ 8 / 1200
+All warnings discontinued
+Grand Cayman Is.
+ 8 / 1500
+Tropical Storm Warning discontinued
+Cayman Brac and Little Cayman
+ 8 / 2100
+Tropical Storm Watch discontinued
+Long Boat Key to Bonita Beach
+8 / 2100
+Tropical Storm Warning issued
+Florida west coast from Anclote Key to Longboat Key
+ 8 / 2100
+Tropical Storm Watch issued
+Florida west coast north of Anclote Key to the Steinhatchee River
+ 8 / 2100
+Hurricane Watch issued
+Steinhatchee River, Florida to the mouth of the Pearl River
+ 9 / 0300
+Tropical Storm Watch issued
+Mouth of the Pearl River to Grand Isle, Louisiana including metropolitan New Orleans and Lake Ponchartrain
+ 9 / 0900
+Hurricane Warning issued
+Steinhatchee River, Florida to the mouth of the Pearl River
+ 9 / 0900
+Tropical Storm Warning issued
+Mouth of the Pearl River to Grand Isle, Louisiana including metropolitan New Orleans and Lake Ponchartrain
+ 9 / 0900
+Tropical Storm Warning issued
+Florida west coast north of Anclote Key to the Steinhatchee River
+ 9 / 0900
+Hurricane Warning discontinued
+Cuba including all provinces from Sancti Spiritus eastward
+ 9 / 1500
+Hurricane Watch discontinued
+Florida Keys east of Seven Mile Bridge to Ocean Reef 
+ 9 / 1500
+All watches and warnings discontinued
+Cuba
+ 9 / 2100
+Hurricane Warning changed to Tropical Storm Warning
+Florida Keys west of the Seven Mile Bridge
+ 9 / 2100
+Tropical Storm Warning discontinued
+Florida coast from Golden Beach to Flamingo and the Florida Keys from the Seven Mile Bridge eastward
+10 / 0300
+Tropical Storm Warning discontinued
+Florida west coast south of Bonita Beach
+10 / 0900
+Tropical Storm Warning issued
+Louisiana coast west of Grand Isle to Morgan City
+10 / 0900
+Tropical Storm Warning discontinued
+Florida Keys
+10 / 1300
+Hurricane Warning changed to Tropical Storm Warning
+Florida coast east of the Ochlockonee River to the Steinhatchee River
+10 / 1500
+Tropical Storm Warning discontinued
+West of Grand Isle, Louisiana and south of Longboat Key, Florida
+10 / 2100
+Hurricane Warning modified to
+AL/MS border to Destin, Florida
+10 / 2100
+Tropical Storm Warning modified to
+Destin to Longboat Key, Florida
+10 / 2100
+Tropical Storm Warning modified to
+Mouth of the Pearl River to AL/MS border
+10 / 2300
+Hurricane Warning changed to Tropical Storm Warning
+AL/MS border to Destin, Florida
+11 / 0300
+All warnings discontinued
+U. S. Gulf coast
+
+
+
+
+
+
+Figure 1.  Best track positions for Hurricane Dennis, 4-13 July 2005.
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Dennis, 4-13 July 2005.  Aircraft observations have been adjusted for elevation using 90% and 80% reduction factors for observations from 700 mb and 850 mb, respectively.  Dropwindsonde observations include actual 10 m winds (sfc), as well as surface estimates derived from the mean wind over the lowest 150 m of the wind sounding (LLM),  and from the sounding boundary layer mean (MBL).  Objective Dvorak estimates represent linear averages over a three-hour period centered on the nominal observation time.  Solid vertical lines indicate times of landfall.
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Hurricane Dennis, 4-13 July 2005. Objective Dvorak estimates represent linear averages over a three-hour period centered on the nominal observation time.  Solid vertical lines indicate times of landfall.
+
+Figure 4.	Storm-induced tides (surges) for Hurricane Dennis plotted versus time for the stations along the Florida west coast and Apalachee Bay.  Image courtesy of the TPC Storm Surge unit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24
+
+
+

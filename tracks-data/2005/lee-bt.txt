@@ -1,0 +1,312 @@
+Tropical Cyclone Report
+Tropical Storm Lee
+28 August- 2 September 2005
+Lixion A. Avila 
+
+National Hurricane Center
+7 December 2005
+
+
+Lee was a tropical storm over the open Atlantic for a short period of time.
+
+a.	Synoptic History
+
+             A vigorous tropical wave that moved off the west coast of Africa on 24 August spawned a low pressure area while it moved westward across the tropical Atlantic. The shower activity associated with the low became organized and a tropical depression formed at 1200 UTC 28 August about midway between Africa and the Lesser Antilles.   Because northeasterly wind shear prevailed, the main center of circulation was removed from the convection.  There were two other smaller circulations embedded within a larger cyclonic gyre. The depression moved toward the west-northwest and continued to struggle within the shearing environment and degenerated into a broad area of low pressure at 1800 UTC 29 August. The low moved northward and then northeastward around a non-tropical low located to the north of the system.  As the remnant low moved toward the northeast, the thunderstorm activity increased, some modest convective banding features developed, and a ring of deep convection was noted on microwave data. Based on this data, it is estimated that a depression regenerated at 0600 UTC 31 August, and became Tropical Storm Lee at 1200 UTC on that day. By then, the cyclone was located between Bermuda and the Azores.  Thereafter, Lee weakened to a tropical depression as it moved northeastward and northwestward around the eastern side of the non-tropical low. Lee absorbed the non-tropical low and maintained limited convection. The depression weakened to a broad area of low pressure at 0600 UTC 2 September and became absorbed by a cold front at 0000 UTC 4 September. The “best track” chart of the tropical cyclone’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.
+
+
+		Meteorological Statistics
+
+	Observations in Lee (Figs. 2 and 3) include satellite-based Dvorak technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB), the Satellite Analysis Branch (SAB) and the U. S. Air Force Weather Agency (AFWA).   Microwave satellite imagery from NOAA polar-orbiting satellites, the NASA Tropical Rainfall Measuring Mission (TRMM), the NASA QuikSCAT, and Defense Meteorological Satellite Program (DMSP) satellites were also useful in tracking Lee.  Operationally, tropical depression advisories were initiated based on NOAA buoy (41041) data that confirmed that a surface circulation developed in association with the vigorous tropical wave which spawned Lee.  An image from the SSM/I pass at 1018 UTC 31 August shows a ring of deep convection around the center (Fig. 4) associated with Tropical Storm Lee.    
+
+c.	Casualty and Damage Statistics
+
+	There are no reports of casualties or damage associated with Lee.
+	 
+d.	Forecast and Warning Critique
+
+	Lee was difficult to forecast primarily due to the interaction with a non-tropical low resulting in large average track forecast errors. However, the sample was small.  These errors (with the number of cases in parentheses) for Lee were 80 (7), 173 (3), 269 (1), 475 (1), 685 (3), and 729 (2) n mi for the 12, 24, 36, 48, 72, and 96 h forecasts, respectively.  These errors are greater than the average official track errors for the 10-yr period 1995-2004
+
+ 	Errors given for the 96 h period are averages over the four-year period 2001-4.  of 42, 75, 107, 138, 202, and 236 n mi, respectively).
+
+	Average official intensity errors were 2, 7, 10, 5, 3 and 8 kt for the 12, 24, 36, 48, 72, and 96 h forecasts, respectively.  For comparison, the average official intensity errors over the 10-yr period 1995-2004 are 6, 10, 12, 15, 18, and 20 kt, respectively.
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 1.	Best track for Tropical Storm Lee, 28 August- 2 September 2005.
+
+Date/Time
+(UTC)
+
+Latitude
+(°N)
+
+Longitude
+(°W)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+28 / 1200
+14.0
+ 45.1
+1009
+ 25
+ tropical depression  
+28 / 1800
+14.9
+ 46.4
+1007
+ 25
+           "          
+29 / 0000
+15.7
+ 47.6
+1007
+ 25
+           "          
+29 / 0600
+17.0
+ 48.9
+1007
+ 25
+           "          
+29 / 1200
+17.7
+ 50.6
+1008
+ 25
+           "          
+29 / 1800
+18.5
+ 52.5
+1009
+ 20
+         Low          
+30 / 0000
+20.5
+ 53.2
+1010
+ 20
+           "          
+30 / 0600
+22.1
+ 53.6
+1010
+ 20
+           "          
+30 / 1200
+24.2
+ 54.2
+1010
+ 20
+           "          
+30 / 1800
+25.5
+ 53.6
+1010
+ 25
+           "          
+31 / 0000
+26.9
+ 52.7
+1010
+ 25
+           "          
+31 / 0600
+28.0
+ 51.6
+1007
+ 30
+ tropical depression  
+31 / 1200
+29.0
+ 50.4
+1006
+ 35
+    tropical storm    
+31 / 1800
+30.1
+ 50.1
+1007
+ 35
+           "          
+01 / 0000
+31.1
+ 50.3
+1009
+ 30
+ tropical depression  
+01 / 0600
+31.9
+ 51.2
+1010
+ 30
+           "          
+01 / 1200
+31.9
+ 51.4
+1010
+ 30
+           "          
+01 / 1800
+32.3
+ 51.5
+1010
+ 30
+           "          
+02 / 0000
+32.4
+ 52.0
+1010
+ 25
+           "          
+02 / 0600
+32.6
+ 52.3
+1010
+ 25
+         Low          
+02 / 1200
+33.2
+ 52.3
+1010
+ 25
+           "          
+02 / 1800
+33.9
+ 52.7
+1010
+ 25
+           "          
+03 / 0000
+34.7
+ 53.2
+1010
+ 25
+           "          
+03 / 0600
+35.5
+ 53.9
+1010
+ 25
+           "          
+03 / 1200
+36.6
+ 54.2
+1010
+ 25
+           "          
+03 / 1800
+37.4
+ 53.9
+1010
+ 25
+           "          
+04 / 0000
+
+
+
+
+Absorbed by a cold front          
+31 / 1200
+29.0
+ 50.4
+1006
+ 35
+   minimum pressure
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. 	Best track positions for Tropical Storm Lee, 28 August -2 September, 2005. 
+
+
+
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve for Lee, 28 August- 2 September, 2005.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Tropical Storm Lee, 28 August 2 September, 2005. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4.  Microwave data at 1018 UTC 31 August showing a ring of convection associated with the center of Tropical Storm Lee. Note the presence of the non-tropical low to the northwest of Lee.
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+

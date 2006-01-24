@@ -1,0 +1,277 @@
+Tropical Cyclone Report
+Tropical Storm Jose
+22-23 August 2005
+
+James L. Franklin
+National Hurricane Center
+13 January 2005
+
+
+	Jose was a short-lived tropical storm that brought heavy rains to eastern Mexico, triggering floods and landslides that killed six people.
+
+
+
+
+
+	Synoptic History
+
+	Jose developed from a tropical wave, likely the same wave that earlier had spawned Tropical Depression Ten after leaving the coast of Africa on 8 August.   Convection associated with the wave increased in the central Caribbean Sea on 17 August, and this area of convection persisted and moved west-northwestward toward the Yucatan Peninsula over the next few days.  In the northwestern Caribbean the system had a well-defined mid-level circulation, and some skeletal banding features were briefly evident while the system was over the Yucatan.  When the system entered the Bay of Campeche late on 21 August there was very little convection, but in the early morning hours of 22 August, under a very favorable divergent upper-level anticyclonic flow, convection exploded.  Surface observations and a QuikSCAT pass indicate that a well-defined center of circulation had formed within the convection by 1200 UTC, marking the formation of the season’s eleventh tropical depression, about 95 n mi east of Veracruz, Mexico. 
+
+	The “best track” chart of the tropical cyclone’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.  The depression moved westward and the convection continued to become organized during the day on 22 August, forming a band north of the center while maintaining a small core of deep convection over the center.  The depression reached tropical storm strength near 1800 UTC 22 August, when it was 70 n mi east-northeast of Veracruz, and continued to strengthen.  Aircraft reconnaissance data showed that Jose’s strongest winds were to the southwest of the center, where the flow may have been enhanced due to funneling to the east of the Sierra Madres.  Imagery from the Mexican radar at Alvarado indicates that an eyewall was developing as the center made landfall at 0330 UTC 23 August, about 30 n mi north of Veracruz.  At the time of landfall the peak winds are estimated to have been 50 kt.
+
+	Jose weakened rapidly after moving inland, becoming a depression by 1200 UTC 23 August.  The cyclone dissipated over the mountains of eastern Mexico shortly thereafter.
+
+
+	Meteorological Statistics
+
+	Observations in Jose (Figs. 2 and 3) include satellite-based Dvorak technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB), the Satellite Analysis Branch (SAB) and the U. S. Air Force Weather Agency (AFWA), as well as flight-level observations from flights of the 53rd Weather Reconnaissance Squadron of the U. S. Air Force Reserve Command.  Microwave satellite imagery from NOAA polar-orbiting satellites, the NASA Tropical Rainfall Measuring Mission (TRMM), and the NASA QuikSCAT satellites were also useful in tracking Jose.
+
+	The peak flight-level (nominally 1500 ft) wind reported by reconnaissance aircraft was 54 kt at 2201 UTC 22 August.  The aircraft had left the cyclone before the eyewall appeared in radar imagery in the last hour prior to landfall, and it is presumed that some additional intensification was occurring at that time.
+
+	There were no surface reports of winds of tropical storm force associated with Jose.  Rainfall was heavy, with over 10 inches reported in Misantla, and there were several other reports in excess of 5 inches (Table 2).
+								
+
+	Casualty and Damage Statistics
+	
+	Jose was associated with six direct deaths.  According to the Associated Press, a 59-year-old man was killed in Jalapa when his home was buried by a mud slide.  There were also five deaths due to mud slides in Oaxaca.  Jose caused floods and landslides that forced thousands to evacuate their homes.
+
+
+	Forecast and Warning Critique
+
+	The Tropical Weather Outlook issued just over 24 h prior to genesis, indicated the possibility that the disturbance would develop upon reaching the southern Gulf of Mexico. 
+
+	Jose was a short-lived storm with few verifying forecasts.  Average official track errors (with the number of cases in parentheses) for Jose were 20 (3), and 13 (1) n mi for the 12, and 24 h forecasts, respectively.  These errors are well below the average official track errors for the 10-yr period 1995-2004 of 42 and 75 n mi, respectively.  The average intensity error at 12 h was 7 kt and 0 kt at 24 h.
+
+	Warnings associated with Jose are listed in Table 3.  Relatively little lead time, about 8.5 hours, was provided in advance of the center making landfall, because the tropical cyclone formed so close to shore.
+
+
+Table 1.	Best track for Tropical Storm Jose, 22-23 August 2005.
+
+
+Date/Time
+(UTC)
+
+Latitude
+(EN)
+
+Longitude
+(EW)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+22 / 1200
+19.4
+ 94.5
+1006
+ 30
+ tropical depression  
+22 / 1800
+19.6
+ 95.0
+1004
+ 35
+tropical storm    
+23 / 0000
+19.7
+ 95.7
+1001
+ 45
+"          
+23 / 0600
+19.7
+ 96.7
+1002
+ 35
+"          
+23 / 1200
+19.7
+ 97.7
+1005
+ 25
+ tropical depression  
+23 / 1800
+
+
+
+
+dissipated
+23 / 0330
+19.7
+ 96.4
+ 998
+ 50
+landfall north of Veracruz and location of minimum pressure
+   
+   
+
+Table 2.	Selected surface observations for Tropical Storm Jose, 22-23 August 2005.
+
+
+Location
+Minimum Sea Level Pressure
+Maximum Surface
+Wind Speed
+Storm surge
+(ft)c
+Storm
+tide
+(ft)d
+Total
+rain
+(in)
+
+Date/
+time
+(UTC)
+Press.
+(mb)
+Date/
+time
+(UTC)a
+Sustained
+(kt)b
+Gust
+(kt)
+
+
+
+Mexico
+
+
+
+
+
+
+
+
+Misantla
+
+
+
+
+
+
+
+10.04
+El Raudel
+
+
+
+
+
+
+
+8.73
+Cuetzalan
+
+
+
+
+
+
+
+6.14
+Libertad
+
+
+
+
+
+
+
+6.00
+Martinez de la Torre
+
+
+
+
+
+
+
+5.74
+Altotonga
+
+
+
+
+
+
+
+5.65
+Rancho Nuevo
+
+
+
+
+
+
+
+4.88
+El Naranjillo
+
+
+
+
+
+
+
+4.84
+
+
+
+
+
+Table 3.	Watch and warning summary for Tropical Storm Jose, 22-23 August 2005.
+
+Date/Time (UTC)
+Action
+Location
+22 / 1600
+Tropical Storm Warning issued
+Veracruz to Cabo Rojo
+22 / 2215
+Tropical Storm Warning modified to
+Punta El Lagarta to Cabo Rojo
+23 / 1200
+Tropical Storm Warning discontinued
+All
+
+
+
+
+
+Figure 1.	Best track positions for Tropical Storm Jose, 22-23 August 2005.  
+
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Jose, 22-23 August 2005.  Aircraft observations have been adjusted for elevation using an 80% reduction factors for observations from 1500 ft.  Landfall is indicated by the thin solid vertical line.
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Tropical Storm Jose, 22-23 August 2005. Landfall is indicated by the thin solid vertical line.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+
+
+

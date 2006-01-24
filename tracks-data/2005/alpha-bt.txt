@@ -1,0 +1,191 @@
+Tropical Cyclone Report
+Tropical Storm Alpha
+ (AL252005)
+22-24 October 2005
+Lixion A. Avila 
+
+National Hurricane Center
+4 January 2006
+
+
+	Alpha was affected Haiti and the Dominican Republic with floods and mudslides that resulted in 26 deaths.
+	
+
+a.	Synoptic History
+
+Alpha was the 22nd named tropical cyclone of the 2005 season and this was the first time that National Hurricane Center had to use the Greek Alphabet.  Alpha formed from a tropical wave that reached the Windward Islands on 19 October. Satellite images and surface observations indicated that a low pressure center associated with the wave formed near Barbados and moved toward the west-northwest with increasing convective activity.   Under light wind shear, the shower activity began to become concentrated and Doppler radar data from Puerto Rico detected a well-defined cyclonic circulation associated with the system. It is estimated that a tropical depression formed at 1200 UTC 22 October about 180 miles southwest of San Juan Puerto Rico. The depression continued to become better organized while heading toward the south coast of Hispaniola and became Tropical Storm Alpha at 1800 UTC on that day. Alpha continued to intensify and reached its maximum intensity of 45 knots and a minimum pressure of 998 mb at 0600 UTC 23 October as it was nearing the coast. 
+
+The cyclone made landfall near the town of Barahona in the Dominican Republic about 1000 UTC 23 October with a maximum intensity of 45 knots and a minimum pressure of 1000 mb.  Thereafter, Alpha weakened to tropical depression status due to the interaction with the extremely high terrain of Hispaniola. The cyclone turned toward the north-northwest and then north over the southeastern Bahamas and the Atlantic, and never regained tropical storm strength. It was absorbed by the much larger circulation of Hurricane Wilma over the western Atlantic at 0000 UTC 25 October.   The “best track” chart of the tropical cyclone’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.
+
+
+	Meteorological Statistics
+
+	Observations in Alpha (Figs. 2 and 3) include satellite-based Dvorak technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB), the Satellite Analysis Branch (SAB) and the U. S. Air Force Weather Agency (AFWA).  Alpha was upgraded to tropical storm status based on a microwave image which showed a tightly clustered banding feature associated with the center.  According to the Meteorological Service of the Dominican Republic, the strongest 1-min sustained wind reported by a land station was 45 knots at the town of Barahona as the center of Alpha made landfall near that location.  The largest report of rainfall was 7.9 inches at the town of Las Americas.
+ 
+c.	Casualty and Damage Statistics
+	
+	Reports from the Miami Herald and the Washington Post indicate that Alpha killed 17 people in Haiti and 9 in the Dominican Republic primarily due to mudslides caused by heavy rains.  Floods and mudslides damaged or destroyed at least 400 homes in Haiti. 
+ 
+d.	Forecast and Warning Critique
+
+	Alpha was a short-lived tropical cyclone and there were only a few forecasts. The forecast track errors were much smaller than the average official track errors for the 10-yr period 1995-2004.  The intensity errors were also quite small. The possibility of tropical cyclone formation was not mentioned in the tropical weather outlooks until the tropical wave reached the Windward Islands and became convectively active. This occurred about 24 hours before the formation of Alpha.    A summary of the coastal watches and warnings is included in Table 2.
+ 
+
+
+Table 1.	Best track for Tropical Storm Alpha, 22-24 October 2005.
+
+
+Date/Time
+(UTC)
+
+Latitude
+(°N)
+
+Longitude
+(°W)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+22 / 1200
+15.8
+ 67.5
+1007
+ 30
+ tropical depression  
+22 / 1800
+16.5
+ 68.5
+1005
+ 35
+    tropical storm    
+23 / 0000
+17.3
+ 69.6
+1000
+ 45
+           "          
+23 / 0600
+17.8
+ 70.5
+ 998
+ 45
+           "          
+23 / 1200
+18.6
+ 72.2
+1002
+ 35
+           " 
+23 / 1800
+19.8
+ 72.7
+1004
+ 30
+ tropical depression               
+24 / 0000
+21.6
+ 72.9
+1004
+ 30
+           "          
+24 / 0600
+23.5
+ 73.0
+1004
+ 30
+           "          
+24 / 1200
+25.1
+ 72.4
+1004
+ 30
+           "          
+24 / 1800
+27.9
+ 70.8
+1004
+ 30
+           "          
+25 / 0000
+
+
+
+
+  Absorbed by Wilma        
+23/  1000
+18.3
+71.3
+1000
+45
+Landfall near the city of Barahona, DR
+23 / 0600
+17.8
+ 70.5
+ 998
+ 45
+   minimum pressure
+   
+   
+   
+
+
+Table 2. Watch and warning summary for Tropical Storm Alpha 22-24 October, 2005.
+
+Date/Time (UTC)
+Action
+Location
+22 / 1500
+Tropical Storm Warning issued
+Hispaniola
+22 / 1500
+Tropical Storm Watch 
+Turk and Caicos and southeastern Bahamas 
+22 /1800
+Replace a Tropical Storm Warning for a Tropical Storm Watch
+North coast of Dominican Republic from Cabo Engano to Cabo Frances Viejo
+ 22 /2100
+Re-issue Tropical Storm Warning 
+North coast of Dominican Republic
+ 22 / 2100
+Tropical Storm Warning issued 
+Turk and Caicos Islands and southeastern Bahamas
+ 23 / 1500
+Tropical Storm Warning discontinued
+Hispaniola
+ 23 / 2100
+Tropical Storm Warning discontinued
+Turk and Caicos Islands and southeastern Bahamas
+
+
+
+
+
+
+
+
+
+
+Figure 1. 	Best track positions for Tropical Storm Alpha, 22-24 October, 2005. 
+
+
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Alpha, 22-24 October, 2005.  Vertical black line marks the landfall time.
+
+
+
+
+
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Tropical Storm Alpha, 22-24 October, 2005.  Vertical black line marks the landfall time.
+
+
+
+
+
+7
+
