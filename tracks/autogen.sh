@@ -14,7 +14,7 @@ if test -z "$*"; then
   fi
 fi
 
-echo -n "Bootstrapping GGZ... "
+echo -n "Bootstrapping... "
 echo -n "[prerequisites]"
 
 # Make sure autotools are installed
