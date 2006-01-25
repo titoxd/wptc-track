@@ -1,0 +1,87 @@
+Index: track.c
+===================================================================
+--- track.c	(revision 78)
++++ track.c	(working copy)
+@@ -290,6 +290,9 @@
+   storm->minlon = 180;
+   storm->maxlat = -90;
+   storm->minlat = 90;
++
++  storm->formlon = 0.0;
++  storm->formlat = 0.0;
+ }
+ 
+ void save_storm(struct storm_arg *args, struct stormdata *storms, struct storm *storm)
+@@ -356,6 +359,12 @@
+       storm->minlat = MIN(pos->lat, storm->minlat);
+     }
+ 
++    if (storm->formlon == 0.0 && storm->formlat == 0.0
++	&& pos->type == TROPICAL && pos->wind >= 35) {
++      storm->formlon = pos->lon;
++      storm->formlat = pos->lat;
++    }
++
+ #if 0
+     if (pos->lon < -300) {
+       printf("%s %d %d\n", storm->header.name,
+@@ -608,12 +617,28 @@
+   }
+ }
+ 
++#define ACE
++
+ #ifdef ACE
+ static int ace_compare(const void *a, const void *b)
+ {
+   const struct storm *storma = a, *stormb = b;
++  double nea = storma->formlat + storma->formlon;
++  double neb = stormb->formlat + stormb->formlon;
+ 
+-  return stormb->ace - storma->ace;
++  if (storma->formlon == 0.0) {
++    return 1;
++  } else if (stormb->formlon == 0.0) {
++    return -1;
++  }
++
++  if (neb > nea) {
++    return 1;
++  } else if (nea > neb) {
++    return -1;
++  } else {
++    return 0;
++  }
+ }
+ #endif
+ 
+@@ -673,14 +698,14 @@
+ 	   storms->storms[s].header.year,
+ 	   storms->storms[s].header.id,
+ 	   storms->storms[s].header.name,
+-	   (double)storms->storms[s].ace / 10000.0);
++	   storms->storms[s].formlat + storms->storms[s].formlon);
+ #else
+     /* Wiki format */
+-    printf("|-\n|%4d || %2d || %10s || %2.5f\n",
++    printf("|-\n|%4d || %2d || %10s || %2.1f\n",
+ 	   storms->storms[s].header.year,
+ 	   storms->storms[s].header.id,
+ 	   storms->storms[s].header.name,
+-	   (double)storms->storms[s].ace / 10000.0);
++	   storms->storms[s].formlat + storms->storms[s].formlon);
+ #endif
+   }
+ #endif
+Index: track.h
+===================================================================
+--- track.h	(revision 77)
++++ track.h	(working copy)
+@@ -40,6 +40,7 @@
+ 
+   int maxwind;
+   int ace;
++  double formlon, formlat;
+ 
+   double minlon, maxlon;
+   double minlat, maxlat;

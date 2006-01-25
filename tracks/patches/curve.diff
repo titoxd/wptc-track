@@ -1,0 +1,69 @@
+Index: track.c
+===================================================================
+--- track.c	(revision 63)
++++ track.c	(working copy)
+@@ -611,22 +611,49 @@
+ 
+   for (s = 0; s < storms->nstorms; s++) {
+     struct storm *storm = storms->storms + s;
+-    double x, y;
+ 
+     cairo_save(cr);
+     if (storm->npos == 0) {
+       continue;
+     }
+-    get_pos(&x, &y, storm->pos);
+-    cairo_move_to(cr, x, y);
++    {
++      double x, y;
++
++      get_pos(&x, &y, storm->pos);
++      cairo_move_to(cr, x, y);
++    }
+     cairo_set_source_rgba(cr, 1, 1, 1, args->alpha);
+     cairo_set_line_width(cr, get_line_size(args));
+     for (p = 1; p < storm->npos; p++) {
+-      struct pos *pos = storm->pos + p;
++      struct pos *pos0 = storm->pos + p - 1;
++      struct pos *pos1 = storm->pos + p;
++      double x0c, y0c, x1c, y1c;
++      double x0, y0, x1, y1;
++      double dist;
+ 
+-      get_pos(&x, &y, pos);
++      get_pos(&x0, &y0, pos0);
++      get_pos(&x1, &y1, pos1);
+ 
+-      cairo_line_to(cr, x, y);
++      dist = sqrt((x1 - x0) * (x1 - x0) + (y1 - y0) * (y1 - y0));
++
++      if (p > 1) {
++	struct pos *npos = storm->pos + p - 2;
++
++	get_pos(&x0, &y0, npos);
++      } else {
++	x0c = x0;
++	y0c = y0;
++      }
++      if (p < storm->npos - 1) {
++	struct pos *npos = storm->pos + p + 1;
++
++	get_pos(&x1, &y1, npos);
++      } else {
++	x1 = x;
++	y1 = y;
++      }
++
++      cairo_curve_to(cr, x0, y0, x1, y1, x, y);
+     }
+     cairo_set_line_cap(cr, CAIRO_LINE_CAP_ROUND);
+     cairo_set_line_join(cr, CAIRO_LINE_JOIN_ROUND);
+@@ -705,7 +732,7 @@
+ 	break;
+       }
+ 
+-      cairo_fill(cr);
++      //      cairo_fill(cr);
+       cairo_restore(cr);
+     }
+   }
