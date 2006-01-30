@@ -339,8 +339,8 @@
 
 # 2005 storms
 #   [ ("--input 2005/arlene-bt.txt --format 2", "Arlene 2005", "Tropical Storm Arlene (2005)") ],
-#   [ ("--input 2005/bret.txt --format 1", "Bret 2005", "Tropical Storm Bret (2005)") ],
-#   [ ("--input 2005/cindy.txt --format 1", "Cindy 2005", "Tropical Storm Cindy (2005)") ],
+#   [ ("--input 2005/bret-bt.txt --format 2", "Bret 2005", "Tropical Storm Bret (2005)") ],
+#   [ ("--input 2005/cindy-bt.txt --format 2", "Cindy 2005", "Hurricane Cindy (2005)") ],
 #   [ ("--input 2005/dennis-bt.txt --format 2", "Dennis 2005", "Hurricane Dennis (2005)") ],
 #   [ ("--input 2005/emily.txt --format 1", "Emily 2005", "Hurricane Emily (2005)") ],
 #   [ ("--input 2005/franklin.txt --format 1", "Franklin 2005", "Tropical Storm Franklin (2005)") ],
