@@ -285,6 +285,7 @@ void init_storm(struct storm *storm)
 
   storm->npos = 0;
   storm->maxwind = 0;
+  storm->maxtype = 0;
   storm->ace = 0;
   storm->maxlon = -180;
   storm->minlon = 180;
@@ -343,6 +344,9 @@ void save_pos(struct storm_arg *args, struct stormdata *storms,
     storm->npos++;
 
     storm->maxwind = MAX(storm->maxwind, pos->wind);
+    if (pos->wind >= 35) {
+      storm->maxtype = MAX(storm->maxtype, pos->type);
+    }
     if (pos->type == TROPICAL && pos->wind >= 35) {
       /* ACE is the accumulation of the squares of the wind speed, in knots,
        * of a tropical system with at least 35-knot winds. */
@@ -617,6 +621,22 @@ static int ace_compare(const void *a, const void *b)
 }
 #endif
 
+#ifdef NAMING
+static const char *get_storm_description(struct storm *storm)
+{
+  /* Atlantic only (for now) */
+  if (storm->maxtype == SUBTROPICAL) {
+    return "subtropical storm";
+  } else if (storm->maxtype == TROPICAL && storm->maxwind >= 65) {
+    return "hurricane";
+  } else if (storm->maxtype == TROPICAL && storm->maxwind >= 35) {
+    return "tropical storm";
+  } else {
+    return "storm";
+  }
+}
+#endif
+
 static void print_extra_data(struct stormdata *storms)
 {
 #if 0 /* Earliest storm in each season */
@@ -662,7 +682,7 @@ static void print_extra_data(struct stormdata *storms)
   }
 #endif
 
-#if 0
+#ifdef NAMING
   /* List of storms */
   int year = -1, s, linelen = 0;
 
@@ -676,13 +696,14 @@ static void print_extra_data(struct stormdata *storms)
       storm->header.name[i] = tolower(storm->header.name[i]);
     }
 
-    if (strcasecmp(storm->header.name, "not named") == 0) {
+    if (strcasecmp(storm->header.name, "not named") == 0
+	|| strncasecmp(storm->header.name, "subtrop", strlen("subtrop")) == 0) {
       continue;
     }
 
     if (storm->header.year != year) {
       if (year != -1) {
-	printf("\n     )],\n");
+	printf("\n      )],\n");
       }
       printf("     \"%d\" =>\n     [(\n%s", storm->header.year, lead);
       year = storm->header.year;
@@ -697,21 +718,29 @@ static void print_extra_data(struct stormdata *storms)
     }
   }
   if (year != -1) {
-    printf("\n     )],\n");
+    printf("\n      )],\n");
   }
 
   for (s = 0; s < storms->nstorms; s++) {
     struct storm *storm = storms->storms + s;
+    int number = storm->header.id;
 
-    if (strcasecmp(storm->header.name, "not named") != 0) {
-      continue;
+    if (strcasecmp(storm->header.name, "not named") == 0
+	|| strncasecmp(storm->header.name, "subtrop", strlen("subtrop")) == 0) {
+      if (strncasecmp(storm->header.name, "subtrop", strlen("subtrop")) == 0) {
+	char *name = storm->header.name + strlen("subtrop");
+
+	if (atoi(name) != 0) {
+	  number = atoi(name);
+	}
+      }
+
+      printf("      [ (\"--year %d --id %d --name \\\"not named\\\"\", "
+	     "\"%d Atlantic %s %d\") ],\n",
+	     storm->header.year, storm->header.id, storm->header.year,
+	     get_storm_description(storm),
+	     number);
     }
-
-    printf("      [ (\"--year %d --id %d --name \\\"not named\\\", "
-	   "\"%d Atlantic %s %d\") ],\n",
-	   storm->header.year, storm->header.id, storm->header.year,
-	   "storm",
-	   storm->header.id);
   }
 #endif
 
