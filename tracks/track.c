@@ -735,9 +735,11 @@ static void print_extra_data(struct stormdata *storms)
 	}
       }
 
-      printf("      [ (\"--year %d --id %d --name \\\"not named\\\"\", "
+      printf("      [ (\"--year %d --id %d --name \\\"%s\\\"\", "
 	     "\"%d Atlantic %s %d\") ],\n",
-	     storm->header.year, storm->header.id, storm->header.year,
+	     storm->header.year, storm->header.id,
+	     storm->header.name,
+	     storm->header.year,
 	     get_storm_description(storm),
 	     number);
     }

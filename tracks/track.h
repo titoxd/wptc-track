@@ -24,11 +24,11 @@ struct storm_header {
 
 struct pos {
   /* Ignores time. */
-  enum {
-    TROPICAL,
+  enum { /* Increasing order. */
+    LOW,
     EXTRATROPICAL,
     SUBTROPICAL,
-    LOW
+    TROPICAL,
   } type;
   double lat, lon;
   int pres;
@@ -39,6 +39,7 @@ struct storm {
   struct storm_header header;
 
   int maxwind;
+  int maxtype;
   int ace;
 
   double minlon, maxlon;
