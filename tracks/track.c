@@ -662,6 +662,59 @@ static void print_extra_data(struct stormdata *storms)
   }
 #endif
 
+#if 0
+  /* List of storms */
+  int year = -1, s, linelen = 0;
+
+  for (s = 0; s < storms->nstorms; s++) {
+    struct storm *storm = storms->storms + s;
+    int i;
+    char text[128];
+    char *lead = "       ";
+
+    for (i = 1; i < strlen(storm->header.name); i++) {
+      storm->header.name[i] = tolower(storm->header.name[i]);
+    }
+
+    if (strcasecmp(storm->header.name, "not named") == 0) {
+      continue;
+    }
+
+    if (storm->header.year != year) {
+      if (year != -1) {
+	printf("\n     )],\n");
+      }
+      printf("     \"%d\" =>\n     [(\n%s", storm->header.year, lead);
+      year = storm->header.year;
+      linelen = strlen(lead);
+    }
+    sprintf(text, "'%s', ", storm->header.name);
+    printf("%s", text);
+    linelen += strlen(text);
+    if (linelen > 65) {
+      printf("\n%s", lead);
+      linelen = strlen(lead);
+    }
+  }
+  if (year != -1) {
+    printf("\n     )],\n");
+  }
+
+  for (s = 0; s < storms->nstorms; s++) {
+    struct storm *storm = storms->storms + s;
+
+    if (strcasecmp(storm->header.name, "not named") != 0) {
+      continue;
+    }
+
+    printf("      [ (\"--year %d --id %d --name \\\"not named\\\", "
+	   "\"%d Atlantic %s %d\") ],\n",
+	   storm->header.year, storm->header.id, storm->header.year,
+	   "storm",
+	   storm->header.id);
+  }
+#endif
+
 #ifdef ACE /* ACE data */
   int s;
 
