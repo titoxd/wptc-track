@@ -13,6 +13,64 @@
   (
    "natlantic" =>
    [(
+     "1970" =>
+     [(
+       #'Alma', 'Becky', 'Celia',
+       #'Dorothy', 'Ella', 'Felice', 'Greta'
+       # 4, 9, and 10 are unnamed
+      )],
+     "1971" =>
+     [(
+       #'Arlene', 'Beth', 'Chloe', 'Doria', 'Edith',
+       #'Fern','Ginger',
+       #'Heidi', 'Irene', 'Janice', 'Kristy', 'Laura'
+       # 2 is unnamed
+      )],
+     "1972" =>
+     [(
+       #'Alpha', 'Agnes',
+       #'Betty', 'Carrie', 'Dawn', 'Charlie', 'Delta'
+      )],
+     "1973" =>
+     [(
+       #'Alice', 'Alfa', 'Brenda', 'Christine', 'Delia',
+       #'Ellen', 'Fran', 'Gilda'
+      )],
+     "1974" =>
+     [(
+       #'Alma', 'Becky', 'Carmen',
+       #'Dolly', 'Elaine', 'Gertrude'
+       # Fifi is under Fifi-Orlene
+       # there are 4 unnamed subtropical storms
+      )],
+     "1975" =>
+     [(
+       #'Amy', 'Blanche', 'Caroline', 'Doris', 'Eloise',
+       #'Faye', 'Gladys', 'Hallie'
+       # plus SS2
+      )],
+     "1976" =>
+     [(
+       #'Anna', 'Belle', 'Candice', 'Dottie', 'Emmy',
+       #'Frances', 'Gloria', 'Holly'
+       # plus SS1, SS3
+      )],
+     "1977" =>
+     [(
+       #'Anita', 'Babe', 'Clara', 'Dorothy', 'Evelyn', 'Frieda'
+      )],
+     "1978" =>
+     [(
+       #'Amelia', 'Bess', 'Cora', 'Debra', 'Ella', 'Flossie',
+       #'Greta', 'Hope', 'Irma', 'Juliet', 'Kendra'
+       # SS1 is below
+      )],
+     "1979" =>
+     [(
+       #'Ana', 'Bob', 'Claudette', 'David',
+       #'Elena', 'Frederic', 'Gloria', 'Henri'
+       # SS1 is below
+      )],
      "1980" =>
      [(
        #'Allen', 'Bonnie', 'Charley', 'Danielle', 'Earl',
@@ -197,14 +255,8 @@
 #   [ (1966, 'Inez') ],
 #   [ (1967, 'Beulah') ],
 #   [ (1969, 'Camille') ],
-#   [ (1970, 'Celia') ],
-#   [ (1972, 'Agnes') ],
-#   [ (1974, 'Carmen') ],
+
 # Fifi is listed under Fifi-Orlene, below.
-#   [ (1975, 'Eloise') ],
-#   [ (1977, 'Anita') ],
-#   [ (1979, 'David') ],
-#   [ (1979, 'Frederic') ],
 
 # Non-retired but notable storms:
 #      [ (1951, 'Charlie') ],
@@ -213,15 +265,12 @@
 #   [ (1966, 'Faith', 1) ],
 #      [ (1968, 'Gladys') ],
 #      [ (1969, 'Francelia') ],
-#   [ (1971, 'Ginger', 1) ],
-#      [ (1976, 'Belle') ],
 
 # Non-retired Category 5 storms:
 #   [ (1950, 'Dog') ],
 #      [ (1951, 'Easy') ],
 #   [ (1958, 'Cleo') ],
 #   [ (1960, 'Ethel') ],
-#   [ (1971, 'Edith') ],
 
      ) ],
   );
@@ -317,7 +366,19 @@
 #      [ ("--year 1952 --id 1", "1952 Groundhog Day tropical storm") ],
 #   [ ("--year 1959 --id 3 --extra 1", "1959 Escuminac hurricane") ],
 
-
+#      [ ("--year 1970 --name \"not named\" --id 4", "1970 Atlantic tropical storm 4") ],
+#      [ ("--year 1970 --name \"not named\" --id 9", "1970 Atlantic hurricane 9") ],
+#      [ ("--year 1970 --name \"not named\" --id 10", "1970 Atlantic hurricane 10") ],
+#      [ ("--year 1971 --name \"not named\" --id 2", "1971 Atlantic hurricane 2") ],
+#      [ ("--year 1974 --name \"subtrop 1\"", "1974 Atlantic subtropical storm 1") ],
+#      [ ("--year 1974 --name \"subtrop 2\"", "1974 Atlantic subtropical storm 2") ],
+#      [ ("--year 1974 --name \"subtrop 3\"", "1974 Atlantic subtropical storm 3") ],
+#      [ ("--year 1974 --name \"subtrop 4\"", "1974 Atlantic subtropical storm 4") ],
+#      [ ("--year 1975 --name \"subtrop 2\"", "1975 Atlantic subtropical storm 2") ],
+#      [ ("--year 1976 --name \"subtrop 1\"", "1976 Atlantic subtropical storm 1") ],
+#      [ ("--year 1976 --name \"subtrop 3\"", "1976 Atlantic subtropical storm 3") ],
+#      [ ("--year 1978 --name \"subtrop 1\"", "1978 Atlantic subtropical storm 1") ],
+#      [ ("--year 1979 --name \"subtrop 1\"", "1979 Atlantic subtropical storm 1") ],
 #      [ ("--year 1981 --id 12", "1981 Atlantic subtropical storm 3") ],
 #      [ ("--year 1982 --id 2", "1982 Atlantic subtropical storm 1") ],
 #      [ ("--year 1984 --id 1", "1984 Atlantic subtropical storm 1") ],
