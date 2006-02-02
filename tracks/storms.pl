@@ -13,6 +13,105 @@
   (
    "natlantic" =>
    [(
+     "1950" =>
+     [(
+       #'Able', 'Baker', 'Charlie', 'Dog', 'Easy', 'Fox',
+       #'George', 'How', 'Item', 'Jig', 'King', 'Love', 
+      )],
+     "1951" =>
+     [(
+       #'Able', 'Baker', 'Charlie', 'Dog', 'Easy',
+       #'Fox', 'George', 'How', 'Item', 'Jig',
+      )],
+     "1952" =>
+     [(
+       #'Able', 'Baker', 'Charlie', 'Dog', 'Easy', 'Fox', 
+      )],
+     "1953" =>
+     [(
+       #'Alice', 'Barbara', 'Carol', 'Dolly', 'Edna', 'Florence', 'Gail', 
+       #'Hazel', 
+      )],
+     "1954" =>
+     [(
+       #'Barbara', 'Carol', 'Dolly', 'Edna',
+       #'Florence', 'Gilda', 'Hazel',
+       # Alice1 and Alice2 are below.
+      )],
+     "1955" =>
+     [(
+       #'Brenda', 'Connie', 'Diane', 'Edith', 'Flora', 'Gladys',
+       #'Hilda', 'Ione', 'Janet', 'Katie',
+      )],
+     "1956" =>
+     [(
+       #'Anna', 'Betsy', 'Carla', 'Dora', 'Ethel', 'Flossy', 'Greta', 
+      )],
+     "1957" =>
+     [(
+       #'Audrey', 'Bertha', 'Carrie',
+       #'Debbie', 'Esther', 'Frieda', 
+      )],
+     "1958" =>
+     [(
+       #'Alma', 'Becky', 'Cleo',
+       #'Daisy', 'Ella', 'Fifi', 'Gerda', 
+       #'Helene', 'Ilsa', 'Janice', 
+      )],
+     "1959" =>
+     [(
+       #'Arlene', 'Beulah', 'Cindy', 'Debra', 'Edith', 'Flora',
+       #'Gracie', 'Hannah', 'Irene', 'Judith', 
+      )],
+     "1960" =>
+     [(
+       #'Abby', 'Brenda', 'Cleo',
+       #'Donna', 'Ethel', 'Florence', 
+      )],
+     "1961" =>
+     [(
+       #'Anna', 'Betsy', 'Carla',
+       #'Debbie', 'Esther', 'Frances', 'Gerda', 'Jenny',
+       # Hattie-Simone-Inga is below
+      )],
+     "1962" =>
+     [(
+       #'Alma', 'Becky', 'Celia', 'Daisy', 'Ella', 
+      )],
+     "1963" =>
+     [(
+       #'Arlene', 'Beulah', 'Cindy', 'Debra', 'Edith',
+       #'Flora', 'Ginny', 'Helena',
+      )],
+     "1964" =>
+     [(
+       #'Abby', 'Brenda', 'Cleo', 'Dora',
+       #'Ethel', 'Florence', 'Gladys', 'Hilda', 'Isbell',
+      )],
+     "1965" =>
+     [(
+       #'Anna', 'Betsy', 'Carol', 'Debbie', 'Elena', 
+      )],
+     "1966" =>
+     [(
+       #'Alma', 'Becky', 'Celia', 'Dorothy', 'Ella',
+       #'Greta', 'Hallie', 'Inez', 'Judith', 'Lois', 
+       # Faith is below
+      )],
+     "1967" =>
+     [(
+       #'Arlene', 'Beulah',
+       #'Chloe', 'Doria', 'Edith', 'Fern', 'Ginger', 'Heidi', 
+      )],
+     "1968" =>
+     [(
+       #'Abby', 'Brenda', 'Candy', 'Dolly', 'Edna', 'Frances', 'Gladys', 
+      )],
+     "1969" =>
+     [(
+       #'Anna', 'Blanche', 'Camille', 'Debbie', 'Eve', 'Francelia', 
+       #'Gerda', 'Holly', 'Inga', 'Jenny', 'Kara', 'Laurie', 'Martha', 
+      )],
      "1970" =>
      [(
        #'Alma', 'Becky', 'Celia',
@@ -234,44 +333,7 @@
     )],
    "natlantic" =>
    [ (
-# Retired storms: (since 1954)
-#   [ (1954, 'Carol') ],
-#   [ (1954, 'Edna') ],
-#    [ (1954, 'Hazel') ],
-#   [ (1955, 'Connie') ],
-#   [ (1955, 'Diane') ],
-#   [ (1955, 'Ione') ],
-#   [ (1955, 'Janet') ],
-#   [ (1957, 'Audrey') ],
-#   [ (1959, 'Gracie') ],
-#   [ (1960, 'Donna') ],
-#   [ (1961, 'Carla') ],
-# Hattie is listed under Hattie-Simone-Inga, below.
-#   [ (1963, 'Flora') ],
-#   [ (1964, 'Cleo') ],
-#   [ (1964, 'Dora') ],
-#   [ (1964, 'Hilda') ],
-#   [ (1965, 'Betsy') ],
-#   [ (1966, 'Inez') ],
-#   [ (1967, 'Beulah') ],
-#   [ (1969, 'Camille') ],
-
-# Fifi is listed under Fifi-Orlene, below.
-
-# Non-retired but notable storms:
-#      [ (1951, 'Charlie') ],
-#      [ (1955, 'Hilda') ],
-#      [ (1957, 'Carrie') ],
 #   [ (1966, 'Faith', 1) ],
-#      [ (1968, 'Gladys') ],
-#      [ (1969, 'Francelia') ],
-
-# Non-retired Category 5 storms:
-#   [ (1950, 'Dog') ],
-#      [ (1951, 'Easy') ],
-#   [ (1958, 'Cleo') ],
-#   [ (1960, 'Ethel') ],
-
      ) ],
   );
 
@@ -363,9 +425,36 @@
 #   [ ("--year 1943 --id 1", "1943 Surprise hurricane") ],
 #   [ ("--year 1944 --wind 120 --extra 0", "1944 Atlantic hurricane") ],
 #   [ ("--year 1947 --wind 140", "1947 Fort Lauderdale hurricane") ],
-#      [ ("--year 1952 --id 1", "1952 Groundhog Day tropical storm") ],
-#   [ ("--year 1959 --id 3 --extra 1", "1959 Escuminac hurricane") ],
 
+#      [ ("--year 1950 --id 12 --name \"not named\"", "1950 Atlantic tropical storm 12") ],
+#      [ ("--year 1952 --id 1 --name \"not named\"", "1952 Groundhog Day tropical storm") ],
+#      [ ("--year 1953 --id 3 --name \"not named\"", "1953 Atlantic tropical storm 3") ],
+#      [ ("--year 1953 --id 7 --name \"not named\"", "1953 Atlantic tropical storm 7") ],
+#      [ ("--year 1953 --id 10 --name \"not named\"", "1953 Atlantic tropical storm 10") ],
+#      [ ("--year 1953 --id 11 --name \"not named\"", "1953 Atlantic tropical storm 11") ],
+#      [ ("--year 1953 --id 13 --name \"not named\"", "1953 Atlantic tropical storm 13") ],
+#      [ ("--year 1953 --id 14 --name \"not named\"", "1953 Atlantic tropical storm 14") ],
+#      [ ("--year 1954 --id 8 --name \"not named\"", "1954 Atlantic hurricane 8") ],
+#      [ ("--year 1954 --id 10 --name \"not named\"", "1954 Atlantic tropical storm 10") ],
+#      [ ("--year 1955 --id 5 --name \"not named\"", "1955 Atlantic tropical storm 5") ],
+#      [ ("--year 1955 --id 11 --name \"not named\"", "1955 Atlantic tropical storm 11") ],
+#      [ ("--year 1956 --id 1 --name \"not named\"", "1956 Atlantic tropical storm 1") ],
+#      [ ("--year 1957 --id 1 --name \"not named\"", "1957 Atlantic tropical storm 1") ],
+#      [ ("--year 1957 --id 8 --name \"not named\"", "1957 Atlantic tropical storm 8") ],
+#      [ ("--year 1959 --id 3 --extra 1 --name \"not named\"", "1959 Escuminac hurricane") ],
+#      [ ("--year 1960 --id 1 --name \"not named\"", "1960 Atlantic tropical storm 1") ],
+#      [ ("--year 1961 --id 6 --name \"not named\"", "1961 Atlantic tropical storm 6") ],
+#      [ ("--year 1963 --id 3 --name \"not named\"", "1963 Atlantic tropical storm 3") ],
+#      [ ("--year 1964 --id 1 --name \"not named\"", "1964 Atlantic tropical storm 1") ],
+#      [ ("--year 1964 --id 2 --name \"not named\"", "1964 Atlantic tropical storm 2") ],
+#      [ ("--year 1964 --id 12 --name \"not named\"", "1964 Atlantic tropical storm 12") ],
+#      [ ("--year 1965 --id 1 --name \"not named\"", "1965 Atlantic tropical storm 1") ],
+#      [ ("--year 1968 --id 6 --name \"subtrop 1\"", "1968 Atlantic subtropical storm 1") ],
+#      [ ("--year 1969 --id 10 --name \"not named\"", "1969 Atlantic hurricane 10") ],
+#      [ ("--year 1969 --id 11 --name \"not named\"", "1969 Atlantic tropical storm 11") ],
+#      [ ("--year 1969 --id 12 --name \"subtrop 1\"", "1969 Atlantic subtropical storm 1") ],
+#      [ ("--year 1969 --id 16 --name \"not named\"", "1969 Atlantic tropical storm 16") ],
+#      [ ("--year 1969 --id 17 --name \"not named\"", "1969 Atlantic hurricane 17") ],
 #      [ ("--year 1970 --name \"not named\" --id 4", "1970 Atlantic tropical storm 4") ],
 #      [ ("--year 1970 --name \"not named\" --id 9", "1970 Atlantic hurricane 9") ],
 #      [ ("--year 1970 --name \"not named\" --id 10", "1970 Atlantic hurricane 10") ],
@@ -389,6 +478,7 @@
 #      [ ("--year 1997 --id 1", "1997 Atlantic subtropical storm 1") ],
 #      [ ("--year 2000 --id 15", "2000 Atlantic subtropical storm 15") ],
 
+#      [ ("--year 1954 --id 1 --name Alice --extra 0", "Alice1 1954", "Hurricane Alice1 (1954)") ],
 #      [ ("--year 1954 --id 11 --name Alice --extra 0", "Alice2 1954", "Hurricane Alice2 (1954)") ],
 
       # Zone-crossers
@@ -493,10 +583,10 @@ sub generate {
 system "rm -rf storms/";
 system "mkdir -p storms";
 
-@basins = keys %namedsimple;
+@basins = sort keys %namedsimple;
 foreach $basin (@basins) {
   my %years = @{ $namedsimple{$basin} };
-  foreach my $year (keys %years) {
+  foreach my $year (sort keys %years) {
     my @names = @{ $years{$year} };
     foreach my $name (@names) {
       my $args = "--input $basin.txt --extra 0 --year $year ${ $default{$basin} }[1]";
@@ -514,7 +604,7 @@ foreach $basin (@basins) {
   }
 }
 
-@basins = keys %named;
+@basins = sort keys %named;
 foreach $basin (@basins) {
   foreach (@{ $named{$basin} }) {
     my ($year, $name, $extra, $type) = @{ $_ };
@@ -538,7 +628,7 @@ foreach $basin (@basins) {
   }
 }
 
-@basins = keys %namedbyid;
+@basins = sort keys %namedbyid;
 foreach $basin (@basins) {
   foreach (@{ $namedbyid{$basin} }) {
     my ($year, $id, $name, $extra, $type) = @{ $_ };
@@ -562,7 +652,7 @@ foreach $basin (@basins) {
   }
 }
 
-@basins = keys %unnamed;
+@basins = sort keys %unnamed;
 foreach $basin (@basins) {
   foreach (@{ $unnamed{$basin} }) {
     my ($args, $name, $name2) = @{ $_ };
