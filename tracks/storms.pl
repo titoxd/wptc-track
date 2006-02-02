@@ -302,6 +302,14 @@
 #       'Jeanne', 'Karl', 'Lisa', 'Matthew', 'Nicole', 'Otto'
       )],
     )],
+
+   "epac" =>
+   [(
+     "1976" =>
+     [(
+       #'Kathleen', 'Liza'
+      )],
+    )],
   );
 
 # Format: year, name, extra, type
@@ -410,6 +418,7 @@
 #   [ ("--year 1886 --id 5", "1886 Indianola hurricane") ],
 #   [ ("--year 1893 --id 6 --extra 0", "1893 Sea Islands hurricane") ],
 #      [ ("--year 1893 --id 10 --extra 0", "1893 Chenier Caminanda hurricane") ],
+#      [ ("--year 1898 --id 4 --name \"Not named\"", "1898 Windward Islands hurricane") ],
 #   [ ("--year 1899 --id 3", "1899 San Ciriaco hurricane") ],
 #   [ ("--year 1900 --id 1 --extra 0", "1900 Galveston hurricane") ],
 #      [ ("--year 1915 --id 5", "1915 Louisiana hurricane") ],
