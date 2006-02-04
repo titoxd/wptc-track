@@ -70,9 +70,9 @@
       )],
      "1961" =>
      [(
-       #'Anna', 'Betsy', 'Carla',
-       #'Debbie', 'Esther', 'Frances', 'Gerda', 'Jenny',
-       # Hattie-Simone-Inga is below
+       #'Anna', 'Betsy', 'Carla', 'Debbie', 'Esther', 'Frances',
+       #'Gerda', 'Hattie', 'Jenny', 'Inga'
+       # Hattie-Simone-Inga is also below
       )],
      "1962" =>
      [(
@@ -309,6 +309,53 @@
      [(
        #'Kathleen', 'Liza'
       )],
+     "1997" =>
+     [(
+       #'Andres', 'Blanca', 'Carlos', 'Dolores', 'Enrique', 'Felicia',
+       #'Guillermo', 'Hilda', 'Ignacio', 'Jimena', 'Oliwa', 'Kevin',
+       #'Linda', 'Marty', 'Nora', 'Olaf', 'Pauline', 'Rick', 'Paka',
+      )],
+
+     "1998" =>
+     [(
+       #'Agatha', 'Blas', 'Celia', 'Darby', 'Estelle', 'Frank', 'Georgette',
+       #'Howard', 'Isis', 'Javier', 'Kay', 'Lester', 'Madeline',
+      )],
+     "1999" =>
+     [(
+       #'Adrian', 'Beatriz', 'Calvin', 'Dora', 'Eugene', 'Fernanda',
+       #'Greg', 'Hilary', 'Irwin',
+      )],
+     "2000" =>
+     [(
+       #'Aletta', 'Bud', 'Carlotta', 'Upana', 'Daniel', 'Emilia', 'Fabio',
+       #'Gilma', 'Hector', 'Ileana', 'Wene', 'John', 'Kristy', 'Lane',
+       #'Miriam', 'Norman', 'Olivia', 'Paul', 'Rosa',
+      )],
+     "2001" =>
+     [(
+       #'Adolph', 'Barbara', 'Cosme', 'Erick', 'Dalila', 'Flossie',
+       #'Gil', 'Henriette', 'Ivo', 'Juliette',
+       #'Kiko', 'Lorena', 'Manuel',
+       #'Narda', 'Octave',
+      )],
+     "2002" =>
+     [(
+       #'Alma', 'Boris', 'Cristina', 'Douglas', 'Elida', 'Fausto',
+       #'Alika', 'Ele', 'Genevieve', 'Hernan', 'Iselle', 'Julio', 'Kenna',
+       #'Lowell', 'Huko',
+      )],
+     "2003" =>
+     [(
+       #'Andres', 'Blanca', 'Carlos', 'Dolores', 'Enrique', 'Felicia',
+       #'Guillermo', 'Hilda', 'Ignacio', 'Jimena', 'Kevin', 'Linda',
+       #'Marty', 'Nora', 'Olaf', 'Patricia',
+      )],
+     "2004" =>
+     [(
+       #'Agatha', 'Blas', 'Celia', 'Darby', 'Estelle', 'Frank', 'Georgette',
+       #'Howard', 'Isis', 'Javier', 'Kay', 'Lester',
+      )],
     )],
   );
 
@@ -326,17 +373,11 @@
 #     [ (1991, 'Fefa') ],
 #     [ (1992, 'Iniki') ],
 #     [ (1995, 'Ismael') ],
-#     [ (1997, 'Pauline') ],
-#     [ (2002, 'Kenna') ],
 
 # Non-retired but notable:
 #     [ (1982, 'Paul') ],
 #     [ (1993, 'Calvin') ],
 #     [ (1994, 'John') ],
-#     [ (1997, 'Linda') ],
-#     [ (1997, 'Nora') ]
-#     [ (1997, 'Paka') ],
-#     [ (2001, 'Juliette') ],
 
     )],
    "natlantic" =>
