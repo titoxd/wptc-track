@@ -1,0 +1,2315 @@
+Tropical Cyclone Report
+Hurricane Cindy
+3 – 7 July 2005
+
+Stacy R. Stewart
+National Hurricane Center
+24 January 2006
+
+
+	Cindy was a relatively short-lived tropical cyclone. A post-storm reanalysis indicates Cindy was a category 1 hurricane just offshore and while making landfall along the southeastern coast of Louisiana. The hurricane produced heavy rainfall across coastal areas of southeastern Louisiana, Mississippi, and Alabama, and caused minor wind damage in the New Orleans metropolitan area. Cindy was also the first of five named tropical cyclones that developed during an unusually active month of July. The post-storm reanalysis upgrade of Cindy to hurricane status means 15 Atlantic basin hurricanes occurred in 2005, a new record for a year.
+
+
+
+
+	Synoptic History
+
+The tropical wave that eventually developed into Cindy moved westward off the coast of Africa on 24 June. The wave moved quickly westward for the next three days and produced little convection. However, by 28 June, deep convection developed along the northern portion of the wave axis when it was located just east of the Lesser Antilles. The southern portion of the wave broke away and continued westward, while the northern portion containing the active convection moved west-northwestward across the northern Caribbean Sea. On 3 July, thunderstorm activity had become more concentrated over the northwestern Caribbean Sea and satellite classifications were initiated. Nearby surface and buoy observations revealed a broad low pressure area had developed and, later that day, reports from a United States Air Force Reserve Unit reconnaissance aircraft indicated a tropical depression had formed at 1800 UTC about 70 n mi east of Chetumal, Mexico. The “best track” chart of the tropical cyclone’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  Best track positions and intensities are listed in Table 1.
+	
+	The depression continued on a slow west-northwestward track along the southern periphery of a deep-layer subtropical ridge and moved across the east coast of the Yucatan peninsula about 55 n mi north-northeast of Chetumal early on 4 July. After moving inland, the cyclone turned northwestward and exited the northern coast of Yucatan just east of Merida at around 1500 UTC 4 July. As a mid-level trough over the central United States dropped southward into the southern Plains and the northwestern Gulf of Mexico, the depression accelerated and became a tropical storm at 0600 UTC 5 July over the central Gulf of Mexico while moving northwestward at 15-17 kt. Cindy gradually turned northward and its forward speed slowly decreased. Unfavorable southerly vertical shear decreased slightly. Cindy steadily strengthened and became a hurricane at 0000 UTC 6 July about 40 n mi south-southwest of Grand Isle, Louisiana, in Plaquemines Parish. It maintained hurricane status a little after making its first U.S. landfall just southwest of Grand Isle at 0300 UTC that day. 
+
+After moving inland over extreme southeastern Louisiana, Cindy turned northeastward and weakened to a tropical storm by the time it made its second U.S. landfall at 0900 UTC 6 July southwest of Waveland, Mississippi near Ansley. Cindy continued on a northeastward track, skirting along the Mississippi coast, and passed directly over Waveland around 0954 UTC, as indicated by surface observations from NOAA National Ocean Survey surface observing equipment located there. The cyclone quickly weakened to a tropical depression by 1200 UTC over southern Mississippi and continued in a northeastward direction across southwestern and central Alabama to northern Georgia, where it merged with a stationary frontal system and became an extratropical low. The system then moved northeastward along the eastern slopes of the Appalachian Mountains of western North Carolina and western Virginia, and emerged off the mid-Atlantic coast of United States the afternoon of 8 July. During its trek across the southeastern and eastern States, the extratropical low produced heavy rainfall and localized floods in many areas of eastern Tennessee, western North Carolina, and Virginia. After emerging over the warm waters of the Gulfstream Current, the extratropical low turned northeastward and then northward, and strengthened into a near-gale center just east of Cape Cod, Massachusetts on 9 July before moving inland along the southwestern coast of Maine. The extratropical low weakened and moved northeastward across northern Maine and New Brunswick Province, Canada on 10 July, and then moved eastward and dissipated over the Gulf of St. Lawrence on 11 July.
+
+	Meteorological Statistics
+
+	Observations in Hurricane Cindy (Figs. 2 and 3) include satellite-based Dvorak technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB), the Satellite Analysis Branch (SAB), and the U. S. Air Force Weather Agency (AFWA), as well as flight-level and dropwindsonde observations from flights of the 53rd Weather Reconnaissance Squadron of the U. S. Air Force Reserve Command and the National Oceanic and Atmospheric Administration’s (NOAA) Aircraft Operations Center (AOC). Microwave satellite imagery from NOAA polar-orbiting satellites, the NASA Tropical Rainfall Measuring Mission (TRMM), the NASA QuikSCAT, and Defense Meteorological Satellite Program (DMSP) satellites were also useful in tracking Cindy.
+
+Stepped-Frequency Microwave Radiometer (SFMR) data obtained from the NOAA WP-3D aircraft on 5 July at 1821 UTC showed a small patch of 63-66 kt winds about 13 n mi east of the center. However, a post-storm analysis that included a calibration adjustment performed by the NOAA Hurricane Research Division indicates the maximum SFMR observed winds were actually 59 kt. 
+
+
+Cindy was operationally assessed to be a tropical storm with 60 kt winds when its center crossed the coast of Plaquemines Parish in extreme southeastern Louisiana early on 6 July. No reconnaissance data were available in the last few hours leading up to landfall. A detailed post-storm analysis of Doppler velocity data from the NOAA National Weather Service (NWS) Slidell, Louisiana WSR-88D Doppler radar (KLIX), however, indicates Cindy was slightly (5 kt) and briefly stronger – a hurricane with 65-kt winds. The radar indicated a narrow but relatively lengthy swath of spotty Doppler velocities of at least 71 kt aloft in the eastern  semicircle of Cindy’s circulation (Fig. 5 and 6). These winds were detected as early as 2330 UTC 5 July at a distance of at least 120 n mi south of the radar site and continued to just inland of the southeastern Louisiana coast a few hours later. The swath of wind speeds depicted should not be construed as being continuous in both time and space. Instead, the wind swath depicts a region of Doppler velocities that, when applying a standard 0.90 adjustment factor, yields an approximate region of 64-kt or greater equivalent surface wind speeds (this is the same approach used to convert reconnaissance aircraft flight-level winds to surface winds) at any time during the time range from 0000 UTC to at least 0220 UTC on 6 July. The extent of the >71 kt Doppler velocities continued to extend well inland, but at gradually decreasing altitudes below 6500 ft ASL, which would require an adjustment factor smaller than 0.90, so those values were not used to establish the wind swath. However, Doppler velocity conversions (not shown) on the west side of the Cindy’s center indicated an equivalent surface wind of 60 kt along the coast near Grand Isle, Louisiana prior to hurricane’s landfall. The LSU-WAVECIS (SPLL1) observing equipment located on an oil platform located just south of that area reported a sustained wind of 67 kt at 133 ft  (40.4 m) ASL at 0100 UTC 6 July. Using a standard reduction factor of 0.90 yields an approximate surface wind speed of 60 kt, which compares well with the Doppler radar surface wind speed estimate of 60 kt for that area.
+
+Ship reports of winds of tropical storm-force associated with Hurricane Cindy are given in Table 2, and selected surface observations from land stations and data buoys are given in Table 3. No land-based observations support hurricane-force surface winds, but this area of coastal marshland was not particularly well-sampled by anemometers, which is typically the case with landfalling tropical cyclones. However, tropical storm-force winds occurred continuously at New Orleans Lakefront Airport (KNEW) for 5.5 h from 0400-0930 UTC 6 July. Most ships remained well away from Cindy’s strongest winds located in the core region of the cyclone. However, the moveable semi-submersible oil rig Deepwater Horizon (call sign V7HC9) located 37 n mi east of the center reported a southeast wind of 60 kt at 1700 UTC 5 July. Observing heights on oil drilling platforms are typically between 150-300 ft ASL, so the 60-kt wind may not be representative of actual surface wind conditions. In addition, fixed oil platform South Timbalier (ST-308), located 39 n mi north of Cindy’s center, reported a northwesterly wind gust of 87 kt at around 1800 UTC 5 July. 
+
+Cindy generated a storm surge of 4-6 ft above normal tide levels along the coasts of southeastern Louisiana and Mississippi, including Lake Borgne and the south shore of Lake Pontchartrain. Storm surge values of 3-4 ft were reported along the Alabama coast, while a storm surge of 2-3 feet occurred as far west as southwestern Louisiana and as far east as the western Florida panhandle.
+
+Rainfall totals generally ranged from 4-6 in across southeastern Louisiana, southern Mississippi, and southern Alabama. However, isolated higher totals were observed in the 7-9 in range in a few areas where radar data indicated the ‘training’ of echoes had occurred for about 2 h. The heavy rains triggered flooding across portions of Louisiana, Mississippi, Alabama, and Georgia. Significant rainfall amounts also occurred during the extratropical stage from the Carolinas northward to the mid-Atlantic States. Virginia was especially hard hit where more than 5 in of rain fell across a large portion of the Appalachian Mountain region, which caused localized flooding.
+
+In the United States, a total of 33 tornadoes occurred over the 3-day period from 5-7 July, including 8 in North Carolina, 7 in both Alabama and Virginia, 6 in Georgia, 2 in Mississippi, and 1 each in both Louisiana, South Carolina, and Maryland. The bulk of the tornadoes formed on 6-7 July, after Cindy had moved well inland, which is not uncommon with landfalling tropical cyclones. While the vast majority of the tornadoes were the usual small, short-lived F0-F1 variety, there was one very damaging F2 tornado reported near Hampton, Georgia on 6 July. 
+
+	Casualty and Damage Statistics
+
+In the New Orleans metropolitan area and across much of southeastern Louisiana, considerable wind damage occurred to trees and other foliage, and also to power lines. Public utilities were disrupted and an estimated 278,000 customers lost electrical power at some point during the storm event. Storm surge flooding and overwash caused some beach erosion at Grand Isle, Louisiana. In Alabama, the west end of Dauphin Island and the causeway had to be closed for several hours on 6 July due to storm surge flooding.
+
+Although the tornadoes that occurred were relatively weak, they still produced considerable damage to roofs, mobile homes, and even well constructed commercial and industrial buildings. The F2 tornado that occurred on 6 July near Hampton, Georgia caused more than $40 million in damage to facilities at the Atlanta Motor Speedway. No deaths were reported with any of the tornadoes. One injury resulted in Elmore, Alabama when an auto body shop was struck and damaged by an F0 tornado during the afternoon of 6 July.
+
+One fatality was directly associated with Cindy. An 18-year old male was swept to his death in a flooded drainage ditch near the Tinsley Mills Apartments in Peachtree City, Georgia on 6 July.
+
+The American Insurance Services Group estimates the insured property losses in the United States at $160 million.  Therefore, total damage in the United States is estimated to be $320 million. 
+
+	Forecast and Warning Critique
+
+Since Cindy was a short-lived tropical cyclone, there are few forecasts to verify. Average official (OFCL) track errors (with the number of cases in parentheses) for Hurricane Cindy were 45 (12), 83 (11), 150 (9), 235 (7), and 450 n mi for the 12, 24, 36, 48, and 72 h forecasts, respectively.  Except at 72 h, these errors are comparable to the average official track errors for the 10-yr period 1995-2004  [42, 75, 107, 138, 202, 236, and n mi, respectively, (Table 4)]. 
+
+The largest track errors occurred for forecasts made early in Cindy’s lifetime when the center and the steering currents were poorly defined. In fact, many of the global-scale computer models either did not forecast the cyclone to intensify or their forecasts quickly dissipated the system, even after they had been properly initialized with a small circulation. This can be seen by the few number of model forecasts in Table 4 that were verified. Nearly all of those model forecasts came after 1200 UTC 4 July, when the center of Cindy emerged off the Yucatan coast and over the southern Gulf of Mexico. The OFCL track forecasts made while Cindy was over the Gulf were much better (26, 38, 95, and 179 n mi average errors at 12, 24, 36, and 48 h, respectively). These forecasts tracks also targeted the southeastern Louisiana and southwestern Mississippi coastal areas as the expected landfall area.
+
+	Average official intensity errors were 7, 8, 8, 15, and 28 kt for the 12, 24, 36, 48, and 72 h forecasts, respectively.  For comparison, the average official intensity errors over the 10-yr period 1995-2004 are 6, 10, 12, 15, and 18 kt, respectively. The intensity forecasts were better than average through 36 h as a result of the slower than average intensification forecasts. However, larger than average errors at 72 h were due to underforecasts of the intensity.
+
+	Table 5 gives the watches and warnings associated with Cindy. Since Cindy was not forecast to reach hurricane strength, no hurricane watches or warnings were issued.
+
+Acknowledgements:
+
+	Much of the data for this report was supplied by the NOAA National Weather Service Forecast Offices (WFOs) in Slidell and Lake Charles, LA, Mobile, AL, and Tallahassee, FL, as well as the Louisiana State University’s LUMCON program.  NOAA buoy and C-MAN data were provided by the National Data Buoy Center.  NOS data were provided by the NOAA National Ocean Service.  Remote Automated Weather Stations (RAWS) data were provided by the National Interagency Fire Center. Supplementary rainfall data and portions of the extratropical low track were provided by the NOAA Hydrometeorological Prediction Center (HPC), Washington, D.C. Tornado statistics were obtained from the NOAA Storm Prediction Center, Norman, OK.
+
+
+
+
+
+
+
+
+
+Table 1.	Best track for Hurricane Cindy, 3-7 July 2005.
+
+Date/Time
+(UTC)
+
+Latitude
+(oN)
+
+Longitude
+(oW)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+03 / 1800
+18.3
+86.7
+1009
+30
+tropical depression
+04 / 0000
+18.6
+87.2
+1007
+30
+"
+04 / 0600
+19.3
+87.9
+1007
+30
+"
+04 / 1200
+20.9
+88.5
+1011
+25
+"
+04 / 1800
+22.3
+89.0
+1010
+30
+"
+05 / 0000
+23.9
+89.7
+1009
+30
+"
+05 / 0600
+25.1
+90.2
+1009
+35
+tropical storm
+05 / 1200
+26.4
+90.4
+1002
+45
+"
+05 / 1800
+27.6
+90.5
+997
+60
+"
+06 / 0000
+28.5
+90.3
+992
+65
+hurricane
+06 / 0600
+29.6
+90.0
+994
+50
+tropical storm
+06 / 1200
+30.8
+88.9
+998
+30
+tropical depression
+06 / 1800
+31.6
+88.1
+1000
+30
+"
+07 / 0000
+32.4
+87.2
+1004
+25
+"
+07 / 0600
+33.2
+86.2
+1008
+20
+"
+07 / 1200
+34.6
+84.1
+1009
+20
+extratropical
+07 / 1800
+35.6
+81.8
+1010
+20
+"
+08 / 0000
+37.1
+80.0
+1010
+20
+"
+08 / 0600
+37.8
+78.3
+1010
+20
+"
+08 / 1200
+38.4
+76.7
+1009
+25
+"
+08 / 1800
+39.1
+74.8
+1009
+25
+"
+09 / 0000
+39.5
+72.0
+1009
+25
+"
+09 / 0600
+40.8
+70.7
+1009
+25
+"
+09 / 1200
+41.6
+69.8
+1007
+30
+"
+09 / 1800
+43.5
+69.6
+1006
+30
+"
+10 / 0000
+44.9
+69.8
+1006
+30
+"
+10 / 0600
+45.5
+70.0
+1006
+30
+"
+10 / 1200
+46.5
+67.6
+1006
+25
+"
+10 / 1800
+48.0
+66.4
+1006
+20
+"
+11 / 0000
+48.5
+64.5
+1006
+20
+"
+11 / 0600
+48.5
+62.5
+1006
+20
+"
+11 / 1200
+
+
+
+
+dissipated
+04 / 0330
+19.0
+87.6
+1007
+30
+Yucatan landfall
+19 n mi north-northeast of Majahual, Mexico
+06 / 0300
+29.2
+90.1
+991
+65
+1st U.S. landfall 
+8 n mi southwest of
+Grand Isle, Louisiana
+06 / 0900
+30.2
+89.5
+995
+45
+2nd U.S. landfall 
+3 n mi southeast of
+Ansley, Mississippi
+06 / 0300
+29.2
+90.1
+991
+65
+minimum pressure
+   
+Table 2.    Selected ship and buoy reports with winds of at least 34 kt for Hurricane Cindy, 3-7 July 2005.
+
+Date/Time (UTC)
+
+Ship call sign
+
+
+Latitude
+(oN)
+
+Longitude
+(oW)
+
+Wind
+dir/speed (kt)
+
+Pressure 
+(mb)
+05 / 0900
+ELXL3
+28.6
+90.0
+120 /  35
+1015.0
+05 / 1000
+WGXN
+24.9
+88.2
+140 /  40
+1012.0
+05 / 1100
+V7HD3
+28.2
+88.5
+150 /  35
+1008.0
+05 / 1500
+KRHX
+26.8
+89.5
+170 /  37
+1010.0
+05 / 1500
+V7HC9
+27.5
+89.8
+100 /  50
+1010.2
+05 / 1700
+V7HC9
+27.6
+89.8
+130 /  60
+1011.5
+05 / 1800
+V2AW5
+26.0
+87.8
+040 /  41
+1017.0
+05 / 1900
+V7HC9
+27.5
+89.8
+150 /  46
+1007.7
+06 / 0000
+V7HD2
+27.7
+87.9
+150 /  37
+1016.0
+06 / 0100
+KSYP
+28.5
+89.1
+140 /  50
+1006.5
+06 / 0600
+V7HD2
+27.7
+87.9
+170 /  37
+1019.0
+06 / 0930
+NOAABuoy 42067
+30.0
+88.6
+170 /  43 G 49
+
+06 / 0940
+Buoy 42007
+30.1
+88.8
+170 /  42 G 55
+
+06 / 0950
+42007
+30.1
+88.8
+170 /  43
+996.2
+06 / 1030
+42067
+30.0
+88.6
+190 /  43 G 51
+
+06 / 1040
+42007
+30.1
+88.8
+185 /  42 G 54
+
+06 / 1050
+42007
+30.1
+88.8
+190 /  39
+996.2
+06 / 1130
+42067
+30.0
+88.6
+210 /  39 G 50
+
+G  indicates peak gust
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 3.    Selected surface observations for Hurricane Cindy, 3-7 July 2005.
+Location
+Minimum Sea Level Pressure
+Maximum Surface
+Wind Speed
+Storm surge
+(ft)c
+Storm
+tide
+(ft)d
+Total
+rain
+(in)
+
+Date/
+time
+(UTC)
+Press.
+(mb)
+Date/
+time
+(UTC)a
+Sustained
+(kt)b
+Gust
+(kt)
+
+
+
+C-MAN stations, shore-based towers, and fixed oil drilling platforms
+
+
+
+
+
+
+
+
+ST-308 (28.2oN 90.2oW)
+Oil platform / 150 ft ASL
+ 05 / 1400
+1002.0
+05 / 1400
+117 / 42
+59
+
+
+
+ST-308 
+ 05 / 1735
+994.0
+05 / 1735
+225 / 52
+80
+
+
+
+ST-308 
+ 05 / 1800
+994.0
+05 / 1800
+349 / 52
+87
+
+
+
+SPLL1 (28.9oN 90.5oW)
+LSU-WAVECIS on
+Oil platform / 133 ft ASL
+ 05 / 2200
+1009.8
+05 / 2200
+050 /  42
+
+
+
+
+ILDL1 (29.0oN 90.5oW)
+CSI-LSU tower / 63 ft ASL
+05 / 2200
+1009.4
+05 / 2200
+070 /  37
+
+
+
+
+SPLL1
+05 / 2300
+1006.5
+05 / 2300
+060 /  53
+
+
+
+
+BURL1 (29.0oN 90.5oW)
+C-MAN / 100 ft ASL
+05 / 2300
+1009.2
+05 / 2300
+110 /  42
+
+
+
+
+GDIL1 (29.3oN 90.0oW)
+C-MAN / 52 ft ASL
+06 / 0000
+1008.6
+06 / 0000
+050 /  37
+
+
+
+
+ILDL1
+06 / 0000 
+1004.0
+06 / 0000
+050 /  43
+55
+
+
+
+SPLL1
+06 / 0000
+1002.6
+06 / 0000
+040 /  53
+
+
+
+
+BURL1
+06 / 0100
+1005.5
+06 / 0100
+140 /  45
+
+
+
+
+GDIL1
+06 / 0100
+1006.2
+06 / 0100
+050 /  38
+
+
+
+
+ILDL1
+06 / 0100
+1000.3
+06 / 0100
+040 /  51
+61
+
+
+
+SPLL1
+06 / 0100
+999.5
+06 / 0100
+020 /  67
+75
+
+
+
+TAML1(29.2oN 90.7oW)
+LUMCON tower / 33 ft ASL
+06 / 0100
+1004.7
+06 / 0100
+050 /  36
+
+
+
+
+BURL1
+06 / 0200
+1005.1
+06 / 0200
+160 /  36
+
+
+
+
+ILDL1
+06 / 0200
+1000.3
+06 / 0200
+030 /  48
+58
+
+
+
+SPLL1
+06 / 0200
+1000.1
+06 / 0200
+020 /  62
+
+
+
+
+BURL1
+06 / 0300
+1004.3
+06 / 0300
+170 /  48
+
+
+
+
+ILDL1
+06 / 0300
+1000.5
+06 / 0300
+010 /  53
+65
+
+
+
+BURL1
+06 / 0400
+1004.0
+06 / 0400
+190 /  54
+
+
+
+
+ILDL1
+06 / 0400
+1000.6
+06 / 0400
+360 /  50
+61
+
+
+
+TAML1
+06 / 0400
+1002.1
+06 / 0400
+030 /  38
+
+
+
+
+BURL1
+06 / 0500
+1004.4
+06 / 0500
+200 /  48
+
+
+
+
+ILDL1
+06 / 0500
+1002.4
+06 / 0400
+360 /  46
+58
+
+
+
+BURL1
+06 / 0600
+1003.6
+06 / 0600
+200 /  53
+
+
+
+
+SIPM6 (30.3oN 89.0oW) CSI-LSU tower / 36 ft ASL
+
+
+06 / 0600
+080 /  37
+
+
+
+
+DPIA1 (30.2oN 88.1oW) 
+C-MAN / 44 ft ASL
+06 / 0605
+1010.9
+06 / 0605
+100 /  37
+
+
+
+
+BURL1
+06 / 0700
+1004.8
+06 / 0700
+230 /  50
+
+
+
+
+ELXL3 (28.6oN 89.9oW)
+Oil platform / 150 ft ASL
+ 06 / 0700
+1009.0
+  06 / 0700
+250 /  48
+
+
+
+
+GDIL1
+06 / 0600
+997.3
+06 / 0700
+300 /  40
+
+
+
+
+SIPM6 
+
+
+06 / 0700
+070 /  36
+
+
+
+
+DPIA1
+06 / 0805
+1005.8
+06 / 0805
+120 /  44
+
+
+
+
+DPIA1
+06 / 0905
+1006.6
+06 / 0905
+150 /  48
+64
+
+
+
+DPIA1
+06 / 1005
+1005.9
+06 / 1005
+120 /  38
+
+
+
+
+DPIA1
+06 / 1105
+1005.5
+06 / 1005
+170 /  38
+
+
+
+
+SIPM6 
+
+
+06 / 1200
+290 /  35
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alabama
+
+
+
+
+
+
+
+
+Bayou La Batre
+
+
+
+
+
+
+6.5
+
+Coden CoOP
+
+
+
+
+
+
+
+6.40
+Dauphin Island – AWS USCG
+
+
+06 / 1000
+
+59
+
+
+
+Deer Park
+
+
+
+
+
+
+
+5.00
+Fort Morgan
+
+
+
+
+
+
+7.1
+
+Grand Bay AWIS
+
+
+06 / 1151
+
+40
+
+
+
+Gulfcrest
+
+
+
+
+
+
+
+6.00
+Loxley – AWS
+
+
+06 / 0945
+
+36
+
+
+
+Mobile Aprt (KMOB)
+06 / 1251
+1003.0
+06 / 1217
+150 / 36
+43
+
+
+6.34
+Mobile Brookley Field (KBFM)
+06 / 0834
+1005.0
+06 / 1556
+230 / 25
+35
+
+
+
+Mobile 1N
+
+
+06 / 1236
+
+39
+
+
+
+Mobile 3S
+
+
+
+
+
+
+
+7.24
+Mobile – Middle Bay
+
+
+
+
+
+
+4.2
+
+Mobile State Docks
+
+
+
+
+
+
+5.3
+
+Semmes AWIS
+06 / 1130
+1003.6
+06 / 1213
+
+36
+
+
+5.60
+St. Elmo
+
+
+
+
+
+
+
+9.06
+
+
+
+
+
+
+
+
+
+Florida
+
+
+
+
+
+
+
+
+Destin Arpt (KDTS)
+
+
+06 / 0529
+
+34
+
+
+
+Eglin AFB (KVPS)
+
+
+06 / 1523
+
+38
+
+
+
+Gulf Breeze
+
+
+06 / 1258
+
+39
+
+
+
+Hurlburt AFB (KHRT)
+
+
+06 / 1635
+
+36
+
+
+
+Pensacola Arpt (KPNS)
+
+
+06 / 1248
+160 / 31
+41
+
+
+
+Pensacola NAS (KNPA)
+
+
+06 / 1109
+150 / 29
+44
+
+
+
+Pensacola  WEAR-TV
+
+
+06 / 1149
+
+37
+
+
+
+Pensacola W. Fla. H.S.
+
+
+06 / 1145
+
+47
+
+
+
+Perdido Pass
+
+
+
+
+
+
+2.6
+
+Shalimar
+
+
+06 / 1431
+
+34
+
+
+
+
+
+
+
+
+
+
+
+
+Georgia
+
+
+
+
+
+
+
+
+Atlanta-Hartsfield IAP (KATL)
+
+
+
+
+
+
+
+5.24
+Jefferson
+
+
+
+
+
+
+
+5.63
+Lithonia
+
+
+
+
+
+
+
+6.38
+Newman
+
+
+
+
+
+
+
+5.75
+Peachtree City
+
+
+
+
+
+
+
+5.20
+
+
+
+
+
+
+
+
+
+Louisiana
+
+
+
+
+
+
+
+
+Algiers
+
+
+
+
+
+
+
+4.99
+Boothville (KBVE)
+06 / 0414
+1004.6
+ 06 / 0426 e
+150 / 25
+38
+
+
+
+Calcasieu (NOAA)
+
+
+
+
+
+2.5
+
+
+Cocodrie (LUMCON)
+06 / 0342
+1001.5
+06 / 0223
+030 / 38
+51
+
+
+
+Galliano
+
+
+
+
+
+
+
+7.56
+Grand Isle
+
+
+
+
+
+2.8
+
+6.37
+Gretna Terrytown
+
+
+
+
+
+
+
+6.75
+Lake Borgne – 
+Bayou Bienvenue
+
+
+
+
+
+5.1
+
+
+Lake Borgne – 
+Bayou Dupre
+
+
+
+
+
+5.5
+
+
+Lake Pontchartrain (NWS) – Mid Lake
+
+
+06 / 0410
+072 / 45
+51
+2.5
+
+
+Lake Pontchartrain  - 
+Industrial Canal
+
+
+
+
+
+4.2
+
+
+Lake Pontchartrain – 
+South Shore Harbor
+
+
+
+
+
+3.0
+
+
+Lake Pontchartrain (NWS) – Mandeville
+
+
+06 / 0910
+062 / 27
+36
+
+
+3.60
+Marsh Island (LSU)
+
+
+
+
+
+2.7
+
+
+New Orleans Lakefront Airport (KNEW)
+06 / 0805
+1002.4
+ 06 / 0800
+  030 / 47
+61
+
+
+2.95
+New Orleans IAP (KMSY)
+06 / 0730
+1004.1
+ 06 / 0629
+  040 / 40
+48
+
+
+1.67
+Port Fourchon
+
+
+
+
+
+2.0
+
+
+Rigoletes – Corps of Engineers  (CoE)
+
+
+
+
+
+4.7
+
+
+Slidell (KASD)
+06 / 0920
+1003.0
+06 / 0629
+010 / 29
+38
+
+
+3.42
+Slidell City
+
+
+
+
+
+
+
+6.29
+SW Pass Miss. River (NOAA)
+
+
+
+
+
+2.0
+
+
+Tambour Bay (LUMCON)
+06 / 0410
+1001.2
+06 / 0331
+038 / 45
+59
+
+
+
+
+
+
+
+
+
+
+
+
+Mississippi
+
+
+
+
+
+
+
+
+Biloxi Harbor
+
+
+
+
+
+5.0
+
+
+D’Iberville 2N
+
+
+
+
+
+
+
+5.50
+Gulfport (KGPT)
+06 / 1041
+  995.3
+06 / 0923
+360 / 33
+42
+
+
+6.46
+Gulfport Brentwood
+
+
+
+
+
+
+
+5.85
+Gulfport 7W
+
+
+
+
+
+
+
+4.00
+Gulfport CoE
+
+
+
+
+
+5.5
+
+
+Howell
+
+
+
+
+
+
+
+5.70
+Keesler AFB, Biloxi, MS (KBIX)
+06/1050
+995.3
+06/0959
+
+41
+
+
+3.65
+Ocean Springs
+
+
+
+
+
+6.2
+
+
+Pascagoula Arpt (KPGL)
+06 / 1159
+1000.3
+06 / 1025
+140 / 40
+48
+
+
+6.61
+Pascagoula CoE
+
+
+
+
+
+5.8
+
+
+Pascagoula – Lott IAP (KPQL)
+
+
+
+
+
+
+
+7.12
+Pascagoula Pt.
+
+
+
+
+
+5.8
+
+
+Picayune
+
+
+
+
+
+
+
+4.50
+Point Cadet CoE
+
+
+
+
+
+5.9
+6.5
+
+Stennis IAP (KHSA)
+
+
+
+
+
+
+
+7.05
+Van Cleave
+
+
+
+
+
+
+
+6.03
+Waveland
+06/0954
+999.9
+06/0542
+37
+44
+4.0
+
+7.24
+
+
+
+
+
+
+
+
+
+New Jersey
+
+
+
+
+
+
+
+
+Point Pleasant
+
+
+
+
+
+
+
+2.68
+
+
+
+
+
+
+
+
+
+New York
+
+
+
+
+
+
+
+
+Oxford
+
+
+
+
+
+
+
+1.99
+
+
+
+
+
+
+
+
+
+North Carolina
+
+
+
+
+
+
+
+
+Hickory
+
+
+
+
+
+
+
+3.96
+Pleasant Gardens
+
+
+
+
+
+
+
+3.20
+
+
+
+
+
+
+
+
+
+Pennsylvania
+
+
+
+
+
+
+
+
+Columbia
+
+
+
+
+
+
+
+4.18
+Keffers
+
+
+
+
+
+
+
+4.81
+Schuylkill
+
+
+
+
+
+
+
+3.97
+Winfield TWP
+
+
+
+
+
+
+
+3.75
+
+
+
+
+
+
+
+
+
+South Carolina
+
+
+
+
+
+
+
+
+Greenville – Reedy River
+
+
+
+
+
+
+
+4.64
+Greenville-Spartanburg Arpt (KGSP)
+
+
+
+
+
+
+
+4.61
+Liberty
+
+
+
+
+
+
+
+3.57
+Lyman
+
+
+
+
+
+
+
+3.93
+Oconee County Arpt (KCEU)
+
+
+
+
+
+
+
+3.45
+
+
+
+
+
+
+
+
+
+Tennessee
+
+
+
+
+
+
+
+
+Knoxville
+
+
+
+
+
+
+
+2.55
+Newfound Gap Ark
+
+
+
+
+
+
+
+2.35
+
+
+
+
+
+
+
+
+
+Virginia
+
+
+
+
+
+
+
+
+Big Meadows
+
+
+
+
+
+
+
+5.24
+Charlotte
+
+
+
+
+
+
+
+5.50
+Dulles IAP (KIAD)
+
+
+
+
+
+
+
+3.54
+Page
+
+
+
+
+
+
+
+5.44
+Shenandoah
+
+
+
+
+
+
+
+4.52
+Upper Sherando
+
+
+
+
+
+
+
+6.13
+
+
+
+
+
+
+
+
+
+West Virginia
+
+
+
+
+
+
+
+
+Keeney Know Lookout
+
+
+
+
+
+
+
+3.20
+Summit Point
+
+
+
+
+
+
+
+3.16
+Williamson
+
+
+
+
+
+
+
+3.75
+
+a  Date/time is for sustained wind when both sustained and gust are listed.
+b  Except as noted, sustained wind averaging periods for Coastal-Marine Automated Network 
+    (C-MAN) and land-based ASOS reports are 2 min; buoy averaging periods are 8 min.
+c  Storm surge is water height above normal astronomical tide level.
+d  Storm tide is water height above National Geodetic Vertical Datum (1929 mean sea level).
+e  Incomplete report due to power failure at 06/0436 UTC.
+
+Table 4.	Preliminary forecast evaluation (heterogeneous sample) for Cindy, 3-7 July 2005. 
+Forecast errors (n mi) are followed by the number of forecasts in parentheses. Errors smaller than the NHC official forecast are shown in bold-face type. Verification includes the depression stage, but does not include the extratropical stage.
+
+Forecast Technique
+
+
+Forecast Period (h)
+
+
+
+
+
+12
+
+
+24
+
+
+36
+
+
+48
+
+
+72
+
+
+96
+
+
+120
+
+CLP5
+  65 (12)
+ 128 (11)
+ 212 ( 9)
+ 319 ( 7)
+ 575 ( 3)
+
+
+GFNI
+  35 (10)
+  49 ( 8)
+  76 ( 6)
+  88 ( 3)
+  90 ( 1)
+
+
+
+
+
+
+GFDI
+  57 (12)
+  95 (11)
+ 143 ( 9)
+ 222 ( 7)
+ 414 ( 3)
+
+
+
+
+
+
+GFDL*
+  75 (12)
+ 107 (11)
+ 133 ( 9)
+ 196 ( 7)
+ 417 ( 3)
+
+
+
+
+
+
+GFDN
+  44 (10)
+  54 ( 8)
+  84 ( 5)
+ 102 ( 2)
+  49 ( 1)
+
+
+
+
+
+
+GFSI
+  57 (10)
+  25 ( 7)
+  44 ( 5)
+  69 ( 3)
+
+
+
+
+
+
+
+GFSO*
+  57 (12)
+  71 ( 9)
+  33 ( 6)
+  88 ( 4)
+
+
+
+
+
+
+
+
+
+NGPI
+  39 (10)
+  49 ( 9)
+  89 ( 7)
+ 184 ( 5)
+ 206 ( 1)
+
+
+NGPS*
+  42 (12)
+  55 (10)
+  77 ( 8)
+ 144 ( 6)
+ 294 ( 2)
+
+
+UKMI
+  68 (10)
+ 113 ( 9)
+ 247 ( 7)
+ 508 ( 5)
+
+
+
+UKM *
+  62 ( 6)
+ 113 ( 5)
+ 180 ( 4)
+ 370 ( 3)
+
+
+
+A98E
+  65 (12)
+ 107 (11)
+ 182 ( 9)
+ 281 ( 7)
+ 560 ( 3)
+
+
+A9UK
+  73 ( 6)
+ 118 ( 5)
+ 185 ( 4)
+ 310 ( 3)
+ 588 ( 1)
+
+
+BAMD
+  62 (12)
+ 127 (11)
+ 211 ( 9)
+ 331 ( 7)
+ 702 ( 3)
+
+
+BAMM
+  63 (12)
+ 134 (11)
+ 230 ( 9)
+ 366 ( 7)
+ 743 ( 3)
+
+
+BAMS
+  75 (12)
+ 164 (11)
+ 273 ( 9)
+ 411 ( 7)
+ 758 ( 3)
+
+
+CONU
+  46 (10)
+  59 ( 9)
+ 113 ( 7)
+ 231 ( 5)
+ 237 ( 1)
+
+
+GUNA
+  50 (10)
+  33 ( 7)
+  74 ( 5)
+ 160 ( 3)
+
+
+
+FSSE
+  24 ( 7)
+  23 ( 6)
+  56 ( 4)
+  82 ( 2)
+
+
+
+OFCL
+  45 (12)
+  83 (11)
+ 150 ( 9)
+ 235 ( 7)
+ 450 ( 3)
+
+
+
+NHC Official
+(1995-2004 mean)
+
+
+42 
+
+(3400)
+
+
+
+75 
+
+(3116)
+
+
+
+107
+
+ (2848)
+
+
+
+138
+
+ (2575)
+
+
+
+202
+
+ (2117)
+
+
+
+236 
+
+(649)
+
+
+
+310 
+
+(535)
+
+
+*Output from these models was unavailable at forecast time.
+Errors given for the 96 and 120 h periods are averages over the 4-year period 2001-2004.
+
+
+
+
+
+
+Table 5.	Watch and warning summary for Hurricane Cindy, 3-7 July 2005.
+Date/Time (UTC)
+
+Action
+
+Location
+ 3 / 2300
+Tropical Storm Warning issued
+Punta Allen to Chetumal
+ 4 / 0900
+Tropical Storm Warning discontinued
+All
+ 4 / 2100
+Tropical Storm Watch issued
+Mississippi River to Sabine Pass
+ 5 / 0900
+Tropical Storm Watch discontinued
+Mississippi River to Sabine Pass
+ 5 / 0900
+Tropical Storm Watch issued
+Pascagoula to Destin
+ 5 / 0900
+Tropical Storm Warning issued
+Intracoastal City to Pascagoula
+ 5 / 1500
+Tropical Storm Watch modified to
+Destin to Indian Pass
+ 5 / 1500
+Tropical Storm Warning modified to
+Intracoastal City to Destin
+ 5 / 1800
+Tropical Storm Warning modified to
+Morgan City to Destin
+ 6 / 1500
+Tropical Storm Watch discontinued
+All
+ 6 / 1500
+Tropical Storm Warning discontinued
+All
+
+
+
+
+
+
+Figure 1.	Best track positions for Hurricane Cindy, 3-7 July 2005. Track during the extratropical stage is 
+based on analyses from the NOAA Hydrometeorological Prediction Center.
+
+
+Figure 2. Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Cindy, 3-7 July 2005. 
+Objective Dvorak estimates from UW-CIMSS represent linear averages over a three-hour period centered on the nominal observation 
+time. Aircraft observations have been adjusted for elevation using 80% reduction factors for observations from 850 mb and 1500 ft. 
+Objective Dvorak estimates represent linear averages over a three-hour period centered on the nominal observation time.  Estimates
+during the extratropical stage are based on analyses from the NOAA Hydrometeorological Prediction Center.  Dashed vertical lines 
+represent landfall times.
+
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Hurricane Cindy, 3-7 July 2005. 
+Objective Dvorak estimates from UW-CIMSS represent linear averages over a three-hour period centered on the nominal observation 
+time. Dashed vertical lines represent landfall times.
+
+
+Figure 4.     DMSP SSM/I 85 GHz microwave image at 0020 UTC 6 July 2005 when Hurricane Cindy was near its peak
+intensity of 65 kt. A partial eye can be seen just south of the Louisiana coast near 29o N 90o W. WSR-88D Doppler radar 
+data from NWSFO  Slidell, LA (KLIX) indicated a similar signature in the reflectivity and velocity data fields (image 
+courtesy of U.S. Navy  Fleet Numerical Meteorology and Oceanography Center, Monterey, CA).
+
+
+Figure 5.	Estimated region (approx. 10 n mi wide) of hurricane-force winds based on Doppler velocity data from the WFO  
+Slidell, LA WSR-88D Doppler radar (KLIX) through 0220 UTC 6 July 2005. The edges of the red swath mark the boundary of 
+observed 71-kt or greater Doppler velocities, which corresponds to equivalent surface winds of  64 kt when using the standard 0.90
+reduction factor. The swath comprises numerous velocity ‘cells’ that ranged in size from 1 to 3 n mi in diameter that persisted for  
+at least 15 minutes, and were associated with reflectivity values > 35 dBZ. Several velocity cells contained peak values of 75-76 kt. 
+A few of the larger cells within the mostly range-obscured data region (red hatched area) contained peak velocities of 80-85 kt. 
+Heights represent the altitude of the radar beam centerline. The center of the eye passed very near Grand Isle (GDIL1) at 0300 UTC
+6 July.
+
+
+Figure 6.	WFO Slidell/New Orleans, LA (KLIX) WSR-88D Doppler radar velocity image at 0127 UTC 6 July 2005. The darker 
+blue colors (within dashed oval area) indicate Doppler velocities of 70-74 kt toward the radar site at an altitude of approximately 
+9,000 ft ASL.  Those velocities correspond to equivalent surface winds of 63-67 kt when using the standard 0.90 adjustment factor. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22
+
+
+

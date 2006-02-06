@@ -1,0 +1,303 @@
+Tropical Cyclone Report
+Tropical Storm Bret
+28-30 June 2005
+
+Richard J. Pasch
+National Hurricane Center
+23 January 2006
+
+
+	Short-lived Tropical Storm Bret made landfall near Tuxpan, Mexico, causing floods and one death in the state of Veracruz.
+
+	Synoptic History
+
+The genesis of Bret can be traced back to a tropical wave accompanied by a weak area of surface low pressure that crossed Central America and eastern Mexico from 24 to 27 June.  An area of disturbed weather associated with this system moved into the Bay of Campeche around 0000 UTC 28 June.  Soon thereafter the organization of deep convection increased, with curved banding features developing, and animation of visible satellite images indicated that a small circulation was forming.  Wind observations from an Air Force Reserve Unit Hurricane Hunter aircraft at a flight level near 1000 ft suggest that the system formed into a tropical depression at about 1800 UTC 28 June while centered about 50 n mi east-southeast of Veracruz, Mexico.  The cyclone quickly strengthened into a tropical storm, albeit a very small one.  Bret moved between west-northwestward and northwestward in response to a mid-level ridge to its north, and the center of the tropical storm reached the coast of Mexico a short distance south-southeast of Tuxpan around 1200 UTC 29 June.  It is estimated that Bret’s intensity remained near 35 kt until landfall.  However a NASA Tropical Rainfall Measuring Mission (TRMM) image around the time of landfall showed increasing organization of the storm, so it is possible that Bret was beginning to strengthen when it hit Mexico.  After crossing the coast, the cyclone turned north-northwestward and dissipated inland over Mexico just after 0000 UTC 30 June.
+
+	The “best track” chart of Bret’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.
+
+
+	Meteorological Statistics
+
+	Observations in Bret (Figs. 2 and 3) include satellite-based Dvorak technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB), the Satellite Analysis Branch (SAB) and the U. S. Air Force Weather Agency (AFWA), as well as flight-level observations from flights of the 53rd Weather Reconnaissance Squadron of the U. S. Air Force Reserve (AFRES) Command.  Microwave satellite imagery from NOAA polar-orbiting satellites, the NASA TRMM, the NASA QuikSCAT, and Defense Meteorological Satellite Program (DMSP) satellites were also useful in tracking Bret.
+
+	Peak winds reported by an AFRES hurricane hunter aircraft at a flight-level of around 1000 ft were 45 kt at 2235 UTC 28 June, which corresponds to an estimated maximum intensity of 35 kt.  A minimum central pressure of  1002 mb was reported at that time.
+
+	Table 2 lists some surface observations in Bret.  No reports of tropical storm force winds were received.	
+								
+
+	Casualty and Damage Statistics
+	
+	There was significant flooding due to heavy rains in the state of Veracruz.  According to reports from Mexico, one person drowned in the town of Cerro Azul.  Several people were reported missing after their vehicles were swept away by a flooded river in Naranjos.  It is presumed that those persons survived.
+
+
+	Forecast and Warning Critique
+
+Bret existed for only about 30 h, so there are no meaningful forecast statistics for this tropical cyclone.  The official track forecasts did predict landfall in roughly the correct place at about the right time.  Not much strengthening was forecast.
+
+Table 3 lists the warnings issued for Bret.  Landfall of the center occurred about in the middle of the warning area, 14 h after the issuance of the tropical storm warning.
+
+Tropical Weather Outlooks from the National Hurricane Center did not forecast the formation of Bret until about 12 hours before the occurrence of the event. 
+	
+
+Table 1.	Best track for Tropical Storm Bret, 28-30 June 2005.
+
+
+Date/Time
+(UTC)
+
+Latitude
+(?N)
+
+Longitude
+(?W)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+28 / 1800
+19.7
+ 95.4
+1006
+ 30
+ tropical depression
+29 / 0000
+20.0
+ 95.8
+1005
+ 35
+    tropical storm
+29 / 0600
+20.4
+ 96.4
+1005
+ 35
+           "          
+29 / 1200
+20.8
+ 97.3
+1005
+ 35
+           "          
+29 / 1800
+21.4
+ 98.1
+1007
+ 25
+ tropical depression  
+30 / 0000
+22.0
+ 98.5
+1008
+ 25
+           "          
+30 / 0600
+
+
+
+
+dissipated      
+28 / 2235
+19.9
+95.7
+1002
+ 35
+   minimum pressure
+29 / 1200
+20.8
+97.3
+1005
+35
+Landfall near Tuxpan, Mexico
+   
+
+
+Table 2.	Selected surface observations for Tropical Storm Bret, 28-30 June 2005.
+
+
+Location
+Minimum Sea Level Pressure
+Maximum Surface
+Wind Speed
+Storm surge
+(ft)
+Storm
+tide
+(ft)
+Total
+rain
+(in)
+
+Date/
+time
+(UTC)
+Press.
+(mb)
+Date/
+time
+(UTC)
+Sustained
+(kt)
+Gust
+(kt)
+
+
+
+Mexico
+
+
+
+
+
+
+
+
+El Raudal
+
+
+
+
+
+
+
+10.47
+Gutierrez Zamora
+
+
+
+
+
+
+
+8.58
+El Remolino
+
+
+
+
+
+
+
+7.11
+Tuxpan
+
+
+
+
+
+
+
+4.62
+Martinez de la Torre
+
+
+
+
+
+
+
+4.62
+Rancho Nuevo Ayotoxco
+
+
+
+
+
+
+
+4.59
+Cuetzalan
+
+
+
+
+
+
+
+4.14
+Poza Rica
+
+
+
+
+
+
+
+3.59
+Papantla
+
+
+
+
+
+
+
+3.40
+Veracruz
+28/2350
+1006.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 3.	Watch and warning summary for Tropical Storm Bret, 28-30 June 2005.
+
+Date/Time (UTC)
+Action
+Location
+28 / 2200
+Tropical Storm Warning issued
+Veracruz to Tampico
+29 / 1500
+Tropical Storm Warning discontinued
+All
+
+
+
+
+
+Figure 1.	Best track positions for Tropical Storm Bret, 28-30 June 2005.
+
+
+
+
+
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Bret, 28-30 June 2005.  Aircraft observations have been adjusted for elevation using an 80% reduction factor for observations from 1000 ft. 
+
+
+
+
+
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Tropical Storm Bret, 28-30 June 2005.
+
+
+
+
+
+
+
+
+
+
+
+7
+
+
+

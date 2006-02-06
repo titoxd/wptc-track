@@ -1,0 +1,706 @@
+Tropical Cyclone Report
+Hurricane Irene
+4 - 18 August 2005
+
+Stacy R. Stewart
+National Hurricane Center
+20 January 2006
+
+
+	Hurricane Irene was a long-lived Cape Verde tropical cyclone that remained over the open Atlantic Ocean throughout its lifetime and became a Category 2 hurricane  (on the Saffir-Simpson Hurricane Scale) when it was located well to the north of Bermuda.
+
+
+
+
+	Synoptic History
+
+A vigorous tropical wave, accompanied by a broad surface low pressure system and curved convective bands, moved off the African coast on 1 August. However, since the wave came off the coast at a relatively high latitude, convection weakened significantly as the system moved over relatively cool water located southeast of the Cape Verde Islands. The wave continued moving westward over the next couple of days and, as it passed over higher sea-surface temperatures, sufficient convection redeveloped for satellite classifications to be initiated. A QuikSCAT overpass at 1940 UTC 3 August indicated the surface circulation had become better defined and that winds had increased to 20-25 kt. During the next 24 h, thunderstorms became better organized near the low pressure center and it is estimated that a tropical depression formed at 1800 UTC 4 August about 600 n mi southwest of the Cape Verde Islands. The “best track” chart of the tropical cyclone’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.
+	
+	Early on 5 August, Tropical Depression Nine abruptly turned west-northwestward to northwestward, causing the cyclone to move beneath stronger upper-level northwesterly winds. This motion also caused the depression to move across cooler water and into more stable trade wind flow. The combination of these unfavorable environmental conditions resulted in a pronounced decrease in both the organization and amount of thunderstorm activity. However, despite the lack of organized convection, the cyclone continued to slowly strengthen. QuikSCAT overpasses at 0759 UTC and 2029 UTC 5 August indicated winds has increased to and remained near 30 kt in the northeast quadrant. The depression might have derived energy from what available barotropic instability existed within the trade wind flow in which it was embedded. By 1200 UTC 7 August, deep convection had increased enough near the low-level center for the cyclone to be upgraded to Tropical Storm Irene about 1080 n mi east of the northern Leeward Islands. This intensity was supported by a QuikSCAT overpass near 0849 UTC that indicated winds were near 40 kt. Irene maintained tropical storm status for the next 24 h as it continued west-northwestward before belligerent upper-level northwesterly shear and a dry, stable environment eroded the convection. This caused Irene to weaken back to a depression by 1200 UTC 8 August.
+
+Irene made a turn toward the west on 9 August while the vertical depth of the weakened cyclone decreased. As a result, the low-level easterly winds on the south side of the large subtropical ridge to the north became the dominant steering flow. Despite moving over warmer sea-surface temperatures, Irene persisted as a tropical depression due to the unfavorable northwesterly wind shear and a continued dry and stable environment. By 0000 UTC 11 September, the vertical shear decreased enough for more convection to develop and persist near the low-level center, which allowed Irene to once again become a tropical storm about 300 n mi northeast of the Leeward Islands.
+
+	Irene made a turn toward the northwest early on 11 August, the result of the now stronger vertical circulation being influenced by deeper southeasterly steering flow. While moving around the southwestern periphery of the subtropical ridge situated east-to-west across Bermuda, the vertical shear slowly decreased, allowing Irene to gradually strengthen as it moved into a more unstable environment. As the tropical storm moved into a weakness in the subtropical ridge about midway between Bermuda and the North Carolina Outer Banks, the cyclone reached hurricane strength at 0000 UTC 15 September. After achieving hurricane status, Irene made a sharp turn toward the east-northeast and east as it moved north of the ridge axis and continued to strengthen, reaching its peak intensity of 90 kt at 1800 UTC 16 September about 300 n mi northeast or Bermuda.
+
+	Shortly after Irene peaked in intensity, upper-level west to southwesterly winds began to increase ahead of a large mid-latitude trough and frontal system that was quickly approaching from the west. This produced unfavorable vertical shear across the cyclone, inducing a slow but steady weakening trend, and Irene weakened to a tropical storm by 0000 UTC 18 September over the far North Atlantic Ocean about 450 n mi south of Cape Race Newfoundland. Later that day, Irene turned toward the northeast and began to move over cooler water. Deep convection near the center started to wane. During the morning hours, the extratropical low and frontal system located to the west continued to accelerate northeastward at a forward speed faster than that of Irene. After 1200 UTC, no convection existed within 200 n mi of the center, and Irene may have briefly become an extratropical low before it was finally absorbed by the larger extratropical low pressure system at around 1800 UTC 18 September about 250 n mi east-southeast of Cape Race, Newfoundland.
+
+	Meteorological Statistics
+
+	Observations in Irene (Figs. 2 and 3) include satellite-based Dvorak technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB), the Satellite Analysis Branch (SAB) and the U. S. Air Force Weather Agency (AFWA), as well as flight-level and dropsonde observations from flights of the 53rd Weather Reconnaissance Squadron (WRS) of the U. S. Air Force Reserve Command. Microwave satellite imagery from NOAA polar-orbiting satellites, the NASA Tropical Rainfall Measuring Mission (TRMM), the NASA QuikSCAT, and Defense Meteorological Satellite Program (DMSP) satellites were also useful in tracking Irene.
+
+	The 53rd WRS made 23 aircraft fixes on Irene as the cyclone moved northwestward in the general direction of Bermuda and the U.S. east coast during the period 12-15 September. The maximum 850 mb flight-level winds observed were 88 kt at 2340 UTC 14 August in the southeast quadrant. Those flight-level winds correspond to approximately 70-kt surface winds, which was the basis for upgrading Irene to a hurricane. The lowest central pressure measured by a dropwindsonde was 989 mb at 0001 UTC 15 August, but the last reconnaissance flight occurred before Irene’s peak intensity of 90 kt at 1800 UTC 16 August. The peak intensity is based on Dvorak satellite intensity estimates of T5.0 or 90 kt from the TAFB and SAB near that time. A University of Wisconsin-Cooperative Institute for Meteorological Satellite Studies (UW-CIMSS) AMSU intensity estimate of 85 kt at 1911 UTC 16 August also supports the 90-kt intensity. The peak intensity is also coincident with Irene’s most impressive appearance in conventional and microwave (Fig. 4) satellite imagery.
+
+	Despite Irene’s long track, there were no reliable buoy or ship reports of tropical storm-force winds. 
+
+	Casualty and Damage Statistics
+	
+	There were no reports of damage or casualties associated with Irene. 
+
+	Forecast and Warning Critique
+
+	Average official track errors (with the number of cases in parentheses) for Irene were 40 (54), 68 (52), 103 (50), 142 (48), 201 (44), 268 (40), and 345 (36) n mi for the 12, 24, 36, 48, 72, 96, and 120 h forecasts, respectively.  These errors are smaller than the average official track errors through 72 hours and then larger than average at 96 and 120 h for the 10-yr period 1995-2004
+
+ 	Errors given for the 96 and 120 h periods are averages over the four-year period 2001-4.  [(42, 75, 107, 138, 202, 236, and 310 n mi, respectively), (Table 2)]. The first few forecasts had a right bias after 72 hours as a result of the models prematurely eroding the western portion of the subtropical ridge. However, subsequent official forecast tracks beginning on 9 August correctly predicted that Irene would pass about midway between Bermuda and the U.S. east coast, with only a slight left bias. After Irene recurved through the mean ridge axis and began moving in an easterly direction, both the official forecast tracks and the majority of the NHC model guidance had a pronounced left bias. This was the result of the models overdeveloping a mid- to upper-level trough over the northeastern United States that was expected to lift the cyclone northeastward immediately after recurvature into the westerlies had occurred.
+
+	Average official intensity errors were 4, 7, 8, 11, 11, 11, and 12 kt for the 12, 24, 36, 48, 72, 96, and 120 h forecasts, respectively. These errors were much lower than the average official intensity errors over the 10-yr period 1995-2004 are 6, 10, 12, 15, 18, 20, and 22 kt, respectively. While early intensity forecasts that called for Irene to become a hurricane over the central tropical Atlantic had a high bias, later forecast calling for Irene to become a hurricane at a higher latitude were fairly accurate.
+
+	Irene’s potential development into a tropical depression was first mentioned in the 0212 UTC 4 August Tropical Weather Outlook issued by the National Hurricane Center. This resulted in approximately a 16-hour genesis lead time.
+
+	No coastal tropical cyclone watches or warnings were required for Irene.
+
+	
+
+	
+Table 1.	Best track for Hurricane Irene, 4-18 August 2005.
+
+Date/Time
+(UTC)
+
+Latitude
+(EN)
+
+Longitude
+(EW)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+04 / 1800
+12.9
+33.5
+1009
+25
+tropical depression
+05 / 0000
+13.6
+34.5
+1009
+25
+"
+05 / 0600
+14.6
+35.5
+1009
+25
+"
+05 / 1200
+15.6
+36.8
+1008
+30
+"
+05 / 1800
+16.6
+38.4
+1008
+30
+"
+06 / 0000
+17.2
+39.8
+1008
+30
+"
+06 / 0600
+17.7
+40.5
+1008
+30
+"
+06 / 1200
+18.2
+41.6
+1008
+30
+"
+06 / 1800
+18.8
+42.8
+1008
+30
+"
+07 / 0000
+19.3
+43.5
+1008
+30
+"
+07 / 0600
+19.7
+44.2
+1007
+30
+"
+07 / 1200
+20.2
+45.0
+1005
+35
+tropical storm
+07 / 1800
+20.8
+46.0
+1005
+35
+"
+08 / 0000
+21.3
+47.2
+1005
+35
+"
+08 / 0600
+21.8
+48.3
+1006
+35
+"
+08 / 1200
+22.2
+49.9
+1009
+30
+tropical depression
+08 / 1800
+22.4
+50.9
+1009
+30
+"
+09 / 0000
+22.5
+52.0
+1009
+30
+"
+09 / 0600
+22.4
+52.9
+1009
+30
+"
+09 / 1200
+22.4
+53.7
+1009
+30
+"
+09 / 1800
+22.4
+54.8
+1009
+30
+"
+10 / 0000
+22.4
+55.7
+1009
+30
+"
+10 / 0600
+22.3
+56.5
+1009
+30
+"
+10 / 1200
+22.4
+57.2
+1009
+30
+"
+10 / 1800
+22.8
+58.1
+1008
+30
+"
+11 / 0000
+23.3
+59.3
+1005
+35
+tropical storm
+11 / 0600
+23.9
+60.4
+1003
+40
+"
+11 / 1200
+24.7
+61.7
+1001
+45
+"
+11 / 1800
+25.4
+62.9
+1001
+45
+"
+12 / 0000
+26.3
+63.8
+1001
+45
+"
+12 / 0600
+27.2
+65.1
+998
+55
+"
+12 / 1200
+27.9
+66.3
+996
+55
+"
+12 / 1800
+28.4
+67.1
+995
+55
+"
+13 / 0000
+28.9
+67.7
+993
+60
+"
+13 / 0600
+29.6
+68.2
+996
+60
+"
+13 / 1200
+30.0
+69.0
+997
+60
+"
+13 / 1800
+30.8
+69.4
+1000
+60
+"
+14 / 0000
+31.6
+69.9
+997
+60
+"
+14 / 0600
+32.1
+70.2
+999
+55
+"
+14 / 1200
+33.1
+70.1
+999
+55
+"
+14 / 1800
+34.0
+70.0
+994
+60
+"
+15 / 0000
+34.9
+69.5
+989
+70
+hurricane
+15 / 0600
+35.7
+68.7
+985
+75
+"
+15 / 1200
+36.3
+67.7
+985
+75
+"
+15 / 1800
+36.5
+66.5
+980
+80
+"
+16 / 0000
+36.6
+65.1
+980
+80
+"
+16 / 0600
+36.6
+64.0
+978
+80
+"
+16 / 1200
+36.6
+63.0
+975
+85
+"
+16 / 1800
+36.5
+62.0
+970
+90
+"
+17 / 0000
+36.5
+61.3
+978
+80
+"
+17 / 0600
+36.5
+60.6
+983
+75
+"
+17 / 1200
+36.9
+59.1
+987
+65
+"
+17 / 1800
+37.6
+57.3
+987
+65
+"
+18 / 0000
+38.6
+55.0
+990
+60
+tropical storm
+18 / 0600
+40.3
+52.3
+990
+60
+"
+18 / 1200
+43.3
+48.9
+992
+50
+"
+18 / 1800
+
+
+
+
+Absorbed by larger extratropical low
+16 / 1800
+36.5
+62.0
+970
+90
+minimum pressure
+
+Table 2.	Preliminary forecast evaluation (heterogeneous sample) for Hurricane Irene, 4-18 August 2005.  Forecast errors (n mi) are followed by the number of forecasts in parentheses.  Errors smaller than the NHC official forecast are shown in bold-face type.  Verification includes the depression stage.
+
+Forecast Technique
+
+
+Forecast Period (h)
+
+
+
+
+
+12
+
+
+24
+
+
+36
+
+
+48
+
+
+72
+
+
+96
+
+
+120
+
+CLP5
+  55 (54)
+  97 (52)
+ 134 (50)
+ 166 (48)
+ 224 (44)
+ 310 (40)
+ 402 (36)
+GFNI
+  38 (49)
+  69 (43)
+ 105 (41)
+ 144 (37)
+ 222 (29)
+ 343 (23)
+ 610 (19)
+GFDI
+  37 (53)
+  58 (47)
+  72 (45)
+  95 (39)
+ 170 (31)
+ 263 (26)
+ 360 (21)
+GFDL*
+  41 (53)
+  56 (49)
+  68 (44)
+  87 (36)
+ 140 (31)
+ 239 (26)
+ 337 (20)
+GFDN*
+  42 (46)
+  65 (44)
+  95 (39)
+ 136 (35)
+ 211 (29)
+ 301 (24)
+ 528 (20)
+GFSI
+  50 (46)
+  84 (41)
+ 133 (39)
+ 182 (36)
+ 254 (21)
+ 391 (11)
+ 430 ( 5)
+GFSO*
+  56 (41)
+  86 (37)
+ 123 (33)
+ 172 (31)
+ 255 (21)
+ 410 ( 8)
+ 394 ( 3)
+AEMI
+  44 (52)
+  77 (50)
+ 116 (48)
+ 161 (45)
+ 243 (35)
+ 331 (26)
+ 501 (11)
+NGPI
+  43 (52)
+  80 (50)
+ 121 (48)
+ 160 (46)
+ 237 (42)
+ 333 (38)
+ 427 (33)
+NGPS*
+  48 (51)
+  74 (49)
+ 110 (47)
+ 144 (45)
+ 214 (41)
+ 305 (37)
+ 425 (33)
+UKMI
+  42 (52)
+  77 (50)
+ 146 (48)
+ 193 (44)
+ 213 (34)
+ 252 (28)
+ 275 (26)
+UKM* 
+  53 (27)
+  70 (26)
+ 102 (25)
+ 133 (23)
+ 181 (18)
+ 220 (15)
+ 244 (13)
+A98E
+  52 (54)
+  81 (52)
+ 116 (50)
+ 158 (48)
+ 242 (44)
+ 300 (40)
+ 400 (36)
+A9UK
+  56 (27)
+  84 (26)
+ 119 (25)
+ 162 (24)
+ 249 (22)
+
+
+BAMD
+  42 (53)
+  72 (51)
+ 100 (49)
+ 128 (48)
+ 167 (44)
+ 233 (40)
+ 315 (36)
+BAMM
+  41 (53)
+  69 (51)
+  98 (49)
+ 128 (48)
+ 182 (44)
+ 239 (40)
+ 379 (36)
+BAMS
+  43 (53)
+  70 (51)
+  91 (49)
+ 112 (48)
+ 160 (44)
+ 232 (40)
+ 370 (36)
+CONU
+  36 (53)
+  63 (51)
+ 100 (49)
+ 130 (47)
+ 175 (42)
+ 257 (38)
+ 365 (33)
+GUNA
+  34 (44)
+  57 (38)
+  98 (36)
+ 144 (28)
+ 244 (13)
+ 229 ( 7)
+ 245 ( 4)
+FSSE
+  30 (41)
+  62 (39)
+ 101 (36)
+ 150 (34)
+ 239 (29)
+ 336 (21)
+ 405 (17)
+OFCL
+  40 (54)
+  68 (52)
+ 103 (50)
+ 142 (48)
+ 201 (44)
+ 268 (40)
+ 345 (36)
+
+NHC Official
+(1994-2003 mean)
+
+
+44 
+
+(3172)
+
+
+
+78 
+
+(2894)
+
+
+
+112
+
+ (2636)
+
+
+
+146
+
+ (2368)
+
+
+
+217
+
+ (1929)
+
+
+
+248 
+
+(421)
+
+
+
+319
+
+(341)
+
+
+*Output from these models was unavailable at forecast time.
+Errors given for the 96 and 120 h periods are averages over the four-year period 2001-4
+
+
+
+
+
+Figure 1.	Best track positions for Hurricane Irene, 4-18 August 2005.  
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve for
+Hurricane Irene, 4-18 August 2005.  Aircraft observations have been adjusted for elevation using an 80%
+adjustment factor for observations from 850 mb.
+
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Hurricane Irene,
+4-18 August 2005.
+
+Figure 4.       An SSM/I  microwave image (85 GHz) at 1329 UTC 16 August 2005 showing a well-defined 
+eye just a few hours prior to Irene reaching its peak intensity of 90 kt at a relatively high latitude  (image 
+courtesy of the U.S. Navy Fleet Numerical Meteorology and Oceanography Center, Monterey, CA).
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+11
+
+
+
