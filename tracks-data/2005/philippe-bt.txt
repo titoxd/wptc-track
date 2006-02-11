@@ -1,0 +1,476 @@
+Tropical Cyclone Report
+Hurricane Philippe
+17-23 September 2005
+
+James L. Franklin
+National Hurricane Center
+9 February 2006
+
+
+	Hurricane Philippe was a category 1 hurricane (on the Saffir-Simpson Hurricane Scale) that is notable for a drawn-out dissipation within the circulation of a large non-tropical low.
+
+
+
+
+
+	Synoptic History
+
+Philippe appears to have developed from a tropical wave that moved across the west coast of Africa on 9 September.  The wave quickly lost nearly all of its convection as it moved westward and became difficult to track, but on 13 September an area of showers re-developed about 1200 n mi east of the southern Windward Islands.  Maintaining convection over a large area, the sprawling disturbance continued westward without significant development until 16 September, when convection became more concentrated in the southern part of the disturbance about 650 n mi east of Trinidad.  QuikSCAT ambiguity data from 0924 UTC 17 September indicate that the system’s circulation was becoming better defined, and it is estimated that a tropical depression formed near 1200 UTC that day about 300 n mi east of Barbados.
+
+	The “best track” chart of the tropical cyclone’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.  Steering currents were unusually weak for a system so far south in the tropical Atlantic at the height of the hurricane season, and the depression moved slowly northwestward initially as it strengthened, becoming a tropical storm at 1800 UTC 17 September.  Philippe moved generally to the north-northwest over the next couple of days towards a weakness in the subtropical ridge, becoming a hurricane at 0000 UTC 19 September about 315 n mi east of the northern Leeward Islands, and reaching its peak intensity of 70 kt about 24 h later.
+
+	While Philippe was strengthening to the east of the Lesser Antilles, Tropical Storm Rita had formed in the Bahamas.  Rita generated an impressive outflow pattern on 19 September, and the aforementioned downstream weakness in the subtropical ridge amplified into a large mid- to upper-level cold low to the north of the Lesser Antilles the following day.  Westerly shear on the south side of the cold low began to impact Philippe, which weakened to a tropical storm by 1200 UTC 20 September.  By late in the day, Philippe’s low-level center had become exposed to the west of the diminishing convection.  While Philippe was weakening on 21 September, it turned northward and accelerated along the east side of the strengthening cold low, which was developing its own surface reflection.  During the day on 22 September, Philippe was little more than a swirl of low clouds generating only intermittent convection, and in fact may have temporarily lost its closed surface circulation within the broader cyclonic envelope of the cold low (Figure 4).  Late in the day, however, Philippe moved north-northwestward into the large curved band of shallow convection associated with the cold low, and as it did so deep convection re-developed near the center of the tropical cyclone.  Looping around the larger low, Philippe turned northwestward and then accelerated westward overnight.  By 1200 UTC 23 September, deep convection associated with the tropical cyclone was diminishing again, and Philippe weakened to a tropical depression.  The cyclone degenerated to a remnant low by 1800 UTC.  The remnant circulation continued to loop cyclonically, losing its closed circulation after 0600 UTC the following day, although the remnant vorticity center could be followed for another day or so.  	
+
+
+	Meteorological Statistics
+
+	Observations in Philippe (Figs. 2 and 3) include satellite-based Dvorak technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB), the Satellite Analysis Branch (SAB) and the U. S. Air Force Weather Agency (AFWA), as well as flight-level and dropwindsonde observations from flights of the 53rd Weather Reconnaissance Squadron of the U. S. Air Force Reserve Command.  Microwave satellite imagery from NOAA polar-orbiting satellites, the NASA Tropical Rainfall Measuring Mission (TRMM), the NASA QuikSCAT, and Defense Meteorological Satellite Program (DMSP) satellites were also useful in tracking the cyclone.
+
+The estimated peak intensity of Philippe, 70 kt at 0000 UTC 20 September, is lower than the satellite Dvorak estimates (Figs. 2, 3); the 90-kt classifications were based on the embedded center pattern – perhaps the least reliable pattern of the technique.  The rapid decay of the satellite appearance the following day suggests that Philippe may not have been as strong as these classifications indicated.  
+
+	Ship C6SE5 reported winds of 49 kt at 1800 UTC 17 September when it was about 90 n mi north of the cyclone center.  This report has been discounted, since it is at odds with nearby buoy reports as well as with data from a reconnaissance aircraft investigating Philippe at that time. No other ship reports of tropical storm force winds were associated with the circulation of Philippe.  Other observations of note include visually-estimated surface winds of near 40 kt in the southeastern quadrant during the first investigative flight into the cyclone on 17 September, and a peak 850 mb reconnaissance flight-level wind of 83 kt at 0028 UTC 19 September.
+ 									
+
+	Casualty and Damage Statistics
+	
+	There were no reports of damage or casualties associated with Philippe.
+
+
+	Forecast and Warning Critique
+
+The genesis of Philippe was well-anticipated in Tropical Weather Outlooks, which first mentioned the possibility of tropical cyclone formation three days prior to genesis.
+
+A verification of official and guidance model track forecasts is given in Table 2.  Average official track errors for Philippe were 50, 86, 118, 134, 160, 234, and 302 n mi for the 12, 24, 36, 48, 72, 96, and 120 h forecasts, respectively.  The number of forecasts ranged from 23 at 12 h to only 5 at 120 h.  Despite a very complicated synoptic environment, these errors are by and large comparable to the long-term average official track errors (Table 2).  Some of the primary track guidance models, including the GFDI and GFSI, outperformed the official forecast, as did the consensus models.  The official forecasts did not anticipate the looping motion resulting from Philippe’s interaction with the large non-tropical low (whose development was not handled well by the global models).  Consequently, early forecasts had a fairly substantial westward bias, while later forecasts assumed Philippe would remain a vertically-coherent system and incorrectly took Philippe northeastward into the mid-latitudes.  Many of these forecasts of recurvature were unverifiable due to the dissipation of the system.
+
+	Average official intensity errors were 7, 12, 19, 26, 40, 52, and 62 kt for the 12, 24, 36, 48, 72, 96, and 120 h forecasts, respectively.  These errors, particularly at the later times, are far larger than the long-term mean errors (6, 10, 12, 15, 18, 20, and 22 kt, respectively), and resulted from a failure to anticipate the shearing effects of the developing cold low.  The GFDL, whose model storms are often impervious to shear, strongly overdeveloped Philippe.  The official forecasts were more conservative but still too aggressive.
+
+	Warnings associated with Philippe are listed in Table 3.  The tropical storm warning for Bermuda proved to be unnecessary.  No watches or warnings were issued for the Lesser Antilles, even though the system developed about 300 n mi east of Barbados and climatology indicated an impact in the islands.  The official forecasts correctly anticipated that Philippe would pass safely to the east.
+Table 1.	Best track for Hurricane Philippe, 17-23 September 2005.
+
+
+Date/Time
+(UTC)
+
+Latitude
+(?N)
+
+Longitude
+(?W)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+17 / 1200
+13.3
+ 54.5
+1008
+ 30
+tropical depression
+17 / 1800
+13.5
+ 54.9
+1007
+ 35
+tropical storm
+18 / 0000
+13.9
+ 55.1
+1003
+ 40
+"
+18 / 0600
+14.4
+ 55.3
+1000
+ 45
+"
+18 / 1200
+14.9
+ 55.5
+ 996
+ 50
+"
+18 / 1800
+15.6
+ 55.7
+ 993
+ 55
+"
+19 / 0000
+16.2
+ 55.8
+ 987
+ 65
+hurricane
+19 / 0600
+16.7
+ 55.9
+ 987
+ 65
+"
+19 / 1200
+17.2
+ 56.2
+ 987
+ 65
+"
+19 / 1800
+17.5
+ 56.4
+ 987
+ 65
+"
+20 / 0000
+17.7
+ 56.6
+ 985
+ 70
+"
+20 / 0600
+17.9
+ 56.8
+ 987
+ 65
+"
+20 / 1200
+18.1
+ 57.0
+ 990
+ 60
+tropical storm
+20 / 1800
+18.5
+ 57.2
+ 992
+ 55
+"
+21 / 0000
+18.9
+ 57.2
+ 994
+ 55
+"
+21 / 0600
+19.4
+ 57.1
+ 997
+ 50
+"
+21 / 1200
+19.9
+ 57.0
+1000
+ 45
+"
+21 / 1800
+20.8
+ 56.9
+1001
+ 40
+"
+22 / 0000
+22.4
+ 56.7
+1002
+ 35
+"
+22 / 0600
+23.8
+ 56.8
+1003
+ 35
+"
+22 / 1200
+25.2
+ 57.2
+1003
+ 35
+"
+22 / 1800
+26.7
+ 57.6
+1003
+ 35
+"
+23 / 0000
+28.3
+ 58.2
+1003
+ 35
+"
+23 / 0600
+30.2
+ 60.1
+1003
+ 35
+"
+23 / 1200
+30.5
+ 62.2
+1003
+ 30
+tropical depression
+23 / 1800
+30.2
+ 63.7
+1003
+ 30
+remnant low
+24 / 0000
+29.2
+ 63.8
+1003
+ 30
+"
+24 / 0600
+28.6
+ 62.8
+1004
+ 25
+"
+24 / 1200
+
+
+
+
+absorbed within non-tropical low
+20 / 0000
+17.7
+ 56.6
+ 985
+ 70
+minimum pressure
+   
+   
+
+Table 2.	Preliminary forecast evaluation (heterogeneous sample) for Hurricane Philippe, 17-23 September 2005.  Forecast errors (n mi) are followed by the number of forecasts in parentheses.  Errors smaller than the NHC official forecast are shown in bold-face type.  Verification includes the depression stage.
+
+
+Forecast Technique
+
+
+Forecast Period (h)
+
+
+
+
+
+12
+
+
+24
+
+
+36
+
+
+48
+
+
+72
+
+
+96
+
+
+120
+
+CLP5
+  69 (23)
+ 130 (21)
+ 180 (19)
+ 215 (17)
+ 215 (13)
+ 284 ( 9)
+ 447 ( 5)
+GFNI
+  56 (21)
+ 100 (18)
+ 123 (17)
+ 149 (15)
+ 175 (11)
+ 133 ( 7)
+ 138 ( 3)
+GFDI
+  41 (23)
+  66 (21)
+  82 (19)
+  93 (17)
+ 109 (13)
+ 207 ( 9)
+ 203 ( 5)
+GFSI
+  48 (22)
+  71 (20)
+  89 (18)
+ 107 (16)
+ 136 (12)
+ 247 ( 8)
+ 324 ( 4)
+AEMI
+  56 (22)
+  93 (20)
+ 121 (18)
+ 145 (16)
+ 185 (12)
+ 306 ( 8)
+ 333 ( 4)
+NGPI
+  56 (23)
+  97 (21)
+ 141 (19)
+ 174 (17)
+ 221 (13)
+ 233 ( 7)
+ 236 ( 3)
+UKMI
+  56 (22)
+ 101 (20)
+ 148 (18)
+ 164 (16)
+ 187 (12)
+ 219 ( 8)
+ 205 ( 4)
+A98E
+  61 (23)
+ 102 (21)
+ 131 (19)
+ 125 (17)
+ 151 (13)
+ 245 ( 9)
+ 248 ( 5)
+A9UK
+  59 (12)
+ 104 (11)
+ 128 (10)
+ 136 ( 9)
+ 218 ( 7)
+
+
+BAMD
+  53 (23)
+  85 (21)
+ 109 (19)
+ 116 (17)
+ 116 (13)
+ 155 ( 9)
+ 273 ( 5)
+BAMM
+  59 (23)
+  96 (21)
+ 125 (19)
+ 143 (17)
+ 174 (13)
+ 253 ( 9)
+ 349 ( 5)
+BAMS
+  71 (22)
+ 123 (21)
+ 168 (19)
+ 203 (17)
+ 273 (13)
+ 384 ( 9)
+ 439 ( 5)
+CONU
+  43 (23)
+  75 (21)
+ 102 (19)
+ 119 (17)
+ 145 (13)
+ 173 ( 8)
+ 203 ( 4)
+GUNA
+  45 (22)
+  76 (20)
+ 108 (18)
+ 125 (16)
+ 147 (12)
+ 192 ( 7)
+ 224 ( 3)
+FSSE
+  45 (21)
+  75 (19)
+  97 (17)
+ 105 (15)
+ 148 (11)
+ 239 ( 7)
+ 312 ( 3)
+OFCL
+  50 (23)
+  86 (21)
+ 118 (19)
+ 134 (17)
+ 160 (13)
+ 234 ( 9)
+ 302 ( 5)
+
+NHC Official
+(1995-2004 mean
+
+
+ 	Errors given for the 96 and 120 h periods are averages over the four-year period 2001-4. )
+42 (3400)
+
+75 (3116)
+
+107 (2848)
+
+138 (2575)
+
+202 (2117)
+
+236 (649)
+
+310 (535)
+
+
+Table 4.	Watch and warning summary for Hurricane Philippe, 17-23 September 2005.
+
+Date/Time (UTC)
+Action
+Location
+23 / 1300
+Tropical Storm Warning issued
+Bermuda
+23 / 2100
+Tropical Storm Warning discontinued
+Bermuda
+
+
+
+
+
+Figure 1.	Best track positions for Hurricane Philippe, 17-23 September 2005.  
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Philippe, 17-23 September 2005.  Aircraft observations have been adjusted for elevation using 90%, 80%, and 80% reduction factors for observations from 700 mb, 850 mb, and 1500 ft, respectively.  
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Hurricane Philippe, 17-23 September 2005. 
+
+Figure 4.	GOES-12 visible image at 1245 UTC 22 September 2005, showing the circulation of Philippe 
+(centered near 25?N, 57?W within the dashed orange circle) embedded within a larger non-tropical low.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11
+
+
+
