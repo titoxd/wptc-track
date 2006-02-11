@@ -156,7 +156,8 @@
       )],
      "1977" =>
      [(
-       #'Anita', 'Babe', 'Clara', 'Dorothy', 'Evelyn', 'Frieda'
+       #'Anita', 'Clara', 'Dorothy', 'Evelyn', 'Frieda'
+       # Babe is handled below
       )],
      "1978" =>
      [(
@@ -393,7 +394,7 @@
    [ (
 #      [ (1956, 12, "Emma") ],
 #      [ (1959, 15, "Vera") ],
-#      [ (1977, 10, "Babe") ],
+#      [ (1977, 10, "Babe Pacific") ],
 #      [ (1979, 23, "Tip") ],
 #      [ (1984, 13, "Ike") ],
 #      [ (1988, 23, "Ruby") ],
@@ -530,6 +531,7 @@
 
 #      [ ("--year 1954 --id 1 --name Alice --extra 0", "Alice1 1954", "Hurricane Alice1 (1954)") ],
 #      [ ("--year 1954 --id 11 --name Alice --extra 0", "Alice2 1954", "Hurricane Alice2 (1954)") ],
+#      [ ("--year 1977 --name Babe --extra 0", "Babe Atlantic 1977", "Hurricane Babe (1977)") ],
 
       # Zone-crossers
 #      [ ("--year 1996 --name cesar --input1 epac.txt --year1 1996 --name1 douglas", "Cesar-Douglas 1996", "Hurricane Cesar-Douglas (1996)") ],
