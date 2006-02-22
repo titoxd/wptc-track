@@ -1,0 +1,976 @@
+Tropical Cyclone Report
+Tropical Storm Tammy
+5 - 6 October 2005
+
+Stacy R. Stewart
+National Hurricane Center
+28 January 2006
+
+
+	Tammy was a short-lived tropical storm that developed from a complex interaction between a vigorous tropical wave and an upper-level trough. The cyclone made landfall along the northeastern Florida coast and caused only minor damage.
+
+	Synoptic History
+
+A tropical wave, accompanied by a broad surface low pressure system and curved convective cloud bands, crossed the coast of western Africa on 24 September. The wave moved west-northwestward and lost most of its convection until 2 October when the system was located just north of the Leeward Islands and began to interact with the eastern portion of a large negatively-tilted mid- to upper-level trough. Although the amount and vertical depth of the thunderstorm activity continued to increase through 3 October, moderate upper-level shear on the east side of the large trough inhibited any significant amplification of the wave. QuikSCAT satellite winds and reports from the Bahama Islands on both 3 and 4 October confirmed the presence of a sharp surface trough but showed no closed circulation. Late on 4 October, the northern portion of the tropical wave broke off and turned northwestward, and began to move closer to the upper-level trough axis where the vertical shear was weakest. The northwestward motion brought the surface trough into close proximity with an extensive area of surface high pressure situated over the central Atlantic Ocean. This caused an increase in the pressure gradient between the two systems, resulting in a broad area of gale-force winds just east of the Bahamas.
+
+As the surface trough moved over the Bahamas early on 5 October, a small mass of deep convection with cloud top temperatures lower than -80o C developed along the trough axis. By 0400 UTC, surface observations from Florida and the Bahamas indicated a small surface low pressure system was forming over the Straits of Florida. Doppler radar data from the NOAA National Weather Service Forecast Offices in Miami and Melbourne, Florida also indicated a low to mid-level cyclonic circulation had formed within the convective cloud mass. By 0600 UTC, surface observations indicated a low pressure center had developed just off the southeastern Florida coast about 20 n mi east of Jupiter. Since 35-kt winds were already present east of the newly formed surface low, the cyclone skipped the tropical depression phase. The “best track” chart of the tropical cyclone’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  Best track positions and intensities are listed in Table 1.
+
+Under the influence of southeasterly steering flow on the east side of a deep-layer low pressure system that was over the eastern Gulf of Mexico, Tammy moved steadily northwestward at about 10 kt, paralleling the Florida east coast. By late on 5 October, Tammy turned toward the west-northwest as the cyclone moved into the northeastern quadrant of the mid- to upper level low. The strong upper-level difluence in this area aided in the development of persistent deep convection, which allowed Tammy to strengthen before it made landfall along the northeastern Florida coast near Atlantic Beach at around 2300 UTC.
+
+After making landfall, Tammy’s forward speed increased to 14-19 kt as the cyclone turned westward across southern Georgia early on 6 October. Land effects caused the cyclone to quickly weaken to a depression by 1200 UTC and degenerate into a remnant low pressure system just 6 h later. The weak surface low drifted slowly southwestward across extreme southeastern Alabama and into the western Florida panhandle for the next 12h. By 0600 UTC 7 October, the remnant low was absorbed by a larger deep-layer extratropical low pressure system over the east-central Gulf of Mexico.
+
+
+	Meteorological Statistics
+
+	Observations in Tammy (Figs. 2 and 3) include satellite-based Dvorak technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB), the Satellite Analysis Branch (SAB) and the U. S. Air Force Weather Agency (AFWA), as well as flight-level observations from flights of the 53rd Weather Reconnaissance Squadron of the U. S. Air Force Reserve Command.  Microwave satellite imagery from NOAA polar-orbiting satellites, the NASA Tropical Rainfall Measuring Mission (TRMM), the NASA QuikSCAT, and Defense Meteorological Satellite Program (DMSP) satellites were also useful in tracking Tammy. Data from NOAA National Weather Service (NWS) Doppler radars (Figure 4) was crucial in tracking Tammy’s center and monitoring the evolution of the storm system in the early morning hours of 5 October until the first reconnaissance flight arrived at around 1600 UTC later that day. 
+
+Ship reports of winds of tropical storm force associated with Tammy are given in Table 2, and selected surface observations from land stations and data buoys are given in Table 3.
+
+	There were only limited aircraft reconnaissance data as a result of the short-fused nature of Tammy’s development and its short lifetime. The maximum flight-level wind observed at 1500 ft was 51 kt at 1816 UTC 5 October. Using an 80% adjustment factor yields a surface wind estimate of about 40 kt. Two ships (call signs A8GQ8 and WDC692) located northeast of Tammy’s center reported sustained winds of 45 and 44 kt at 0200 UTC and 0300 UTC 6 October, respectively, and those reports were basis for assigning a peak intensity of 45 kt.  The extrapolated minimum central pressure reported by the reconnaissance aircraft was 1001 mb at 2005 UTC 5 October. The lowest pressure noted in surface observations was 1002.0 mb at the Mayport, Florida Naval Base as the center of Tammy passed just a few miles south of that location. Doppler velocity data from the Jacksonville WSR-88D also supported approximately 45-kt surface winds.
+
+
+
+
+	Casualty and Damage Statistics
+
+	The primary effect from Tammy were floods caused by heavy rainfall and storm surge. Rainfall totals were generally in the 3-5 in range. However, some isolated rainfall amounts near 10 in occurred over portions of extreme southeastern Georgia, which resulted in significant flooding in McIntosh County. Fifteen to twenty roads were washed out, two pond dams burst, and five homes were damaged in the county. In Glynn County, Georgia, heavy rainfall caused flood damage to several homes.
+
+	In addition to the rain-induced freshwater flooding, a storm surge generally in the  2-4 ft range caused saltwater floods along the coasts and barrier islands of extreme northeastern Florida, Georgia and South Carolina. More than 2 ft of beach erosion occurred in St. Johns and Flagler County, Florida. In Nassau County, Florida, several boardwalks were damaged or washed away. Farther north, significant beach erosion occurred at Tybee Island, Georgia and at Edisto Beach and Isle of Palms, South Carolina. Several feet of beach were lost and several homes were damaged on Edisto Beach.
+
+	An F0 tornado damaged a hotel roof and snapped trees and power poles near Glynco Airport (KBQK), Brunswick, Georgia during the late afternoon of 5 October. 
+
+	Information from the American Insurance Services Group indicate that insured property damage caused by Tropical Storm Tammy was less than the catastrophe threshold of $25 million.  
+
+
+	Forecast and Warning Critique
+
+	Forecast verification statistics are limited since Tammy only lasted for 36 h. Average official track errors (with the number of cases in parentheses) for Tammy were 41 (5), 85 (3), and 120 (1) n mi for the 12, 24, and 36 h forecasts, respectively.  These errors are slightly lower than the average official track errors for the 10-yr period 1995-2004 (42, 75, and 107 n mi, respectively). The official NHC forecast (OFCL) outperformed all of the available model guidance at 12 h. At 24 h, the interpolated GFDL, GFS, and NOGAPS models performed superbly and produced track errors about half those of the OFCL forecasts.
+
+	Average official intensity errors were 4, 7, and 8 kt for the 12, 24, and 36 h forecasts, respectively. These errors were much lower than the average official intensity errors over the 10-yr period 1995-2004 are 6, 10, and 12 kt, respectively.
+
+	A summary of tropical cyclone coastal watches and warnings for Tropical Storm Tammy are listed in Table 5. Since Tammy did not become a tropical cyclone until it was very close to land, there was only about 6 h of lead time before the onset of tropical storm-force winds occurred in the tropical storm warning area.
+
+	Tammy’s potential tropical cyclone development was reasonably well anticipated given the uncertainty in how the system would interact with and be affected by the upper-level trough over the eastern Gulf Mexico and Florida. Possible genesis was first mentioned on the 0230 UTC 4 October Tropical Weather Outlook and associated graphics issued by the Tropical Prediction Center’s National Hurricane Center and Tropical Analysis and Forecast Branch. This resulted in a little more than 24-hour genesis lead time. 
+
+e. 	Acknowledgements
+
+	Much of the data for this report was supplied by the National Weather Service WFOs in Melbourne and Jacksonville, Florida, and Charleston, South Carolina.  NOAA buoy and C-MAN data were provided by the National Data Buoy Center.
+Table 1.	Best track for Tropical Storm Tammy, 5-6 October 2005.
+
+Date/Time
+(UTC)
+
+Latitude
+(N o)
+
+Longitude
+(W o)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+05 / 0600
+27.3
+79.7
+1006
+35
+tropical storm
+05 / 1200
+28.3
+80.2
+1004
+40
+"
+05 / 1800
+29.5
+80.9
+1001
+45
+"
+06 / 0000
+30.5
+81.6
+1002
+45
+"
+06 / 0600
+31.3
+82.8
+1005
+35
+"
+06 / 1200
+31.8
+84.6
+1005
+25
+tropical depression
+06 / 1800
+31.2
+85.8
+1006
+15
+"
+07 / 0000
+30.3
+85.6
+1005
+10
+remnant low
+07 / 0600
+
+
+
+
+absorbed by larger extratropical low
+05 / 2300
+30.4
+81.4
+1002
+45
+landfall near Atlantic Beach, Florida
+05 / 1800
+29.5
+80.9
+1001
+45
+minimum pressure
+
+Table 2.	Selected ship and buoy reports with winds of at least 34 kt for Tropical Storm Tammy, 5-6 October 2005.
+
+Date/Time (UTC)
+
+Ship call sign
+
+Latitude
+(EN)
+
+Longitude
+(EW)
+
+Wind
+dir/speed (kt)
+
+Pressure 
+(mb)
+05 / 1000
+Buoy 41012
+30.0
+80.6
+080 / 29 G 38
+1003.7
+05 / 2300
+WFJN
+31.1
+79.0
+130 / 39
+1013.0
+06 / 0120
+Buoy 41004
+32.5
+79.1
+120 / 38 G 48
+1010.7
+06 / 0130
+Buoy 41008
+31.4
+80.9
+120 / 35 G 46
+1005.8
+06 / 0200
+A8GQ8
+32.4
+78.3
+110 / 45
+1016.0
+06 / 0300
+WDC692
+31.4
+80.7
+120 / 44
+1003.5
+06 / 0600
+PDAS
+31.7
+80.3
+110 / 35
+1008.8
+G   peak gust
+
+
+Table 3.	Selected surface observations Tropical Storm Tammy, 5-6 October 2005
+Location
+Minimum Sea Level Pressure
+Maximum Surface 
+Wind Speed
+Storm surge
+(ft)c
+Storm
+tide
+(ft)d
+Total
+rain
+(in)
+
+Date/
+time
+(UTC)
+Press.
+(mb)
+Date/
+time
+(UTC)a
+Sustained
+(kt)b
+Gust
+(kt)
+
+
+
+Florida
+
+
+
+
+
+
+
+
+Cecil Field Airport (KVQQ)
+05/2325
+1004.7
+
+
+
+
+
+
+Craig Airport (KCRG)
+05/2341
+1002.4
+
+
+
+
+
+
+Fernandina Beach
+
+
+
+
+
+3.2
+
+
+Fernandina Beach (FRBF1)
+
+
+
+
+
+
+
+4.40
+Gainesville Airport (KGNV)
+05/2053
+1005.1
+
+
+
+
+
+
+Hastings ARC (HTGF1)
+
+
+
+
+
+
+
+3.63
+Jacksonville Int’l Airport (KJAX)
+05/2340
+1003.0
+05/1020
+
+33
+
+
+3.41
+Jacksonville Naval Air Station (KNIP)
+05/2242
+1002.7
+
+
+
+
+
+
+Mayport Bar Pilots Station
+
+
+
+
+
+2.3
+
+
+Mayport Naval Base (KNRB)
+05/2253
+1002.0
+051611
+
+36
+
+
+
+St. Augustine  C-MAN
+(SAUF1) 16.5 m elev.
+05/2000
+1002.9
+05/0851
+
+37
+
+
+
+St. Augustine Airport (KSGJ)
+05/2055 e 
+1002.4
+05/1055
+
+34
+
+
+
+St. Johns River I-295 Bridge
+
+
+
+
+
+2.5
+
+
+Vilano Beach ICWW
+
+
+
+
+
+3.0
+
+
+
+
+
+
+
+
+
+
+
+Georgia
+
+
+
+
+
+
+
+
+Alma Airport (KAMG)
+05/0547
+1004.7
+
+
+
+
+
+
+Brunswick (BRUG1)
+
+
+
+
+
+
+
+8.30
+Brunswick/Glynco Airport
+(KBQK)
+06/0020
+1005.8
+06/0100
+
+38
+
+
+9.93
+Brunswick/McKinnon Airport (KSSI)
+06/0050
+1004.1
+06/0053
+
+40
+
+
+
+Fort Pulaski (NOS station)
+
+
+06/0200
+38
+45
+4.2
+
+
+Nahunta 3E (NAHG1)
+
+
+
+
+
+
+
+9.11
+Patterson (PATG1)
+
+
+
+
+
+
+
+3.96
+Savannah (unofficial)
+
+
+
+
+
+
+
+6.49
+Savannah Airport (KSAV)
+06/1609
+1007.5
+
+
+
+
+
+4.44
+SKMG1  U.S. Navy Tower
+31.5N 80.2W / 50 m elev.
+05/2300
+1008.0
+06/0234
+45
+52
+
+
+
+SPAG1  U.S. Navy Tower
+31.4N 80.6W / 50 m elev.
+
+
+06/0231 e
+43
+47
+
+
+
+TYBG1 U.S. Navy Tower
+31.6N 79.9W / 34 m elev.
+06/0129
+1007.9
+06/0229 e
+41
+52
+
+
+
+Waycross 4NE (AYSG1)
+
+
+
+
+
+
+
+3.42
+Woodbine (WBNG1)
+
+
+
+
+
+
+
+9.21
+
+
+
+
+
+
+
+
+
+South Carolina
+
+
+
+
+
+
+
+
+Charleston Airport (KCHS)
+06/1557
+1008.8
+05/1619
+28
+35
+
+
+3.63
+Downtown Charleston (unofficial)
+
+
+05/1948
+
+43
+
+
+3.58
+Charleston Harbor
+
+
+
+
+
+2.6
+
+
+Folly Beach C-MAN 
+(FBIS)  5 m elev.
+
+
+05/2030
+35
+48
+
+
+
+Fripp Island
+
+
+
+
+
+3.3
+
+
+Hilton Head (unofficial)
+
+
+
+
+
+
+
+5.65
+Hinesville (unofficial)
+
+
+
+
+
+
+
+5.16
+Ladson (unofficial)
+
+
+
+
+
+
+
+3.54
+Metter (unofficial)
+
+
+
+
+
+
+
+4.69
+South Capers Island
+
+
+
+
+
+2.5
+
+
+
+a  Date/time is for sustained wind when both sustained and gust are listed.
+b  Except as noted, sustained wind averaging periods for C-MAN and land-based ASOS reports are 2 min; buoy averaging periods are 8 min.
+c  Storm surge is water height above normal astronomical tide level.
+d  Storm tide is water height above National Geodetic Vertical Datum (1929 mean sea level).
+e   Last of several occurrences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 4.	Preliminary forecast evaluation (heterogeneous sample) for Tropical Storm 
+Tammy, 5-6 October 2005. Forecast errors (n mi) are followed by the number of forecasts in 
+parentheses. Errors smaller than the NHC official forecast are shown in bold-face type. 
+Verification includes the depression stage.
+
+Forecast Technique
+
+
+Forecast Period (h)
+
+
+
+
+
+12
+
+
+24
+
+
+36
+
+
+48
+
+
+72
+
+
+96
+
+
+120
+
+CLP5
+  73 ( 5) 
+ 210 ( 3)
+ 374 ( 1)
+
+
+
+
+GFNI
+  58 ( 3)
+  51 ( 1)
+
+
+
+
+
+
+
+
+
+GFDI
+  41 ( 5)
+  59 ( 3)
+  74 ( 1)
+
+
+
+
+
+
+
+
+GFDL *
+  42 ( 4)
+  41 ( 2)
+
+
+
+
+
+
+
+
+
+GFDN
+  75 ( 3)
+  77 ( 2)
+
+
+
+
+
+
+
+
+
+GFSI
+  41 ( 5)
+  70 ( 3)
+ 101 ( 1)
+
+
+
+
+
+
+
+
+GFSO *
+  50 ( 4)
+  45 ( 2)
+
+
+
+
+
+
+
+
+
+
+
+AEMI
+  48 ( 5)
+  64 ( 3)
+  93 ( 1)
+
+
+
+
+NGPI
+  51 ( 4)
+  44 ( 1)
+
+
+
+
+
+NGPS *
+  78 ( 4)
+ 114 ( 2)
+
+
+
+
+
+UKMI
+131 ( 3)
+ 261 ( 1)
+
+
+
+
+
+UKM *
+  92 ( 2)
+ 158 ( 1)
+
+
+
+
+
+A98E
+  52 ( 5)
+ 140 ( 3)
+ 223 ( 1)
+
+
+
+
+A9UK
+  46 ( 2)
+ 129 ( 1)
+
+
+
+
+
+BAMD  
+  57 ( 5)
+  99 ( 3)
+ 144 ( 1)
+
+
+
+
+BAMM 
+  48 ( 5)
+  89 ( 3)
+ 114 ( 1)
+
+
+
+
+BAMS
+  54 ( 5)
+  76 ( 3)
+  66 ( 1)
+
+
+
+
+CONU
+  45 ( 5)
+  63 ( 3)
+  87 ( 1)
+
+
+
+
+GUNA
+  52 ( 3)
+  76 ( 1)
+
+
+
+
+
+FSSE
+   8 ( 1)
+  70 ( 1)
+
+
+
+
+
+OFCL
+  41 ( 5)
+  85 ( 3)
+ 120 ( 1)
+
+
+
+
+
+NHC Official
+(1995-2004 mean)
+
+
+42 
+
+(3400)
+
+75 
+
+(3116)
+
+107
+
+ (2848)
+
+138
+
+ (2575)
+
+202
+
+ (2117)
+
+236 
+
+(649)
+
+310 
+
+(535)
+*Output from these models was unavailable at forecast time.
+Errors given for the 96 and 120 h periods are averages over the four-year period 2001-4
+
+
+Table 5.	Watch and warning summary for Tropical Storm Tammy, 5-6 October 2005.
+Date/Time (UTC)
+
+Action
+
+Location
+ 5 / 1100
+Tropical Storm Warning issued
+Cocoa Beach to South Santee River
+ 5 / 1800
+Tropical Storm Warning modified to
+Flagler Beach to South Santee River
+ 6 / 0000
+Tropical Storm Warning modified to
+Fernandina Beach to South Santee River
+ 6 / 0900
+Tropical Storm Warning modified to
+Altamaha Sound to South Santee River
+ 6 / 1500
+Tropical Storm Warning discontinued
+All
+
+
+
+
+
+
+
+Figure 1.	Best track positions for Tropical Storm Tammy, 5-6 October 2005.  
+
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed 
+curve for Tropical Storm Tammy, 5-6 October 2005.  Aircraft observations have been adjusted 
+for elevation using an 80% reduction factor for observations from 1500 ft. Landfall occurred just 
+south of Mayport, Florida near Atlantic Beach around 2300 UTC 5 October 2005.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for 
+Tropical Storm Tammy, 5-6 October 2005.
+
+Figure 4.       Reflectivity image at 1834 UTC 5 October from the NWS Jacksonville, FL WSR-88D Doppler weather radar. A small mass of deep convection (50-55 dBZ) was co-located with the surface center just east of the northeastern Florida coast near R8. Tammy was its peak intensity of 45 kt at this time based on Doppler radar velocity data. The small arrows and alphanumerics are the result of the radar system’s cell identification and tracking algorithm.
+
+
+
+
+
+14
+

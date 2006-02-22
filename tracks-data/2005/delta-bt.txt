@@ -1,0 +1,811 @@
+Tropical Cyclone Report
+Tropical Storm Delta
+22 - 28 November 2005
+
+Jack Beven
+National Hurricane Center
+14 February 2005
+
+
+	Delta was a late-season tropical storm of subtropical origin.  After losing tropical characteristics, the cyclone caused casualties and storm- to hurricane-force winds in the Canary Islands.
+
+
+
+
+
+	Synoptic History
+
+Delta had a non-tropical origin.  A broad area of low pressure formed on 19 November about 1200 n mi southwest of the Azores.  The system moved generally east-northeastward through 20 November while in the vicinity of a cold front trailing from another low to the north.  The incipient Delta then turned northeastward on 21 November while it started developing central convection.  By 0900 UTC 22 November, QuikSCAT data indicated the formation of an inner wind maximum, while data from the Advanced Microwave Sounding Unit indicated the formation of an upper-level warm core.  These indicated the low was acquiring some tropical cyclone characteristics.  By 1800 UTC that day, satellite imagery indicated the low had become more isolated from the frontal cloud bands, and it is estimated that a subtropical storm formed about that time when centered about 755 n mi southwest of the Azores.  The “best track” chart of the tropical cyclone’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.
+
+The storm moved little early on 22 November, but it began a south-southwestward motion late that day.  The convection consolidated, and it is estimated that Delta became a tropical storm near 1200 UTC 23 November.  Delta turned southeastward late on 23 November and then stalled on 24 November about 1150 n mi west-southwest of the Canary Islands.  The cyclone reached a first estimated peak intensity of 60 kt by 1200 UTC that day.  Delta moved southwestward on 25 November, followed by turns toward the southeast and east-northeast on 26 November.  Increasing vertical wind shear caused weakening during this time, with the maximum winds decreasing to an estimated 35 kt.
+
+Delta accelerated east-northeastward on 27 November in response to an intensifying deep-layer trough over western Europe.  This was accompanied by re-intensification, with the short-lived formation of a ragged eye near 1200 UTC.  It is estimated that the maximum winds again reached 60 kt at that time.  The cyclone turned east-northeastward on 28 November while it moved into the surface baroclinic zone associated with the European trough.  A combination of increasing vertical shear and cold air entrainment caused Delta to lose tropical characteristics, and it is estimated it became extratropical about 1200 UTC 28 November about 215 n mi west-northwest of the western Canary Islands.  The extratropical remnants of Delta continued eastward, passing about 90 n mi north of the Canary Islands later that day with winds estimated at 60 kt.  The storm moved eastward into Morocco early on 29 November and then accelerated east-northeastward across Morocco while rapidly weakening.  The cyclone dissipated late on 29 November over northwestern Algeria. 
+
+
+	Meteorological Statistics
+
+	Observations in Delta (Figs. 2 and 3) include satellite-based Dvorak technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB), the Satellite Analysis Branch (SAB) and the U. S. Air Force Weather Agency (AFWA).  Microwave satellite imagery from NOAA polar-orbiting satellites, the NASA Tropical Rainfall Measuring Mission (TRMM), the NASA Aqua, the NASA QuikSCAT, the Department of Defense WindSat, and Defense Meteorological Satellite Program (DMSP) satellites were also useful in tracking Delta.
+
+	Ship reports of winds of tropical storm force associated with Delta are given in Table 2.  The most significant observation was from the British Merchant (call sign VQIB9), which reported 60-kt winds and a pressure of 990.8 mb northwest of the center during the re-intensification of Delta on 27 November.  Additionally, a drifting buoy reported a pressure of 984.4 mb at 0200 UTC 23 November.
+
+	Delta did not affect land as a tropical or subtropical storm.  However, as an extratropical low, it significantly affected the Canary Islands.  A station on Tenerife reported sustained winds of 63 kt with a gust of 79 kt at 2130 UTC 28 November, while a station on La Palma reported a gust to 82 kt at 2000 UTC.  Additionally, the Izaña Observatory located at an altitude of 7766 ft (2367 m) reported sustained winds of 98 kt with a gust to 134 kt at 2031 UTC.  The strong winds in the Canary Islands were also sampled by a QuikSCAT overpass at 1815 UTC that day, with experimental high-resolution data from that pass shown in Figure 4.
+
+	Based on the ragged eye (Figure 5), and on the 60-kt ship report in what would normally be the weaker side of an east-northeastward-moving tropical cyclone, it is possible that Delta reached hurricane strength for a brief time on 27 November.  However, the data are not conclusive enough to justify an after-the-fact upgrade.
+								
+
+	Casualty and Damage Statistics
+	
+	There were no reports of damage or casualties associated with Delta as a tropical or subtropical storm.  However, as an extratropical low, Delta was responsible for seven deaths in and near the Canary Islands.  This included six people who drowned when their boat overturned, with twelve people from the boat reported missing.  The winds of ex-Delta caused widespread power outages in the Canary Islands.
+
+
+	Forecast and Warning Critique
+
+	Average official track errors (with the number of cases in parentheses) for Delta were 52 (17), 104 (15), 170 (13), 258 (11), 427 (7), and 681 (3) n mi for the 12, 24, 36, 48, 72, and 96 h forecasts, respectively.  These errors are significantly larger than the average official track errors for the 10-yr period 1995-2004
+
+ 	Errors given for the 96 and 120 h periods are averages over the four-year period 2001-4.  (42, 75, 107, 138, 202, and 236 n mi, respectively, Table 3).  Two factors contributed the large track forecast errors.  First, early forecasts called for Delta to turn northward in response to a developing low pressure area to the west.  The storm actually moved southward and then eastward.  Later forecasts correctly called for an eastward motion due to the European trough, but the forecast motion was slower than what occurred.  Many of the numerical guidance models had lower average track forecast errors than the official forecasts, particularly during the 24-72 h period.  The U. S. National Weather Service Global Forecast System model, the U. S. Navy NOGAPS model, the U. S. Air Force MM5 model, and the European Center for Medium Range Forecasting model all had notably lower average errors than the official forecast.
+
+	Average official intensity errors were 9, 13, 17, 17, 12, and 10 kt for the 12, 24, 36, 48, 72, and 96 h forecasts, respectively.  For comparison, the average official intensity errors over the 10-yr period 1995-2004 are 6, 10, 12, 15, 18, and 20 kt, respectively.   The main factors in the intensity forecast errors were forecasting insufficient weakening of Delta on 25-26 November and insufficient re-intensification on 27 November.
+
+	The genesis of Delta was well anticipated in Tropical Prediction Center products.  The Tropical Weather Outlook and the Tropical Cyclone Marine Danger graphic both mentioned the potential for subtropical cyclone development about 48 h before the pre-Delta low became a subtropical storm. 
+
+	No watches or warnings were issued for Delta.
+
+
+Acknowledgement
+
+	Data on the effects of ex-Delta in the Canary Islands were provided by the Instituto Nacional De Meteorología of Spain.
+
+
+
+Table 1.	Best track for Tropical Storm Delta, 22 - 28 November 2005.
+
+Date/Time
+(UTC)
+
+Latitude
+(?N)
+
+Longitude
+(?W)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+19 / 1200
+27.0
+48.0
+1010
+25
+extratropical
+19 / 1800
+26.7
+47.5
+1009
+25
+"
+20 / 0000
+26.7
+46.7
+1008
+25
+"
+20 / 0600
+27.2
+45.9
+1008
+25
+"
+20 / 1200
+27.7
+44.8
+1007
+30
+"
+20 / 1800
+28.0
+43.5
+1003
+35
+"
+21 / 0000
+28.3
+42.2
+1000
+35
+"
+21 / 0600
+29.0
+41.1
+998
+35
+"
+21 / 1200
+29.9
+40.1
+996
+35
+"
+21 / 1800
+30.9
+39.6
+994
+40
+"
+22 / 0000
+31.5
+40.1
+992
+40
+"
+22 / 0600
+31.4
+39.9
+990
+45
+"
+22 / 1200
+31.2
+39.8
+988
+45
+"
+22 / 1800
+30.7
+40.5
+986
+45
+subtropical storm
+23 / 0000
+29.9
+40.9
+984
+45
+"
+23 / 0600
+28.8
+41.3
+983
+45
+"
+23 / 1200
+27.4
+41.2
+983
+50
+tropical storm
+23 / 1800
+26.4
+40.8
+983
+50
+"
+24 / 0000
+25.5
+40.2
+982
+55
+"
+24 / 0600
+25.0
+39.6
+981
+55
+"
+24 / 1200
+24.8
+39.0
+980
+60
+"
+24 / 1800
+24.6
+38.9
+980
+60
+"
+25 / 0000
+24.1
+39.0
+980
+60
+"
+25 / 0600
+23.8
+39.3
+982
+55
+"
+25 / 1200
+23.3
+39.6
+982
+55
+"
+25 / 1800
+22.8
+39.8
+985
+50
+"
+26 / 0000
+22.3
+39.8
+989
+45
+"
+26 / 0600
+21.8
+39.4
+993
+40
+"
+26 / 1200
+22.0
+38.4
+997
+35
+"
+26 / 1800
+22.6
+37.3
+997
+35
+"
+27 / 0000
+23.5
+35.8
+998
+35
+"
+27 / 0600
+24.8
+34.0
+993
+45
+"
+27 / 1200
+26.7
+31.9
+982
+60
+"
+27 / 1800
+28.3
+29.9
+982
+60
+"
+28 / 0000
+29.1
+27.5
+983
+60
+"
+28 / 0600
+29.9
+24.8
+984
+60
+"
+28 / 1200
+30.2
+21.6
+985
+60
+extratropical
+28 / 1800
+30.2
+18.2
+986
+60
+"
+29 / 0000
+30.2
+14.6
+988
+55
+"
+29 / 0600
+30.7
+10.9
+992
+50
+"
+29 / 1200
+32.6
+6.6
+1000
+35
+"
+29 / 1800
+35.3
+1.0
+1003
+30
+"
+30 / 0000
+
+
+
+
+dissipated
+24 / 1200
+24.8
+39.0
+980
+60
+minimum pressure
+
+   
+
+Table 2.	Selected ship reports with winds of at least 34 kt for Tropical Storm Delta, 22 - 28 November 2005.
+
+Date/Time (UTC)
+Ship name/call sign
+
+Latitude
+(?N)
+
+Longitude
+(?W)
+
+Wind
+dir/speed (kt)
+
+Pressure 
+(mb)
+22 / 1200
+Chiquita Schwiez 
+ 30.3
+  41.4
+340 /  44
+ 990.8
+22 / 1800
+Chiquita Belgie
+ 30.7
+  44.3
+360 /  45
+ 999.2
+23 / 0000
+Chiquita Belgie
+ 31.2
+  43.2
+360 /  45
+ 996.8
+23 / 0000
+Chiquita Schwiez 
+ 32.8
+  38.5
+130 /  37
+ 999.2
+23 / 0300
+Sealand Quality
+ 29.9
+  43.5
+360 /  44
+ 993.8
+23 / 0600
+Sealand Quality
+ 30.0
+  42.8
+010 /  44
+ 992.2
+23 / 0600
+Chiquita Belgie 
+ 31.9
+  42.0
+050 /  45
+1000.7
+23 / 1200
+Sealand Quality
+ 30.4
+  41.5
+050 /  44
+ 998.2
+23 / 1200
+DINA11
+ 31.5
+  35.5
+070 /  47
+1005.0
+24 / 1200
+DINA11
+ 28.3
+  42.3
+030 /  47
+1008.0
+27 / 1800
+British Merchant
+ 29.1
+  30.0
+030 /  60
+ 990.8
+28 / 1800
+Poseidon
+ 28.3
+  15.3
+180 /  35
+1000.7
+
+
+
+
+Table 3.	Preliminary forecast evaluation (heterogeneous sample) for Tropical Storm Delta, 22 - 28 November 2005.  Forecast errors (n mi) are followed by the number of forecasts in parentheses.  Errors smaller than the NHC official forecast are shown in bold-face type.  Verification includes the depression stage, but does not include the extratropical stage.
+
+Forecast Technique
+
+
+Forecast Period (h)
+
+
+
+
+
+12
+
+
+24
+
+
+36
+
+
+48
+
+
+72
+
+
+96
+
+
+120
+
+CLP5
+82 (19)
+196 (17)
+327 (15)
+415 (13)
+474 ( 9)
+743 ( 5)
+837 ( 1)
+GFDI
+60 (18)
+108 (16)
+143 (14)
+195 (12)
+381 ( 8)
+632 ( 4)
+
+GFDL*
+56 (17)
+109 (15)
+146 (13)
+177 (11)
+325 ( 8)
+523 ( 4)
+638 ( 1)
+GFNI
+55 (15)
+101 (13)
+135 (11)
+175 ( 9)
+506 ( 5)
+780 ( 1)
+
+GFDN*
+58 (14)
+107 (12)
+129 (10)
+143 ( 8)
+399 ( 5)
+619 ( 1)
+
+FV4
+56 (16)
+95 (13)
+145 (11)
+214 (10)
+393 ( 6)
+567 ( 2)
+
+AF1I
+60 (13)
+112 (11)
+133 ( 9)
+119 ( 7)
+186 ( 3)
+
+
+AFW1*
+79 ( 7)
+94 ( 6)
+143 ( 5)
+80 ( 4)
+144 ( 2)
+
+
+GFSI
+49 (18)
+84 (16)
+105 (14)
+118 (12)
+273 ( 8)
+611 ( 4)
+
+GFSO*
+48 (18)
+80 (17)
+103 (15)
+112 (13)
+215 ( 9)
+515 ( 5)
+940 ( 1)
+AEMI
+49 (18)
+77 (16)
+104 (14)
+127 (12)
+242 ( 8)
+491 ( 4)
+
+AEMN*
+47 (19)
+80 (17)
+98 (15)
+117 (13)
+202 ( 9)
+419 ( 5)
+607 ( 2)
+NGPI
+41 (18)
+72 (16)
+95 (14)
+136 (12)
+341 ( 8)
+709 ( 4)
+
+NGPS*
+47 (19)
+69 (17)
+93 (15)
+117 (13)
+238 ( 9)
+562 ( 5)
+989 ( 2)
+UKMI
+59 (15)
+132 (13)
+206 (11)
+271 ( 9)
+456 ( 5)
+900 ( 1)
+
+UKM* 
+68 ( 8)
+104 ( 7)
+187 ( 6)
+224 ( 5)
+403 ( 3)
+681 ( 1)
+
+CMC*
+91 (10)
+125 ( 9)
+156 ( 8)
+203 ( 7)
+363 ( 5)
+
+
+CEMN*
+75 ( 5)
+124 ( 5)
+124 ( 5)
+165 ( 3)
+403 ( 3)
+539 ( 2)
+631 ( 1)
+EMXI
+43 ( 8)
+86 ( 8)
+132 ( 7)
+173 ( 6)
+284 ( 4)
+536 ( 2)
+
+EMX*
+47 ( 9)
+78 ( 8)
+105 ( 7)
+151 ( 6)
+239 ( 4)
+378 ( 2)
+587 ( 1)
+EEMN*
+59 ( 4)
+77 ( 2)
+142 ( 2)
+234 ( 2)
+407 ( 1)
+
+
+A98E
+60 (19)
+121 (17)
+195 (15)
+296 (13)
+419 ( 9)
+474 ( 5)
+689 ( 1)
+A9UK
+59 (10)
+122 ( 9)
+191 ( 8)
+280 ( 7)
+461 ( 5)
+
+
+BAMD
+83 (18)
+183 (16)
+268 (15)
+339 (13)
+374 ( 9)
+469 ( 5)
+453 ( 1)
+BAMM
+36 (19)
+77 (17)
+105 (15)
+140 (13)
+376 ( 9)
+648 ( 5)
+666 ( 1)
+BAMS
+79 (19)
+132 (17)
+199 (15)
+295 (13)
+552 ( 9)
+738 ( 5)
+508 ( 1)
+LBAR
+45 (19)
+121 (17)
+230 (15)
+327 (13)
+462 ( 9)
+433 ( 5)
+371 ( 1)
+CONU
+43 (18)
+81 (16)
+111 (14)
+154 (12)
+345 ( 8)
+638 ( 4)
+
+GUNA
+46 (15)
+93 (13)
+128 (11)
+176 ( 9)
+374 ( 5)
+773 ( 1)
+
+GUNS
+48 (15)
+96 (13)
+140 (11)
+193 ( 9)
+397 ( 5)
+779 ( 1)
+
+FSSE
+45 (16)
+81 (14)
+101 (12)
+129 (10)
+349 ( 6)
+718 ( 2)
+
+OOPC
+70 (15)
+113 (13)
+134 (11)
+162 ( 9)
+422 ( 5)
+769 ( 1)
+
+OFCI
+63 (16)
+126 (14)
+215 (12)
+312 (10)
+499 ( 6)
+764 ( 2)
+
+OFCL
+52 (17)
+104 (15)
+170 (13)
+258 (11)
+427 ( 7)
+681 ( 3)
+
+
+NHC Official
+(1995-2004 mean)
+
+
+42 (3400)
+
+75 (3116)
+
+107 (2848)
+
+138 (2575)
+
+202 (2117)
+
+236 (649)
+
+310 (535)
+* Output from these models was unavailable at forecast time.
+
+
+
+
+
+Figure 1.	Best track positions for Tropical Storm Delta, 22 - 28 November 2005.
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Delta, 22 -28 November 2005. 
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Tropical Storm Delta, 22 - 28 November 2005. 
+
+
+
+
+Figure 4.  	Experimental high-resolution QuikSCAT overpass of the former Tropical Storm Delta at 1815 UTC 28 November 2005.  Image courtesy of the NESDIS Marine Observing Systems Team and Brigham Young University.
+
+
+
+Figure 5.  	METEOSAT-8 visible image of Tropical Storm Delta at 1200 UTC 27 November 2005.  Image courtesy of the Naval Research Laboratory, Monterey, CA, and EUMETSAT.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15
+
+
+

@@ -1,0 +1,1295 @@
+Tropical Cyclone Report
+Hurricane Stan
+1-5 October 2005
+
+Richard J. Pasch and David P. Roberts
+National Hurricane Center
+14 February 2006
+
+
+	Stan was associated with disastrous inland flooding across portions of Central America and Mexico, and some estimates of the death toll are as high as 2000.  However, not all of these deaths can be directly attributed to Stan.
+
+
+
+
+
+	Synoptic History
+
+A tropical wave that moved off the coast of Africa on 17 September was the likely precursor to Stan.  This wave showed little distinction as it moved over the eastern and central tropical Atlantic for several days.  Cloudiness and showers associated with the system began to increase the wave neared 50?W longitude on 22 September, but north-northeasterly shear created an environment that was not favorable for tropical cyclone formation.  The wave moved into the eastern Caribbean Sea on 25 September, while shear over the system diminished.  By 27 September, deep convection associated with the wave became more consolidated over the central Caribbean Sea.  Over the next several days, organization of the system waxed and waned as it moved into the western Caribbean Sea.  It was not until early on 1 October, when the system neared the eastern coast of the Yucatan peninsula, that development began in earnest.  Based on the extent and organization of deep convection as well as surface observations, it is estimated that a tropical depression formed around 1200 UTC 1 October centered about 115 n mi southeast of Cozumel.  Figure 1 is a “best track” chart of the tropical cyclone’s path.  Wind and pressure histories are shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.
+
+	Lower- to middle-tropospheric ridging to the north and northeast of the tropical cyclone resulted in a west-northwestward steering current, and an upper-tropospheric anticyclone became established over the area.  The depression strengthened into a tropical storm shortly before its center made landfall on the east coast of the Yucatan peninsula, just south of Tulum, around 1000 UTC 2 October.  Stan crossed the peninsula in about 18 h while weakening back to a depression; it quickly regained tropical storm strength, however, after it moved back over water.  Deep layer high pressure over the western Gulf of Mexico forced the system to turn toward the west-southwest and southwest over the Bay of Campeche.   This turn may also have been due to the interaction with a broad, deep-layer cyclonic circulation that covered eastern Mexico and most of Central America.  As Stan approached the southern Gulf coast of Mexico, it rapidly intensified into a hurricane around 0600 UTC 4 October.  It made its second landfall shortly thereafter, as a category 1 hurricane on the Saffir-Simpson Hurricane Scale, around 1200 UTC about 80 n mi east-southeast of Veracruz.  Once inland, the cyclone weakened rapidly, and it dissipated over the very mountainous terrain of the Mexican state of Oaxaca just after 0600 UTC 5 October.
+
+	Meteorological Statistics
+
+	Observations in Stan (Figs. 2 and 3) include satellite-based Dvorak technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB), the Satellite Analysis Branch (SAB) and the U. S. Air Force Weather Agency (AFWA), as well as flight-level and dropwindsonde observations from flights of the 53rd Weather Reconnaissance Squadron of the U. S. Air Force Reserve Command (AFRES).  Microwave satellite imagery from NOAA polar-orbiting satellites, the NASA Tropical Rainfall Measuring Mission (TRMM), the NASA QuikSCAT, and Defense Meteorological Satellite Program (DMSP) satellites were also useful in tracking Stan.  An AFRES mission just prior to landfall on 4 October measured a peak 700 mb flight-level wind of 79 kt around 1000 UTC. A little earlier, a dropsonde from this mission yielded surface wind estimates of 69 to 72 kt.  These data are the primary bases for setting the peak (and landfall) intensity of Stan at 70 kt.
+
+	Ship and buoy reports of winds of tropical storm force associated with Stan are given in Table 2, and rainfall observations from stations in Mexico are given in Table 3.  Several locations reported rainfall totals in excess of 10 in.
+								
+
+	Casualty and Damage Statistics
+
+	It is impossible to determine how many people were killed by Stan.  According to the government of Mexico, there were 80 deaths in the Mexican states of Veracruz, Oaxaca, and Chiapas.  Since the actual surface circulation of the tropical cyclone seems to have been confined to Mexico, the direct death toll is therefore set at 80.  However, the tropical cyclone appeared to be embedded within the western portion of a broader-scale low-level cyclonic circulation.  This larger system produced extensive very heavy rains over portions of extreme eastern Mexico and Central America that resulted in disastrous floods.  Estimates of the total number of lives lost in Mexico and Central America are mostly in the range of 1000 to 2000, some even higher.  Guatemala was particularly hard hit; over 1000 persons may have perished in that country.
+
+	Forecast and Warning Critique
+
+Although there were not many forecasts to verify, the official track predictions for Stan were mediocre at best.  Table 4 lists the mean track forecast errors for various numerical guidance techniques and for the official forecasts.  It can be seen that the average official track errors through 72 h were comparable to, or a little larger than, the average official track errors for the 10-yr period 1995-2004
+
+ 	Errors given for the 96 and 120 h periods are averages over the four-year period 2001-4. .  These errors are largely associated with Stan’s unexpected acceleration toward the Gulf coast of Mexico.  There were no forecasts to verify at 96 and 120 h.  Overall, the interpolated version of the GFDL Hurricane Model (GFDI) was the best track prediction model for Stan; it had lower mean errors than the official forecasts at 12 through 72 h.
+
+	Average official intensity errors were 6, 11, 16, 16, and 28 kt for the 12, 24, 36, 48, and 72 h forecasts, respectively.  For comparison, the average official intensity errors over the 10-yr period 1995-2004 are 6, 10, 12, 15, and 18 kt, respectively.  In the official forecasts, Stan was predicted to strengthen into a tropical storm prior to striking the Yucatan peninsula, and it was predicted to become a hurricane before hitting the Gulf coast of Mexico.  However, it was not predicted to become a hurricane as quickly as it did.
+	
+Table 5 lists the watches and warnings issued for Stan.  The tropical storm warning for the east coast of the Yucatan peninsula was issued about 19 h before landfall of the center in that area.  Stan’s second landfall in Mexico was not predicted very well by the official forecasts.  The system turned rather unexpectedly to the left, and as a result the center reached the coast sooner and farther to the east than anticipated.  In fact, Stan’s center made its second landfall near the eastern end of the area covered by a hurricane warning.  This warning was issued about 21 h before the center crossed the coast, but was extended eastward from the vicinity of the landfall location only about 6 h prior to the arrival of the center on the coast.
+
+Four days prior to Stan’s genesis, the Tropical Weather Outlooks from the National Hurricane Center indicated the potential for tropical cyclone formation.  However, the system was slower to develop than was suggested by some of the Outlooks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 1.	Best track for Hurricane Stan, 1-5 October 2005.
+
+
+Date/Time
+(UTC)
+
+Latitude
+(?N)
+
+Longitude
+(?W)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+01 / 1200
+18.9
+ 85.6
+1007
+ 25
+tropical depression
+01 / 1800
+19.1
+ 86.2
+1005
+ 30
+"
+02 / 0000
+19.3
+ 86.7
+1004
+ 30
+"
+02 / 0600
+19.5
+ 87.2
+1003
+ 40
+tropical storm
+02 / 1200
+19.8
+ 87.9
+1003
+ 35
+"
+02 / 1800
+20.3
+ 88.8
+1004
+ 35
+"
+03 / 0000
+20.5
+ 89.8
+1003
+ 30
+tropical depression
+03 / 0600
+20.5
+ 91.0
+1003
+ 35
+tropical storm
+03 / 1200
+20.3
+ 91.7
+1000
+ 40
+"
+03 / 1800
+20.1
+ 92.2
+ 997
+ 50
+"
+04 / 0000
+19.8
+ 93.2
+ 990
+ 55
+"
+04 / 0600
+19.2
+ 94.1
+ 987
+ 65
+hurricane
+04 / 1200
+18.6
+ 94.9
+ 977
+ 70
+"
+04 / 1800
+17.9
+ 95.6
+ 988
+ 45
+tropical storm
+05 / 0000
+17.2
+ 96.4
+1000
+ 30
+tropical depression
+05 / 0600
+16.9
+ 97.0
+1004
+ 25
+"
+05 / 1200
+
+
+
+
+disssipated
+04 / 1200
+18.6
+ 94.9
+ 977
+ 70
+   minimum pressure
+02 / 1000
+19.6
+87.5
+1003
+35
+Landfall near Punta Hualaxtoc, about 35 n mi south of Tulum, Mexico
+04 / 1200
+18.6
+94.9
+977
+70
+Landfall near Punta Roca Partida, about 80 n mi east-southeast of Veracruz, Mexico
+   
+   
+
+Table 2.	Selected ship and buoy reports with winds of at least 34 kt for Hurricane Stan, 1-5 October 2005.
+
+
+Date/Time (UTC)
+
+Ship call sign or buoy ID
+
+Latitude
+(?N)
+
+Longitude
+(?W)
+
+Wind
+dir/speed (kt)
+
+Pressure 
+(mb)
+1 / 1600
+42056
+19.9
+85.1
+105 / 31
+1006.3
+02 / 1200
+ZCAM4 
+ 21.1
+  86.3
+130 /  37
+1008.0
+05 / 0000
+DGTX  
+ 13.9
+  95.0
+240 /  35
+1003.5
+05 / 0600
+C6NL6 
+ 13.7
+  92.6
+220 /  40
+1011.4
+Table 3.	Selected surface observations for Hurricane Stan, 1-5 October 2005.
+
+Location
+Minimum Sea Level Pressure
+Maximum Surface
+Wind Speed
+Storm surge
+(ft)
+Storm
+tide
+(ft)
+Total
+rain
+(in)
+
+Date/
+time
+(UTC)
+Press.
+(mb)
+Date/
+time
+(UTC)
+Sustained
+(kt)
+Gust
+(kt)
+
+
+
+Mexico
+
+
+
+
+
+
+
+
+Cancun
+
+
+
+
+
+
+
+11.61
+Peto
+
+
+
+
+
+
+
+5.62
+Motul
+
+
+
+
+
+
+
+4.21
+Conkal
+
+
+
+
+
+
+
+3.51
+Suchiate
+
+
+
+
+
+
+
+8.53
+Huehuetan
+
+
+
+
+
+
+
+7.63
+Cuetzalan
+
+
+
+
+
+
+
+6.55
+Huixtla
+
+
+
+
+
+
+
+6.18
+Libertad
+
+
+
+
+
+
+
+6.06
+El Raudal
+
+
+
+
+
+
+
+5.65
+La Cangrejera
+
+
+
+
+
+
+
+5.50
+Angel R Cabada
+
+
+
+
+
+
+
+5.38
+El Novillero
+
+
+
+
+
+
+
+12.08
+Tapachula
+
+
+
+
+
+
+
+10.74
+Despoblado
+
+
+
+
+
+
+
+11.27
+Cacaluta
+
+
+
+
+
+
+
+9.38
+Tapanatepec
+
+
+
+
+
+
+
+4.23
+Mapastepec
+
+
+
+
+
+
+
+5.39
+Arriaga Meteo Office
+
+
+
+
+
+
+
+3.81
+Tonala
+
+
+
+
+
+
+
+9.14
+Tres Picos
+
+
+
+
+
+
+
+9.51
+Nil Tepec
+
+
+
+
+
+
+
+3.99
+Zanatepec
+
+
+
+
+
+
+
+4.58
+Tapachula Observation
+
+
+
+
+
+
+
+4.58
+Oaxaca OBS Airport
+
+
+
+
+
+
+
+4.11
+Rio Verde
+
+
+
+
+
+
+
+6.43
+Oaxaca Centro
+
+
+
+
+
+
+
+4.60
+Oyameles
+
+
+
+
+
+
+
+6.29
+Chignahuapan
+
+
+
+
+
+
+
+3.90
+Patla
+
+
+
+
+
+
+
+4.13
+Nuevo Necaxa
+
+
+
+
+
+
+
+4.94
+Tenango
+
+
+
+
+
+
+
+4.42
+La Laguna
+
+
+
+
+
+
+
+5.41
+Los Reyes
+
+
+
+
+
+
+
+5.82
+Nexapa
+
+
+
+
+
+
+
+4.42
+Huauchinango
+
+
+
+
+
+
+
+3.89
+Xicotepec De Juarez
+
+
+
+
+
+
+
+4.78
+Teziutlan
+
+
+
+
+
+
+
+6.14
+El Carmen
+
+
+
+
+
+
+
+4.52
+P. La Soledad
+
+
+
+
+
+
+
+5.82
+Zacapuaxtla
+
+
+
+
+
+
+
+11.25
+Cuetzalan
+
+
+
+
+
+
+
+12.01
+Venustiano Carranza
+
+
+
+
+
+
+
+4.12
+Idolos
+
+
+
+
+
+
+
+2.99
+Villa Tejeda
+
+
+
+
+
+
+
+3.52
+El Tejar
+
+
+
+
+
+
+
+5.74
+Veracruz
+
+
+
+
+
+
+
+9.72
+Ixhuatlan Del Café
+
+
+
+
+
+
+
+3.83
+Camelpo
+
+
+
+
+
+
+
+6.62
+Papaloapan
+
+
+
+
+
+
+
+4.06
+Temazcal (Aleman)
+
+
+
+
+
+
+
+2.75
+Cerro De Oro (Madrid)
+
+
+
+
+
+
+
+8.11
+Huautla
+
+
+
+
+
+
+
+8.49
+Cuicatlan
+
+
+
+
+
+
+
+3.01
+Maria Lombardo
+
+
+
+
+
+
+
+7.99
+Dique Pescaditos
+
+
+
+
+
+
+
+5.18
+Santo Domingo
+
+
+
+
+
+
+
+3.26
+Cosautlan
+
+
+
+
+
+
+
+2.87
+Jalcomulco
+
+
+
+
+
+
+
+2.78
+Manlio F. Altamirano
+
+
+
+
+
+
+
+6.77
+El Naranjillo
+
+
+
+
+
+
+
+5.45
+Jacatepec
+
+
+
+
+
+
+
+10.74
+Xalapa Observatorio
+
+
+
+
+
+
+
+3.89
+Actopan
+
+
+
+
+
+
+
+3.76
+Rincondada
+
+
+
+
+
+
+
+3.81
+Carrizal
+
+
+
+
+
+
+
+3.01
+Cardel
+
+
+
+
+
+
+
+4.78
+Las Animas
+
+
+
+
+
+
+
+3.46
+Huatusco
+
+
+
+
+
+
+
+3.32
+Libertad
+
+
+
+
+
+
+
+4.25
+El Raudal
+
+
+
+
+
+
+
+4.36
+Misantla
+
+
+
+
+
+
+
+5.78
+Altotonga
+
+
+
+
+
+
+
+7.22
+Martinez De La Torre
+
+
+
+
+
+
+
+7.51
+Oxtlapa
+
+
+
+
+
+
+
+2.87
+Poza Rica
+
+
+
+
+
+
+
+6.33
+Tuxpan
+
+
+
+
+
+
+
+4.52
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 4.	Preliminary forecast evaluation (heterogeneous sample) for Hurricane Stan, 1-5 October 2005.  Forecast errors (n mi) are followed by the number of forecasts in parentheses.  Errors smaller than the NHC official forecast are shown in bold-face type.  Verification includes the depression stage.
+
+
+Forecast Technique
+
+
+Forecast Period (h)
+
+
+
+
+
+12
+
+
+24
+
+
+36
+
+
+48
+
+
+72
+
+
+96
+
+
+120
+
+CLP5
+  48 (14)
+ 104 (12)
+ 183 (10)
+ 271 ( 8)
+ 466 ( 4)
+
+
+GFNI
+  48 (10)
+  73 ( 8)
+ 121 ( 6)
+ 166 ( 4)
+
+
+
+GFDI
+  41 (14)
+  66 (10)
+  89 ( 8)
+ 133 ( 6)
+ 161 ( 2)
+
+
+GFSI
+  40 (12)
+  78 (10)
+ 108 ( 8)
+ 140 ( 6)
+ 235 ( 2)
+
+
+AEMI
+  40 (12)
+  81 (10)
+ 108 ( 8)
+ 153 ( 6)
+ 258 ( 2)
+
+
+NGPI
+  49 (11)
+ 100 (10)
+ 140 ( 8)
+ 193 ( 6)
+ 201 ( 2)
+
+
+UKMI
+ 136 (13)
+ 228 (11)
+ 220 ( 9)
+ 187 ( 7)
+ 213 ( 3)
+
+
+A98E
+  46 (14)
+  89 (12)
+ 119 (10)
+ 155 ( 8)
+ 264 ( 4)
+
+
+A9UK
+  54 ( 7)
+ 102 ( 6)
+ 120 ( 5)
+ 142 ( 4)
+ 292 ( 2)
+
+
+BAMD
+  43 (14)
+  73 (12)
+ 101 (10)
+ 139 ( 8)
+ 206 ( 4)
+
+
+BAMM
+  49 (13)
+  83 (12)
+ 108 (10)
+ 152 ( 8)
+ 225 ( 4)
+
+
+BAMS
+  56 (13)
+  93 (12)
+ 113 (10)
+ 155 ( 8)
+ 221 ( 4)
+
+
+CONU
+  53 (14)
+  80 (11)
+  98 ( 9)
+ 121 ( 7)
+ 155 ( 3)
+
+
+GUNA
+  44 ( 9)
+  63 ( 8)
+  83 ( 6)
+ 157 ( 4)
+
+
+
+FSSE
+  38 ( 8)
+  69 ( 8)
+ 101 ( 6)
+ 173 ( 4)
+
+
+
+OFCL
+  43 (14)
+  74 (12)
+ 105 (10)
+ 142 ( 8)
+ 234 ( 4)
+
+
+
+NHC Official
+(1995-2004 mean)
+
+
+42 (3400)
+
+
+
+75 (3116)
+
+
+
+107 (2848)
+
+
+
+138 (2575)
+
+
+
+202 (2117)
+
+
+
+236 (649)
+
+
+
+310 (535)
+
+
+
+Table5.	Watch and warning summary for Hurricane Stan, 1-5 October 2005.
+
+Date/Time (UTC)
+Action
+Location
+01/1500
+Tropical Storm Warning
+issued
+Punta Gruesa to Cabo Catoche
+01/1500
+Tropical Storm Watch
+issued
+Cabo Catoche to Campeche
+02/0900
+Tropical Storm Warning
+modified to
+Chetumal to Cabo Catoche
+02/1800
+Tropical Storm Warning
+discontinued
+Chetumal to Cabo Catoche
+02/1800
+Tropical Storm Watch
+discontinued
+Cabo Catoche to Campeche
+03/0900
+Hurricane Watch
+issued
+Cabo Rojo to Punta El Lagarto
+03/1500
+Hurricane Watch changed to
+Hurricane Warning
+Cabo Rojo to Punta El Lagarto
+03/2100
+Tropical Storm Warning
+issued
+East of Punta El Lagarto to
+Chilitepec
+04/0600
+Tropical Storm Warning changed
+to Hurricane Warning
+East of Punta El Lagarto to
+Chilitepec
+04/0900
+Hurricane Warning changed
+to Tropical Storm Warning
+North of Palma Sola to Cabo Rojo
+04/0900
+Hurricane Warning modified
+to
+Palma Sola to Chilitepec
+04/1800
+Hurricane Warning
+discontinued
+Palma Sola to Chilitepec
+04/1800
+Tropical Storm Warning
+modified to
+Palma Sola to Coatzacoalos
+04/2100
+Tropical Storm Warning
+discontinued
+Palma Sola to Coatzacoalos
+
+
+
+
+
+
+Figure 1.	Best track positions for Hurricane Stan, 1-5 October 2005.
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Stan, 1-5 October 2005.  Aircraft observations have been adjusted for elevation using 90%, 80%, and 80% reduction factors for observations from 700 mb, 850 mb, and 1500 ft, respectively.  Dropwindsonde observations include actual 10 m winds (sfc), as well as surface estimates derived from the mean wind over the lowest 150 m of the wind sounding (LLM),  and from the sounding boundary layer mean (MBL).
+
+
+
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Hurricane Stan, 1-5 October 2005. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13
+
+
+

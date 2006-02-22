@@ -1,0 +1,245 @@
+Tropical Cyclone Report
+Hurricane Vince
+8-11 October 2005
+
+James L. Franklin
+National Hurricane Center
+22 February 2006
+
+
+	Vince was a category 1 hurricane (on the Saffir-Simpson Hurricane Scale) that became the first known tropical cyclone to reach the Iberian Peninsula.  It also became a hurricane farther east than any other known Atlantic basin tropical cyclone.
+
+
+
+
+
+	Synoptic History
+
+Vince originated from an occluded deep-layer frontal low that moved southeastward across the Azores Islands on 6 October.  Over the next couple of days, the frontal structure gradually dissipated and banded convection became more concentrated near the circulation center.  It is estimated that this convection became sufficiently persistent and organized to designate the cyclone as a subtropical storm near 0600 UTC 8 October, when the system was centered about 500 n mi southeast of Lajes in the Azores.  Although by this time the core convective signature and surface wind field resembled a fully tropical cyclone, the system still had a very prominent cold-core cyclonic circulation in the upper-troposphere – hence the subtropical designation.
+
+	The “best track” chart of Vince’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.  The subtropical storm moved little over the next day or so, but then began to move slowly northeastward on 9 October.  An AMSU overpass at 1527 UTC that day showed that a mid- to upper-level warm core was forming, and it is estimated that Vince became a tropical storm near 1200 UTC while over sea-surface temperatures of 23-24?C.  Later on 9 October a banding eye developed, and Vince became a hurricane near 1800 UTC about 135 n mi northwest of Funchal in the Madeira Islands.  
+
+	Vince began to weaken almost immediately after becoming a hurricane, as strong westerly shear ahead of an approaching frontal trough began to impinge upon the cyclone.  Vince weakened back to a tropical storm at 0000 UTC 10 October and then accelerated east-northeastward.  With convection diminishing and limited to its eastern semicircle, Vince weakened rapidly on 10 October as it approached southern Portugal.  Vince weakened to a tropical depression at 0000 UTC 11 October, about 135 n mi west-southwest of Faro, Portugal, although it still maintained some banding structure (Fig. 4).  The center of circulation passed just south of Faro around 0700 UTC that day, and made landfall in Spain near Huelva around 0900 UTC.  Vince continued moving rapidly east-northeastward over southern Spain and the circulation dissipated after 1200 UTC 11 October. 
+
+
+	Meteorological Statistics
+
+	Observations in Vince (Figs. 2 and 3) include satellite-based Dvorak technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB), the Satellite Analysis Branch (SAB) and the U. S. Air Force Weather Agency (AFWA).  Microwave satellite imagery from NOAA polar-orbiting satellites, the NASA Tropical Rainfall Measuring Mission (TRMM), the NASA QuikSCAT, and Defense Meteorological Satellite Program (DMSP) satellites were also useful in tracking Vince.  The estimated peak intensity of 65 kt is based on Dvorak classifications.
+
+	Two reports of tropical-storm-force winds were received in the southwest quadrant of the circulation, 90-120 n mi from the center, late on 10 October (Table 2).  There is some question as to the validity of these reports, as they are at odds with the QuikSCAT passes at 0612 UTC 10 October and 0548 UTC 11 October, as well as with a WindSat pass at 2318 UTC 10 October, all of which failed to show tropical storm force winds in this portion of the circulation.  The analysis adopted here favors the scatterometer data over the ship reports.  
+
+Tropical-storm-force gusts were observed at a number of locations in Spain.  At the coastline, the Naval Air Station at Rota reported a gust to 42 kt with sustained winds (10-min average) of 25 kt at 0930 UTC 11 October.  At Moron, an inland station at 87 m elevation, a gust to 40 kt was observed with a sustained wind of 28 kt.   Sustained winds of 31 kt were reported at Jerez (elevation 27 m) at 1130 UTC, with a gust to 42 kt.  It is unclear what effects the local terrain may have had on these observations, as a cluster of ship reports just offshore at 1200 UTC were in the 23-28 kt range.  
+
+The rain in Spain was mainly less than 2 inches, although 3.30 inches fell in the plain at Cordoba.	
+								
+
+	Casualty and Damage Statistics
+	
+	There were no reports of damage or casualties associated with Vince.
+
+
+	Forecast and Warning Critique
+
+
+Atlantic Tropical Weather Outlooks did not discuss the non-tropical precursor disturbance to Vince until it had begun to acquire subtropical characteristics.
+
+Vince’s short life cycle resulted in just a handful of forecasts to verify.  The average official track errors for Vince were 46, 131, and 220 n mi for the 12, 24, and 36 h forecasts, respectively, with the number of forecasts ranging from 7 at 12 h to only 3 at 36 h.  These errors are greater than the average long-term official track errors.  The official forecasts had a northwestward bias that likely resulted from a presumption that Vince’s low-level circulation would be pulled more northward ahead of the approaching frontal system.  In fact, Vince was able to maintain just enough convection to have its motion affected by the upper-level westerlies.
+
+	Average official intensity errors were 6, 15, and 17 kt for the 12, 24, and 36, h forecasts, respectively.  For comparison, the average official intensity errors over the 10-yr period 1995-2004 are 6, 10, and 12 kt, respectively.
+
+
+Acknowledgments
+
+	Information on the effects of Vince in Spain was provided by the Instituto Nacional de Meteorologia.  Timothy Garner of NASA provided additional observations and helpful descriptions of the local topography. 
+
+Table 1.	Best track for Hurricane Vince, 8-11 October 2005.
+
+
+Date/Time
+(UTC)
+
+Latitude
+(?N)
+
+Longitude
+(?W)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+08 / 0600
+32.9
+ 20.6
+1001
+ 40
+subtropical storm
+08 / 1200
+33.0
+ 20.3
+1000
+ 45
+"
+08 / 1800
+33.1
+ 20.1
+1000
+ 45
+"
+09 / 0000
+33.2
+ 20.0
+ 999
+ 45
+"
+09 / 0600
+33.4
+ 19.6
+ 998
+ 50
+"
+09 / 1200
+33.8
+ 19.3
+ 995
+ 55
+tropical storm
+09 / 1800
+34.1
+ 18.9
+ 988
+ 65
+hurricane
+10 / 0000
+34.3
+ 18.3
+ 990
+ 60
+tropical storm
+10 / 0600
+34.5
+ 17.2
+ 992
+ 50
+"
+10 / 1200
+34.7
+ 15.3
+ 995
+ 45
+"
+10 / 1800
+35.4
+ 12.8
+ 998
+ 35
+"
+11 / 0000
+36.1
+ 10.5
+1000
+ 30
+tropical depression
+11 / 0600
+36.7
+  8.3
+1002
+ 30
+"
+11 / 1200
+37.7
+  6.0
+1003
+ 30
+"
+11 / 1800
+
+
+
+
+dissipated
+11 / 0900
+37.2
+7.1
+1002
+30
+Landfall near Huelva, Spain
+09 / 1800
+34.1
+ 18.9
+ 988
+ 65
+minimum pressure
+   
+   
+
+Table 2.	Selected ship reports with winds of at least 34 kt for Hurricane Vince, 8-11 October 2005.
+
+
+Date/Time (UTC)
+
+Ship call sign
+
+
+Latitude
+(?N)
+
+Longitude
+(?W)
+
+Wind
+dir/speed (kt)
+
+Pressure 
+(mb)
+10 / 1800
+ZCBD3 
+ 33.5
+  15.0
+260 /  35
+1011.4
+10 / 2100
+V2ON3 
+ 34.7
+  13.7
+270 /  41
+1009.0
+
+
+
+
+
+Figure 1.	Best track positions for Hurricane Vince, 8-11 October 2005.  
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Vince, 8-11 October 2005.
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Hurricane Vince, 8-11 October 2005. 
+.
+
+
+Figure 4.  Radar image of Vince at 0300 UTC 11 October from Instituto de Meteorologia of Portugal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+
+
+
