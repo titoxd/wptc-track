@@ -96,11 +96,14 @@ struct stormdata *read_stormdata_tcr(struct stormdata *storms,
 	       || strcasecmp(line, "remnant low") == 0
 	       || strcasecmp(line, "tropical wave") == 0) {
       type = LOW;
+    } else if (strcasecmp(line, "subtropical storm") == 0) {
+      type = SUBTROPICAL;
     } else if (strcmp(line, "\"") == 0
 	       || strcmp(line, "\223") == 0) {
       /*nothing */
     } else {
       printf("Unrecognized comment '%s'.\n", line);
+      exit(1);
     }
     pos.type = type;
     save_pos(args, storms, &storm, &pos);
