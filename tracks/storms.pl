@@ -394,6 +394,7 @@
    [ (
 #      [ (1956, 12, "Emma") ],
 #      [ (1959, 15, "Vera") ],
+#      [ (1974, 26, "Bess") ],
 #      [ (1977, 10, "Babe Pacific") ],
 #      [ (1979, 23, "Tip") ],
 #      [ (1984, 13, "Ike") ],
@@ -467,7 +468,7 @@
 #   [ ("--year 1919 --wind 120", "1919 Florida Keys hurricane") ],
 #   [ ("--year 1926 --wind 130", "1926 Miami hurricane") ],
 #      [ ("--year 1926 --id 10", "1926 Havana-Bermuda hurricane") ],
-#   [ ("--year 1928 --wind 140", "1928 Okeechobee hurricane") ],
+#   [ ("--year 1928 --wind 140 --id 4", "1928 Okeechobee hurricane") ],
 #      [ ("--year 1930 --id 2", "1930 Dominican Republic hurricane") ],
 #   [ ("--year 1932 --wind 140 --extra 0", "1932 Bahamas hurricane") ],
 #      [ ("--year 1934 --id 2", "1934 Central America hurricane") ],
