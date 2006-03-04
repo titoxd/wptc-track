@@ -768,6 +768,30 @@ static void print_extra_data(struct stormdata *storms)
 #endif
   }
 #endif
+
+#ifdef ACTIVITY
+  int max = 0;
+  int s;
+
+  for (s = 0; s < storms->nstorms; s++) {
+    struct storm *storm = storms->storms + s;
+
+    if (storm->header.id < 50) {
+      /* Numbers above 50 are seemingly used for crossover storms that
+       * aren't part of the basin. */
+      max = MAX(storm->header.id, max);
+    }
+  }
+
+  for (s = 0; s < storms->nstorms; s++) {
+    struct storm *storm = storms->storms + s;
+
+    if (storm->header.id == max) {
+      printf("%d : %d\n", max, storm->header.year);
+    }
+  }
+#endif
+
 }
 
 static void write_stormdata(struct stormdata *storms, struct args *args)
@@ -777,7 +801,9 @@ static void write_stormdata(struct stormdata *storms, struct args *args)
   int s, p;
   FILE *file;
 
-  print_extra_data(storms);
+#if 0
+  return;
+#endif
 
   calc_dimensions(storms, args);
 
@@ -893,7 +919,7 @@ static void write_stormdata(struct stormdata *storms, struct args *args)
   cairo_surface_write_to_png_stream(surface, write_callback, file);
 
   cairo_destroy(cr);
-  cairo_surface_destroy(surface);  
+  cairo_surface_destroy(surface);
 }
 
 int main(int argc, char **argv)
@@ -930,6 +956,7 @@ int main(int argc, char **argv)
   }
 
   write_stormdata(storms, &args);
+  print_extra_data(storms);
 
   free_stormdata(storms);
 
