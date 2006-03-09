@@ -288,10 +288,13 @@ void init_storm(struct storm *storm)
   storm->maxwind = 0;
   storm->maxtype = 0;
   storm->ace = 0;
+
   storm->maxlon = -180;
   storm->minlon = 180;
   storm->maxlat = -90;
   storm->minlat = 90;
+  storm->formlon = 0;
+  storm->formlat = 0;
 }
 
 void save_storm(struct storm_arg *args, struct stormdata *storms, struct storm *storm)
@@ -357,11 +360,16 @@ void save_pos(struct storm_arg *args, struct stormdata *storms,
     storm->maxwind = MAX(storm->maxwind, pos->wind);
     if (pos->wind >= 35) {
       storm->maxtype = MAX(storm->maxtype, pos->type);
-    }
-    if (pos->type == TROPICAL && pos->wind >= 35) {
-      /* ACE is the accumulation of the squares of the wind speed, in knots,
-       * of a tropical system with at least 35-knot winds. */
-      storm->ace += pos->wind * pos->wind;
+
+      if (pos->type == TROPICAL) {
+	if (storm->formlon == 0.0 && storm->formlat == 0.0) {
+	  storm->formlon = pos->lon;
+	  storm->formlat = pos->lat;
+	}
+	/* ACE is the accumulation of the squares of the wind speed, in knots,
+	 * of a tropical system with at least 35-knot winds. */
+	storm->ace += pos->wind * pos->wind;
+      }
     }
 
     if (pos_matches(pos, args)) {
@@ -648,30 +656,87 @@ static const char *get_storm_description(struct storm *storm)
 }
 #endif
 
+#define WIKI
+//#define EXTREMES
+
+#ifdef EXTREMES
+static int long_fact, lat_fact;
+
+static int extremes_compare(const void *a, const void *b)
+{
+  const struct storm *storma = a, *stormb = b;
+  double diff = ((long_fact * stormb->formlon + lat_fact * stormb->formlat)
+		 - (long_fact * storma->formlon + lat_fact * storma->formlat));
+
+  /* Exclude storms that never achieved "formation" */
+  if (stormb->formlon == 0.0 && stormb->formlat == 0.0) {
+    return -1;
+  } else if (storma->formlon == 0.0 && storma->formlat == 0.0) {
+    return 1;
+  }
+
+  if (diff > 0) {
+    return 1;
+  } else if (diff < 0) {
+    return -1;
+  } else {
+    return 0;
+  }
+}
+#endif
+
 static void print_extreme_locations(struct stormdata *storms)
 {
-#define EXTREMES
 #ifdef EXTREMES
   struct {
-    int lat_fact, long_fact;
+    int long_fact, lat_fact;
     char *desc;
   } factors[] = {
-    {1, 0, "East"},
-    {0, 1, "North"},
-    {-1, 0, "West"},
-    {0, -1, "South"},
+    {1, 0, "east"},
+    {0, 1, "north"},
+    {-1, 0, "west"},
+    {0, -1, "south"},
 
-    {1, 1, "Northeast"},
-    {-1, 1, "Northwest"},
-    {1, -1, "Southeast"},
-    {-1, -1, "Southwest"},
+    {1, 1, "northeast"},
+    {-1, 1, "northwest"},
+    {1, -1, "southeast"},
+    {-1, -1, "southwest"},
   };
-  int i;
+  int i, j;
 
   for (i = 0; i < ARRAY_SIZE(factors); i++) {
+    long_fact = factors[i].long_fact;
+    lat_fact = factors[i].lat_fact;
+    qsort(storms->storms, storms->nstorms, sizeof(*storms->storms),
+	  extremes_compare);
 
+#ifdef WIKI
+    printf("{| class=wikitable\n");
+    printf("|+Most %s formations of Atlantic storms\n", factors[i].desc);
+    printf("|-\n");
+    printf("! Name !! Year !! ID !! Location\n");
+#else
+    printf("%s\n", factors[i].desc);
+#endif
+    for (j = 0; j < MIN(10, storms->nstorms); j++ ) {
+      struct storm *storm = storms->storms + j;
+
+#ifdef WIKI
+      printf("|-\n");
+      printf("| %12s || %4d || %2d || %4.1f&deg;E, %2.1f&deg;N\n",
+	     storm->header.name, storm->header.year, storm->header.id,
+	     storm->formlon, storm->formlat);
+#else
+      printf("%12s | %d | %2d | %4.1f,%2.1f\n",
+	     storm->header.name, storm->header.year, storm->header.id,
+	     storm->formlon, storm->formlat);
+#endif
+    }
+#ifdef WIKI
+    printf("|}\n\n");
+#endif
   }
-#endif  
+#endif
 }
 
 static void print_extra_data(struct stormdata *storms)

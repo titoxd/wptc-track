@@ -45,6 +45,7 @@ struct storm {
 
   double minlon, maxlon;
   double minlat, maxlat;
+  double formlon, formlat;
 
   int npos;
 #define MAX_POS 1024
