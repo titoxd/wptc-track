@@ -6,6 +6,7 @@
  *   gcc -g -Wall -Werror `pkg-config --cflags --libs cairo` track.c hurdat.c md.c -o track
  */
 
+#include <assert.h>
 #include <ctype.h>
 #include <errno.h>
 #include <math.h>
@@ -326,6 +327,16 @@ void save_pos(struct storm_arg *args, struct stormdata *storms,
       pos->lon *= -1.0;
     }
 
+    if (pos->month < 1 || pos->month > 12) {
+      fprintf(stderr, "Bad month %d.\n", pos->month);
+    }
+    if (pos->day < 1 || pos->day > 31) {
+      fprintf(stderr, "Bad day %d.\n", pos->day);
+    }
+    if (pos->hour < 0 || pos->hour >= 24) {
+      fprintf(stderr, "Bad hour %d.\n", pos->hour);
+    }
+
     /* Since the file doesn't use negatives, wrap-around is needed
      * (e.g., 350 instead of -10). */
     if (storm->npos > 0) {
@@ -637,6 +648,32 @@ static const char *get_storm_description(struct storm *storm)
 }
 #endif
 
+static void print_extreme_locations(struct stormdata *storms)
+{
+#define EXTREMES
+#ifdef EXTREMES
+  struct {
+    int lat_fact, long_fact;
+    char *desc;
+  } factors[] = {
+    {1, 0, "East"},
+    {0, 1, "North"},
+    {-1, 0, "West"},
+    {0, -1, "South"},
+
+    {1, 1, "Northeast"},
+    {-1, 1, "Northwest"},
+    {1, -1, "Southeast"},
+    {-1, -1, "Southwest"},
+  };
+  int i;
+
+  for (i = 0; i < ARRAY_SIZE(factors); i++) {
+
+  }
+#endif  
+}
+
 static void print_extra_data(struct stormdata *storms)
 {
 #if 0 /* Earliest storm in each season */
@@ -792,6 +829,59 @@ static void print_extra_data(struct stormdata *storms)
   }
 #endif
 
+#ifdef BYMONTH
+  int pressure[12], wind[12];
+  int i, s, p;
+
+  for (i = 0; i < 12; i++) {
+    pressure[i] = 9999;
+    wind[i] = 0;
+  }
+  for (s = 0; s < storms->nstorms; s++) {
+    struct storm *storm = storms->storms + s;
+
+    for (p = 0; p < storm->npos; p++) {
+      struct pos *pos = storm->pos + p;
+
+      assert(pos->month >= 1 && pos->month <= 12);
+      if (pos->pres != 0) {
+	pressure[pos->month - 1] = MIN(pos->pres, pressure[pos->month - 1]);
+      }
+      if (pos->wind != 0) {
+	wind[pos->month - 1] = MAX(pos->wind, wind[pos->month - 1]);
+      }
+    }
+  }
+  for (i = 0; i < 12; i++) {
+    for (s = 0; s < storms->nstorms; s++) {
+      struct storm *storm = storms->storms + s;
+      bool is_pressure = false, is_wind = false;
+
+      for (p = 0; p < storm->npos; p++) {
+	struct pos *pos = storm->pos + p;
+
+	if (pos->month - 1 == i) {
+	  if (!is_pressure && pos->pres == pressure[i]) {
+	    printf("%2d : %d/%2d '%s' : %d mbar\n",
+		   i + 1, storm->header.year, storm->header.id,
+		   storm->header.name,
+		   pos->pres);
+	    is_pressure = true;
+	  }
+	  if (!is_wind && pos->wind == wind[i]) {
+	    printf("%2d : %d/%2d '%s' : %d knots\n",
+		   i + 1, storm->header.year, storm->header.id,
+		   storm->header.name,
+		   pos->wind);
+	    is_wind = true;
+	  }
+	}
+      }
+    }
+  }
+#endif
+
+  print_extreme_locations(storms);
 }
 
 static void write_stormdata(struct stormdata *storms, struct args *args)

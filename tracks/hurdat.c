@@ -83,6 +83,10 @@ struct stormdata *read_stormdata_hurdat(struct stormdata *storms,
 	printf("%s", line);
 #endif
 
+	pos.month = 10 * (line[6] - '0') + (line[7] - '0');
+	pos.day = 10 * (line[9] - '0') + (line[10] - '0');
+	pos.hour = i * 6;
+
 	strncpy(subline, line + 11 + i * 17, 17);
 	subline[17] = 0;
 
@@ -115,7 +119,7 @@ struct stormdata *read_stormdata_hurdat(struct stormdata *storms,
 	case ' ':
 	  continue;
 	default:
-	  printf("%d : '%s'\n", lineno, subline);
+	  fprintf(stderr, "Unknown line : %d : '%s'\n", lineno, subline);
 	  break;
 	}
 

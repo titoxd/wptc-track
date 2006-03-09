@@ -30,6 +30,7 @@ struct pos {
     SUBTROPICAL,
     TROPICAL,
   } type;
+  int month, day, hour;
   double lat, lon;
   int pres;
   int wind;
@@ -67,5 +68,6 @@ double wraplon(double lon);
 
 #define MAX(a,b) ((a) > (b) ? (a) : (b))
 #define MIN(a,b) ((a) < (b) ? (a) : (b))
+#define ARRAY_SIZE(arr) (sizeof(arr) / sizeof(arr[0]))
 
 #endif
