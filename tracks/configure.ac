@@ -30,5 +30,15 @@ PKG_CHECK_MODULES(TRACK, cairo >= 1.0.0)
 AC_SUBST(TRACK_CFLAGS)
 AC_SUBST(TRACK_LIBS)
 
+AC_ARG_WITH(tracks-data, AC_HELP_STRING([--with-tracks-data=$DIR],
+				 [Change location of tracks data]),
+	    tracksdata=$withval, [tracksdata="../tracks-data"])
+files="natlantic.txt epac.txt wpac.txt south.txt nindian.txt 2005"
+for file in $files; do
+  ln -sfv "$tracksdata/$file"
+done
+rm -f bg.png
+ln -s ../tracks-data/bg8192.png bg.png
+
 AC_CONFIG_FILES([Makefile])
 AC_OUTPUT
