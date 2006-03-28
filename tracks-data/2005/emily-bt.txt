@@ -1,0 +1,1612 @@
+Tropical Cyclone Report
+Hurricane Emily
+11-21 July 2005
+
+James L. Franklin and Daniel P. Brown
+National Hurricane Center
+10 March 2006
+
+
+	Emily was briefly a category 5 hurricane (on the Saffir-Simpson Hurricane Scale) in the Caribbean Sea that, at lesser intensities, struck Grenada, resort communities on Cozumel and the Yucatan Peninsula, and northeastern Mexico just south of the Texas border.  Emily is the earliest-forming category 5 hurricane on record in the Atlantic basin and the only known hurricane of that strength to occur during the month of July.
+
+
+
+
+
+	Synoptic History
+
+	Emily developed from a tropical wave that moved across the west coast of Africa on 6 July.  The wave was associated with a large area of cyclonic turning and disturbed weather while it moved over the eastern tropical Atlantic.  Shower activity became more concentrated on 10 July, and by 0000 UTC 11 July the system had become a tropical depression about 1075 n mi east of the southern Windward Islands. 
+
+	The “best track” chart of the tropical cyclone’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.  While the depression moved westward to the south of a narrow ridge of high pressure, initial development was slow due to modest easterly shear and a relatively dry environment, particularly to the north of the center.  Although the circulation remained broad and somewhat ill-defined, the system became a tropical storm at 0000 12 July about 800 n mi east of the southern Windward Islands.  Emily’s forward speed increased on 12 July, from 10 kt to 17-18 kt, in response to a low-level surge in the easterlies.  This surge enhanced the dry environment and produced some westerly shear over the core that appeared to keep the cyclone’s convection from becoming organized.  On 13 July, however, with the core convection still disorganized, the central pressure hovering near 1003 mb, and flight-level winds showing little change, visual estimates of the sea state suggested that Emily’s surface winds had begun to increase.  A pair of aircraft center fixes, at 2331 UTC 13 July and 0112 UTC 14 July, suggest that the center of circulation reformed to the northeast of its previous position within the convection. It is estimated that Emily became a hurricane at about this time, when the center was about 85 n mi east-southeast of Grenada.  The convective pattern became much more symmetric and organized over the next several hours, and Emily’s maximum winds increased to near 75 kt by the time the center passed over Grenada near 0700 UTC 14 July.
+
+	Emily entered the Caribbean Sea and turned west-northwestward, maintaining this heading for the next week as mid-level high pressure built westward to the north of the hurricane.  Emily continued to strengthen in the eastern Caribbean, with its peak winds reaching 115 kt (category 4) and its minimum pressure falling to 952 mb early on 15 July.  Near 1200 UTC a reconnaissance aircraft reported concentric eyewalls of 8 and 25 n mi diameter, and by 1800 UTC Emily had weakened to category 2 strength.  A second strengthening phase began almost immediately, however, and continued on 16 July while Emily passed about 90 n mi south of Jamaica.  Emily became a category 5 hurricane, with winds of 140 kt and a minimum pressure of 929 mb, at 0000 UTC 17 July about 100 n mi to the southwest of Jamaica. 
+
+	Emily began to slowly weaken on 17 July in the western Caribbean Sea, this time in the absence of concentric eyewalls but also without any obvious external synoptic forcing.  It was still a category 4 hurricane, with winds of 115 kt, when the eyewall passed over Cozumel and when the center made landfall on the Yucatan peninsula near Tulum at 0630 UTC 18 July.  Emily quickly cut across the Yucatan, emerging into the Gulf of Mexico near 1200 UTC that day while just maintaining hurricane strength.
+
+	Once over water, Emily began its third and final intensification phase as it continued on a west-northwesterly track toward northeastern Mexico.   Initially, the hurricane’s wind field was broad, and Emily strengthened slowly for the first 24 h or so after emerging into the Gulf, its winds increasing to 80 kt by 1200 UTC 19 July.  Over the next 12 h, however, a sharp inner wind maximum developed, the minimum pressure fell 29 mb, and Emily’s maximum winds increased to near 110 kt.  Early on 20 July as Emily neared the coast, land-based radars and reconnaissance aircraft showed a well-defined concentric eyewall structure, with the strongest flight-level winds associated with the outer feature.  The intensification stopped and Emily made landfall near San Fernando, Mexico (about 75 n mi south-southwest of Brownsville, Texas) at 1200 UTC 20 July as a category 3 hurricane with winds of near 110 kt.  After moving inland, Emily turned west and weakened rapidly, dissipating on 21 July over the Sierra Madre Oriental mountain range of Mexico.
+
+	
+	Meteorological Statistics
+
+	Observations in Emily (Figs. 2 and 3) include satellite-based Dvorak technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB), the Satellite Analysis Branch (SAB) and the U. S. Air Force Weather Agency (AFWA), as well as flight-level and dropwindsonde observations from flights of the 53rd Weather Reconnaissance Squadron of the U. S. Air Force Reserve Command.  Microwave satellite imagery from NOAA polar-orbiting satellites, the NASA Tropical Rainfall Measuring Mission (TRMM), the NASA QuikSCAT, and Defense Meteorological Satellite Program (DMSP) satellites were also useful in tracking Emily.
+
+	Emily’s maximum sustained winds are estimated to be 140 kt, based on 700-mb flight-level winds of 153 kt observed at 0324Z 17 July (Fig. 2).  Application of the standard 90% adjustment gives a surface estimate of 138 kt - just above the category 5 threshold.  Two surface-adjusted flight-level observations of 136 kt during the preceding several hours also met the category 5 threshold. The lowest central pressure reported by reconnaissance aircraft was 929 mb, at 2341 UTC 16 July.   
+
+	Emily’s intensity on 13 and 14 July was particularly difficult to assess.  Flight-level observations near 1200 UTC 13 July imply an intensity near 45 kt, while visual sea-state observations by the AFRC aircrew suggested surface winds near 55 kt.  Several hours later, near 0100 UTC 14 July, a reconnaissance aircraft reported an 850 mb flight-level wind of 79 kt, which corresponds to 63 kt at the surface using typical adjustment factors.  Concurrent with this latter observation was a dropsonde that suggested surface winds were near 80 kt.  It is possible that during this intensification phase the surface winds were leading the winds aloft.  The best track intensity during this period is a blend of the data from the two levels.
+
+	Ship reports of winds of tropical storm force associated with Emily are given in Table 2, and selected surface observations from land stations and data buoys are given in Table 3.  An eyewall dropwindsonde reported an instantaneous surface wind of 136 kt at 0536 UTC 17 July, although surface estimates inferred from layer averages of the dropsonde profile were much lower, near 115 kt.
+
+	Emily passed directly over Grenada.  Point Salines International Airport, just to the south of the path of the center, reported a peak gust of 58 kt.  The northeastern tip of the island of Grenada, as well as the smaller islands of Carriacou and Petite Martinique to the northeast, bore the brunt of the hurricane, but no wind measurements from these areas are available.  Reconnaissance observations indicate that the maximum surface winds were likely near 75 kt at the time, with stronger winds at elevated locations.
+ 
+	Heavy rains from Emily affected Jamaica, with the heaviest accumulations occurring in St. Elizabeth Parish on the southwestern part of the island.  Potsdam reported 15.43 in of rainfall, with other reports in excess of 10 inches (Table 3).
+
+	At 0509 UTC 18 July, as the eyewall of Emily was passing over Cozumel, a reconnaissance aircraft a few miles offshore measured a 700 mb flight-level wind of 124 kt.  Two hours earlier, a flight-level wind of 141 kt was reported.  On the basis of these observations, Emily is estimated to have made landfall on the Yucatan Peninsula as a category 4 hurricane with winds of 115 kt.  No wind observations from the landfall area are available.  An unofficial report received via ham radio estimated that the storm surge in San Miguil on Cozumel was 15 feet.  Official rainfall totals on the Yucatan were generally close to 1 inch, although there was an unofficial report from Cozumel of 4.9 inches.
+
+	Based on aircraft reconnaissance observations, Emily’s estimated intensity at its final landfall was near 110 kt.  An automated station at San Fernando, located about 30 n mi inland of the landfall location, reported a 10-min sustained wind of 55 kt, a gust to 84 kt, and a minimum pressure of 965 mb.  There were several reports of rainfall in excess of 10 inches in northeastern Mexico (Table 3), with 13.78 inches reported at Cerralvo.  No estimates of storm surge at the final landfall were received.
+
+In Texas, there were a few official reports of sustained tropical-storm-force winds (Table 3), with the highest sustained wind reported at Harlingen.  Minor coastal flooding occurred in south Texas, with estimated storm tides in the 4-5 ft range.  Moderate beach erosion was reported in Cameron County.  A total of eight tornadoes were reported in southeastern Texas, causing minor damage but no casualties.
+								
+
+	Casualty and Damage Statistics
+	
+	The Caribbean Disaster Emergency Response Agency reports that in Grenada, damage was concentrated in the northern parishes of St. Patrick’s and St. Andrew’s, where many homes lost their roofs, and on the outlying islands of Petite Martinique and Carriacou, where a portion of the roof of the island’s only hospital was damaged, forcing the evacuation of patients to another portion of the building.  There were also scattered reports of flooding, and media reports mention the destruction of crops.  In St. Vincent and the Grenadines, as well as in Tobago, there were a few reports of roof damage.
+
+	Playa del Carmen, Tulum, and the island of Cozumel were hardest hit during Emily’s first landfall in Mexico, although the reported damage was unexpectedly light, suggesting that Emily’s strongest winds were extremely limited in extent.  The winds, however, were strong enough to snap concrete utility poles between Playa del Carmen and Cancun.  Water was knee-deep in some streets.  At Emily’s second landfall in northern Mexico, officials reported that 80%-90% of the homes in the fishing community of Laguna Madre were destroyed.  Elsewhere near the landfall site, the storm drove 90,000 people from their homes, and thousands of buildings were reported destroyed. 
+
+	In Texas, damage was minor; there were reports of tree damage in the Brownsville area and scattered minor roof damage on South Padre Island.
+
+	Six direct deaths have been attributed to Emily.  One fatality occurred in Grenada associated with a mudslide.  In southwestern Jamaica, four people in a car were driving through a flooded roadway when a surge of water pushed them over a cliff.  One person assisting the motorists also perished.  Amazingly, there were no deaths directly attributable to Emily’s two landfalls in Mexico, although a helicopter crash in advance of the storm claimed two lives.  Massive evacuations, which by some estimates involved nearly 100,000 people, mostly tourists, undoubtedly contributed to the lack of casualties.
+  
+
+	Forecast and Warning Critique
+
+
+The Atlantic Tropical Weather Outlook issued at 1530 UTC 10 July, about 9 h prior to genesis, was the first Outlook to indicate the potential of tropical cyclone formation from Emily’s antecedent disturbance.  While prior outlooks did anticipate some development of this disturbance, development was expected to be slow to occur.
+
+A verification of official and guidance model track forecasts is given in Table 4.  Average official track errors for Emily were 22, 38, 58, 75, 94, 109, and 153 n mi for the 12, 24, 36, 48, 72, 96, and 120 h forecasts, respectively.  The number of forecasts ranged from 41 at 12 h to 23 at 120 h.  These errors are roughly half as large as the average long-term official track errors (Table 4), and were generally lower than all the numerical guidance, including the consensus models.  Forecasts issued on 11 and 12 July, when Emily was east of the Lesser Antilles, had a northward bias.
+
+	Average official intensity errors were 8, 14, 15, 17, 18, 23, and 26 kt for the 12, 24, 36, 48, 72, 96, and 120 h forecasts, respectively.  For comparison, the average official intensity errors over the 10-yr period 1995-2004 are 6, 10, 12, 15, 18, 20, and 22 kt, respectively.  In general, the intensity forecasts tended to underestimate the strength of Emily.  In particular, as Emily approached the southern Windward Islands on 13 July, the National Hurricane Center (NHC) official forecast incorrectly predicted that Emily would pass through the islands as a tropical storm.  Based on this forecast, the NHC recommended in its coordination with the Meteorological Service of Grenada that a pre-existing hurricane warning for Grenada be downgraded to a tropical storm warning.  This forecast turned out to be incorrect, and in retrospect, a tropical storm warning along with a hurricane watch would have been more appropriate, given the current limitations of intensity forecasting. It should be noted, however, that the forecast did call for Emily to be just below hurricane strength, and that NHC advisories explicitly indicated that portions of Grenada at higher elevations could experience hurricane force winds. 
+
+
+Acknowledgements:
+
+	The meteorological services of Grenada, Jamaica, and Mexico contributed observations contained in this report.  Information concerning the effects of Emily in south Texas was provided by the National Weather Service Weather Forecast Offices in Brownsville and Corpus Christi.	Table 1.	Best track for Hurricane Emily, 11-21 July 2005.
+
+
+Date/Time
+(UTC)
+
+Latitude
+(?N)
+
+Longitude
+(?W)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+11 / 0000
+10.7
+ 42.4
+1010
+ 25
+tropical depression
+11 / 0600
+10.8
+ 43.4
+1009
+ 30
+"
+11 / 1200
+10.9
+ 44.4
+1009
+ 30
+"
+11 / 1800
+11.0
+ 45.4
+1007
+ 30
+"
+12 / 0000
+11.0
+ 46.8
+1006
+ 35
+tropical storm
+12 / 0600
+11.0
+ 48.5
+1005
+ 40
+"
+12 / 1200
+11.0
+ 50.2
+1004
+ 45
+"
+12 / 1800
+11.0
+ 52.0
+1004
+ 45
+"
+13 / 0000
+11.0
+ 53.7
+1003
+ 45
+"
+13 / 0600
+11.1
+ 55.4
+1003
+ 45
+"
+13 / 1200
+11.2
+ 57.2
+1003
+ 50
+"
+13 / 1800
+11.4
+ 58.9
+1003
+ 55
+"
+14 / 0000
+11.6
+ 60.2
+ 999
+ 70
+hurricane
+14 / 0600
+11.9
+ 61.5
+ 991
+ 75
+"
+14 / 1200
+12.4
+ 63.2
+ 980
+ 85
+"
+14 / 1800
+12.9
+ 64.9
+ 971
+100
+"
+15 / 0000
+13.3
+ 66.7
+ 959
+110
+"
+15 / 0600
+13.7
+ 68.4
+ 952
+115
+"
+15 / 1200
+14.1
+ 70.1
+ 964
+115
+"
+15 / 1800
+14.5
+ 71.8
+ 969
+ 95
+"
+16 / 0000
+14.9
+ 73.4
+ 958
+110
+"
+16 / 0600
+15.4
+ 75.0
+ 953
+120
+"
+16 / 1200
+15.9
+ 76.5
+ 944
+130
+"
+16 / 1800
+16.4
+ 78.0
+ 937
+135
+"
+17 / 0000
+17.1
+ 79.5
+ 929
+140
+"
+17 / 0600
+17.7
+ 81.2
+ 940
+135
+"
+17 / 1200
+18.3
+ 82.8
+ 946
+130
+"
+17 / 1800
+18.9
+ 84.3
+ 948
+125
+"
+18 / 0000
+19.5
+ 85.8
+ 951
+120
+"
+18 / 0600
+20.3
+ 87.3
+ 955
+115
+"
+18 / 1200
+21.3
+ 88.9
+ 975
+ 65
+"
+18 / 1800
+22.0
+ 90.3
+ 984
+ 65
+"
+19 / 0000
+22.6
+ 91.5
+ 981
+ 75
+"
+19 / 0600
+23.2
+ 92.8
+ 980
+ 80
+"
+19 / 1200
+23.7
+ 94.0
+ 977
+ 80
+"
+19 / 1800
+24.1
+ 95.1
+ 959
+ 85
+"
+20 / 0000
+24.4
+ 96.1
+ 948
+110
+"
+20 / 0600
+24.6
+ 96.9
+ 944
+110
+"
+20 / 1200
+24.8
+ 97.6
+ 944
+110
+"
+20 / 1800
+25.0
+ 98.7
+ 975
+ 70
+tropical storm
+21 / 0000
+25.0
+ 99.7
+ 995
+ 45
+"
+21 / 0600
+25.0
+100.5
+1000
+ 30
+tropical depression
+21 / 1200
+25.0
+101.1
+1007
+ 25
+"
+21 / 1800
+
+
+
+
+dissipated
+14 / 0700
+12.0
+61.8
+989
+75
+Landfall in Grenada
+18 / 0630
+20.3
+ 87.4
+955
+115
+Landfall near Tulum, Mexico
+20 / 1200
+24.8
+ 97.6
+944
+110
+Landfall near San Fernando, Mexico
+17 / 0000
+17.1
+ 79.5
+929
+140
+minimum pressure
+   
+   
+
+Table 2.	Selected ship reports with winds of at least 34 kt for Hurricane Emily, 11-21 July 2005.
+
+
+Date/Time (UTC)
+
+Ship call sign
+
+
+Latitude
+(?N)
+
+Longitude
+(?W)
+
+Wind
+dir/speed (kt)
+
+Pressure 
+(mb)
+16 / 2100
+OUUU2 
+ 17.5
+  75.4
+100 /  37
+1011.5
+19 / 1800
+WFKW  
+ 27.5
+  94.8
+090 /  39
+1012.2
+20 / 0000
+ELQJ3 
+ 26.8
+  94.4
+090 /  50
+1012.5
+
+
+
+
+Table 3.	Selected surface observations for Hurricane Emily, 11-21 July 2005.
+
+
+Location
+Minimum Sea Level Pressure
+Maximum Surface
+Wind Speed
+Storm surge
+(ft)c
+Storm
+tide
+(ft)d
+Total
+rain
+(in)
+
+Date/
+time
+(UTC)
+Press.
+(mb)
+Date/
+time
+(UTC)a
+Sustained
+(kt)b
+Gust
+(kt)
+
+
+
+Grenada
+
+
+
+
+
+
+
+
+Point Salines Int'l Airport
+14/0700
+991.5
+14/0840
+35
+58
+
+
+3.28
+
+
+
+
+
+
+
+
+
+Barbados
+
+
+
+
+
+
+
+
+Grantly Adams
+
+
+13/1900
+37
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jamaica
+
+
+
+
+
+
+
+
+Potsdam
+
+
+
+
+
+
+
+15.43
+Mountainside
+
+
+
+
+
+
+
+12.99
+Non-Pariel
+
+
+
+
+
+
+
+11.69
+Fullerwood
+
+
+
+
+
+
+
+11.42
+Holland
+
+
+
+
+
+
+
+9.00
+
+
+
+
+
+
+
+
+
+Mexico
+
+
+
+
+
+
+
+
+San Fernando
+20/1550
+965
+20/1510
+55e
+84
+
+
+
+Monterrey Airport
+
+
+20/1440
+35
+59
+
+
+
+Matamoros
+
+
+20/1440
+35
+59
+
+
+
+Cancun
+
+
+
+
+
+
+
+1.32
+E. Zapata
+
+
+
+
+
+
+
+1.03
+Cerralvo
+
+
+
+
+
+
+
+13.78
+Madero
+
+
+
+
+
+
+
+12.98
+Presa Cerro Prieto
+
+
+
+
+
+
+
+11.24
+Sabinas Hidalgo
+
+
+
+
+
+
+
+10.73
+Vallehermoso
+
+
+
+
+
+
+
+9.90
+Monterrey
+
+
+
+
+
+
+
+9.76
+Presa La Boca
+
+
+
+
+
+
+
+9.25
+Presa El Cuchillo
+
+
+
+
+
+
+
+9.06
+Cabazones
+
+
+
+
+
+
+
+8.38
+Rio Bravo
+
+
+
+
+
+
+
+8.06
+Reynosa
+
+
+
+
+
+
+
+8.06
+El Canada
+
+
+
+
+
+
+
+7.40
+Las Enramadas
+
+
+
+
+
+
+
+7.17
+Higueras
+
+
+
+
+
+
+
+7.09
+Cienega de Flores
+
+
+
+
+
+
+
+6.54
+Cadereyta
+
+
+
+
+
+
+
+6.48
+Iturbide
+
+
+
+
+
+
+
+6.22
+Mexico (Unofficial)
+
+
+
+
+
+
+
+
+San Miguil, Cozumel
+
+
+
+
+
+15f
+
+4.90
+Tulum
+
+978
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Texas (Official)
+
+
+
+
+
+
+
+
+Alice
+
+
+20/1310
+34
+40
+
+
+
+Brownsville (KBRO)
+20/0807
+1002.4
+20/1204
+42
+55
+
+
+2.59
+Harlingen (KHRL)
+20/0833
+1004.7
+20/1107
+44
+51
+
+
+3.00
+McAllen (KMFE) 
+20/1032
+1005.7
+20/0833
+33
+41
+
+
+4.26
+Weslaco 
+
+
+20/1420
+33
+42
+
+
+
+Edinburg
+20/1000
+1007.1
+20/1824
+26
+34
+
+
+
+Bayview (KPIL)
+
+
+21/0536
+
+34
+
+
+
+
+
+
+
+
+
+
+
+
+Texas (Unofficial)
+
+
+
+
+
+
+
+
+Port Mansfield
+20/1100
+1005.7
+20/1300
+34
+38
+
+
+1.29
+South Padre Island CG
+20/1200
+1002.7
+20/1500
+30
+40
+
+3.0
+
+McAllen EOC
+
+
+20/1747
+
+45
+
+
+
+Port Isabel
+20/0900
+1003.0
+
+
+
+
+3.0
+3.60
+Baffin Bay
+20/0900
+1007.8
+
+
+
+
+
+
+Port of Brownsville
+
+
+
+
+
+
+3.5
+1.78
+Boca Chica Beach
+
+
+
+
+
+
+5.0
+
+Isla Blanca State Park
+
+
+
+
+
+
+4.0
+
+Armstrong
+
+
+
+
+
+
+
+1.25
+Brownsville
+
+
+
+
+
+
+
+1.98
+Donna
+
+
+
+
+
+
+
+3.83
+Edinburg
+
+
+
+
+
+
+
+3.69
+El Sauz
+
+
+
+
+
+
+
+2.25
+Falcon Dam
+
+
+
+
+
+
+
+3.38
+Harlingen
+
+
+
+
+
+
+
+2.99
+Hebbronville
+
+
+
+
+
+
+
+2.18
+Mercedes
+
+
+
+
+
+
+
+5.20
+Raymondville
+
+
+
+
+
+
+
+1.69
+Rio Grande City
+
+
+
+
+
+
+
+2.15
+San Manuel
+
+
+
+
+
+
+
+2.92
+Zapata
+
+
+
+
+
+
+
+4.20
+
+
+
+
+
+
+
+
+
+Buoys and CMAN sites
+
+
+
+
+
+
+
+
+Buoy 42058
+ (15.0ºN 75.0ºW)
+16/0455
+999.0
+16/0455
+40g
+51
+
+
+
+Buoy 42057
+(15.0ºN 80.0ºW)
+
+
+16/2208
+34g 
+39
+
+
+
+Buoy 42056
+(19.9ºN 85.1ºW)
+17/2151
+996.7
+17/2151
+63g
+74
+
+
+
+Buoy 42055
+(22.0ºN 94.1ºW)
+19/0959
+1003.6
+19/0959
+36g
+39
+
+
+
+Buoy 42002
+(25.2ºN 94.4ºW)
+19/2150
+1002.6
+19/1610
+46
+66
+
+
+
+Buoy 42020
+(26.9ºN 96.7ºW)
+20/0850
+1006.4
+19/1840
+34
+45
+
+
+
+
+a  Date/time is for sustained wind when both sustained and gust are listed.
+b  Except as noted, sustained wind averaging periods for C-MAN and land-based ASOS reports are 2 min; buoy averaging periods are 8 min.
+c  Storm surge is water height above normal astronomical tide level.
+d  Storm tide is water height above National Geodetic Vertical Datum (1929 mean sea level).
+e  10-min average.
+f   Estimated.
+g  1-min average.
+
+Table 4.	Preliminary forecast evaluation (heterogeneous sample) for Hurricane Emily, 11-21 July 2005.  Forecast errors (n mi) are followed by the number of forecasts in parentheses.  Errors smaller than the NHC official forecast are shown in bold-face type.  Verification includes the depression stage, but does not include the extratropical stage, if any.
+
+
+Forecast Technique
+
+
+Forecast Period (h)
+
+
+
+
+
+12
+
+
+24
+
+
+36
+
+
+48
+
+
+72
+
+
+96
+
+
+120
+
+CLP5
+  27 (41)
+  49 (39)
+  75 (37)
+  93 (35)
+ 127 (31)
+ 192 (27)
+ 285 (23)
+GFNI
+  37 (34)
+  69 (31)
+  98 (29)
+ 125 (25)
+ 178 (19)
+ 219 (15)
+ 269 (11)
+GFDI
+  35 (40)
+  59 (38)
+  84 (36)
+ 110 (34)
+ 153 (30)
+ 179 (26)
+ 165 (21)
+GFSI
+  34 (39)
+  51 (36)
+  68 (35)
+  87 (33)
+ 117 (28)
+ 135 (24)
+ 136 (16)
+AEMI
+  34 (40)
+  60 (38)
+  83 (36)
+  99 (34)
+ 122 (30)
+ 131 (25)
+ 152 (22)
+NGPI
+  28 (38)
+  47 (36)
+  68 (34)
+  83 (32)
+ 117 (28)
+ 165 (24)
+ 208 (18)
+UKMI
+  32 (38)
+  56 (36)
+  80 (34)
+ 100 (32)
+ 138 (28)
+ 167 (24)
+ 162 (20)
+A98E
+  29 (41)
+  50 (39)
+  73 (37)
+  96 (35)
+ 142 (31)
+ 183 (27)
+ 244 (23)
+A9UK
+  30 (20)
+  52 (19)
+  81 (18)
+ 113 (17)
+ 168 (15)
+
+
+BAMD
+  29 (41)
+  45 (39)
+  62 (37)
+  78 (35)
+ 119 (31)
+ 151 (27)
+ 203 (23)
+BAMM
+  30 (41)
+  48 (39)
+  66 (37)
+  85 (35)
+ 138 (31)
+ 167 (27)
+ 176 (23)
+BAMS
+  45 (41)
+  86 (39)
+ 123 (37)
+ 155 (35)
+ 203 (31)
+ 230 (27)
+ 208 (23)
+CONU
+  28 (39)
+  47 (37)
+  68 (35)
+  87 (33)
+ 115 (29)
+ 122 (25)
+ 110 (20)
+GUNA
+  27 (37)
+  41 (34)
+  60 (33)
+  78 (31)
+ 103 (26)
+ 110 (22)
+  75 (14)
+FSSE
+  28 (35)
+  46 (35)
+  66 (34)
+  85 (31)
+ 120 (27)
+ 137 (23)
+ 127 (18)
+OFCL
+  22 (41)
+  38 (39)
+  58 (36)
+  75 (35)
+  94 (31)
+ 109 (27)
+ 153 (23)
+
+NHC Official
+(1995-2004 mean)
+
+42 (3400)
+
+75 (3116)
+107 (2848)
+
+138 (2575)
+
+202 (2117)
+
+236 (649)
+
+310 (535)
+
+
+Table 5.	Watch and warning summary for Hurricane Emily, 11-21 July 2005.
+
+Date/Time (UTC)
+Action
+Location
+12 / 1500
+Tropical Storm Watch issued
+Tobago
+12 / 1500
+Hurricane Watch issued
+Barbados, Grenada, Grenadines, St. Vincent, and St. Lucia
+12 / 2100
+Tropical Storm Watch changed to Tropical Storm Warning and Hurricane Watch
+Tobago
+12 / 2100
+Hurricane Watch changed to Hurricane Warning
+Barbados, Grenada, Grenadines, St. Vincent, and St. Lucia
+12 / 2100
+Tropical Storm Watch issued
+Martinique
+13 / 0300
+Tropical Storm Warning changed to Hurricane Warning
+Tobago
+13 / 0300
+Tropical Storm Warning issued
+Trinidad
+13 / 0300
+Hurricane Watch issued
+Trinidad
+13 / 0900
+Tropical Storm Warning issued
+Barbados
+13 / 0900
+Tropical Storm Warning issued
+Pedernales to Cumana
+13 / 0900
+Hurricane Warning discontinued
+Barbados
+13 / 1500
+Tropical Storm Watch issued
+Cumana to Caracas
+13 / 1800
+Hurricane Warning changed to Tropical Storm Warning
+Tobago, Grenada, Grenadines, St. Vincent, and St. Lucia
+13 / 1800
+Tropical Storm Watch discontinued
+Martinique
+13 / 1800
+Hurricane Watch discontinued
+All
+13 / 2100
+Tropical Storm Watch issued
+Aruba, Bonaire, and Curacao
+14 / 0200
+Tropical Storm Warning changed to Hurricane Warning
+Grenada, Grenadines, St. Vincent, and St. Lucia
+14 / 0300
+Tropical Storm Watch discontinued
+Cumana to Caracas
+14 / 0300
+Tropical Storm Warning discontinued
+Barbados
+14 / 0300
+Tropical Storm Warning modified to
+Pedernales to Punta Fijo
+14 / 0600
+Tropical Storm Warning issued
+St. Lucia
+14 / 0600
+Hurricane Warning discontinued
+St. Lucia
+14 / 0900
+Tropical Storm Warning discontinued
+Trinidad and Tobago
+14 / 0900
+Hurricane Warning changed to Tropical Storm Warning
+Grenadines and St. Vincent
+14 / 1200
+Tropical Storm Watch changed to Tropical Storm Warning
+Aruba, Bonaire, and Curacao
+14 / 1200
+Tropical Storm Warning discontinued
+Grenadines, St. Vincent, and St. Lucia
+14 / 1200
+Hurricane Warning changed to Tropical Storm Warning
+Grenada
+14 / 1500
+Tropical Storm Watch issued
+Punta Salinas to Port-Au-Prince
+14 / 1500
+Tropical Storm Warning discontinued
+Grenada
+14 / 1800
+Tropical Storm Warning modified to
+Cumana to Punta Fijo
+14 / 2100
+Tropical Storm Watch changed to Tropical Storm Warning
+Punta Salinas to Port-Au-Prince
+14 / 2100
+Hurricane Watch issued
+Jamaica
+15 / 0300
+Tropical Storm Warning modified to
+Caracas to Punta Fijo
+15 / 0300
+Hurricane Watch issued
+Cayman Is.
+15 / 0900
+Hurricane Watch changed to Hurricane Warning
+Jamaica
+15 / 1200
+Tropical Storm Warning discontinued
+Caracas to Punta Fijo
+15 / 1200
+Tropical Storm Warning discontinued
+Aruba, Bonaire, and Curacao
+15 / 2100
+Hurricane Watch changed to Hurricane Warning
+Cayman Is.
+16 / 0600
+Tropical Storm Warning modified to
+Haiti/DR border to Port-Au-Prince
+16 / 1500
+Tropical Storm Watch issued
+Belize City to BEL/MX border
+16 / 1500
+Hurricane Watch issued
+Chetumal to Cabo Catoche
+16 / 1800
+Tropical Storm Warning discontinued
+All
+16 / 2100
+Hurricane Watch modified to
+Chetumal to Progreso
+17 / 0300
+Tropical Storm Watch changed to Tropical Storm Warning
+Belize City to BEL/MX border
+17 / 0300
+Hurricane Watch discontinued
+Chetumal to Progreso
+17 / 0300
+Hurricane Watch issued
+Cabo Catoche to Campeche
+17 / 0300
+Hurricane Warning issued
+Chetumal to Cabo Catoche
+17 / 0900
+Hurricane Warning discontinued
+Jamaica
+17 / 1200
+Tropical Storm Warning issued
+Grand Cayman
+17 / 1200
+Hurricane Warning discontinued
+Cayman Is.
+17 / 1500
+Tropical Storm Warning discontinued
+Grand Cayman
+17 / 1500
+Hurricane Watch discontinued
+All
+17 / 1500
+Hurricane Warning modified to
+Chetumal to Campeche
+18 / 0900
+Hurricane Watch issued
+Cabo Rojo to Baffin Bay
+18 / 1200
+Tropical Storm Warning discontinued
+All
+18 / 1500
+Hurricane Warning modified to
+Cabo Catoche to Campeche
+18 / 2100
+Tropical Storm Warning issued
+Texas/Mexico border to Baffin Bay
+18 / 2100
+Tropical Storm Warning issued
+Cabo Rojo to La Cruz
+18 / 2100
+Hurricane Watch modified to
+Texas/Mexico border to Baffin Bay
+18 / 2100
+Hurricane Warning discontinued
+Cabo Catoche to Campeche
+18 / 2100
+Hurricane Warning issued
+La Cruz to Texas/Mexico Border
+19 / 0900
+Tropical Storm Warning modified to
+Port Mansfield to Baffin Bay
+19 / 0900
+Hurricane Watch modified to
+Port Mansfield to Baffin Bay
+19 / 0900
+Hurricane Warning modified to
+La Cruz to Port Mansfield
+20 / 0900
+Hurricane Watch changed to Tropical Storm Warning
+Port Mansfield to Baffin Bay
+20 / 1500
+Tropical Storm Warning modified to
+Port Mansfield to Brownsville
+20 / 1500
+Hurricane Warning modified to
+La Cruz to Texas/Mexico border
+20 / 2100
+Tropical Storm Warning discontinued
+Port Mansfield to Brownsville
+20 / 2100
+Tropical Storm Warning discontinued
+Cabo Rojo to La Cruz
+20 / 2100
+Tropical Storm Warning issued
+La Pesca to Texas/Mexico border
+20 / 2100
+Hurricane Warning discontinued
+All
+21 / 0300
+Tropical Storm Warning discontinued
+All
+
+
+
+
+
+Figure 1.	Best track positions for Hurricane Emily, 11-21 July 2005.  
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Emily, 11-21 July 2005.  Aircraft observations have been adjusted for elevation using 90%, 80%, and 80% reduction factors for observations from 700 mb, 850 mb, and 1500 ft, respectively.  Dropwindsonde observations include actual 10 m winds (sfc), as well as surface estimates derived from the mean wind over the lowest 150 m of the wind sounding (LLM),  and from the sounding boundary layer mean (MBL).  Objective Dvorak estimates represent linear averages over a three-hour period centered on the nominal observation time.  Thin solid vertical lines indicate landfalls.
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Hurricane Emily, 11-21 July 2005. Objective Dvorak estimates represent linear averages over a three-hour period centered on the nominal observation time.  Thin solid vertical lines indicate landfalls.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19
+
+
+

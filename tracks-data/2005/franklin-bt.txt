@@ -1,0 +1,766 @@
+Tropical Cyclone Report
+Tropical Storm Franklin
+21-29 July 2005
+
+Richard D. Knabb
+National Hurricane Center
+17 March 2006
+
+
+Franklin moved erratically over the western Atlantic between Bermuda and North America without significant impacts on land.
+
+
+
+
+
+	Synoptic History
+
+The tropical wave that led to the formation of Tropical Storm Franklin emerged from the west coast of Africa on 10 July.  The wave generated little deep convection during its first day or so over water.  After it passed the Cape Verde Islands, a distinct but small area of deep convection persisted near the apex of the wave as it moved across the tropical Atlantic during 12-14 July, but vertical wind shear and cooler waters hindered development.  By 15 July, when the wave was about midway between Africa and the Lesser Antilles, its satellite signature had become large and very well-defined, and while deep convection had increased in coverage, it was poorly organized.  The system changed little during the next three days while it continued westward.
+
+By the time the wave arrived over the Lesser Antilles late on 18 July, nearly all deep convection had dissipated, apparently due to wind shear to the east of an upper-level trough over the Caribbean Sea.  The southern portion of the wave proceeded through the Caribbean Sea during the next few days and eventually spawned Tropical Storm Gert over the southwestern Gulf of Mexico.  Meanwhile, the upper-level trough weakened and moved northwestward, allowing modest anticyclonic upper-level flow to become superimposed on the northern portion of the wave by late on 19 July.  Deep convection resumed and became concentrated north of Hispaniola the next day.  Early on 21 July, surface pressures fell in and near the central and southeastern Bahamas, but a closed surface circulation did not yet appear to have formed.
+
+As the system proceeded northwestward just east of the Bahamas, the deep convection began to exhibit curved banding, and at 1200 UTC the system received its first Dvorak classifications by the Tropical Analysis and Forecast Branch (TAFB) and the Satellite Analysis Branch (SAB).  A very pronounced mid-level circulation was clearly evident by about 1600 UTC.  Aircraft reconnaissance reports a few hours later, around 2030 UTC, indicated that a closed low-level circulation also had developed.  It is estimated that a tropical depression had formed by 1800 UTC 21 July, centered about 60 n mi east of the island of Eleuthera in the northwestern Bahamas.  The “best track” chart of the tropical cyclone’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.
+
+	The newly-formed depression strengthened, and by 0000 UTC 22 July it had become a 40-kt tropical storm about 70 n mi east-southeast of the island of Great Abaco in the northwestern Bahamas.  However, most of the winds and rains of Franklin were east of its center and not over the Bahamas.  Initially the cyclone moved northwestward within a relative weakness in the subtropical ridge.  It turned northward through the weakness on 22 July, but strengthening was very limited that day by westerly shear on the northern extent of the upper-level anticyclone associated with Gert.  As Franklin gained a little more latitude and Gert moved westward, the shear impacting Franklin abated early on 23 July and allowed it to strengthen some more.  Franklin reached its peak intensity of 60 kt at 2100 UTC that day while centered about 275 n mi east of Cape Canaveral, Florida.  The tropical storm also turned northeastward on 23 July, influenced by a mid-latitude upper-level trough that emerged off the east coast of the United States.  However, that trough was too far north to carry Franklin very far out to sea.  It bypassed the tropical storm, but in its wake it left strong northwesterly vertical shear that caused Franklin to weaken on 24 and 25 July.  Franklin’s track during those two days was generally eastward but quite erratic, especially late on both days when the exposed low-level center meandered northwest of the deep convection with little or no net forward motion.  Franklin’s intensity decreased by 1800 UTC 25 July to 35 kt, which it maintained throughout the next day.  The storm turned northward on 26 July as a deep layer ridge built to its east.  Its center slowly passed about 175 n mi west of Bermuda that day, and sustained winds of tropical storm force remained west of that island.
+
+Franklin continued slowly northward between Bermuda and North Carolina during 27-28 July.  Wind shear gradually relaxed during this period, and Franklin regained some strength, reaching an intensity of 50 kt early on the 28th.  A middle latitude trough and associated cold front reached the east coast of the northeastern United States late on 28 July, forcing Franklin to turn northeastward.  The tropical storm steadily accelerated on 29 July and its center passed about 250 n mi south of Nova Scotia.  Franklin transformed into an extratropical cyclone by 0000 UTC 30 July and passed just south of Cape Race, Newfoundland later that day.  It was absorbed by a larger extratropical system over the extreme North Atlantic the next day.
+
+
+	Meteorological Statistics
+
+	Observations in Franklin (Figs. 2 and 3) include data from satellites, aircraft, conventional land-based surface observing sites, ocean buoys, and ships.  Selected ship and drifting buoy reports of winds of tropical storm force associated with Franklin are given in Table 2.  Satellite observations include geostationary satellite-based Dvorak technique intensity estimates from TAFB, SAB and the U. S. Air Force Weather Agency (AFWA).  Microwave satellite data and imagery from NOAA polar-orbiting satellites, Defense Meteorological Satellite Program (DMSP) satellites, and National Aeronautics and Space Administration (NASA) satellites including the Tropical Rainfall Measuring Mission (TRMM), QuikSCAT, and Aqua were also useful in tracking Franklin.  Since Franklin was close to land areas during the first several days of its life span, six missions were flown into the storm during 21-25 July by the 53rd Weather Reconnaissance Squadron of the U. S. Air Force Reserve Command.  These missions provided 23 center fixes on Franklin, as well as many flight-level and dropwindsonde observations.
+
+	The first reconnaissance aircraft mission into Franklin reported 1000-ft flight-level winds of 48 kt at 2114 UTC 21 July.  Using the average 80% adjustment from that altitude yields an estimated surface wind of 38 kt.  The aircraft then measured 57 kt at 1000 ft at 2318 UTC, which would on average correspond to 46 kt surface winds.  However, a QuikSCAT overpass at about the same time estimated surface winds only as strong as about 35 kt, although due to the instrument’s resolution that might be a slight underestimate.  Based on these data the best track intensity at 0000 UTC 22 July is set to 40 kt, and Franklin had probably become a tropical storm by about 2100 UTC 21 July.  The strongest flight-level wind measured during subsequent missions into Franklin was 63 kt at 850 mb, measured at 1543 UTC 23 July.  This observation corresponds to a surface wind of about 50 kt using an average 80% adjustment from 850 mb.  During that same mission, a dropsonde measured 10-m winds of 56 at 1337 UTC, and another dropsonde measured 59 kt at 1613 UTC; surface wind estimates derived from the mean wind speed in the lowest 150 m of these profiles were 47 and 56 kt, respectively.  Meanwhile, visual observations from the aircraft during this mission provided surface wind estimates as strong as 65 kt.  Finally, QuikSCAT overpasses at 1020 UTC and 2341 UTC 23 July both estimated maximum surface winds of 55 kt.  Based on all of these data, Franklin’s peak best track intensity is set to 60 kt at 1200 and 1800 UTC 23 July.
+
+During the final reconnaissance mission on 25 July, when aircraft wind data indicated Franklin’s intensity had decreased to 40 kt, the aircraft also measured via dropsonde a pressure of 1000 mb at 1429 UTC.  However, the surface wind measured by that dropsonde was 19 kt, so the actual central pressure was probably about 999 mb.  This pressure is lower than what had been measured on earlier missions, even compared to 1001 mb when Franklin was at its peak intensity of 60 kt on 23 July.  Surrounding surface observations reveal that surface pressures fell markedly in Franklin’s nearby environment during 23-25 July.  This fact, along with the overall decrease in deep convection following peak intensity, helps to explain why the maximum sustained winds had decreased even though the pressure had also decreased, albeit only slightly.
+
+Although the center of Franklin brushed the Bahamas and passed near Bermuda and southeastern Canada, no reports of winds of tropical storm force, either sustained or in gusts, were received from any land locations.  The storm produced wind gusts as strong as 32 kt in Bermuda on 26 July.  The center of Franklin passed almost directly over buoy 44141 (Laurentian Fan, operated by Environment Canada) at about 2300 UTC 29 July, when the buoy reported a minimum pressure of 1000.8 mb.  The maximum sustained wind reported by that buoy was only 31 kt at 2100 UTC that day, but ship V7GY3 (Table 2) and QuikSCAT both measured surface winds of about 50 kt up to 90 n mi south of the circulation center at about the same time.  The large radius of maximum winds was one of many indications that Franklin had transformed into an extratropical cyclone late on 29 July.
+					
+
+	Casualty and Damage Statistics
+	
+	There were no reports of damages or casualties associated with Tropical Storm Franklin.
+
+
+	Forecast and Warning Critique
+
+Tropical Weather Outlooks (TWO) issued by the National Hurricane Center first mentioned on 12 July the tropical wave that eventually led to the genesis of Franklin.  An increased potential for development of a tropical depression in the eastern Atlantic, which did not occur, was conveyed when the wave was near the Cape Verde Islands.  The status of the wave was updated in the TWO for the next several days as it crossed the Atlantic.  The TWOs issued during this period were in general consistent in conveying that, at most, only slow development was possible.  When deep convection faded as the wave moved closer to the Windward and Leeward Islands, mention of the wave was removed from the TWO on 17 July.  The same wave was reintroduced into the TWO during the afternoon of 19 July once deep convection resumed.  This occurred about 48 hours prior to tropical cyclogenesis and when the wave was over the eastern Caribbean and the Lesser Antilles.  These later Outlooks in general properly anticipated that upper-level winds would not become conducive for development until the wave reached the Bahamas on 21 July.  However, an increased potential for the formation of a tropical cyclone was not conveyed in the TWO until a few hours prior to when it is estimated to have become a depression.
+
+Average official (OFCL) track errors (with the number of cases in parentheses) for Franklin were 38 (31), 67 (29), 80 (27), 95 (25), 175 (21), 288 (17), and 451 (13) n mi for the 12, 24, 36, 48, 72, 96, and 120 h forecasts, respectively.  The corresponding average official track errors for the 10-yr period 1995-2004
+
+ 	Errors given for the 96 and 120 h periods are averages over the four-year period 2001-4.  are 42, 75, 107, 138, 202, 236, and 310 n mi, respectively (Table 3).  OFCL track errors during Franklin were somewhat less than the long-term averages through 72 h but were greater than the long-term averages at 96 and 120 h.  In general, the official forecasts on average outperformed nearly all model guidance available at the time forecasts were issued.  However, the magnitudes of the errors in both the official forecasts and the various models were quite large at 96 and 120 h.  In fact, many dynamical models in general did not perform very well at all during Franklin.  Two factors seem to have contributed to these sub-par performances.  First, forecasting the track of a sheared tropical cyclone is generally more difficult than that of one less sheared, and the strong shear in Franklin’s environment contributed to its erratic track.  Second, many of the models prematurely anticipated Franklin to race northeastward into the middle latitude westerlies.  Many of the official forecasts followed suit, although to a lesser degree which contributed to smaller OFCL errors as compared to most of the models.  However, even the official forecasts had no skill at 120 h, since OFCL errors were on average larger than the 5-day climatology and persistence (CLP5) model at that lead time (Table 3).
+
+	Average official intensity errors were 4, 6, 8, 12, 18, 18 and 17 kt for the 12, 24, 36, 48, 72, 96, and 120 h forecasts, respectively.  For comparison, the average official intensity errors over the 10-yr period 1995-20041 are 6, 10, 12, 15, 18, 20, and 22 kt, respectively.  OFCL intensity errors were therefore somewhat less than the 10-year averages, except at 72 h.  Official forecasts during the first two days after genesis properly forecast Franklin to approach hurricane strength north of the Bahamas, but in general they did not anticipate the subsequent weakening when it meandered eastward during 24-25 July.  Later official forecasts did not anticipate the re-strengthening of Franklin northwest of Bermuda.  The SHIPS model was a little closer to capturing this re-strengthening, and as a result it outperformed the official forecasts on average at 48-96 h.  Official forecast errors were otherwise very similar to those of SHIPS.
+
+	Tropical storm watches and warnings issued in association with Tropical Storm Franklin are summarized in Table 4.Table 1.	Best track for Tropical Storm Franklin, 21-29 July 2005.
+
+Date/Time
+(UTC)
+
+Latitude
+(EN)
+
+Longitude
+(EW)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+21 / 1800
+25.0
+ 75.0
+1010
+ 30
+tropical depression
+22 / 0000
+25.7
+ 75.9
+1009
+ 40
+tropical storm    
+22 / 0600
+26.2
+ 76.4
+1008
+ 40
+"          
+22 / 1200
+26.6
+ 76.8
+1007
+ 45
+"          
+22 / 1800
+27.4
+ 76.7
+1006
+ 45
+"          
+23 / 0000
+28.1
+ 76.6
+1003
+ 45
+"          
+23 / 0600
+28.7
+ 76.1
+1001
+ 50
+"          
+23 / 1200
+29.2
+ 75.4
+1001
+ 60
+"          
+23 / 1800
+29.7
+ 74.7
+1001
+ 60
+"          
+24 / 0000
+30.1
+ 73.5
+1001
+ 55
+"          
+24 / 0600
+30.3
+ 72.6
+1001
+ 55
+"          
+24 / 1200
+30.7
+ 71.9
+1001
+ 45
+"          
+24 / 1800
+31.1
+ 71.2
+1000
+ 45
+"          
+25 / 0000
+31.1
+ 71.2
+1000
+ 40
+"          
+25 / 0600
+31.0
+ 70.5
+1000
+ 40
+"          
+25 / 1200
+30.9
+ 69.8
+999
+ 40
+"          
+25 / 1800
+30.9
+ 69.6
+999
+ 40
+"          
+26 / 0000
+30.9
+ 68.6
+1000
+ 35
+"          
+26 / 0600
+31.2
+ 68.2
+1001
+ 35
+"          
+26 / 1200
+31.7
+ 68.1
+1002
+ 35
+"          
+26 / 1800
+32.2
+ 68.3
+1001
+ 35
+"          
+27 / 0000
+32.4
+ 68.5
+1000
+ 40
+"          
+27 / 0600
+32.8
+ 68.8
+1000
+ 40
+"          
+27 / 1200
+33.2
+ 69.1
+ 999
+ 45
+"          
+27 / 1800
+33.6
+ 69.3
+ 999
+ 45
+"          
+28 / 0000
+34.2
+ 69.4
+ 997
+ 50
+"          
+28 / 0600
+35.0
+ 69.3
+ 997
+ 50
+"          
+28 / 1200
+36.0
+ 69.1
+ 999
+ 45
+"          
+28 / 1800
+37.1
+ 68.0
+ 997
+ 50
+"          
+29 / 0000
+38.4
+ 66.6
+ 997
+ 50
+"          
+29 / 0600
+39.6
+ 64.8
+ 997
+ 50
+"          
+29 / 1200
+40.8
+ 62.8
+ 997
+ 50
+"          
+29 / 1800
+42.2
+ 60.2
+ 999
+ 50
+"          
+30 / 0000
+43.5
+ 57.5
+1001
+ 50
+extratropical
+30 / 0600
+44.7
+ 54.6
+1003
+ 45
+"          
+30 / 1200
+45.8
+ 51.7
+1005
+ 40
+"          
+30 / 1800
+46.4
+ 48.8
+1006
+ 40
+"          
+31 / 0000
+47.5
+ 46.0
+1006
+ 40
+"          
+31 / 0600
+
+
+
+
+absorbed
+28 / 0000
+34.2
+ 69.4
+ 997
+ 50
+minimum pressure
+Table 2.	Selected ship and drifting buoy reports with winds of at least 34 kt for Tropical Storm Franklin, 21-29 July 2005.
+
+
+Date/Time (UTC)
+
+Ship call sign
+
+
+Latitude
+(EN)
+
+Longitude
+(EW)
+
+Wind
+dir/speed (kt)
+
+Pressure 
+(mb)
+22 / 1800
+Buoy 41528
+27.6
+76.0
+190 / 43
+1015.5
+25 / 0900
+WCOB  
+ 29.2
+  69.4
+200 /  37
+1009.9
+29 / 2100
+V7GY3 
+ 41.5
+  58.5
+230 /  50
+1010.0
+30 / 0900
+WCZ654
+ 44.5
+  52.9
+190 /  35
+1008.3
+30 / 1200
+PBHU  
+ 45.9
+  55.0
+340 /  35
+1011.3
+30 / 1200
+HP6038
+ 46.4
+  48.4
+180 /  36
+1014.0
+30 / 1200
+VEP717
+ 46.7
+  48.7
+170 /  37
+1013.3
+30 / 1500
+HP6038
+ 46.4
+  48.4
+170 /  35
+1010.8
+30 / 1500
+VEP717
+ 46.7
+  48.7
+160 /  38
+1010.1
+30 / 1500
+YJUF7 
+ 46.7
+  48.0
+170 /  36
+1011.1
+
+
+
+
+Table 3.	Preliminary forecast evaluation (heterogeneous sample) for Tropical Storm Franklin, 21-29 July 2005.  Forecast errors (n mi) are followed by the number of forecasts in parentheses.  Errors smaller than the NHC official forecast (OFCL) are shown in bold-face type.  Verification includes the depression stage but does not include the extratropical stage.  Models not available at the time OFCL forecasts were made are indicated by (*).
+
+
+Forecast Technique
+
+
+Forecast Period (h)
+
+
+
+
+
+12
+
+
+24
+
+
+36
+
+
+48
+
+
+72
+
+
+96
+
+
+120
+
+CLP5
+  53 (31)
+ 117 (29)
+ 186 (27)
+ 241 (25)
+ 331 (21)
+ 430 (17)
+ 444 (13)
+GFNI
+  46 (29)
+  85 (26)
+ 104 (24)
+ 100 (19)
+ 176 (15)
+ 232 (13)
+ 225 ( 8)
+GFDI
+  38 (31)
+  70 (28)
+  96 (26)
+ 113 (23)
+ 191 (20)
+ 415 (15)
+ 824 (12)
+GFDL*
+  34 (31)
+  59 (29)
+  84 (26)
+ 104 (23)
+ 185 (18)
+ 362 (14)
+ 755 (12)
+GFDN*
+  38 (27)
+  76 (25)
+ 109 (22)
+ 117 (18)
+ 170 (14)
+ 229 (13)
+ 230 ( 9)
+GFSI
+  47 (28)
+  99 (26)
+ 159 (24)
+ 230 (22)
+ 472 (17)
+ 915 (12)
+1484 ( 7)
+GFSO*
+  40 (28)
+  71 (25)
+ 115 (22)
+ 178 (20)
+ 365 (15)
+ 955 ( 7)
+1510 ( 5)
+AEMI
+  48 (29)
+  99 (26)
+ 153 (25)
+ 219 (22)
+ 400 (16)
+ 638 ( 4)
+
+NGPI
+  44 (31)
+  81 (29)
+ 107 (27)
+ 143 (25)
+ 234 (20)
+ 362 (17)
+ 569 (13)
+NGPS*
+  45 (29)
+  82 (27)
+ 112 (25)
+ 138 (23)
+ 221 (17)
+ 330 (15)
+ 509 (12)
+UKMI
+  49 (29)
+  82 (27)
+  93 (25)
+ 139 (20)
+ 177 (16)
+ 304 (15)
+ 519 ( 8)
+UKM*
+  41 (15)
+  64 (14)
+  78 (13)
+  73 (10)
+ 128 ( 8)
+ 241 ( 8)
+ 437 ( 4)
+A98E
+  47 (31)
+  81 (29)
+ 105 (27)
+ 137 (25)
+ 232 (21)
+ 378 (17)
+ 420 (13)
+A9UK
+  56 (15)
+  95 (14)
+ 128 (13)
+ 163 (12)
+ 275 (10)
+
+
+BAMD
+  42 (31)
+  85 (29)
+ 135 (27)
+ 197 (25)
+ 383 (21)
+ 644 (17)
+ 822 (13)
+BAMM
+  34 (30)
+  66 (28)
+ 104 (26)
+ 145 (24)
+ 283 (20)
+ 501 (16)
+ 603 (12)
+BAMS
+  36 (30)
+  65 (28)
+  92 (26)
+ 111 (24)
+ 171 (20)
+ 312 (16)
+ 440 (12)
+CONU
+  36 (31)
+  67 (28)
+  89 (26)
+ 114 (24)
+ 204 (19)
+ 370 (16)
+ 683 (12)
+GUNA
+  36 (28)
+  69 (26)
+  93 (24)
+ 126 (19)
+ 257 (15)
+ 459 (12)
+ 788 ( 5)
+FSSE
+  37 (29)
+  74 (27)
+ 112 (25)
+ 154 (23)
+ 312 (16)
+ 563 (11)
+ 913 ( 6)
+OFCL
+  38 (31)
+  67 (29)
+  80 (27)
+  95 (25)
+ 175 (21)
+ 288 (17)
+ 451 (13)
+
+NHC Official
+(1995-2004 mean)1
+
+
+42
+
+(3400)
+
+75
+
+(3116)
+
+107
+
+(2848)
+
+138
+
+(2575)
+
+202
+
+(2117)
+
+236
+
+(649)
+
+310
+
+(535)
+1 Errors given for the 96 and 120 h periods are averages over the four-year period 2001-04.
+Table 4.	Watch and warning summary for Tropical Storm Franklin, 21-29 July 2005.
+
+Date/Time (UTC)
+Action
+Location
+21 / 2100
+Tropical Storm Warning issued
+Northwestern Bahamas excluding Andros and Bimini
+22 / 0900
+Tropical Storm Warning discontinued
+New Providence and Berry Islands in the Bahamas
+22 / 2100
+Tropical Storm Warning discontinued
+All
+26 / 0300
+Tropical Storm Watch issued
+Bermuda
+27 / 0900
+Tropical Storm Watch discontinued
+All
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1.	Best track positions for Tropical Storm Franklin, 21-29 July 2005.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Franklin, 21-29 July 2005.  Aircraft observations have been adjusted for elevation using 90%, 80%, and 80% reduction factors for observations from 700 mb, 850 mb, and 1500 ft, respectively.  Dropwindsonde observations include actual 10 m winds (sfc), as well as surface estimates derived from the mean wind over the lowest 150 m of the wind sounding (LLM),  and from the sounding boundary layer mean (MBL).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Tropical Storm Franklin, 21-29 July 2005.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13
+
+
+

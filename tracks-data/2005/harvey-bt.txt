@@ -1,0 +1,733 @@
+Tropical Cyclone Report
+Tropical Storm Harvey
+2-8 August 2005
+
+Richard D. Knabb
+National Hurricane Center
+17 March 2006
+
+
+	Harvey spent almost a week as a tropical storm over the northwestern Atlantic Ocean.  Its center passed near Bermuda and the storm brought tropical storm conditions to that island but with minimal impacts.
+
+
+
+
+
+	Synoptic History
+
+The tropical wave that eventually led to the genesis of Harvey crossed the west coast of Africa on 22 July.  The wave proceeded westward for the next several days without significant development.  A surface low pressure center associated with the northern portion of the wave moved over Puerto Rico and then generally northward from that island during 30 July - 1 August.  However, the system was poorly organized during that period due to southerly wind shear associated with an upper-level low pressure system to its west.
+
+The upper-level low moved slightly westward and allowed convection to increase on 2 August to the north and east of the incipient surface low pressure center, and it is estimated that a tropical depression formed by 1800 UTC that day about 320 n mi southwest of Bermuda.  The circulation center was not very well-defined at that time, and the cyclone had a subtropical appearance on satellite imagery.  However, the depression was given a tropical rather than a subtropical designation since the deep convection was fairly close (within about 60 n mi) to the low-level center.  Also, the upper-level low was far enough away such that its primary role was to shear the depression and not to become directly involved in the circulation of the depression.  The “best track” chart of the tropical cyclone’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.
+
+In addition to imposing shear, the upper-level low to the west of the newly-formed depression contributed to forcing the tropical cyclone toward the north during the first 24 hours or so after genesis.  Harvey strengthened to a tropical storm with maximum sustained winds of 40 kt by 0600 UTC 3 August when it was centered about 250 n mi southwest of Bermuda.  Under the influence of a middle- to upper-level trough to its north, the storm turned toward the east-northeast and reached an intensity of 50 kt late on 3 August.  Harvey maintained that intensity while its center passed about 40 n mi south of Bermuda shortly after 0600 UTC 4 August.  While Harvey’s strongest winds were confined to its southeastern quadrant, sustained winds of tropical storm force extended far enough to the north to affect Bermuda.  Harvey reached its peak intensity of 55 kt at 1800 UTC 4 August while centered about 130 n mi east of Bermuda, but wind shear increased during the next 24 hours and Harvey weakened to 45 kt by 1800 UTC 5 August.  The storm continued generally eastward on 4 and 5 August, but early on 6 August it slowed down significantly and drifted generally northward, as the upper-level trough that had been helping advance Harvey departed to the northeast.  Later that day, Harvey was essentially stationary with an intensity of 50 kt about 400 n mi east-northeast of Bermuda.  On 7 August another shortwave middle- to upper-level trough, which had moved off the coast of the northeastern United States the previous day, forced Harvey northeastward.  Harvey gradually accelerated during the following couple of days as a tropical storm, with maximum sustained winds of 45 kt, and it remained well to the southeast of the Canadian Maritimes.
+
+Harvey is estimated to have transformed into an extratropical cyclone by 0000 UTC 9 August when it was centered about 490 n mi southeast of Cape Race, Newfoundland.  The storm strengthened slightly to 50 kt later that day.  On 10 August it slowed down and began to turn to the right, and by 11 August the occluded cyclone began to weaken and was headed slowly southeastward.  The cyclone lost all frontal characteristics on 12 August as it drifted southward, and early on 13 August it meandered just northwest of the Azores.  Late on 13 August, the low was pulled northward ahead of a cold front, and it dissipated east of the front early the next day.
+
+
+	Meteorological Statistics
+
+	Observations in Harvey (Figs. 2 and 3) include data from satellites, aircraft, conventional land-based surface observing sites, ocean buoys, and ships.  Satellite observations include geostationary satellite-based Dvorak technique intensity estimates from TAFB, SAB and the U. S. Air Force Weather Agency (AFWA).  Microwave satellite imagery from NOAA polar-orbiting satellites, Defense Meteorological Satellite Program (DMSP) satellites, and NASA satellites including the Tropical Rainfall Measuring Mission (TRMM), QuikSCAT, and Aqua were also useful in tracking Harvey.  Two reconnaissance aircraft missions were flown into Harvey, on 3 and 4 July when the storm was near Bermuda, by the 53rd Weather Reconnaissance Squadron of the U. S. Air Force Reserve Command.  These missions produced four center fixes and some useful flight-level wind observations.
+
+	The strongest sustained wind at the Bermuda International Airport during Harvey was 32 kt reported at 0824 UTC 4 August.  Storm total rainfall (2-4 August) at that location was 5.02 in.  A sustained wind of approximately 40 kt was reported at Harbour Radio in Bermuda.  The strongest flight-level wind reported by the reconnaissance aircraft was 62 kt at an altitude of 1500 feet in the southeastern quadrant of the storm at 1757 UTC 3 August.  This observation corresponds to about 50 kt at the surface using the average 80% adjustment from that altitude, which supports the best track intensity of 50 kt at 1800 UTC that day.  The lowest central pressure reported by the aircraft was 995 mb at 0732 UTC 4 August.  The aircraft measured 59 kt at the 850-mb flight level at 0742 UTC that, given the average 80% adjustment from that level to the surface, also supports an intensity of 50 kt at 0600 UTC 4 August.  Harvey’s peak intensity of 55 kt, first reached by 1800 UTC that day and maintained for about the next 12 hours, is based on Dvorak intensity estimates and QuikSCAT data.
+
+Only one ship report with winds of tropical storm force was associated with Harvey.  Ship H3VT reported 35 kt winds while located about 125 n mi south-southeast of the circulation center at 1200 UTC 3 August.
+								
+
+	Casualty and Damage Statistics
+	
+	Heavy rains during Harvey caused some flooded roads in Bermuda on 4 August, but no reports of damage or casualties were received in association with the storm.
+
+
+	Forecast and Warning Critique
+
+Tropical Weather Outlooks (TWOs) issued by the National Hurricane Center first mentioned the system that eventually became Harvey on 26 July.  An increased potential for the formation of a tropical depression was conveyed on 28 and 29 July when the system approached the Leeward Islands, but it did not develop into a depression in that area.  Due to the southerly wind shear that was present when the system was north of Puerto Rico, TWOs issued during the couple of days prior to genesis conveyed only that conditions were not very conducive for tropical cyclone formation but that they could become more conducive.  However, the TWO issued late on the morning of 2 August did indicate that the system could become a depression, which it did a few hours later.
+
+Average official track errors (with the number of cases in parentheses) for Harvey were 43 (23), 65 (21), 82 (19), 81 (17), 71 (13), 111 (9), and 130 (5) n mi for the 12, 24, 36, 48, 72, 96, and 120 h forecasts, respectively.  These errors are in general considerably less than the average official track errors for the 10-yr period 1995-2004
+
+ 	Errors given for the 96 and 120 h periods are averages over the four-year period 2001-4.  of 42, 75, 107, 138, 202, 236, and 310 n mi, respectively (Table 2).  The official track forecasts outperformed nearly all available model guidance, with the notable exception that the Florida State University Superensemble (FSSE) had lower average errors at most lead times.
+
+	Average official intensity errors were 5, 6, 9, 9, 9, 14 and 15 kt for the 12, 24, 36, 48, 72, 96, and 120 h forecasts, respectively.  For comparison, the average official intensity errors over the 10-yr period 1995-2004 are 6, 10, 12, 15, 18, 20, and 22 kt, respectively, so the official intensity forecast errors during Harvey were also smaller than the long-term averages.  However, the official forecasts anticipated that shear would limit Harvey’s intensity more than what actually occurred.  The first few official forecasts did not anticipate Harvey to strengthen as much as it did.  The SHIPS model was closer to capturing the initial strengthening, although it also had an early low bias.  Official intensity forecasts issued on 5-6 August, after Harvey had peaked in intensity and had weakened slightly, did not anticipate the storm to maintain its 45-50 kt intensity until extratropical transition.  The SHIPS model, however, had less of a low bias during this later period.  As a result of its better performance during these two periods when the official forecast indicated too much weakening, average SHIPS intensity errors during Harvey were considerably less than the official intensity forecast errors.
+
+	Tropical cyclone watches and warnings issued by the Bermuda Weather Service during Harvey are listed in Table 3.
+Table 1.	Best track for Tropical Storm Harvey, 2-8 August 2005.
+
+
+Date/Time
+(UTC)
+
+Latitude
+(°N)
+
+Longitude
+(°W)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+02 / 1800
+28.2
+ 68.8
+1006
+ 30
+ tropical depression  
+03 / 0000
+28.9
+ 68.7
+1005
+ 30
+"
+03 / 0600
+29.5
+ 68.6
+1003
+ 40
+tropical storm
+03 / 1200
+30.3
+ 68.3
+1001
+ 45
+"
+03 / 1800
+30.9
+ 67.7
+ 999
+ 50
+"
+04 / 0000
+31.3
+ 66.4
+ 997
+ 50
+"
+04 / 0600
+31.6
+ 65.0
+ 995
+ 50
+"
+04 / 1200
+31.9
+ 63.6
+ 995
+ 50
+"
+04 / 1800
+32.0
+ 62.1
+ 994
+ 55
+"
+05 / 0000
+32.1
+ 60.5
+ 994
+ 55
+"
+05 / 0600
+32.4
+ 59.4
+ 994
+ 55
+"
+05 / 1200
+32.5
+ 58.5
+ 995
+ 50
+"
+05 / 1800
+32.5
+ 57.7
+ 997
+ 45
+"
+06 / 0000
+32.6
+ 57.1
+ 997
+ 45
+"
+06 / 0600
+33.0
+ 56.8
+ 995
+ 50
+"
+06 / 1200
+33.5
+ 56.7
+ 995
+ 50
+"
+06 / 1800
+33.5
+ 56.7
+ 995
+ 50
+"
+07 / 0000
+34.1
+ 55.5
+ 995
+ 50
+"
+07 / 0600
+35.1
+ 54.9
+ 995
+ 50
+"
+07 / 1200
+36.0
+ 54.0
+ 998
+ 45
+"
+07 / 1800
+36.8
+ 52.9
+ 998
+ 45
+"
+08 / 0000
+37.6
+ 51.9
+ 998
+ 45
+"
+08 / 0600
+38.6
+ 50.7
+ 998
+ 45
+"
+08 / 1200
+39.6
+ 48.6
+ 998
+ 45
+"
+08 / 1800
+40.4
+ 46.9
+ 998
+ 45
+"
+09 / 0000
+41.2
+ 45.0
+ 997
+ 45
+extratropical
+09 / 0600
+41.8
+ 43.0
+ 995
+ 50
+"
+09 / 1200
+42.3
+ 41.1
+ 995
+ 50
+"
+09 / 1800
+43.0
+ 39.0
+ 994
+ 50
+"
+10 / 0000
+44.0
+ 37.1
+ 994
+ 50
+"
+10 / 0600
+44.5
+ 35.2
+ 994
+ 50
+"
+10 / 1200
+44.5
+ 34.1
+ 994
+ 50
+"
+10 / 1800
+44.4
+ 33.1
+ 994
+ 50
+"
+11 / 0000
+44.2
+ 32.2
+ 997
+ 45
+"
+11 / 0600
+43.9
+ 31.5
+1000
+ 40
+"
+11 / 1200
+43.5
+ 31.0
+1003
+ 35
+"
+11 / 1800
+43.3
+ 30.7
+1005
+ 30
+"
+12 / 0000
+43.0
+ 30.5
+1007
+ 30
+"
+12 / 0600
+42.5
+ 30.8
+1008
+ 30
+"
+12 / 1200
+42.0
+ 31.4
+1009
+ 30
+"
+12 / 1800
+41.3
+ 31.5
+1010
+ 25
+low
+13 / 0000
+40.7
+ 31.5
+1010
+ 25
+"
+13 / 0600
+40.5
+ 31.5
+1011
+ 25
+"
+13 / 1200
+40.5
+ 31.5
+1011
+ 25
+"
+13 / 1800
+41.2
+ 32.0
+1012
+ 25
+"
+14 / 0000
+42.0
+ 32.5
+1015
+ 25
+"
+14 / 0600
+
+
+
+
+dissipated
+04 / 1800
+32.0
+ 62.1
+ 994
+ 55
+minimum pressure
+   
+   
+   
+
+Table 2.	Preliminary forecast evaluation (heterogeneous sample) for Tropical Storm Harvey, 2-8 August 2005.  Forecast errors (n mi) are followed by the number of forecasts in parentheses.  Errors smaller than the NHC official forecast are shown in bold-face type.  Verification includes the depression stage, but does not include the extratropical stage.
+
+
+Forecast Technique
+
+
+Forecast Period (h)
+
+
+
+
+
+12
+
+
+24
+
+
+36
+
+
+48
+
+
+72
+
+
+96
+
+
+120
+
+CLP5
+  51 (23)
+ 103 (21)
+ 175 (19)
+ 238 (17)
+ 282 (13)
+ 258 ( 9)
+ 312 ( 5)
+GFNI
+  48 (21)
+  88 (19)
+ 128 (17)
+ 154 (15)
+ 212 (11)
+ 293 ( 4)
+
+GFDI
+  45 (22)
+  76 (20)
+ 101 (18)
+ 111 (16)
+ 134 (12)
+ 240 ( 8)
+ 414 ( 4)
+GFDL*
+  44 (22)
+  73 (20)
+  98 (18)
+ 117 (16)
+ 129 (13)
+ 193 ( 9)
+ 381 ( 5)
+GFDN*
+  50 (21)
+  84 (19)
+ 128 (17)
+ 159 (15)
+ 204 (11)
+ 303 ( 5)
+ 571 ( 1)
+GFSI
+  45 (21)
+  74 (19)
+  90 (17)
+ 103 (15)
+ 136 (11)
+ 221 ( 7)
+ 356 ( 2)
+GFSO*
+  36 (16)
+  70 (15)
+  90 (14)
+ 106 (13)
+ 136 (11)
+ 172 ( 8)
+ 429 ( 3)
+AEMI
+  43 (22)
+  70 (20)
+  89 (18)
+ 100 (15)
+ 174 (11)
+ 246 ( 7)
+ 729 ( 1)
+NGPI
+  42 (21)
+  81 (19)
+ 116 (17)
+ 126 (15)
+ 168 (11)
+ 306 ( 7)
+ 343 ( 3)
+NGPS*
+  42 (22)
+  82 (20)
+ 123 (18)
+ 140 (16)
+ 168 (12)
+ 256 ( 8)
+ 406 ( 4)
+UKMI
+  46 (21)
+  78 (19)
+  92 (17)
+  95 (15)
+ 134 (11)
+ 306 ( 7)
+ 377 ( 3)
+UKM*
+  57 (11)
+  69 (10)
+  92 ( 9)
+  90 ( 8)
+ 127 ( 6)
+ 244 ( 4)
+ 293 ( 2)
+A98E
+  46 (23)
+  65 (21)
+ 113 (19)
+ 150 (17)
+ 271 (13)
+ 453 ( 9)
+ 475 ( 5)
+A9UK
+  50 (11)
+  72 (10)
+ 122 ( 9)
+ 136 ( 8)
+ 236 ( 6)
+
+
+BAMD
+  47 (23)
+  85 (21)
+ 132 (19)
+ 188 (17)
+ 397 (13)
+ 649 ( 9)
+1142 ( 5)
+BAMM
+  51 (23)
+  88 (21)
+ 123 (19)
+ 151 (17)
+ 204 (13)
+ 298 ( 9)
+ 404 ( 5)
+BAMS
+  67 (23)
+ 132 (21)
+ 200 (19)
+ 270 (17)
+ 461 (13)
+ 715 ( 9)
+ 869 ( 5)
+CONU
+  40 (21)
+  69 (19)
+  90 (17)
+  92 (15)
+  86 (11)
+ 128 ( 7)
+ 321 ( 3)
+GUNA
+  38 (21)
+  67 (19)
+  85 (17)
+  86 (15)
+  95 (11)
+ 128 ( 7)
+ 227 ( 2)
+FSSE
+  36 (20)
+  57 (18)
+  75 (16)
+  75 (14)
+  84 (10)
+ 102 ( 6)
+ 109 ( 1)
+OFCL
+  43 (23)
+  65 (21)
+  82 (19)
+  81 (17)
+  71 (13)
+ 111 ( 9)
+ 130 ( 5)
+
+NHC Official
+(1995-2004 mean)1
+
+
+42
+
+(3400)
+
+75
+
+(3116)
+
+107
+
+(2848)
+
+138
+
+(2575)
+
+202
+
+(2117)
+
+236
+
+(649)
+
+310
+
+(535)
+1 Errors given for the 96 and 120 h periods are averages over the four-year period 2001-04.
+
+Table 3.	Watch and warning summary for Tropical Storm Harvey, 2-8 August 2005.
+
+ 
+Date/Time (UTC)
+Action
+Location
+2 / 2100
+Tropical Storm Warning issued
+Bermuda
+3 / 2100
+Hurricane Watch issued
+Bermuda
+4 / 0900
+Hurricane Watch discontinued
+Bermuda
+4 / 1800
+Tropical Storm Warning discontinued
+Bermuda
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1.	Best track positions for Tropical Storm Harvey, 2-8 August 2005.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Harvey, 2-8 August 2005.  Aircraft observations have been adjusted for elevation using 90%, 80%, and 80% reduction factors for observations from 700 mb, 850 mb, and 1500 ft, respectively.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Tropical Storm Harvey, 2-8 August 2005.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11
+
+
+

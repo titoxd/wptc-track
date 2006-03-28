@@ -1,0 +1,668 @@
+Tropical Cyclone Report
+Tropical Storm Zeta
+30 December 2005 – 6 January 2006
+
+Richard D. Knabb and Daniel P. Brown
+National Hurricane Center
+17 March 2006
+
+
+Zeta was the 27th and final named storm in the Atlantic during 2005, establishing the record for the most named storms in one year in that basin.  It was the second-latest tropical storm to form in the Atlantic basin, only six hours earlier than Hurricane Alice (1954) that also became a tropical storm on 30 December.  Zeta and Alice are the only two Atlantic tropical cyclones on record to cross from one calendar year to the next.  Zeta spent about one week moving erratically in a general westward direction over the subtropical waters of the central Atlantic, and it did not affect land.
+
+
+	Synoptic History
+
+The origins of Tropical Storm Zeta can be traced back to the interaction between a weakening frontal boundary and an upper-tropospheric trough.  By 28 December, the upper-level trough had cut off and evolved into an upper-level low centered about 650 n mi west-northwest of the Cape Verde Islands.  A surface trough, the remains of a weakening front, was oriented from southwest to northeast and lay beneath the upper-level low.  On 29 December, just northwest of the center of the upper-level low in an area of upper-level difluence, a closed low formed along the surface trough about 675 n mi northwest of the Cape Verde Islands.  Late on the 29th, thunderstorm activity increased near the center of this low, and it is estimated that the system gained sufficient organization to be designated a tropical depression at 0000 UTC 30 December.  The “best track” chart of the tropical cyclone’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed in Table 1.  
+
+Convective banding quickly developed and wrapped around the low-level center early on 30 December, and Zeta became a 40-kt tropical storm by 0600 UTC.  Initially, Zeta moved slowly northwestward around a mid-level low to its southwest.  Situated beneath weak anticyclonic flow aloft, the tropical storm strengthened to 45 kt by 1200 UTC that day.  A weak low- to mid-level ridge to its north forced Zeta to turn westward on 31 December, but upper-level westerlies slowed its forward motion to a 2-kt crawl.  Although Zeta reached an intensity of 50 kt early that day, westerly shear later stripped Zeta of nearly all its deep convection in the hours just before the new year.  Convection soon rebounded, however, and although westerly shear persisted, Zeta was located beneath an upper-level diffluent region with stronger shear to the north and south.  Zeta also was probably too shallow of a system to be substantially weakened by shear associated with strong winds in the upper troposphere.  These factors allowed Zeta to resume a slow strengthening trend as it turned toward the southwest on 1 January, still moving at a snail’s pace.  Zeta first reached its peak intensity of 55 kt at 1800 UTC that day (Fig. 4) about 900 n mi northwest of the Cape Verde Islands.
+
+	Zeta’s low-level center became mostly exposed and accelerated southwestward early on 2 January, and the storm weakened to 45 kt by 1200 UTC.  However, this tenacious tropical storm began to strengthen again and decelerate later that day as a burst of deep convection redeveloped over the center.  It is estimated that Zeta again reached a peak intensity of 55 kt at 0000 UTC 3 January while centered about 1000 n mi west-northwest of the Cape Verde Islands, and it maintained that intensity for the remainder of the day.  On 4 January, the tropical storm turned westward to the south of the deep layer ridge over the central Atlantic, and westerly shear sufficiently increased to initiate a prolonged but final weakening phase.  Zeta turned west-northwestward on 5 January and accelerated between the western extent of the ridge and an approaching cold front.  It generated only sporadic bursts of deep convection that day, and the circulation gradually spun down.  It is estimated that Zeta had weakened below tropical storm strength by 0600 UTC 6 January.  The tropical cyclone lost all deep convection and degenerated to a remnant low by 1800 UTC that day.  The remnant low was pulled northwestward around the retreating low-level ridge and ahead of the approaching front.  The circulation dissipated east of the front late on 7 January about 575 n mi southeast of Bermuda.
+
+
+b.  	Meteorological Statistics
+
+	Observations in Zeta (Figs. 2 and 3) include satellite-based Dvorak technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB), the Satellite Analysis Branch (SAB) and the U. S. Air Force Weather Agency (AFWA).  Microwave satellite data and imagery from National Oceanic and Atmospheric Administration (NOAA) satellites, Defense Meteorological Satellite Program (DMSP) satellites, and National Aeronautics and Space Administration (NASA) satellites including the Tropical Rainfall Measuring Mission (TRMM), QuikSCAT, and Aqua were also useful in tracking Zeta.  QuikSCAT wind speed retrievals were particularly helpful in estimating the intensity of Zeta, as there were about a dozen QuikSCAT passes that captured most or all of Zeta’s circulation.  A couple of ships and drifting buoys also provided some useful data.
+
+A QuikSCAT overpass at 0752 UTC 30 December estimated surface winds as strong as about 45 kt.  Based on these data, it is estimated the depression became a 40-kt tropical storm by 0600 UTC 30 December and likely had reached tropical storm status a couple of hours earlier.  Additionally, drifting buoy 62557, although it did not report wind data, reported a pressure fall of 11.9 mb during the 20-h period ending 0800 UTC 30 December, when it reported a pressure of 1006.7 mb near the center of circulation.  The progression of Zeta’s convective pattern early on 30 December was so abrupt that Dvorak satellite classifications did not begin until 0600 UTC.  Due to constraints within the Dvorak technique, the Dvorak intensity estimates during Zeta’s initial development were too low.  Dvorak “data T-numbers” were likely a better estimate of the intensity for the newly-formed tropical storm.  At 0600 UTC 30 December, the initial Dvorak data T-numbers from the Satellite Analysis Branch (SAB) and the Tropical Analysis and Forecast Branch (TAFB) corresponded to intensities of 35 and 45 kt, respectively.
+
+Ship Liberty Star (call sign WCBP) provided several reports during Zeta, including 34 kt winds about 40 n mi north of the circulation center (and within the northern extent of the deep convection) at 0800 UTC 31 December during which time Zeta’s maximum winds were estimated at 50 kt.
+
+The two separate peaks in Zeta’s intensity at 55 kt, on 1 and 3 January, are based in large part on QuikSCAT wind speed estimates.  The QuikSCAT overpasses at 0840 and 2104 UTC on 1 January both suggest Zeta was probably stronger than the Dvorak estimates on that day (Fig. 2).  The best track intensities lean closer to the QuikSCAT solutions since retrieved wind speeds of 50 kt or more from that instrument are not as likely to be artificially inflated by rain.  This is especially the case near the center of an established tropical storm, where it is already known that the winds will be of tropical storm force and the returned signal from the surface will be fairly strong.  Further, the convection produced by Zeta that day does not appear to have been particularly deep and strong such that attenuation by rain would preclude a reasonable estimate of surface wind speeds of tropical storm force.  The peak intensity on 3 January is supported by both QuikSCAT and Dvorak estimates.  Both data sources are also consistent in indicating that Zeta weakened to about 45 kt in the interim on 2 January.
+
+								
+c.	Casualty and Damage Statistics
+	
+	There were no reports of damage or casualties associated with Zeta.
+
+
+d.	Forecast and Warning Critique
+
+	Tropical Weather Outlooks were not issued by the National Hurricane Center after 30 November 2005 (the “official” end of the Atlantic hurricane season), so an assessment of that product in the case of Zeta is not possible.    The abrupt formation of Zeta was not well forecast by the Tropical Analysis and Forecast Branch (TAFB) at the NHC or by any of the global models, although TAFB did at times forecast the development of a low pressure center up to 48 hours in advance.  Once the low had formed, TAFB issued a gale warning at 1030 UTC 30 December, although this was more than four hours after Zeta is estimated (in this post-storm analysis) to have become a tropical storm.  Since the convection in Zeta had only persisted a few hours by that time, tropical cyclone advisories were not initiated by the NHC until 1700 UTC 30 December when the thunderstorm activity had endured for about 18 hours.
+
+	Average official track errors (with the number of cases in parentheses) for Zeta were 36 (25), 66 (21), 102 (17), 143 (15), and 264 (3) n mi for the 12, 24, 36, 48, and 72 h forecasts, respectively.  The corresponding average official track errors for the 10-yr period 1995-2004 are 42, 75, 107, 138, and 202 n mi, respectively (Table 4).  No verification statistics are available at 96 and 120 h, and very few 72-h forecasts were made, since in general the official forecasts anticipated Zeta would dissipate much more quickly than it did.  In fact, the early forecasts predicted that Zeta would only survive as a tropical storm for about 36 h due to increasing westerly shear.  The official errors through 36 h are generally less than the 10-yr averages, but the 48- and 72-h errors are larger than the 10-yr averages.  The official forecasts in general had smaller errors out to 72 h than most of the guidance, with exceptions being the interpolated NOGAPS (NGPI), the BAMM medium-depth trajectory model, and the CONU consensus.
+
+	Average official intensity forecast errors were 8, 15, 17, 17, and 5 kt for the 12, 24, 36, 48, and 72 h forecasts, respectively.  The errors are generally larger than the corresponding average official intensity errors over the 10-yr period 1995-2004 of 6, 10, 12, 15, and 18 kt, respectively.  As is the case of the official track forecasts, no verification statistics are available at 96 and 120 h and very few 72-h forecasts were made for Zeta.  Clearly, however, Zeta lasted much longer and was much stronger at 72-120 h than expected at the time most of the forecasts were issued.  The sub-par intensity forecasts can be attributed to the difficulty in forecasting the impacts of the vertical wind shear that plagued Zeta throughout its life span.  While westerly shear certainly limited Zeta’s intensity, the tropical storm was less affected by shear than the official forecast or the SHIPS guidance anticipated.  One probable reason is that Zeta was more shallow than most tropical storms, and calculating vertical shear between the 850 and 200 mb levels (as is done in the SHIPS model) was probably too deep of a layer to be representative.  Indeed, model analyses suggest that winds at slightly lower levels (i.e., 300-500 mb) were weaker than at 200 mb during Zeta.  Second, the vertical wind shear in the immediate vicinity of Zeta’s core, based on satellite imagery and model analyses, appeared at times to be weaker than the shear in its broader environment to the north and south.  This scenario might have resulted in the SHIPS model overestimating the shear magnitude since it calculates shear over a large area between 200 and 800 km from the circulation center.  These factors were considered in real time by the official forecasts, which did not indicate quite as much weakening as the SHIPS model and therefore had smaller errors than SHIPS.
+
+	No coastal watches or warnings were required in association with Zeta.
+Table 1.	Best track for Tropical Storm Zeta, 30 December 2005 – 6 January 2006.
+
+
+Date/Time
+(UTC)
+
+Latitude
+(°N)
+
+Longitude
+(°W)
+
+Pressure
+(mb)
+
+Wind Speed
+(kt)
+
+Stage
+30 / 0000
+23.9
+ 35.6
+1009
+ 30
+tropical depression
+30 / 0600
+24.2
+ 36.1
+1005
+ 40
+tropical storm
+30 / 1200
+24.7
+ 36.6
+1002
+ 45
+"
+30 / 1800
+25.2
+ 37.0
+1000
+ 45
+"
+31 / 0000
+25.6
+ 37.3
+1000
+ 45
+"
+31 / 0600
+25.7
+ 37.6
+ 997
+ 50
+"
+31 / 1200
+25.7
+ 37.9
+ 997
+ 50
+"
+31 / 1800
+25.7
+ 38.1
+1000
+ 45
+"
+01 / 0000
+25.6
+ 38.3
+ 997
+ 50
+"
+01 / 0600
+25.4
+ 38.4
+ 997
+ 50
+"
+01 / 1200
+25.2
+ 38.5
+ 997
+ 50
+"
+01 / 1800
+25.0
+ 38.6
+ 994
+ 55
+"
+02 / 0000
+24.6
+ 38.9
+ 994
+ 55
+"
+02 / 0600
+24.3
+ 39.7
+ 997
+ 50
+"
+02 / 1200
+23.8
+ 40.4
+1000
+ 45
+"
+02 / 1800
+23.6
+ 40.8
+ 997
+ 50
+"
+03 / 0000
+23.4
+ 41.0
+ 994
+ 55
+"
+03 / 0600
+23.3
+ 41.3
+ 994
+ 55
+"
+03 / 1200
+23.2
+ 41.6
+ 994
+ 55
+"
+03 / 1800
+23.0
+ 42.1
+ 994
+ 55
+"
+04 / 0000
+22.6
+ 42.4
+ 994
+ 55
+"
+04 / 0600
+22.1
+ 42.9
+ 997
+ 50
+"
+04 / 1200
+21.9
+ 43.6
+1000
+ 45
+"
+04 / 1800
+21.7
+ 44.6
+1002
+ 40
+"
+05 / 0000
+21.7
+ 45.6
+1005
+ 35
+"
+05 / 0600
+21.9
+ 46.6
+1005
+ 35
+"
+05 / 1200
+22.2
+ 47.3
+1006
+ 35
+"
+05 / 1800
+22.7
+ 47.9
+1007
+ 35
+"
+06 / 0000
+23.0
+ 48.4
+1007
+ 35
+"
+06 / 0600
+23.1
+ 49.0
+1007
+ 30
+tropical depression
+06 / 1200
+23.1
+ 49.6
+1008
+ 30
+"
+06 / 1800
+23.3
+ 50.2
+1009
+ 25
+remnant low
+07 / 0000
+23.7
+ 51.4
+1009
+ 25
+"
+07 / 0600
+24.2
+ 52.7
+1012
+ 25
+"
+07 / 1200
+24.8
+ 54.2
+1014
+ 25
+"
+07 / 1800
+26.3
+ 55.7
+1016
+ 25
+"
+08 / 0000
+
+
+
+
+dissipated
+01 / 1800
+25.0
+ 38.6
+ 994
+ 55
+minimum pressure
+   
+
+Table 2.	Preliminary forecast evaluation (heterogeneous sample) for Tropical Storm Zeta, 30 December 2005 – 6 January 2006.  Forecast errors (n mi) are followed by the number of forecasts in parentheses.  Errors smaller than the NHC official forecast are shown in bold-face type.  Verification includes the depression stage, but does not include the remnant low stage.
+
+
+Forecast Technique
+
+
+Forecast Period (h)
+
+
+
+
+
+12
+
+
+24
+
+
+36
+
+
+48
+
+
+72
+
+
+96
+
+
+120
+
+CLP5
+  46 (25)
+  94 (21)
+ 152 (17)
+ 195 (15)
+ 386 (11)
+ 623 ( 7)
+ 878 ( 3)
+GFNI
+  42 (16)
+  66 (13)
+  98 (13)
+ 143 (13)
+ 261 (11)
+ 544 ( 7)
+1194 ( 3)
+GFDI
+  34 (15)
+  67 (11)
+ 126 ( 8)
+ 187 ( 6)
+ 229 ( 2)
+ 467 ( 2)
+ 938 ( 2)
+GFDL*
+  33 (25)
+  49 (21)
+  88 (17)
+ 139 (15)
+ 264 (11)
+ 369 ( 7)
+ 638 ( 3)
+GFDN*
+  42 (17)
+  57 (12)
+  73 (11)
+ 110 (11)
+ 220 (11)
+ 436 ( 6)
+ 934 ( 3)
+GFSI
+  42 (15)
+  89 (11)
+ 151 ( 9)
+ 243 ( 7)
+ 455 ( 2)
+
+
+GFSO*
+  38 (24)
+  68 (20)
+ 117 (14)
+ 186 (11)
+ 453 ( 3)
+
+
+AEMI
+  47 ( 4)
+  76 ( 2)
+ 113 ( 2)
+ 206 ( 2)
+
+
+
+NGPI
+  33 (22)
+  49 (19)
+  83 (17)
+ 133 (15)
+ 217 (11)
+ 451 ( 1)
+
+NGPS*
+  36 (23)
+  46 (19)
+  65 (17)
+ 115 (15)
+ 210 (10)
+ 171 ( 1)
+
+UKMI
+  68 (16)
+ 118 (14)
+ 153 (12)
+ 192 (10)
+ 300 ( 2)
+
+
+UKM* 
+  68 ( 9)
+ 128 ( 8)
+ 165 ( 7)
+ 205 ( 6)
+ 268 ( 2)
+
+
+A98E
+  44 (25)
+  87 (21)
+ 161 (17)
+ 241 (15)
+ 412 (11)
+ 554 ( 7)
+ 675 ( 3)
+A9UK
+  43 (11)
+  92 ( 9)
+ 187 ( 7)
+ 301 ( 6)
+ 577 ( 4)
+
+
+BAMD
+ 115 (25)
+ 229 (21)
+ 357 (17)
+ 468 (15)
+ 522 (11)
+ 586 ( 7)
+ 535 ( 3)
+BAMM
+  35 (25)
+  62 (21)
+  94 (17)
+ 133 (15)
+ 201 (11)
+ 292 ( 7)
+ 343 ( 3)
+BAMS
+  50 (25)
+  89 (21)
+ 131 (17)
+ 180 (15)
+ 267 (11)
+ 347 ( 7)
+ 564 ( 3)
+CONU
+  35 (23)
+  63 (19)
+  94 (17)
+ 131 (15)
+ 179 (11)
+ 445 ( 3)
+ 992 ( 2)
+GUNA
+  36 (10)
+  73 ( 8)
+ 138 ( 6)
+ 234 ( 4)
+
+
+
+OFCL
+  36 (25)
+  66 (21)
+ 102 (17)
+ 143 (15)
+ 264 ( 3)
+
+
+
+NHC Official
+(1995-2004 mean)1
+
+
+42
+
+(3400)
+
+75
+
+(3116)
+
+107
+
+(2848)
+
+138
+
+(2575)
+
+202
+
+(2117)
+
+236
+
+(649)
+
+310
+
+(535)
+1 Errors given for the 96 and 120 h periods are averages over the four-year period 2001-04.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1.	Best track positions for Tropical Storm Zeta, 30 December 2005 – 6 January 2006.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2.	Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Zeta, 30 December 2005 – 6 January 2006.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3.	Selected pressure observations and best track minimum central pressure curve for Tropical Storm Zeta, 30 December 2005 – 6 January 2006.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4.  GOES-12 infrared image of Tropical Storm Zeta at 1815 UTC 1 January 2006, near the time when it first reached its peak intensity of 55 kt.  The Leeward Islands are located in the southwestern portion of the image.
+
+
+
+
+
+
+
+
+
+
+
+11
+
+
+
