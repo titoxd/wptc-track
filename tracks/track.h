@@ -11,7 +11,7 @@ struct storm_arg {
 
   bool extra;
 
-  int format;
+  char *format;
   const char *input;
   bool negx, negy;
 };

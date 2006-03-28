@@ -48,7 +48,7 @@ struct stormdata *read_stormdata_hurdat(struct stormdata *storms,
   if (!hurdat) {
     fprintf(stderr, "Couldn't open file '%s': %s\n",
 	    args->input, strerror(errno));
-    exit(-1);
+    return NULL;
   }
 
   while ((line = fgets(buf, sizeof(buf), hurdat))) {

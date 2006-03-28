@@ -19,6 +19,7 @@
 
 #include "hurdat.h"
 #include "md.h"
+#include "tab.h"
 #include "tcr.h"
 #include "track.h"
 
@@ -119,13 +120,13 @@ static struct args read_args(int argc, char **argv)
 
       } else if (strcasecmp(argv[i], "--format") == 0) {
 	i++;
-	args.storm[0].format = atoi(argv[i]);
+	args.storm[0].format = argv[i];
       } else if (strcasecmp(argv[i], "--format1") == 0) {
 	i++;
-	args.storm[1].format = atoi(argv[i]);
+	args.storm[1].format = argv[i];
       } else if (strcasecmp(argv[i], "--format2") == 0) {
 	i++;
-	args.storm[2].format = atoi(argv[i]);
+	args.storm[2].format = argv[i];
 
       } else if (strcasecmp(argv[i], "--negy") == 0) {
 	i++;
@@ -449,8 +450,7 @@ static double get_line_size(struct args *args)
 
 static void get_color(double *r, double *g, double *b, struct pos *pos)
 {
-  /* Purely by windspeed.  Note that the HURDAT data is not entirely
-   * official. */
+  /* Purely by windspeed. */
   int winds[] = {
     0,
     34,
@@ -1085,24 +1085,28 @@ int main(int argc, char **argv)
   int count = 0;
 
   for (i = 0; i < MAX_STORMS; i++) {
+    const char *format = args.storm[i].format;
+
     if (!args.storm[i].input) {
       continue;
     }
-    switch (args.storm[i].format) {
-    case 0:
+    if (strcasecmp(format, "hurdat") == 0) {
       storms = read_stormdata_hurdat(storms, &args.storm[i]);
-      break;
-    case 1:
+    } else if (strcasecmp(format, "md") == 0) {
       storms = read_stormdata_md(storms, &args.storm[i]);
-      break;
-    case 2:
+    } else if (strcasecmp(format, "tcr") == 0) {
       storms = read_stormdata_tcr(storms, &args.storm[i]);
-      break;
-    default:
+    } else if (strcasecmp(format, "tab") == 0) {
+      storms = read_stormdata_tab(storms, &args.storm[i]);
+    } else {
       fprintf(stderr, "Invalid format.\n");
       return -1;
     }
 
+    if (!storms) {
+      fprintf(stderr, "Storm reader returned an error.\n");
+      return -1;
+    }
     if (storms->nstorms == count) {
       fprintf(stderr, "No storms found.\n");
       return -1;
