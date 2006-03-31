@@ -376,6 +376,7 @@
 #     [ (1995, 'Ismael') ],
 
 # Non-retired but notable:
+#     [ (1959, 'Dot') ],
 #     [ (1982, 'Paul') ],
 #     [ (1993, 'Calvin') ],
 #     [ (1994, 'John') ],
