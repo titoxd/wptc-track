@@ -1090,7 +1090,7 @@ int main(int argc, char **argv)
     if (!args.storm[i].input) {
       continue;
     }
-    if (strcasecmp(format, "hurdat") == 0) {
+    if (!format || strcasecmp(format, "hurdat") == 0) {
       storms = read_stormdata_hurdat(storms, &args.storm[i]);
     } else if (strcasecmp(format, "md") == 0) {
       storms = read_stormdata_md(storms, &args.storm[i]);
