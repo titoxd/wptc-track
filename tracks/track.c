@@ -287,6 +287,7 @@ void init_storm(struct storm *storm)
 
   storm->npos = 0;
   storm->maxwind = 0;
+  storm->minpres = 9999; /* mbar */
   storm->maxtype = 0;
   storm->ace = 0;
 
@@ -359,6 +360,10 @@ void save_pos(struct storm_arg *args, struct stormdata *storms,
     storm->npos++;
 
     storm->maxwind = MAX(storm->maxwind, pos->wind);
+    if (pos->pres > 0) {
+      storm->minpres = MIN(storm->minpres, pos->pres);
+    }
+
     if (pos->wind >= 35) {
       storm->maxtype = MAX(storm->maxtype, pos->type);
 
@@ -739,6 +744,53 @@ static void print_extreme_locations(struct stormdata *storms)
 #endif
 }
 
+//#define STRONGEST
+
+#ifdef STRONGEST
+static int strongest_compare(const void *a, const void *b)
+{
+  const struct storm *storma = a, *stormb = b;
+
+  if (storma->minpres == stormb->minpres) {
+    return stormb->maxwind - storma->maxwind;
+  }
+  return storma->minpres - stormb->minpres;
+}
+#endif
+
+static void print_strongest_storms(struct stormdata *storms)
+{
+#ifdef STRONGEST
+  int s;
+
+  qsort(storms->storms, storms->nstorms, sizeof(*storms->storms),
+	strongest_compare);
+
+#ifdef WIKI
+  printf("{|class=\"wikitable\"\n");
+  printf("|+Tropical cyclones by minimum pressure\n");
+  printf("|-\n");
+  printf("!Year || ID || Name || Min. Pressure || Max. Winds (kt)\n");
+#endif
+  for (s = 0; s < storms->nstorms; s++) {
+    struct storm *storm = storms->storms + s;
+#ifdef WIKI
+    printf("|-\n");
+    printf("| %d || %d || %s || %d || %d\n",
+	   storm->header.year, storm->header.id, storm->header.name,
+	   storm->minpres, storm->maxwind);
+#else
+    printf("%4d %2d %10s %4d (%3d)\n",
+	   storm->header.year, storm->header.id, storm->header.name,
+	   storm->minpres, storm->maxwind);
+#endif
+  }
+#ifdef WIKI
+  printf("|}\n");
+#endif
+#endif
+}
+
 static void print_extra_data(struct stormdata *storms)
 {
 #if 0 /* Earliest storm in each season */
@@ -947,6 +999,7 @@ static void print_extra_data(struct stormdata *storms)
 #endif
 
   print_extreme_locations(storms);
+  print_strongest_storms(storms);
 }
 
 static void write_stormdata(struct stormdata *storms, struct args *args)

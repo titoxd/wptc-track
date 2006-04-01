@@ -40,6 +40,7 @@ struct storm {
   struct storm_header header;
 
   int maxwind;
+  int minpres;
   int maxtype;
   int ace;
 
