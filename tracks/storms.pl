@@ -306,9 +306,233 @@
 
    "epac" =>
    [(
+     "1950" =>
+     [(
+       #'Hiki', 
+      )],
+     "1957" =>
+     [(
+       #'Kanoa', 'Della', 'Nina', 
+      )],
+     "1959" =>
+     [(
+       #'Dot', 'Patsy', 'Wanda', 
+      )],
+     "1960" =>
+     [(
+       #'Annette', 'Bonny', 'Celeste', 'Diana', 'Estelle', 'Fernanda', 
+       #'Hyacinth', 
+      )],
+     "1961" =>
+     [(
+       #'Iva', 'Joanne', 'Kathleen', 'Liza', 'Naomi', 'Orla', 'Pauline', 
+       #'Rebecca', 'Simone', 'Tara', 
+      )],
+     "1962" =>
+     [(
+       #'Valerie', 'Willa', 'Ava', 'C', 'Bernice', 'Claudia', 'Doreen', 
+      )],
+     "1963" =>
+     [(
+       #'Emily', 'Florence', 'Glenda', 'Jen-kath', 'Irah', 'Lillian', 
+       #'Mona', 
+      )],
+     "1964" =>
+     [(
+       #'Natalie', 'Odessa', 'Prudence',
+       #'Roslyn', 'Tillie', 
+      )],
+     "1965" =>
+     [(
+       #'Victoria', 'Wallie', 'Ava', 'Bernice', 'Claudia', 'Doreen', 
+       #'Emily', 'Florence', 'Glenda', 'Hazel', 
+      )],
+     "1966" =>
+     [(
+       #'Adele', 'Blanca', 'Connie', 'Dolores', 'Eileen', 'Francesca', 
+       #'Gretchen', 'Helga', 'Ione', 'Joyce', 'Kirsten', 'Lorraine', 
+       #'Maggie', 
+      )],
+     "1967" =>
+     [(
+       #'Agatha', 'Bridget', 'Carlotta', 'Denise', 'Eleanor', 'Francene', 
+       #'Georgette', 'Ilsa', 'Jewel', 'Katrina', 'Lily', 'Sarah', 'Monica', 
+       #'Nanette', 'Olivia', 'Priscilla', 'Ramona', 
+      )],
+     "1968" =>
+     [(
+       #'Annette', 'Bonny', 'Celeste', 'Diana', 'Estelle', 'Fernanda', 
+       #'Gwen', 'Hyacinth', 'Iva', 'Joanne', 'Kathleen', 'Liza', 'Madeline', 
+       #'Naomi', 'Orla', 'Pauline', 'Rebecca', 'Tara', 
+      )],
+     "1969" =>
+     [(
+       #'Ava', 'Bernice', 'Claudia', 'Doreen', 'Emily', 'Florence', 
+       #'Glenda', 'Heather', 'Irah', 'Jennifer', 
+      )],
+     "1970" =>
+     [(
+       #'Adele', 'Blanca', 'Connie', 'Eileen', 'Francesca', 'Gretchen', 
+       #'Helga', 'Ione 2', 'Ione 1', 'Joyce', 'Kristen', 'Lorraine', 
+       #'Maggie', 'Norma', 'Dot', 'Orlene', 'Patricia', 'Rosalie', 
+       #'Selma', 
+      )],
+     "1971" =>
+     [(
+       #'Agatha', 'Bridget', 'Carlotta', 'Denise', 'Eleanor', 'Francene', 
+       #'Georgette', 'Hilary', 'Ilsa', 'Jewel', 'Katrina', 'Lily', 
+       #'Monica', 'Nanette', 'Olivia', 'Priscilla', 'Ramona', 'Sharon', 
+      )],
+     "1972" =>
+     [(
+       #'Annette', 'Bonny', 'Celeste', 'Diana', 'Estelle', 'Fernanda', 
+       #'Gwen', 'Hyacinth', 'Iva', 'June', 'Joanne', 'Kathleen', 'Ruby', 
+       #'Liza', 
+      )],
+     "1973" =>
+     [(
+       #'Ava', 'Bernice', 'Claudia', 'Doreen', 'Emily', 'Florence', 
+       #'Glenda', 'Heather', 'Irah', 'Jennifer', 'Katherine', 'Lillian', 
+      )],
+     "1974" =>
+     [(
+       #'Aletta', 'Blanca', 'Connie', 'Dolores', 'Eileen', 'Francesca', 
+       #'Gretchen', 'Helga', 'Ione', 'Olive', 'Joyce', 'Kirsten', 'Lorraine', 
+       #'Maggie', 'Norma', 'Orlene', 'Patricia', 'Rosalie', 
+      )],
+     "1975" =>
+     [(
+       #'Agatha', 'Bridget', 'Carlotta', 'Denise', 'Eleanor', 'Francene', 
+       #'Georgette', 'Hilary', 'Ilsa', 'Jewel', 'Katrina', 'Lily', 
+       #'Monica', 'Nanette', 'Olivia', 'Priscilla', 
+      )],
      "1976" =>
      [(
-       #'Kathleen', 'Liza'
+       #'Annette', 'Bonny', 'Celeste', 'Diana', 'Estelle', 'Fernanda', 
+       #'Gwen', 'Hyacinth', 'Iva', 'Joanne', 'Kathleen', 'Kate',
+       #'Liza', 'Madeline', 'Naomi', 
+      )],
+     "1977" =>
+     [(
+       #'Ava', 'Bernice', 'Claudia', 'Doreen', 'Emily', 'Florence', 
+       #'Glenda', 'Heather', 
+      )],
+     "1978" =>
+     [(
+       #'Aletta', 'Bud', 'Carlotta', 'Daniel', 'Emilia', 'Fico', 'Gilma', 
+       #'Hector', 'Iva', 'John', 'Kristy', 'Lane', 'Miriam', 'Norman', 
+       #'Olivia', 'Paul', 'Rosa', 'Susan', 'Sergio', 
+      )],
+     "1979" =>
+     [(
+       #'Andres', 'Blanca', 'Carlos', 'Dolores', 'Enrique', 'Fefa', 
+       #'Guillermo', 'Hilda', 'Ignacio', 'Jimena', 
+      )],
+     "1980" =>
+     [(
+       #'Agatha', 'Blas', 'Celia', 'Darby', 'Estelle', 'Frank', 'Georgette', 
+       #'Howard', 'Isis', 'Javier', 'Kay', 'Lester', 'Madeline', 'Newton', 
+      )],
+     "1981" =>
+     [(
+       #'Adrian', 'Beatriz', 'Calvin', 'Dora', 'Eugene', 'Fernanda', 
+       #'Greg', 'Hilary', 'Irwin', 'Jova', 'Knut', 'Lidia', 'Max', 
+       #'Norma', 'Otis', 
+      )],
+     "1982" =>
+     [(
+       #'Aletta', 'Bud', 'Carlotta', 'Daniel', 'Emilia', 'Fabio', 'Gilma', 
+       #'Hector', 'Iva', 'John', 'Kristy', 'Lane', 'Miriam', 'Akoni', 
+       #'Norman', 'Ema', 'Hana', 'Olivia', 'Paul', 'Rosa', 'Sergio', 
+       #'Tara', 'Iwa', 
+      )],
+     "1983" =>
+     [(
+       #'Adolph', 'Barbara', 'Cosme', 'Dalilia', 'Erick', 'Flossie', 
+       #'Gil', 'Henriette', 'Ismael', 'Juliette', 'Kiko', 'Lorena', 
+       #'Manuel', 'Narda', 'Octave', 'Priscilla', 'Raymond', 'Sonia', 
+       #'Tico', 'Velma', 'Winnie', 
+      )],
+     "1984" =>
+     [(
+       #'Alma', 'Boris', 'Cristina', 'Douglas', 'Elida', 'Fausto', 
+       #'Genevieve', 'Hernan', 'Iselle', 'Julio', 'Keli', 'Kenna', 
+       #'Lala', 'Lowell', 'Moke', 'Marie', 'Norbert', 'Odile', 'Polo', 
+       #'Rachel', 'Simon', 
+      )],
+     "1985" =>
+     [(
+       #'Andres', 'Blanca', 'Carlos', 'Dolores', 'Enrique', 'Fefa', 
+       #'Guillermo', 'Hilda', 'Ignacio', 'Jimena', 'Kevin', 'Linda', 
+       #'Marty', 'Nora', 'Olaf', 'Pauline', 'Rick', 'Sandra', 'Terry', 
+       #'Vivian', 'Waldo', 'Nele', 'Xina', 
+      )],
+     "1986" =>
+     [(
+       #'Agatha', 'Blas', 'Celia', 'Darby', 'Estelle', 'Frank', 'Georgette', 
+       #'Howard', 'Isis', 'Javier', 'Kay', 'Lester', 'Madeline', 'Newton', 
+       #'Orlene', 'Paine', 'Roslyn', 
+      )],
+     "1987" =>
+     [(
+       #'Adrian', 'Beatriz', 'Calvin', 'Dora', 'Eugene', 'Fernanda', 
+       #'Greg', 'Hilary', 'Irwin', 'Jova', 'Oka', 'Knut', 'Lidia', 
+       #'Max', 'Norma', 'Otis', 'Peke', 'Pilar', 'Ramon', 'Selma', 
+      )],
+     "1988" =>
+     [(
+       #'Aletta', 'Bud', 'Carlotta', 'Daniel', 'Emilia', 'Fabio', 'Gilma', 
+       #'Hector', 'Iva', 'John', 'Uleki', 'Kristy', 'Wila', 'Lane', 
+       #'Miriam', 
+      )],
+     "1989" =>
+     [(
+       #'Adolph', 'Barbara', 'Cosme', 'Dalilia', 'Erick', 'Flossie', 
+       #'Gil', 'Henriette', 'Ismael', 'Juliette', 'Kiko', 'Lorena', 
+       #'Manuel', 'Narda', 'Octave', 'Priscilla', 'Raymond', 
+      )],
+     "1990" =>
+     [(
+       #'Alma', 'Boris', 'Cristina', 'Douglas', 'Elida', 'Fausto', 
+       #'Genevieve', 'Hernan', 'Iselle', 'Aka', 'Julio', 'Kenna', 'Lowell', 
+       #'Marie', 'Norbert', 'Odile', 'Polo', 'Rachel', 'Simon', 'Trudy', 
+       #'Vance', 
+      )],
+     "1991" =>
+     [(
+       #'Andres', 'Blanca', 'Carlos', 'Delores', 'Enrique', 'Fefa', 
+       #'Guillermo', 'Hilda', 'Ignacio', 'Jimena', 'Kevin', 'Linda', 
+       #'Marty', 'Nora', 
+      )],
+     "1992" =>
+     [(
+       #'Ekeka', 'Hali', 'Agatha', 'Blas', 'Celia', 'Darby', 'Estelle', 
+       #'Frank', 'Georgette', 'Howard', 'Isis', 'Javier', 'Kay', 'Lester', 
+       #'Madeline', 'Newton', 'Orlene', 'Iniki', 'Paine', 'Roslyn', 
+       #'Seymour', 'Tina', 'Virgil', 'Winifred', 'Xavier', 'Yolanda', 
+       #'Zeke', 
+      )],
+     "1993" =>
+     [(
+       #'Adrian', 'Beatriz', 'Calvin', 'Dora', 'Eugene', 'Keoni', 'Fernanda', 
+       #'Greg', 'Hilary', 'Irwin', 'Jova', 'Kenneth', 'Lidia', 'Max', 
+       #'Norma', 
+      )],
+     "1994" =>
+     [(
+       #'Aletta', 'Bud', 'Carlotta', 'Daniel', 'Emilia', 'Fabio', 'Gilma', 
+       #'Li', 'Hector', 'Ileana', 'John', 'Kristy', 'Lane', 'Mele', 
+       #'Miriam', 'Norman', 'Olivia', 'Paul', 'Rosa', 'Nona', 
+      )],
+     "1995" =>
+     [(
+       #'Adolph', 'Barbara', 'Cosme', 'Dalila', 'Erick', 'Flossie', 
+       #'Gil', 'Henriette', 'Ismael', 'Juliette', 
+      )],
+     "1996" =>
+     [(
+       #'Alma', 'Boris', 'Cristina', 'Douglas', 'Elida', 'Fausto', 
+       #'Genevieve', 'Hernan', 
       )],
      "1997" =>
      [(
@@ -316,7 +540,6 @@
        #'Guillermo', 'Hilda', 'Ignacio', 'Jimena', 'Oliwa', 'Kevin',
        #'Linda', 'Marty', 'Nora', 'Olaf', 'Pauline', 'Rick', 'Paka',
       )],
-
      "1998" =>
      [(
        #'Agatha', 'Blas', 'Celia', 'Darby', 'Estelle', 'Frank', 'Georgette',
@@ -651,9 +874,9 @@ foreach $basin (@basins) {
 
       if ($name =~ /^#/) {
 	$name =~ s/^#//;
-	$args = "$args --id $name";
+	$args = "$args --id \"$name\"";
       } else {
-	$args = "$args --name $name";
+	$args = "$args --name \"$name\"";
       }
       generate($args,
 	       "storms/$name" . "_$year" . "_track.png",
