@@ -797,6 +797,9 @@
 #   [ ("--input 2005/delta-bt.txt --format tcr", "Delta 2005", "Tropical Storm Delta (2005)") ],
 #   [ ("--input 2005/epsilon-bt.txt --format tcr", "Epsilon 2005", "Hurricane Epsilon (2005)") ],
 #   [ ("--input 2005/zeta-bt.txt --format tcr", "Zeta 2005", "Tropical Storm Zeta (2005)") ],
+
+# 2006 storms
+    [ ("--input 2006/alberto.txt --format md", "Alberto 2006", "Tropical Storm Alberto (2006)") ],
      ) ],
 
    "south" =>
