@@ -50,6 +50,19 @@ struct args {
 
 #define NO_ARG -200
 
+static void help(void)
+{
+  printf("Usage: track [--year] [--name] [--res]\n");
+  printf("Create hurricane track maps\n\n");
+
+  printf("Options:\n");
+  printf(" --year Select hurricanes from a specific year\n");
+  printf(" --year1, --year2 Select hurricanes from additonal years\n");
+  printf(" --name Select hurricane with a specific name\n");
+  printf(" --res Set the horizontal resolution of output image\n");
+  printf(" --output Set the output file\n");
+}
+
 static struct args read_args(int argc, char **argv)
 {
   int i = 1;
@@ -107,7 +120,10 @@ static struct args read_args(int argc, char **argv)
   while (i < argc) {
     float val;
 
-    if (i < argc - 1) {
+    if (strcasecmp(argv[i], "--help") == 0) {
+      help();
+      exit(0);
+    } else if (i < argc - 1) {
       if (strcasecmp(argv[i], "--input") == 0) {
 	i++;
 	args.storm[0].input = argv[i];
