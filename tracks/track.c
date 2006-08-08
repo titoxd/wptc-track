@@ -507,7 +507,7 @@ static void get_color(double *r, double *g, double *b, struct pos *pos)
 			  ((double)(g) / (double)0xFF),	\
 			  ((double)(b) / (double)0xFF)}
     /* Wikipedia colors */
-#if 1
+#if 0
   /* Old colors. */
   double colors[7][3] = {
     COLOR(0x00, 0xFF, 0xFF), /* DEP */
@@ -526,7 +526,7 @@ static void get_color(double *r, double *g, double *b, struct pos *pos)
     COLOR(0xff, 0xff, 0xcc), /* cat1 */
     COLOR(0xff, 0xe7, 0x75), /* cat2 */
     COLOR(0xff, 0xc1, 0x40), /* cat3 */
-    COLOR(0xff, 0x6f, 0x1a), /* cat4 */
+    COLOR(0xff, 0x8f, 0x20), /* cat4 */
     COLOR(0xff, 0x60, 0x60) /* cat5 */
   };
 #endif
