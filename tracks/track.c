@@ -57,16 +57,26 @@ static void help(void)
 
   printf("Options:\n");
   printf(" --year Select hurricanes from a specific year\n");
-  printf(" --year1, --year2 Select hurricanes from additonal years\n");
+  printf(" --year1, --year2 Select hurricanes from additional years\n");
   printf(" --name Select hurricane with a specific name\n");
+  printf(" --input Use a text file to create tracking map\n");
+  printf(" --input1, --input2 Use multiple files\n");
+  printf(" --format, --format1, --format2 Set format for input files\n");
   printf(" --res Set the horizontal resolution of output image\n");
+  printf(" --bg Set map to use for background\n");
   printf(" --output Set the output file\n");
+  printf(" --alpha  Set transparency for storm tracks\n");
+  printf(" --dots   Set size of dots in an unknown unit\n");
+  printf(" --lines  Set size of lines in an unknown unit\n");
+  printf(" --negx   Set to non-zero value for longitude west of the prime meridian\n");
+  printf(" --negy   Set to non-zero value for latitude south of the equator\n");
 }
 
 static struct args read_args(int argc, char **argv)
 {
   int i = 1;
   struct args args = {
+    /* Set Default Options */
     .resolution = 1024,
     .xmin = NO_ARG,
     .xmax = NO_ARG,
