@@ -1093,49 +1093,21 @@ static void write_stormdata(struct stormdata *storms, struct args *args)
 	cairo_arc(cr, x, y, sz, 0, 2.0 * M_PI);
 	break;
 
-      case EXTRATROPICAL:
-	/* We want a square with the same area as the circle.
-	 *
-	 *   circleArea = pi * rc ^ 2
-	 *   squareArea = 4 * rs ^ 2
-	 *
-	 * Where rc is the circle radius and rs is the square radius (half
-	 * the side). If they have the same area:
-	 *
-	 *   pi * rc ^ 2 = 4 * rs ^ 2
-	 *   sqrt(pi) * rc = 2 * rs
-	 *   rs = sqrt(pi) * rc / 2
+      case SUBTROPICAL:
+	/* 
+	 * Draws an inscribed square of the same size as the circle from above.
 	 */
-	sz *= sqrt(M_PI) / 2.0; /* A square with same area as the circle. */
+	sz /= sqrt(2.0);
 	cairo_rectangle(cr, x - sz, y - sz, sz * 2.0, sz * 2.0);
 	break;
 
-      case SUBTROPICAL:
+      case EXTRATROPICAL:
       case LOW:
-	/* We want an equilateral triangle with the same area as the circle.
-	 *
-	 * The triangle has side s and bisector k.  Now
-	 *
-	 *   (s / 2) ^ 2 + k ^ 2 = s ^ 2
-	 *   (3/4) s^2 = k^2
-	 *   k = sqrt(3)/2 * s
-	 *
-	 * The area of the triangle is
-	 *
-	 *   triangleArea = (s/2) * k
-	 *                = (s/2) * sqrt(3)/2 * s
-	 *                = s^2 * sqrt(3)/4
-	 *
-	 * If triangle and circle have equal areas then
-	 *
-	 *   s^2 * sqrt(3)/4 = pi * rs ^ 2
-	 *   s = r * sqrt(pi * 4 / sqrt(3))
-	 *
-	 * where rs is the circle's radius.  The center of the triangle is
-	 * at the intersection of the bisectors, which is 2/3 of the way down
-	 * the bisector or k/3 of the distance from the base.
+	/*
+	 * We want the inscribed triangle of the circle this time. This
+	 * has side sqrt(3) and bisector 3/2.
 	 */
-	side = sz * sqrt(M_PI * 4.0 / sqrt(3.0));
+	side = sz * sqrt(3.0);
 	bis = side * sqrt(3.0) / 2.0;
 	cairo_move_to(cr, x, y - bis * 2.0 / 3.0);
 	cairo_line_to(cr, x - side / 2.0, y + bis / 3.0);
