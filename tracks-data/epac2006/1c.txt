@@ -1,3 +1,0 @@
-TD One-C
-   Time (UTC)          W.Long  N.Lat   MPH   Pr(mb)
-   20 AUG 2006 03:00   158.2   10.1    30    1006
