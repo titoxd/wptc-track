@@ -813,6 +813,7 @@
 #   [ ("--input 2006/beryl.txt	 --format md", "Beryl 2006",   "Tropical Storm Beryl (2006)"  ) ],
 #   [ ("--input 2006/chris.txt   --format md", "Chris 2006",   "Tropical Storm Chris (2006)"  ) ],
     [ ("--input 2006/debby.txt   --format md", "Debby 2006",   "Tropical Storm Debby (2006)"   ) ],
+    [ ("--input 2006/ernesto.txt --format md", "Ernesto 2006", "Tropical Storm Ernesto (2006)" ) ],
      ) ],
 
 
