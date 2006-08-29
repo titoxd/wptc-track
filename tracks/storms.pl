@@ -297,10 +297,16 @@
       )],
      "2004" =>
      [(
-#       'Alex', 'Bonnie', 'Charley', 'Danielle', 'Earl', 'Frances',
-#       'Gaston', 'Hermine', 'Ivan',
-#       '#10', # Not included in the best-track for some reason
-#       'Jeanne', 'Karl', 'Lisa', 'Matthew', 'Nicole', 'Otto'
+       #'Alex', 'Bonnie', 'Charley', 'Danielle', 'Earl', 'Frances',
+       #'Gaston', 'Hermine', 'Ivan',
+       #'Jeanne', 'Karl', 'Lisa', 'Matthew', 'Nicole', 'Otto'
+      )],
+     "2005" =>
+     [(
+       #'Arlene', 'Bret', 'Cindy', 'Dennis', 'Emily', 'Franklin', 'Gert', 
+       #'Harvey', 'Irene', 'Jose', 'Katrina', 'Lee', 'Maria', 'Nate', 
+       #'Ophelia', 'Philippe', 'Rita', 'Stan', 'Tammy', 'Vince', 'Wilma', 
+       #'Alpha', 'Beta', 'Gamma', 'Delta', 'Epsilon', 'Zeta'
       )],
     )],
 
@@ -580,31 +586,295 @@
        #'Agatha', 'Blas', 'Celia', 'Darby', 'Estelle', 'Frank', 'Georgette',
        #'Howard', 'Isis', 'Javier', 'Kay', 'Lester',
       )],
+     "2005" =>
+     [(
+       #'Adrian', 'Beatriz', 'Calvin', 'Dora', 'Eugene', 'Fernanda', 'Greg',
+       #'Hilary', 'Irwin', 'Jova', 'Kenneth', 'Lidia', 'Max', 'Norma',
+       #'Otis'
+      )],
+     "2006" =>
+     [(
+       #'Aletta'
+      )]
+    )],
+ 
+   "wpac" =>
+   [(
+     "1950" =>
+     [(
+      )],
+     "1951" =>
+     [(
+      )],
+     "1952" =>
+     [(
+      )],
+     "1953" =>
+     [(
+      )],
+     "1954" =>
+     [(
+      )],
+     "1955" =>
+     [(
+      )],
+     "1956" =>
+     [(
+       #'Emma'
+      )],
+     "1957" =>
+     [(
+       #'Rose', 'Shirley', 'Trix', 'Virginia',
+       #'Wendy', 'Agnes', 'Bess', 'Carmen', 'Della',
+       #'Elaine', 'Faye', 'Gloria', 'Hester',
+       #'Irma', 'Judy', 'Kit', 'Lola', 'Mamie'
+      )],
+     "1958" =>
+     [(
+      )],
+     "1959" =>
+     [(
+       #'Patsy', 'Vera'
+      )],
+     "1960" =>
+     [(
+      )],
+     "1961" =>
+     [(
+       #'Nancy'
+      )],
+     "1962" =>
+     [(
+       #'Karen'
+      )],
+     "1963" =>
+     [(
+      )],
+     "1964" =>
+     [(
+      #'Tess', 'Viola', 'Winnie', 'Alice', 'Betty', 
+      #'Cora', 'Doris', 'Elsie', 'Flossie', 'Grace',
+      #'Helen', 'Ida', 'June', 'Kathy', 'Lorna', 'Marie',
+      #'Nancy', 'Olga', 'Pamela', 'Ruby', 'Sally',
+      #'Tilda', 'Violet', 'Wilda', 'Anita', 'Billie',
+      #'Clara', 'Dot', 'Ellen', 'Fran', 'Georgia', 'Hope',
+      #'Iris', 'Joan', 'Kate', 'Louise', 'Marge', 'Nora', 'Opal'
+      )],
+     "1965" =>
+     [(
+      )],
+     "1966" =>
+     [(
+      )],
+     "1967" =>
+     [(
+      )],
+     "1968" =>
+     [(
+      )],
+     "1969" =>
+     [(
+      )],
+     "1970" =>
+     [(
+       #'Joan', 'Kate', 'Patsy'
+      )],
+     "1971" =>
+     [(
+       #'Rose'
+      )],
+     "1972" =>
+     [(
+       #'Helen', 'Ora'
+      )],
+     "1973" =>
+     [(
+      )],
+     "1974" =>
+     [(
+       #'Bess'
+      )],
+     "1975" =>
+     [(
+       #'Nina'
+      )],
+     "1976" =>
+     [(
+       #'Billie'
+      )],
+     "1977" =>
+     [(
+      )],
+     "1978" =>
+     [(
+      )],
+     "1979" =>
+     [(
+       #'Tip'
+      )],
+     "1980" =>
+     [(
+      )],
+     "1981" =>
+     [(
+       #'Irma'
+      )],
+     "1982" =>
+     [(
+       #'Bess'
+      )],
+     "1983" =>
+     [(
+       #'Kim'
+      )],
+     "1984" =>
+     [(
+       #'Ike'
+      )],
+     "1985" =>
+     [(
+       #'Dot'
+      )],
+     "1986" =>
+     [(
+      )],
+     "1987" =>
+     [(
+      #'Peke', 'Nina'
+      )],
+     "1988" =>
+     [(
+       #'Ruby'
+      )],
+     "1989" =>
+     [(
+       #'Gay'
+      )],
+     "1990" =>
+     [(
+       #'Mike'
+      )],
+     "1991" =>
+     [(
+       #'Yunya', 'Mireille', 'Thelma'
+      )],
+     "1992" =>
+     [(
+       #'Omar'
+      )],
+     "1993" =>
+     [(
+       #'Koryn'
+      )],
+     "1994" =>
+     [(
+      )],
+     "1995" =>
+     [(
+      )],
+     "1996" =>
+     [(
+       #'Herb'
+      )],
+     "1997" =>
+     [(
+      )],
+     "1998" =>
+     [(
+       #'Babs', 'Zeb'
+      )],
+     "1999" =>
+     [(
+      )],
+     "2000" =>
+     [(
+      )],
+     "2001" =>
+     [(
+       #'Chebi', 'Vamei'
+      )],
+     "2002" =>
+     [(
+       #'Kammuri', 'Chataan', 'Pongsona', 'Rusa'
+      )],
+     "2003" =>
+     [(
+       #'Maemi', 'Imbudo'
+      )],
+     "2004" =>
+     [(
+       #'Conson', 'Mindulle','Songda', 'Meari', 
+       #'Sudal', 'Nida', 'Omais',  'Chanthu',
+       #'Dianmu', 'Tingting', 'Kompasu', 'Namtheun',
+       #'Malou', 'Meranti', 'Rananim', 'Malakas', 'Megi',
+       #'Chaba', 'Aere', 'Sarika', 'Haima',
+       #'Ma-on', 'Tokage', 'Nock-ten', 'Muifa',
+       #'Nanmadol', 'Talas', 'Noru'
+      )],
+     "2005" =>
+     [(
+       #'Haitang', 'Longwang', 'Talim'
+      )],
+     "2006" =>
+     [(
+       #'Chanchu', 'Jelawat', 'Ewiniar', 'Bilis', 'Kaemi'
+      )],
+    )],
+    
+   "nindian" =>
+   [(
+     "2004" =>
+     [(
+       #'Agni'
+      )],
+     "2006" =>
+     [(
+       #'Mala'
+      )],
+    )],
+    
+   "south" =>
+   [(
+     "1998" =>
+     [(
+       #'Thelma'
+      )],
+     "1999" =>
+     [(
+       #'Vance'
+       #'Ilsa', 'John', 'Astride'
+      )],
+     "2000" =>
+     [(
+       #'Leon-Eline'
+       #'Babiola', 'Iris', 'Jo', 'Connie', 'Kirrily',
+       #'Damienne', 'Felicia', 'Kim', 'Steve', 'Rosita',
+       #'Gloria', 'Norman', 'Leo', 'Mona', 'Olga', 
+       #'Hudah', 'Tessi', 'Vaughan', 'Paul', 'Neil',
+       #'Innocente'
+      )],
+     "2002" =>
+     [(
+       #'Zoe'
+      )],
+     "2004" =>
+     [(
+       #'Gafilo'
+      )],
+     "2005" =>
+     [(
+       #'Ingrid', 'Olaf', 'Percy'
+      )],
+     "2006" =>
+     [(
+       #'Larry', 'Monica'
+      )],
     )],
   );
 
 # Format: year, name, extra, type
 %named =
   (
-   "epac" =>
-   [(
-# Retired storms:
-#     [ (1982, 'Iwa') ],
-#     [ (1970, 'Adele') ], # Don't bother.
-#     [ (1978, 'Fico') ],
-#     [ (1987, 'Knut', 0, 'Tropical Storm') ],  # WTF?  Don't bother.
-#     [ (1988, 'Iva') ], # Don't bother.
-#     [ (1991, 'Fefa') ],
-#     [ (1992, 'Iniki') ],
-#     [ (1995, 'Ismael') ],
-
-# Non-retired but notable:
-#     [ (1959, 'Dot') ],
-#     [ (1982, 'Paul') ],
-#     [ (1993, 'Calvin') ],
-#     [ (1994, 'John') ],
-
-    )],
    "natlantic" =>
    [ (
 #   [ (1966, 'Faith', 1) ],
@@ -616,42 +886,11 @@
   (
    "wpac" =>
    [ (
-#      [ (1956, 12, "Emma") ],
-#      [ (1959, 15, "Vera") ],
-#      [ (1961, 18, "Nancy") ],
-#      [ (1974, 26, "Bess") ],
 #      [ (1977, 10, "Babe Pacific") ],
-#      [ (1979, 23, "Tip") ],
-#      [ (1982, 11, "Bess") ],
-#      [ (1984, 13, "Ike") ],
-#      [ (1988, 23, "Ruby") ],
-#      [ (1989, 32, "Gay") ],
-#      [ (1990, 27, "Mike") ],
-#      [ (1991, 21, "Mireille") ],
-#      [ (1991, 27, "Thelma", 0, "Tropical Storm") ],
-#      [ (1992, 15, "Omar") ],
-#      [ (1996, 10, "Herb") ],
-#      [ (1998, 18, "Zeb") ],
-#      [ (2001, 32, "Vamei") ],
-#      [ (2002, 8, "Chataan") ],
-#      [ (2002, 21, "Rusa") ],
-#      [ (2002, 31, "Pongsona") ],
-#      [ (2003, 9, "Imbudo") ],
 
 # 2004 storms aren't included in the best-track...
  #      [ (2004, 26, "Ma-on") ],
    ) ],
-
-   "nindian" =>
-   [ (
-#      [ (2004, 4, "Agni") ], # Not included
-     ) ],
-
-   "south" =>
-   [ (
-#      [ (2002, 6, "Zoe") ],
-     ) ],
-
   );
 
 #Format: args, filename, name
@@ -681,41 +920,216 @@
 #      [ ("--year 1975 --id 12", "1975 Pacific hurricane 12") ],
      ) ],
 
-   "wpac" =>
-   [ (
-
-     ) ],
-
-
    "natlantic" =>
    [ (
 # Pre-naming Atlantic storms:
 #   [ ("--year 1856 --id 1", "1856 Last Island hurricane") ],
-#    [ ("--year 1857 --id 2", "1857 North Carolina hurricane") ],
-#      [ ("--year 1869 --id 10", "1869 New England hurricane") ],
-#      [ ("--year 1873 --id 2", "1873 Nova Scotia hurricane") ],
-#      [ ("--year 1878 --id 11", "1878 Atlantic hurricane") ],
+#   [ ("--year 1857 --id 2", "1857 North Carolina hurricane") ],
+#   [ ("--year 1869 --id 10", "1869 New England hurricane") ],
+#   [ ("--year 1873 --id 2", "1873 Nova Scotia hurricane") ],
+#   [ ("--year 1878 --id 11", "1878 Atlantic hurricane") ],
 #   [ ("--year 1886 --id 5", "1886 Indianola hurricane") ],
-#   [ ("--year 1893 --id 6 --extra 0", "1893 Sea Islands hurricane") ],
-#      [ ("--year 1893 --id 10 --extra 0", "1893 Chenier Caminanda hurricane") ],
-#      [ ("--year 1898 --id 4 --name \"Not named\"", "1898 Windward Islands hurricane") ],
+#   [ ("--year 1887 --id 1", "1887 Atlantic tropical storm 1") ],
+#   [ ("--year 1887 --id 2", "1887 Atlantic tropical storm 2") ],
+#   [ ("--year 1887 --id 3", "1887 Atlantic tropical storm 3") ],
+#   [ ("--year 1887 --id 4", "1887 Atlantic hurricane 4") ],
+#   [ ("--year 1887 --id 5", "1887 Atlantic tropical storm 5") ],
+#   [ ("--year 1887 --id 6", "1887 Atlantic hurricane 6") ],
+#   [ ("--year 1887 --id 7", "1887 Atlantic hurricane 7") ],
+#   [ ("--year 1887 --id 8", "1887 Atlantic hurricane 8") ],
+#   [ ("--year 1887 --id 9", "1887 Atlantic hurricane 9") ],
+#   [ ("--year 1887 --id 10", "1887 Atlantic hurricane 10") ],
+#   [ ("--year 1887 --id 11", "1887 Atlantic tropical storm 11") ],
+#   [ ("--year 1887 --id 12", "1887 Atlantic tropical storm 12") ],
+#   [ ("--year 1887 --id 13", "1887 Atlantic hurricane 13") ],
+#   [ ("--year 1887 --id 14", "1887 Atlantic hurricane 14") ],
+#   [ ("--year 1887 --id 15", "1887 Atlantic hurricane 15") ],
+#   [ ("--year 1887 --id 16", "1887 Atlantic tropical storm 16") ],
+#   [ ("--year 1887 --id 17", "1887 Atlantic hurricane 17") ],
+#   [ ("--year 1887 --id 18", "1887 Atlantic hurricane 18") ],
+#   [ ("--year 1887 --id 19", "1887 Atlantic tropical storm 19") ],
+#   [ ("--year 1893 --id 1", "1893 Atlantic hurricane 1") ],
+#   [ ("--year 1893 --id 2", "1893 Atlantic hurricane 2") ],
+#   [ ("--year 1893 --id 3", "1893 Atlantic hurricane 3") ],
+#   [ ("--year 1893 --id 4", "1893 Atlantic hurricane 4") ],
+#   [ ("--year 1893 --id 5", "1893 Atlantic hurricane 5") ],
+#   [ ("--year 1893 --id 6", "1893 Sea Islands hurricane") ],
+#   [ ("--year 1893 --id 7", "1893 Atlantic hurricane 7") ],
+#   [ ("--year 1893 --id 8", "1893 Atlantic hurricane 8") ],
+#   [ ("--year 1893 --id 9", "1893 Atlantic hurricane 9") ],
+#   [ ("--year 1893 --id 10", "1893 Chenier Caminanda hurricane") ],
+#   [ ("--year 1893 --id 11", "1893 Atlantic tropical storm 11") ],
+#   [ ("--year 1893 --id 12", "1893 Atlantic tropical storm 12") ],
+#   [ ("--year 1894 --id 1", "1894 Atlantic tropical storm 1") ],
+#   [ ("--year 1894 --id 2", "1894 Atlantic tropical storm 2") ],
+#   [ ("--year 1894 --id 3", "1894 Atlantic hurricane 3") ],
+#   [ ("--year 1894 --id 4", "1894 Atlantic hurricane 4") ],
+#   [ ("--year 1894 --id 5", "1894 Atlantic hurricane 5") ],
+#   [ ("--year 1894 --id 6", "1894 Atlantic hurricane 6") ],
+#   [ ("--year 1894 --id 7", "1894 Atlantic hurricane 7") ],
+#   [ ("--year 1895 --id 1", "1895 Atlantic tropical storm 1") ],
+#   [ ("--year 1895 --id 2", "1895 Atlantic hurricane 2") ],
+#   [ ("--year 1895 --id 3", "1895 Atlantic tropical storm 3") ],
+#   [ ("--year 1895 --id 4", "1895 Atlantic tropical storm 4") ],
+#   [ ("--year 1895 --id 5", "1895 Atlantic hurricane 5") ],
+#   [ ("--year 1895 --id 6", "1895 Atlantic tropical storm 6") ],
+#   [ ("--year 1896 --id 1", "1896 Atlantic hurricane 1") ],
+#   [ ("--year 1896 --id 2", "1896 Atlantic hurricane 2") ],
+#   [ ("--year 1896 --id 3", "1896 Atlantic hurricane 3") ],
+#   [ ("--year 1896 --id 4", "1896 Atlantic hurricane 4") ],
+#   [ ("--year 1896 --id 5", "1896 Atlantic hurricane 5") ],
+#   [ ("--year 1896 --id 6", "1896 Atlantic hurricane 6") ],
+#   [ ("--year 1896 --id 7", "1896 Atlantic tropical storm 7") ],
+#   [ ("--year 1897 --id 1", "1897 Atlantic hurricane 1") ],
+#   [ ("--year 1897 --id 2", "1897 Atlantic hurricane 2") ],
+#   [ ("--year 1897 --id 3", "1897 Atlantic tropical storm 3") ],
+#   [ ("--year 1897 --id 4", "1897 Atlantic tropical storm 4") ],
+#   [ ("--year 1897 --id 5", "1897 Atlantic hurricane 5") ],
+#   [ ("--year 1897 --id 6", "1897 Atlantic tropical storm 6") ],
+#   [ ("--year 1898 --id 4 --name \"Not named\"", "1898 Windward Islands hurricane") ],
+#   [ ("--year 1899 --id 1", "1899 Atlantic tropical storm 1") ],
+#   [ ("--year 1899 --id 2", "1899 Atlantic hurricane 2") ],
 #   [ ("--year 1899 --id 3", "1899 San Ciriaco hurricane") ],
-#   [ ("--year 1900 --id 1 --extra 0", "1900 Galveston hurricane") ],
-#      [ ("--year 1915 --id 5", "1915 Louisiana hurricane") ],
+#   [ ("--year 1899 --id 4", "1899 Atlantic hurricane 4") ],
+#   [ ("--year 1899 --id 5", "1899 Atlantic hurricane 5") ],
+#   [ ("--year 1899 --id 6", "1899 Atlantic tropical storm 6") ],
+#   [ ("--year 1899 --id 7", "1899 Atlantic tropical storm 7") ],
+#   [ ("--year 1899 --id 8", "1899 Atlantic hurricane 8") ],
+#   [ ("--year 1899 --id 9", "1899 Atlantic tropical storm 9") ],
+#   [ ("--year 1900 --id 1", "1900 Galveston hurricane") ],
+#   [ ("--year 1900 --id 2", "1900 Atlantic hurricane 2") ],
+#   [ ("--year 1900 --id 3", "1900 Atlantic hurricane 3") ],
+#   [ ("--year 1900 --id 4", "1900 Atlantic tropical storm 4") ],
+#   [ ("--year 1900 --id 5", "1900 Atlantic tropical storm 5") ],
+#   [ ("--year 1900 --id 6", "1900 Atlantic tropical storm 6") ],
+#   [ ("--year 1900 --id 7", "1900 Atlantic tropical storm 7") ],
+#   [ ("--year 1901 --id 1", "1901 Atlantic tropical storm 1") ],
+#   [ ("--year 1901 --id 2", "1901 Atlantic tropical storm 2") ],
+#   [ ("--year 1901 --id 3", "1901 Atlantic hurricane 3") ],
+#   [ ("--year 1901 --id 4", "1901 Atlantic hurricane 4") ],
+#   [ ("--year 1901 --id 5", "1901 Atlantic tropical storm 5") ],
+#   [ ("--year 1901 --id 6", "1901 Atlantic hurricane 6") ],
+#   [ ("--year 1901 --id 7", "1901 Atlantic hurricane 7") ],
+#   [ ("--year 1901 --id 8", "1901 Atlantic tropical storm 8") ],
+#   [ ("--year 1901 --id 9", "1901 Atlantic tropical storm 9") ],
+#   [ ("--year 1901 --id 10", "1901 Atlantic tropical storm 10") ],
+#   [ ("--year 1901 --id 11", "1901 Atlantic tropical storm 11") ],
+#   [ ("--year 1901 --id 12", "1901 Atlantic hurricane 12") ],
+#   [ ("--year 1902 --id 1", "1902 Atlantic tropical storm 1") ],
+#   [ ("--year 1902 --id 2", "1902 Atlantic hurricane 2") ],
+#   [ ("--year 1902 --id 3", "1902 Atlantic hurricane 3") ],
+#   [ ("--year 1902 --id 4", "1902 Atlantic hurricane 4") ],
+#   [ ("--year 1902 --id 5", "1902 Atlantic tropical storm 5") ],
+#   [ ("--year 1903 --id 1", "1903 Atlantic hurricane 1") ],
+#   [ ("--year 1903 --id 2", "1903 Atlantic hurricane 2") ],
+#   [ ("--year 1903 --id 3", "1903 Atlantic hurricane 3") ],
+#   [ ("--year 1903 --id 4", "1903 Atlantic hurricane 4") ],
+#   [ ("--year 1903 --id 5", "1903 Atlantic tropical storm 5") ],
+#   [ ("--year 1903 --id 6", "1903 Atlantic hurricane 6") ],
+#   [ ("--year 1903 --id 7", "1903 Atlantic hurricane 7") ],
+#   [ ("--year 1903 --id 8", "1903 Atlantic tropical storm 8") ],
+#   [ ("--year 1903 --id 9", "1903 Atlantic tropical storm 9") ],
+#   [ ("--year 1903 --id 10", "1903 Atlantic hurricane 10") ],
+#   [ ("--year 1904 --id 1", "1904 Atlantic hurricane 1") ],
+#   [ ("--year 1904 --id 2", "1904 Atlantic hurricane 2") ],
+#   [ ("--year 1904 --id 3", "1904 Atlantic hurricane 3") ],
+#   [ ("--year 1904 --id 4", "1904 Atlantic tropical storm 4") ],
+#   [ ("--year 1904 --id 5", "1904 Atlantic tropical storm 5") ],
+#   [ ("--year 1905 --id 1", "1905 Atlantic tropical storm 1") ],
+#   [ ("--year 1905 --id 2", "1905 Atlantic tropical storm 2") ],
+#   [ ("--year 1905 --id 3", "1905 Atlantic tropical storm 3") ],
+#   [ ("--year 1905 --id 4", "1905 Atlantic hurricane 4") ],
+#   [ ("--year 1905 --id 5", "1905 Atlantic tropical storm 5") ],
+#   [ ("--year 1907 --id 1", "1907 Atlantic tropical storm 1") ],
+#   [ ("--year 1907 --id 2", "1907 Atlantic tropical storm 2") ],
+#   [ ("--year 1907 --id 3", "1907 Atlantic tropical storm 3") ],
+#   [ ("--year 1907 --id 4", "1907 Atlantic tropical storm 4") ],
+#   [ ("--year 1907 --id 5", "1907 Atlantic tropical storm 5") ],
+#   [ ("--year 1914 --id 1", "1914 Atlantic tropical storm 1") ],
+#   [ ("--year 1915 --id 1", "1915 Atlantic tropical storm 1") ],
+#   [ ("--year 1915 --id 2", "1915 Galveston hurricane") ],
+#   [ ("--year 1915 --id 3", "1915 Atlantic hurricane 3") ],
+#   [ ("--year 1915 --id 4", "1915 Atlantic hurricane 4") ],
+#   [ ("--year 1915 --id 5", "1915 Louisiana hurricane") ],
+#   [ ("--year 1916 --id 1", "1916 Atlantic hurricane 1") ],
+#   [ ("--year 1916 --id 2", "1916 Atlantic hurricane 2") ],
+#   [ ("--year 1916 --id 3", "1916 Atlantic hurricane 3") ],
+#   [ ("--year 1916 --id 4", "1916 Atlantic hurricane 4") ],
+#   [ ("--year 1916 --id 5", "1916 Atlantic hurricane 5") ],
+#   [ ("--year 1916 --id 6", "1916 Atlantic hurricane 6") ],
+#   [ ("--year 1916 --id 7", "1916 Atlantic tropical storm 7") ],
+#   [ ("--year 1916 --id 8", "1916 Atlantic tropical storm 8") ],
+#   [ ("--year 1916 --id 9", "1916 Atlantic hurricane 9") ],
+#   [ ("--year 1916 --id 10", "1916 Atlantic hurricane 10") ],
+#   [ ("--year 1916 --id 11", "1916 Atlantic tropical storm 11") ],
+#   [ ("--year 1916 --id 12", "1916 Atlantic hurricane 12") ],
+#   [ ("--year 1916 --id 13", "1916 Atlantic hurricane 13") ],
+#   [ ("--year 1916 --id 14", "1916 Atlantic hurricane 14") ],
 #   [ ("--year 1919 --wind 120", "1919 Florida Keys hurricane") ],
-#      [ ("--year 1926 --id 1 --wind 120", "1926 Nassau hurricane") ],
-#   [ ("--year 1926 --id 6 --wind 130", "1926 Miami hurricane") ],
-#      [ ("--year 1926 --id 10 --wind 115", "1926 Havana-Bermuda hurricane") ],
+#   [ ("--year 1921 --id 6", "1921 Tampa Bay hurricane") ],
+#   [ ("--year 1925 --id 1", "1925 Atlantic tropical storm 1") ],
+#   [ ("--year 1925 --id 2", "1925 Atlantic hurricane 2") ],
+#   [ ("--year 1926 --id 1", "1926 Nassau Hurricane") ],
+#   [ ("--year 1926 --id 2", "1926 Atlantic hurricane 2") ],
+#   [ ("--year 1926 --id 3", "1926 Atlantic hurricane 3") ],
+#   [ ("--year 1926 --id 4", "1926 Atlantic hurricane 4") ],
+#   [ ("--year 1926 --id 5", "1926 Atlantic hurricane 5") ],
+#   [ ("--year 1926 --id 6", "1926 Miami hurricane") ],
+#   [ ("--year 1926 --id 7", "1926 Atlantic tropical storm 7") ],
+#   [ ("--year 1926 --id 8", "1926 Atlantic hurricane 8") ],
+#   [ ("--year 1926 --id 9", "1926 Atlantic tropical storm 9") ],
+#   [ ("--year 1926 --id 10", "1926 Havana-Bermuda hurricane") ],
+#   [ ("--year 1926 --id 11", "1926 Atlantic tropical storm 11") ],
 #   [ ("--year 1928 --wind 140 --id 4", "1928 Okeechobee hurricane") ],
-#      [ ("--year 1930 --id 2", "1930 Dominican Republic hurricane") ],
+#   [ ("--year 1929 --id 2", "1929 Florida hurricane") ],
+#   [ ("--year 1930 --id 1", "1930 Atlantic hurricane 1") ],
+#   [ ("--year 1930 --id 2", "1930 Dominican Republic hurricane") ],
 #   [ ("--year 1932 --wind 140 --extra 0", "1932 Bahamas hurricane") ],
-#      [ ("--year 1934 --id 2", "1934 Central America hurricane") ],
+#   [ ("--year 1934 --id 2", "1934 Central America hurricane") ],
 #   [ ("--year 1935 --wind 140 --extra 0", "1935 Labor Day hurricane") ],
 #   [ ("--year 1938 --wind 140", "1938 New England hurricane") ],
+#   [ ("--year 1939 --id 1", "1939 Atlantic tropical storm 1") ],
+#   [ ("--year 1939 --id 2", "1939 Atlantic hurricane 2") ],
+#   [ ("--year 1939 --id 3", "1939 Atlantic tropical storm 3") ],
+#   [ ("--year 1939 --id 4", "1939 Atlantic hurricane 4") ],
+#   [ ("--year 1939 --id 5", "1939 Atlantic hurricane 5") ],
+#   [ ("--year 1941 --id 1", "1941 Atlantic tropical storm 1") ],
+#   [ ("--year 1941 --id 2", "1941 Atlantic hurricane 2") ],
+#   [ ("--year 1941 --id 3", "1941 Atlantic hurricane 3") ],
+#   [ ("--year 1941 --id 4", "1941 Central American hurricane") ],
+#   [ ("--year 1941 --id 5", "1941 Atlantic hurricane 5") ],
+#   [ ("--year 1941 --id 6", "1941 Atlantic tropical storm 6") ],
 #   [ ("--year 1943 --id 1", "1943 Surprise hurricane") ],
+#   [ ("--year 1944 --id 11", "1944 Sanibel Island hurricane") ],
 #   [ ("--year 1944 --wind 120 --extra 0", "1944 Atlantic hurricane") ],
-#   [ ("--year 1947 --wind 140", "1947 Fort Lauderdale hurricane") ],
+#   [ ("--year 1945 --id 1", "1945 Atlantic hurricane 1") ],
+#   [ ("--year 1945 --id 2", "1945 Atlantic tropical storm 2") ],
+#   [ ("--year 1945 --id 3", "1945 Atlantic tropical storm 3") ],
+#   [ ("--year 1945 --id 4", "1945 Atlantic tropical storm 4") ],
+#   [ ("--year 1945 --id 5", "1945 Atlantic hurricane 5") ],
+#   [ ("--year 1945 --id 6", "1945 Atlantic tropical storm 6") ],
+#   [ ("--year 1945 --id 7", "1945 Atlantic tropical storm 7") ],
+#   [ ("--year 1945 --id 8", "1945 Atlantic tropical storm 8") ],
+#   [ ("--year 1945 --id 9", "1945 Atlantic hurricane 9") ],
+#   [ ("--year 1945 --id 10", "1945 Atlantic hurricane 10") ],
+#   [ ("--year 1945 --id 11", "1945 Atlantic hurricane 11") ],
+#   [ ("--year 1946 --id 1", "1946 Atlantic tropical storm 1") ],
+#   [ ("--year 1946 --id 2", "1946 Atlantic hurricane 2") ],
+#   [ ("--year 1946 --id 3", "1946 Atlantic tropical storm 3") ],
+#   [ ("--year 1946 --id 4", "1946 Atlantic hurricane 4") ],
+#   [ ("--year 1946 --id 5", "1946 Atlantic hurricane 5") ],
+#   [ ("--year 1946 --id 6", "1946 Atlantic tropical storm 6") ],
+#   [ ("--year 1947 --id 1", "1947 Atlantic tropical storm 1") ],
+#   [ ("--year 1947 --id 2", "1947 Atlantic hurricane 2") ],
+#   [ ("--year 1947 --id 3", "1947 Atlantic hurricane 3") ],
+#   [ ("--year 1947 --id 4", "1947 Fort Lauderdale hurricane") ],
+#   [ ("--year 1947 --id 5", "1947 Atlantic tropical storm 5") ],
+#   [ ("--year 1947 --id 6", "1947 Atlantic tropical storm 6") ],
+#   [ ("--year 1947 --id 7", "1947 Atlantic tropical storm 7") ],
+#   [ ("--year 1947 --id 8", "1947 Atlantic hurricane 8") ],
+#   [ ("--year 1947 --id 9", "1947 Atlantic hurricane 9") ],
 
+# Unnamed storms since start of naming
 #      [ ("--year 1950 --id 12 --name \"not named\"", "1950 Atlantic tropical storm 12") ],
 #      [ ("--year 1952 --id 1 --name \"not named\"", "1952 Groundhog Day tropical storm") ],
 #      [ ("--year 1953 --id 3 --name \"not named\"", "1953 Atlantic tropical storm 3") ],
@@ -767,6 +1181,7 @@
 #      [ ("--year 1992 --id 1", "1992 Atlantic subtropical storm 1") ],
 #      [ ("--year 1997 --id 1", "1997 Atlantic subtropical storm 1") ],
 #      [ ("--year 2000 --id 15", "2000 Atlantic subtropical storm 15") ],
+#      [ ("--year 2005 --id 19", "2005 Atlantic subtropical storm 19") ],
 
 #      [ ("--year 1954 --id 1 --name Alice --extra 0", "Alice1 1954", "Hurricane Alice1 (1954)") ],
 #      [ ("--year 1954 --id 11 --name Alice --extra 0", "Alice2 1954", "Hurricane Alice2 (1954)") ],
@@ -779,34 +1194,6 @@
 #      [ ("--year 1961 --name hattie --input1 epac.txt --year1 1961 --name1 simone --year2 1961 --input2 natlantic.txt --name2 inga", "Hattie-Simone-Inga 1961", "Hurricane Hattie-Simone-Inga (1961)") ],
 #      [ ("--year 1978 --name Greta --input1 epac.txt --year1 1978 --name1 Olivia", "Greta-Olivia 1978", "Hurricane Greta-Olivia (1978)") ],
 
-# 2005 storms
-#   [ ("--input 2005/arlene-bt.txt --format tcr", "Arlene 2005", "Tropical Storm Arlene (2005)") ],
-#   [ ("--input 2005/bret-bt.txt --format tcr", "Bret 2005", "Tropical Storm Bret (2005)") ],
-#   [ ("--input 2005/cindy-bt.txt --format tcr", "Cindy 2005", "Hurricane Cindy (2005)") ],
-#   [ ("--input 2005/dennis-bt.txt --format tcr", "Dennis 2005", "Hurricane Dennis (2005)") ],
-#   [ ("--input 2005/emily-bt.txt --format tcr", "Emily 2005", "Hurricane Emily (2005)") ],
-#   [ ("--input 2005/franklin-bt.txt --format tcr", "Franklin 2005", "Tropical Storm Franklin (2005)") ],
-#   [ ("--input 2005/gert-bt.txt --format tcr", "Gert 2005", "Tropical Storm Gert (2005)") ],
-#   [ ("--input 2005/harvey-bt.txt --format tcr", "Harvey 2005", "Tropical Storm Harvey (2005)") ],
-#   [ ("--input 2005/irene-bt.txt --format tcr", "Irene 2005", "Hurricane Irene (2005)") ],
-#   [ ("--input 2005/jose-bt.txt --format tcr", "Jose 2005", "Tropical Storm Jose (2005)") ],
-#   [ ("--input 2005/katrina-bt.txt --format tcr", "Katrina 2005", "Hurricane Katrina (2005)") ],
-#   [ ("--input 2005/lee-bt.txt --format tcr", "Lee 2005", "Tropical Storm Lee (2005)") ],
-#   [ ("--input 2005/maria-bt.txt --format tcr", "Maria 2005", "Hurricane Maria (2005)") ],
-#   [ ("--input 2005/nate-bt.txt --format tcr", "Nate 2005", "Hurricane Nate (2005)") ],
-#   [ ("--input 2005/ophelia-bt.txt --format tcr", "Ophelia 2005", "Hurricane Ophelia (2005)") ],
-#   [ ("--input 2005/philippe-bt.txt --format tcr", "Philippe 2005", "Hurricane Philippe (2005)") ],
-#   [ ("--input 2005/rita-bt.txt --format tcr", "Rita 2005", "Hurricane Rita (2005)") ],
-#   [ ("--input 2005/stan-bt.txt --format tcr", "Stan 2005", "Hurricane Stan (2005)") ],
-#   [ ("--input 2005/tammy-bt.txt --format tcr", "Tammy 2005", "Tropical Storm Tammy (2005)") ],
-#   [ ("--input 2005/vince-bt.txt --format tcr", "Vince 2005", "Hurricane Vince (2005)") ],
-#   [ ("--input 2005/wilma-bt.txt --format tcr", "Wilma 2005", "Hurricane Wilma (2005)") ],
-#   [ ("--input 2005/alpha-bt.txt --format tcr", "Alpha 2005", "Tropical Storm Alpha (2005)") ],
-#   [ ("--input 2005/beta.txt --format 1", "Beta 2005", "Hurricane Beta (2005)") ],
-#   [ ("--input 2005/gamma-bt.txt --format tcr", "Gamma 2005", "Tropical Storm Gamma (2005)") ],
-#   [ ("--input 2005/delta-bt.txt --format tcr", "Delta 2005", "Tropical Storm Delta (2005)") ],
-#   [ ("--input 2005/epsilon-bt.txt --format tcr", "Epsilon 2005", "Hurricane Epsilon (2005)") ],
-#   [ ("--input 2005/zeta-bt.txt --format tcr", "Zeta 2005", "Tropical Storm Zeta (2005)") ],
 
 # 2006 storms
 #   [ ("--input 2006/alberto.txt --format md", "Alberto 2006", "Tropical Storm Alberto (2006)") ],
@@ -817,6 +1204,13 @@
      ) ],
 
 
+   "wpac" =>
+   [ (
+#     [ ("--year 1957 --id 1 --name \"not named\"", "1957 West Pacific tropical storm 1") ],
+#     [ ("--year 1957 --id 8 --name \"not named\"", "1957 West Pacific tropical storm 8") ],
+#     [ ("--year 1957 --id 17 --name \"not named\"", "1957 West Pacific tropical storm 17") ],
+     )],
+
    "south" =>
    [ (
       # Southern hemisphere numbering is weird because the storms are numbered
@@ -826,10 +1220,9 @@
 #      [ ("--year 1971 --id 9 --wind 60", "Althea 1971", "Cyclone Althea (1971)") ],
 #      [ ("--year 1974 --id 19", "Wanda 1974", "Tropical Storm Wanda (1974)") ],
 #      [ ("--year 1974 --id 7", "Tracy 1974", "Cyclone Tracy (1974)") ],
-#      [ ("--year 2000 --id 11", "Leon-Eline 2000", "Cyclone Leon-Eline (2000)") ],
-
-     ) ],
+     )],
   );
+
 
 $wiki="../../pywikipedia/";
 $storms="../tracks/tracks/";
