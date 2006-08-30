@@ -1,0 +1,4 @@
+Tropical Storm Kristy
+   Time (UTC)          W.Long  N.Lat   MPH   Pr(mb)
+   30 AUG 2006 05:00   114.2   16.2    30    1005
+   30 AUG 2006 09:00   114.7   16.5    40    1005
