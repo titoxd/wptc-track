@@ -1,4 +1,4 @@
-storms="alberto"
+storms="alberto beryl chris debby ernesto"
 
 year=2006
 year2=06
