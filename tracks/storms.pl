@@ -913,9 +913,9 @@
 #	[ (" --input epac/fabio.txt  --format md","Fabio 2006"  ,"Tropical Storm Daniel (2006)") ],
 #	[ (" --input epac/gilma.txt  --format md","Gilma 2006"  ,"Tropical Storm Gilma (2006)")  ],
 #	[ (" --input epac/hector.txt --format md","Hector 2006", "Hurricane Hector (2006)"    )  ],
-	[ (" --input epac/ioke.txt   --format md","Ioke 2006",   "Hurricane Ioke (2006)" )  ],
+#	[ (" --input epac/ioke.txt   --format md","Ioke 2006",   "Hurricane Ioke (2006)" )  ],
 #	[ (" --input epac/ileana.txt --format md","Ileana 2006","Hurricane Ileana (2006)" )],
-	[ (" --input epac/john.txt   --format md","John 2006"  ,"Hurricane John"               )],
+#	[ (" --input epac/john.txt   --format md","John 2006"  ,"Hurricane John"               )],
 	[ (" --input epac/kristy.txt --format md","Kristy 2006","Tropical Storm Kristy" )],
 # Pre-naming EPac storms:
 #      [ ("--year 1959 --id 15", "1959 Mexico hurricane") ],
@@ -1202,7 +1202,8 @@
 #   [ ("--input 2006/beryl.txt	 --format md", "Beryl 2006",   "Tropical Storm Beryl (2006)"  ) ],
 #   [ ("--input 2006/chris.txt   --format md", "Chris 2006",   "Tropical Storm Chris (2006)"  ) ],
 #   [ ("--input 2006/debby.txt   --format md", "Debby 2006",   "Tropical Storm Debby (2006)"   ) ],
-    [ ("--input 2006/ernesto.txt --format md", "Ernesto 2006", "Tropical Storm Ernesto (2006)" ) ],
+#   [ ("--input 2006/ernesto.txt --format md", "Ernesto 2006", "Tropical Storm Ernesto (2006)" ) ],
+    [ ("--input 2006/florence.txt --format md","Florence 2006","Tropical Storm Florence (2006)" ) ],
      ) ],
 
 
