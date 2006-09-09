@@ -916,7 +916,7 @@
 #	[ (" --input epac/ioke.txt   --format md","Ioke 2006",   "Hurricane Ioke (2006)" )  ],
 #	[ (" --input epac/ileana.txt --format md","Ileana 2006","Hurricane Ileana (2006)" )],
 #	[ (" --input epac/john.txt   --format md","John 2006"  ,"Hurricane John"               )],
-	[ (" --input epac/kristy.txt --format md","Kristy 2006","Tropical Storm Kristy" )],
+#	[ (" --input epac/kristy.txt --format md","Kristy 2006","Tropical Storm Kristy" )],
 # Pre-naming EPac storms:
 #      [ ("--year 1959 --id 15", "1959 Mexico hurricane") ],
 #      [ ("--year 1975 --id 12", "1975 Pacific hurricane 12") ],
