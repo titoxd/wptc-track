@@ -99,7 +99,8 @@ static struct args read_args(int argc, char **argv)
       .format = 0,
       .input = "natlantic.txt",
       .negx = true, /* longitude given in negatives */
-      .negy = false
+      .negy = false,
+	  .wind_format = MPH
     },
     .storm[1] = {
       .year = 0,
@@ -111,7 +112,8 @@ static struct args read_args(int argc, char **argv)
       .format = 0,
       .input = NULL,
       .negx = true, /* longitude given in negatives */
-      .negy = false
+      .negy = false,
+	  .wind_format = MPH
      },
     .storm[2] = {
       .year = 0,
@@ -123,7 +125,8 @@ static struct args read_args(int argc, char **argv)
       .format = 0,
       .input = NULL,
       .negx = true, /* longitude given in negatives */
-      .negy = false
+      .negy = false,
+	  .wind_format = MPH
     }
   };
 
@@ -258,6 +261,22 @@ static struct args read_args(int argc, char **argv)
       } else if (strcasecmp(argv[i], "--output") == 0) {
 	i++;
 	args.output = argv[i];
+	  } else if ( strcasecmp(argv[i], "--windformat") == 0) {
+			i++;
+			if ( strcasecmp(argv[i],"kt") == 0 || strcasecmp(argv[i],"knots") == 0) {
+				args.storm[0].wind_format = KT;
+			}
+	  } else if ( strcasecmp(argv[i], "--windformat1") == 0) {
+			i++;
+			if ( strcasecmp(argv[i],"kt") == 0 || strcasecmp(argv[i],"knots") == 0) {
+				args.storm[1].wind_format = KT;
+			}
+		
+      }	else if ( strcasecmp(argv[i], "--windformat2") == 0) {
+			i++;
+			if ( strcasecmp(argv[i],"kt") == 0 || strcasecmp(argv[i],"knots") == 0) {
+				args.storm[2].wind_format = KT;
+			}
       } else {
 	fprintf(stderr, "Unknown argument '%s'.\n", argv[i]);
 	exit(-1);

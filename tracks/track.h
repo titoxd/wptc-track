@@ -2,6 +2,9 @@
 #define __TRACK_H__
 
 #include <stdbool.h>
+enum wind_format {
+	MPH, KPH, KT
+};
 
 struct storm_arg {
   int year;
@@ -14,6 +17,7 @@ struct storm_arg {
   char *format;
   const char *input;
   bool negx, negy;
+  enum wind_format wind_format;
 };
 
 struct storm_header {
