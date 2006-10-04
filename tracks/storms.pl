@@ -1208,7 +1208,7 @@
 #   [ ("--input 2006/florence.txt --format md","Florence 2006","Hurricane Florence (2006)"    ) ],
 #   [ ("--input 2006/gordon.txt  --format md", "Gordon 2006",  "Tropical Storm Gordon (2006)" ) ],
 #   [ ("--input 2006/helene.txt  --format md", "Helene 2006",  "Tropical Storm Helene (2006)" ) ],
-    [ ("--input 2006/isaac.txt   --format md", "Isaac 2006",   "Tropical Storm Isaac (2006)"  ) ],
+#   [ ("--input 2006/isaac.txt   --format md", "Isaac 2006",   "Hurricane Isaac (2006)"  ) ],
      ) ],
 
 
