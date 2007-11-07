@@ -88,15 +88,20 @@ struct stormdata *read_stormdata_md(struct stormdata *storms,
 	pos.lat = val;
 
 	line[41] = 0;
+
+	pos.wind = atoi(line + 37);
 	switch (args->wind_format) {
-		case MPH:
-			pos.wind = ((double)atoi(line + 37) / 1.15 + 0.5);
-			break;
-		case KT:
-			pos.wind = (double)atoi(line + 37);
-			break;
+	case MPH:
+		pos.wind = (double)pos.wind / 1.15 + 0.5;
+		break;
+	case KT:
+		/* nothing */
+		break;
+	case KPH:
+		pos.wind = (double)pos.wind / 1.852 + 0.5;
+		break;
 	}
-			
+
 	pos.pres = atoi(line + 45);
 
 	save_pos(args, storms, &storm, &pos);
