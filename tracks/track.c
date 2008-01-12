@@ -23,8 +23,6 @@
 #include "tcr.h"
 #include "track.h"
 
-#define MAX_STORMS 3
-
 #define storms_iterate(storms, storm)					\
   {									\
     int _storm_index;							\
@@ -37,7 +35,8 @@
   }						\
 
 struct args {
-  struct storm_arg storm[MAX_STORMS];
+  struct storm_arg *storm;
+  int nstorms;
   int resolution;
   int xmin, xmax, ymin, ymax;
   double mindim;
@@ -57,19 +56,44 @@ static void help(void)
 
   printf("Options:\n");
   printf("  --year			Select tropical cyclones from a specific year\n");
-  printf("  --year1, --year2 		Select tropical cyclones  from additional years\n");
   printf("  --name 			Select tropical cyclones  with a specific name\n");
   printf("  --input 			Use a text file to create tracking map\n");
-  printf("  --input1, --input2 		Use multiple files\n");
-  printf("  --format, --format1, --format2 Set format for input files\n");
+  printf("  --id			Storm ID number in its year\n");
+  printf("  --format			Set format for input files\n");
+  printf("  --negx   			Set to non-zero value for longitude west of the prime meridian\n");
+  printf("  --negy   			Set to non-zero value for latitude south of the equator\n");
+  printf("  --wind			Look for storms with at least this wind.\n");
+  printf("  --next			Add on another storm\n");
   printf("  --res 			Set the horizontal resolution of output image\n");
   printf("  --bg Set 			map to use for background\n");
   printf("  --output 			Set the output file\n");
   printf("  --alpha  			Set transparency for storm tracks\n");
   printf("  --dots   			Set size of dots in an unknown unit\n");
   printf("  --lines  			Set size of lines in an unknown unit\n");
-  printf("  --negx   			Set to non-zero value for longitude west of the prime meridian\n");
-  printf("  --negy   			Set to non-zero value for latitude south of the equator\n");
+  printf("More than one storm can be included on the map with the \n"
+	 "use of the --next field.  The year, name, input, id, and\n"
+	 "format fields apply to a storm.  Each time --next is given\n"
+	 "in the argument list this halts the current storm spec and\n"
+	 "instead adds another storm to the list.\n");
+}
+
+static void init_storm_arg(struct storm_arg *stormp)
+{
+  struct storm_arg storm = {
+    .year = 0,
+    .id = 0,
+    .name = NULL,
+    .wind = 0,
+    .extra = false, /* Hmm, what should be default? */
+
+    .format = 0,
+    .input = "natlantic.txt",
+    .negx = true, /* longitude given in negatives */
+    .negy = false,
+    .wind_format = MPH
+  };
+
+  *stormp = storm;
 }
 
 static struct args read_args(int argc, char **argv)
@@ -77,6 +101,7 @@ static struct args read_args(int argc, char **argv)
   int i = 1;
   struct args args = {
     /* Set Default Options */
+    .nstorms = 1,
     .resolution = 1024,
     .xmin = NO_ARG,
     .xmax = NO_ARG,
@@ -88,50 +113,14 @@ static struct args read_args(int argc, char **argv)
     .alpha = 1.0,
     .bg = "bg.png",
     .output = "output.png",
-
-    .storm[0] = {
-      .year = 0,
-      .id = 0,
-      .name = NULL,
-      .wind = 0,
-      .extra = false, /* Hmm, what should be default? */
-
-      .format = 0,
-      .input = "natlantic.txt",
-      .negx = true, /* longitude given in negatives */
-      .negy = false,
-	  .wind_format = MPH
-    },
-    .storm[1] = {
-      .year = 0,
-      .id = 0,
-      .name = NULL,
-      .wind = 0,
-      .extra = true, /* Hmm, what should be default? */
-
-      .format = 0,
-      .input = NULL,
-      .negx = true, /* longitude given in negatives */
-      .negy = false,
-	  .wind_format = MPH
-     },
-    .storm[2] = {
-      .year = 0,
-      .id = 0,
-      .name = NULL,
-      .wind = 0,
-      .extra = true, /* Hmm, what should be default? */
-
-      .format = 0,
-      .input = NULL,
-      .negx = true, /* longitude given in negatives */
-      .negy = false,
-	  .wind_format = MPH
-    }
   };
+
+  args.storm = malloc(sizeof(*args.storm));
+  init_storm_arg(args.storm);
 
   while (i < argc) {
     float val;
+    const int s = args.nstorms - 1;
 
     if (strcasecmp(argv[i], "--help") == 0) {
       help();
@@ -139,84 +128,34 @@ static struct args read_args(int argc, char **argv)
     } else if (i < argc - 1) {
       if (strcasecmp(argv[i], "--input") == 0) {
 	i++;
-	args.storm[0].input = argv[i];
-      } else if (strcasecmp(argv[i], "--input1") == 0) {
-	i++;
-	args.storm[1].input = argv[i];
-      } else if (strcasecmp(argv[i], "--input2") == 0) {
-	i++;
-	args.storm[2].input = argv[i];
-
+	args.storm[s].input = argv[i];
       } else if (strcasecmp(argv[i], "--format") == 0) {
 	i++;
-	args.storm[0].format = argv[i];
-      } else if (strcasecmp(argv[i], "--format1") == 0) {
-	i++;
-	args.storm[1].format = argv[i];
-      } else if (strcasecmp(argv[i], "--format2") == 0) {
-	i++;
-	args.storm[2].format = argv[i];
-
+	args.storm[s].format = argv[i];
       } else if (strcasecmp(argv[i], "--negy") == 0) {
 	i++;
-	args.storm[0].negy = (atoi(argv[i]) != 0);
-      } else if (strcasecmp(argv[i], "--negy1") == 0) {
-	i++;
-	args.storm[1].negy = (atoi(argv[i]) != 0);
-      } else if (strcasecmp(argv[i], "--negy2") == 0) {
-	i++;
-	args.storm[2].negy = (atoi(argv[i]) != 0);
-
+	args.storm[s].negy = (atoi(argv[i]) != 0);
       } else if (strcasecmp(argv[i], "--negx") == 0) {
 	i++;
-	args.storm[0].negx = (atoi(argv[i]) != 0);
-      } else if (strcasecmp(argv[i], "--negx1") == 0) {
-	i++;
-	args.storm[1].negx = (atoi(argv[i]) != 0);
-      } else if (strcasecmp(argv[i], "--negx2") == 0) {
-	i++;
-	args.storm[2].negx = (atoi(argv[i]) != 0);
-
+	args.storm[s].negx = (atoi(argv[i]) != 0);
       } else if (strcasecmp(argv[i], "--year") == 0) {
 	i++;
-	args.storm[0].year = atoi(argv[i]);
-      } else if (strcasecmp(argv[i], "--year1") == 0) {
-	i++;
-	args.storm[1].year = atoi(argv[i]);
-      } else if (strcasecmp(argv[i], "--year2") == 0) {
-	i++;
-	args.storm[2].year = atoi(argv[i]);
-
+	args.storm[s].year = atoi(argv[i]);
       } else if (strcasecmp(argv[i], "--id") == 0) {
 	i++;
-	args.storm[0].id = atoi(argv[i]);
-      } else if (strcasecmp(argv[i], "--id1") == 0) {
-	i++;
-	args.storm[1].id = atoi(argv[i]);
-      } else if (strcasecmp(argv[i], "--id2") == 0) {
-	i++;
-	args.storm[2].id = atoi(argv[i]);
-
+	args.storm[s].id = atoi(argv[i]);
       } else if (strcasecmp(argv[i], "--name") == 0) {
 	i++;
-	args.storm[0].name = argv[i];
-      } else if (strcasecmp(argv[i], "--name1") == 0) {
-	i++;
-	args.storm[1].name = argv[i];
-      } else if (strcasecmp(argv[i], "--name2") == 0) {
-	i++;
-	args.storm[2].name = argv[i];
-
+	args.storm[s].name = argv[i];
       } else if (strcasecmp(argv[i], "--wind") == 0) {
 	i++;
-	args.storm[0].wind = atoi(argv[i]);
-      } else if (strcasecmp(argv[i], "--wind1") == 0) {
-	i++;
-	args.storm[1].wind = atoi(argv[i]);
-      } else if (strcasecmp(argv[i], "--wind2") == 0) {
-	i++;
-	args.storm[2].wind = atoi(argv[i]);
+	args.storm[s].wind = atoi(argv[i]);
 
+      } else if (strcasecmp(argv[i], "--next") == 0) {
+	args.nstorms++;
+	args.storm = realloc(args.storm,
+			     args.nstorms * sizeof(*args.storm));
+	args.storm[s + 1] = args.storm[s];
       } else if (strcasecmp(argv[i], "--res") == 0) {
 	i++;
 	args.resolution = atoi(argv[i]);
@@ -1154,7 +1093,7 @@ int main(int argc, char **argv)
   int i;
   int count = 0;
 
-  for (i = 0; i < MAX_STORMS; i++) {
+  for (i = 0; i < args.nstorms; i++) {
     const char *format = args.storm[i].format;
 
     if (!args.storm[i].input) {

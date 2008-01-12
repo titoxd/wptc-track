@@ -1201,11 +1201,11 @@
 #      [ ("--year 1977 --name Babe --extra 0", "Babe Atlantic 1977", "Hurricane Babe (1977)") ],
 
       # Zone-crossers
-#      [ ("--year 1996 --name cesar --input1 epac.txt --year1 1996 --name1 douglas", "Cesar-Douglas 1996", "Hurricane Cesar-Douglas (1996)") ],
-#      [ ("--year 1974 --name fifi --input1 epac.txt --year1 1974 --name1 orlene", "Fifi-Orlene 1974", "Hurricane Fifi-Orlene (1974)") ],
-#      [ ("--year 1988 --name joan --input1 epac.txt --year1 1988 --name1 miriam", "Joan-Miriam 1988", "Hurricane Joan-Miriam (1988)") ],
-#      [ ("--year 1961 --name hattie --input1 epac.txt --year1 1961 --name1 simone --year2 1961 --input2 natlantic.txt --name2 inga", "Hattie-Simone-Inga 1961", "Hurricane Hattie-Simone-Inga (1961)") ],
-#      [ ("--year 1978 --name Greta --input1 epac.txt --year1 1978 --name1 Olivia", "Greta-Olivia 1978", "Hurricane Greta-Olivia (1978)") ],
+      #[ ("--year 1996 --name cesar --next --input epac.txt --year 1996 --name douglas", "Cesar-Douglas 1996", "Hurricane Cesar-Douglas (1996)") ],
+      #[ ("--year 1974 --name fifi --next --input epac.txt --year 1974 --name orlene", "Fifi-Orlene 1974", "Hurricane Fifi-Orlene (1974)") ],
+      #[ ("--year 1988 --name joan --next --input epac.txt --year 1988 --name miriam", "Joan-Miriam 1988", "Hurricane Joan-Miriam (1988)") ],
+      #[ ("--year 1961 --name hattie --next --input epac.txt --year 1961 --name simone --next --year 1961 --input natlantic.txt --name inga", "Hattie-Simone-Inga 1961", "Hurricane Hattie-Simone-Inga (1961)") ],
+      #[ ("--year 1978 --name Greta --next --input epac.txt --year 1978 --name Olivia", "Greta-Olivia 1978", "Hurricane Greta-Olivia (1978)") ],
 
      ) ],
 
