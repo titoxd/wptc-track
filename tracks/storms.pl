@@ -308,6 +308,11 @@
        #'Ophelia', 'Philippe', 'Rita', 'Stan', 'Tammy', 'Vince', 'Wilma', 
        #'Alpha', 'Beta', 'Gamma', 'Delta', 'Epsilon', 'Zeta'
       )],
+     "2006" =>
+     [(
+       #'Alberto', 'Beryl', 'Chris', 'Debby', 'Ernesto',
+       #'Florence', 'Gordon', 'Helene', 'Isaac', 
+      )],
     )],
 
    "epac" =>
@@ -1189,6 +1194,7 @@
 #      [ ("--year 1997 --id 1", "1997 Atlantic subtropical storm 1") ],
 #      [ ("--year 2000 --id 15", "2000 Atlantic subtropical storm 15") ],
 #      [ ("--year 2005 --id 19", "2005 Atlantic subtropical storm 19") ],
+#      [ ("--year 2006 --id 2", "2006 Atlantic tropical storm 2") ],
 
 #      [ ("--year 1954 --id 1 --name Alice --extra 0", "Alice1 1954", "Hurricane Alice1 (1954)") ],
 #      [ ("--year 1954 --id 11 --name Alice --extra 0", "Alice2 1954", "Hurricane Alice2 (1954)") ],
@@ -1201,17 +1207,6 @@
 #      [ ("--year 1961 --name hattie --input1 epac.txt --year1 1961 --name1 simone --year2 1961 --input2 natlantic.txt --name2 inga", "Hattie-Simone-Inga 1961", "Hurricane Hattie-Simone-Inga (1961)") ],
 #      [ ("--year 1978 --name Greta --input1 epac.txt --year1 1978 --name1 Olivia", "Greta-Olivia 1978", "Hurricane Greta-Olivia (1978)") ],
 
-
-# 2006 storms
-#   [ ("--input 2006/alberto.txt --format md", "Alberto 2006", "Tropical Storm Alberto (2006)") ],
-#   [ ("--input 2006/beryl.txt	 --format md", "Beryl 2006",   "Tropical Storm Beryl (2006)"  ) ],
-#   [ ("--input 2006/chris.txt   --format md", "Chris 2006",   "Tropical Storm Chris (2006)"  ) ],
-#   [ ("--input 2006/debby.txt   --format md", "Debby 2006",   "Tropical Storm Debby (2006)"  ) ],
-#   [ ("--input 2006/ernesto.txt --format md", "Ernesto 2006", "Hurricane Ernesto (2006)"     ) ],
-#   [ ("--input 2006/florence.txt --format md","Florence 2006","Hurricane Florence (2006)"    ) ],
-#   [ ("--input 2006/gordon.txt  --format md", "Gordon 2006",  "Tropical Storm Gordon (2006)" ) ],
-#   [ ("--input 2006/helene.txt  --format md", "Helene 2006",  "Tropical Storm Helene (2006)" ) ],
-#   [ ("--input 2006/isaac.txt   --format md", "Isaac 2006",   "Hurricane Isaac (2006)"  ) ],
      ) ],
 
 
