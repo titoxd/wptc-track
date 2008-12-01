@@ -61,12 +61,12 @@ need_libtool=0
 (grep "\bAC_PROG_LIBTOOL" $srcdir/configure.ac >/dev/null) && need_libtool=1
 (grep "\bAC_GGZ_PLATFORM" $srcdir/configure.ac >/dev/null) && need_libtool=1
 
-version_check "autoconf" "2.57"
-version_check "automake" "1.7"
+version_check "autoconf" "2.60"
+version_check "automake" "1.9"
 if test "x$need_libtool" = "x1"; then
-	version_check "libtool" "1.4.4"
+	version_check "libtool" "1.5.20"
 fi
-version_check "gettext" "0.10.40"
+version_check "gettext" "0.15"
 
 if test "x$bailout" = "x1"; then
   echo
@@ -77,26 +77,31 @@ fi
 
 # Run autotools suite
 
-if test -d $srcdir/m4; then
-	echo -n "[m4]"
-	cat $srcdir/m4/*.m4 > $srcdir/acinclude.m4
-fi
 if test "x$need_libtool" = "x1"; then
 	echo -n "[libtoolize]"
-	(cd $srcdir && libtoolize --force --copy >/dev/null) || { echo "libtoolize failed."; exit; }
+	(cd $srcdir && libtoolize --force --copy >/dev/null) || { echo "libtoolize failed."; exit 1; }
 fi
+
 echo -n "[aclocal]"
-(cd $srcdir && aclocal) || { echo "aclocal failed."; exit; }
+ACLOCAL_FLAGS=""
+if test -d $srcdir/m4; then
+	ACLOCAL_FLAGS="$ACLOCAL_FLAGS -I m4"
+fi
+if test -d $srcdir/m4/ggz; then
+	ACLOCAL_FLAGS="$ACLOCAL_FLAGS -I m4/ggz"
+fi
+(cd $srcdir && aclocal $ACLOCAL_FLAGS) || { echo "aclocal failed."; exit 1; }
+
 echo -n "[autoheader]"
-autoheader -I $srcdir || { echo "autoheader failed."; exit; }
+(cd $srcdir && autoheader) || { echo "autoheader failed."; exit 1; }
 echo -n "[automake]"
-(set -o pipefail && cd $srcdir && automake --add-missing --gnu 2>&1 | (grep -v installing || true)) || { echo "automake failed."; exit; }
+set -o pipefail 2>/dev/null && { ((cd $srcdir && automake --add-missing --gnu 2>&1) | (grep -v installing || true)) || { echo "automake failed." ; exit 1; } } || { (cd $srcdir && automake --add-missing --gnu) || { echo "automake failed." ; exit 1; } }
 if test -f $srcdir/am_edit; then
 	echo -n "[am_edit]"
-	perl $srcdir/am_edit --foreign-libtool || { echo "am_edit failed."; exit; }
+	(cd $srcdir && perl am_edit --foreign-libtool --no-autodist) || { echo "am_edit failed."; exit 1; }
 fi
 echo -n "[autoconf]"
-autoconf -I $srcdir $srcdir/configure.ac > $srcdir/configure && chmod +x $srcdir/configure || { echo "autoconf failed."; exit; }
+autoconf -I $srcdir $srcdir/configure.ac > $srcdir/configure && chmod +x $srcdir/configure || { echo "autoconf failed."; exit 1; }
 echo ""
 
 # Run configuration
