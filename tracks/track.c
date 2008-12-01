@@ -303,10 +303,12 @@ void save_storm(struct storm_arg *args, struct stormdata *storms, struct storm *
   }
 }
 
+#define ABS(x) ((x) >= 0 ? (x) : -(x))
+
 void save_pos(struct storm_arg *args, struct stormdata *storms,
 	      struct storm *storm, struct pos *pos)
 {
-  if (pos->wind > 0 || pos->lon != 0.0 || pos->lat != 0.0) {
+  if (pos->wind > 0 || ABS(pos->lon) > 0.0001 || ABS(pos->lat) > 0.0001) {
     double oldlon = 0;
 
     if (args->negy) {
@@ -352,7 +354,7 @@ void save_pos(struct storm_arg *args, struct stormdata *storms,
       storm->maxtype = MAX(storm->maxtype, pos->type);
 
       if (pos->type == TROPICAL) {
-	if (storm->formlon == 0.0 && storm->formlat == 0.0) {
+	if (ABS(storm->formlon) < 0.0001 && ABS(storm->formlat) < 0.0001) {
 	  storm->formlon = pos->lon;
 	  storm->formlat = pos->lat;
 	}
@@ -587,7 +589,7 @@ static void calc_dimensions(struct stormdata *storms, struct args *args)
     ymax = storms->maxlat + extra_space;
   }
 
-  if (args->mindim == NO_ARG) {
+  if ((int)args->mindim == NO_ARG) {
     args->mindim = 45.0; /* 45 degree minimum coverage. */
   }
   if (xmax - xmin < args->mindim) {
