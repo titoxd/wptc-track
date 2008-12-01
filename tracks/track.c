@@ -68,8 +68,8 @@ static void help(void)
   printf("  --bg Set 			map to use for background\n");
   printf("  --output 			Set the output file\n");
   printf("  --alpha  			Set transparency for storm tracks\n");
-  printf("  --dots   			Set size of dots in an unknown unit\n");
-  printf("  --lines  			Set size of lines in an unknown unit\n");
+  printf("  --dots   			Set size of dots, in degrees\n");
+  printf("  --lines  			Set size of lines, in degrees\n");
   printf("More than one storm can be included on the map with the \n"
 	 "use of the --next field.  The year, name, input, id, and\n"
 	 "format fields apply to a storm.  Each time --next is given\n"
