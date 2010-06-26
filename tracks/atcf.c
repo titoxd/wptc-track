@@ -68,14 +68,8 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 			i++;
 		}
 		
-		/* Check that we got anything */
-		if (strcasecmp(token[4], "BEST") == 0) {
-			printf("yay\n");
-		}
-		
 		/* Check that we are a tropical depression, or storm, or anything but a darn INVEST */
 		if (strcasecmp(token[10], "DB") != 0) {
-			printf("WE ARE AN OFFICIAL STORM MWAHAHAHAHAHA\n");
 			trackstarted = 1;  /* true */
 		}
 		
