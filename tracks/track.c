@@ -3,7 +3,7 @@
  * Distributed under the GPL.  See http://gnu.org/.
  *
  * Compile as
- *   gcc -g -Wall -Werror `pkg-config --cflags --libs cairo` track.c hurdat.c md.c -o track
+ *   gcc -g -Wall -Werror `pkg-config --cflags --libs cairo` tab.c track.c tcr.c atcf.c hurdat.c md.c -o track
  */
 
 #include <assert.h>
@@ -649,7 +649,7 @@ static const char *get_storm_description(struct storm *storm)
 #endif
 
 #define WIKI
-//#define EXTREMES
+/*#define EXTREMES */
 
 #ifdef EXTREMES
 static int long_fact, lat_fact;
@@ -731,7 +731,7 @@ static void print_extreme_locations(struct stormdata *storms)
 #endif
 }
 
-//#define STRONGEST
+/*#define STRONGEST */
 
 #ifdef STRONGEST
 static int strongest_compare(const void *a, const void *b)

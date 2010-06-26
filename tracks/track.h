@@ -32,7 +32,7 @@ struct pos {
     LOW,
     EXTRATROPICAL,
     SUBTROPICAL,
-    TROPICAL,
+    TROPICAL
   } type;
   int month, day, hour;
   double lat, lon;

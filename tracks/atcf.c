@@ -33,21 +33,14 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 									  struct storm_arg *args)
 {
 	FILE *file;
+	int i;
 	char *line, *linecopy, buf[10240];
 	struct storm storm;
 	char *token[35], *datestamp;
 	char ds[5];
-	int trackstarted = 0;  // false
+	int trackstarted = 0;
 	int dateset = 0;
-	enum { /* Increasing order. */
-		LOW,
-		EXTRATROPICAL,
-		SUBTROPICAL,
-		TROPICAL,
-	} lasttype;
-	
-	float val;
-	int type = TROPICAL;
+	int lasttype;
 	
 	file = fopen(args->input, "r");
 	
@@ -68,7 +61,7 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 		
 		/* Begin parsing the line */
 		token[0] = strtok(linecopy, ",");
-		int i = 1;	
+		i = 1;	
 		while ((token[i-1] != NULL) && (i<35)) {
 			token[i-1] = stripspace(token[i-1]);
 			token[i] = strtok(NULL, ",");
@@ -83,7 +76,7 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 		/* Check that we are a tropical depression, or storm, or anything but a darn INVEST */
 		if (strcasecmp(token[10], "DB") != 0) {
 			printf("WE ARE AN OFFICIAL STORM MWAHAHAHAHAHA\n");
-			trackstarted = 1; // true
+			trackstarted = 1;  /* true */
 		}
 		
 		if (trackstarted) {
@@ -156,14 +149,14 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 			if (token[6][strlen(token[6])-1] == 'N') {
 				pos.lat = (double)atoi(token[6]) / 10.0;
 			} else {
-				// TODO: check this actually works
+				/* TODO: check this actually works */
 				pos.lat = -(double)atoi(token[6]) / 10.0;
 			}
 
 			if (token[7][strlen(token[7])-1] == 'W') {
 				pos.lon = (double)atoi(token[7]) / 10.0;
 			} else {
-				// TODO: check this actually works
+				/* TODO: check this actually works */
 				pos.lon = -(double)atoi(token[7]) / 10.0;
 			}
 			
