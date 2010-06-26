@@ -18,6 +18,7 @@
 #include <cairo/cairo.h>
 
 #include "hurdat.h"
+#include "atcf.h"
 #include "md.h"
 #include "tab.h"
 #include "tcr.h"
@@ -59,7 +60,7 @@ static void help(void)
   printf("  --name 			Select tropical cyclones  with a specific name\n");
   printf("  --input 			Use a text file to create tracking map\n");
   printf("  --id			Storm ID number in its year\n");
-  printf("  --format			Set format for input files (hurdat,tcr,md,tab)\n");
+  printf("  --format			Set format for input files (hurdat,tcr,atcf,md,tab)\n");
   printf("  --negx   			Set to non-zero value for longitude west of the prime meridian\n");
   printf("  --negy   			Set to non-zero value for latitude south of the equator\n");
   printf("  --wind			Look for storms with at least this wind.\n");
@@ -534,7 +535,7 @@ static void write_background(cairo_t *cr, struct args *args)
     cairo_surface_destroy(bg);
     cairo_save(cr);
     cairo_set_operator(cr, CAIRO_OPERATOR_OVER);
-    cairo_set_source_rgb(cr, 0, 0, 0);
+    cairo_set_source_rgb(cr, 0.0, 0.0, 0.0);
     cairo_paint(cr);
     cairo_restore(cr);
     return;
@@ -1018,7 +1019,7 @@ static void write_stormdata(struct stormdata *storms, struct args *args)
     }
     get_pos(&x, &y, storm->pos);
     cairo_move_to(cr, x, y);
-    cairo_set_source_rgba(cr, 1, 1, 1, args->alpha);
+    cairo_set_source_rgba(cr, 1.0, 1.0, 1.0, args->alpha);
     cairo_set_line_width(cr, get_line_size(args));
     for (p = 1; p < storm->npos; p++) {
       struct pos *pos = storm->pos + p;
@@ -1050,7 +1051,7 @@ static void write_stormdata(struct stormdata *storms, struct args *args)
       switch (pos->type) {
 
       case TROPICAL:
-	cairo_arc(cr, x, y, sz, 0, 2.0 * M_PI);
+	cairo_arc(cr, x, y, sz, 0.0, 2.0 * M_PI);
 	break;
 
       case SUBTROPICAL:
@@ -1103,6 +1104,8 @@ int main(int argc, char **argv)
     }
     if (!format || strcasecmp(format, "hurdat") == 0) {
       storms = read_stormdata_hurdat(storms, &args.storm[i]);
+    } else if (strcasecmp(format, "atcf") == 0) {
+		storms = read_stormdata_atcf(storms, &args.storm[i]);
     } else if (strcasecmp(format, "md") == 0) {
       storms = read_stormdata_md(storms, &args.storm[i]);
     } else if (strcasecmp(format, "tcr") == 0) {
