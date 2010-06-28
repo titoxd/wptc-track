@@ -41,7 +41,8 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 	int trackstarted = 0;
 	int dateset = 0;
 	int lasttype;
-	
+	int year; 
+	struct pos pos;
 	file = fopen(args->input, "r");
 	
 	if (!file) {
@@ -53,8 +54,6 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 	init_storm(&storm);
 	
 	while ((line = fgets(buf, sizeof(buf), file))) {
-		struct pos pos;
-		
 		/* Clean up the line */
 		line = stripspace(line);
 		linecopy = strdup(line);
@@ -125,6 +124,11 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 			
 			/* month, day, hour */
 			datestamp = strdup(token[2]);
+			strncpy(ds, datestamp+0,4);
+			ds[4] = '\0';
+			year = atoi(ds);
+
+			datestamp = strdup(token[2]);
 			strncpy(ds, datestamp+4,2);
 			ds[2] = '\0';
 			pos.month = atoi(ds);
@@ -169,6 +173,8 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 	}
 	fclose(file);
 	
+	printf("Edit summary: Refreshing information for %s as of %4.4d-%2.2d-%2.2d, %2.2d00 UTC\n", 
+		   storm.header.name, year, pos.month, pos.day, pos.hour);
 	save_storm(args, storms, &storm);
 	
 #if 0
