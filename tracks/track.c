@@ -59,7 +59,7 @@ static void help(void)
   printf("  --year			Select tropical cyclones from a specific year\n");
   printf("  --name 			Select tropical cyclones  with a specific name\n");
   printf("  --input 			Use a text file to create tracking map\n");
-  printf("  --id			Storm ID number in its year\n");
+  printf("  --id				Storm ID number in its year\n");
   printf("  --format			Set format for input files (hurdat,tcr,atcf,md,tab)\n");
   printf("  --negx   			Set to non-zero value for longitude west of the prime meridian\n");
   printf("  --negy   			Set to non-zero value for latitude south of the equator\n");
@@ -69,6 +69,7 @@ static void help(void)
   printf("  --bg Set 			map to use for background\n");
   printf("  --output 			Set the output file\n");
   printf("  --alpha  			Set transparency for storm tracks\n");
+  printf("  --extra  			Do not cut off the extratropical portion of the tracks when extra≠0\n");
   printf("  --dots   			Set size of dots, in degrees\n");
   printf("  --lines  			Set size of lines, in degrees\n");
   printf("More than one storm can be included on the map with the \n"
