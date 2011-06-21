@@ -67,10 +67,10 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 			i++;
 		}
 		
-		/* Check that we are a tropical depression, or storm, or anything but a darn INVEST */
-		if (strcasecmp(token[10], "DB") != 0) {
+		/* /\* Check that we are a tropical depression, or storm, or anything but a darn INVEST *\/ */
+		/* if (strcasecmp(token[10], "DB") != 0) { */
 			trackstarted = 1;  /* true */
-		}
+		/* } */
 		
 		if (trackstarted) {
 			
@@ -86,7 +86,7 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 			} else if ((strcasecmp(token[10], "EX") == 0)) {
 				pos.type = EXTRATROPICAL;
 				lasttype = EXTRATROPICAL;
-			} else if ((strcasecmp(token[10], "LO") == 0) || (strcasecmp(token[10], "WV") == 0)) {
+			} else if ((strcasecmp(token[10], "LO") == 0) || (strcasecmp(token[10], "WV") == 0) || (strcasecmp(token[10], "DB") == 0)) {
 				pos.type = LOW;
 				lasttype = LOW;
 			} else {
