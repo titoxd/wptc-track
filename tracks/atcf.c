@@ -38,6 +38,7 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 	struct storm storm;
 	char *token[35], *datestamp;
 	char ds[5];
+	char stormclass[3];
 	int dateset = 0;
 	int lasttype;
 	int year; 
@@ -152,6 +153,11 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 		
 		/* wind */
 		pos.wind = atoi(token[8]);
+		/* if peak wind: store the current classification */
+		if (pos.wind > storm.maxwind) {
+			strncpy(stormclass, token[10],2);
+			stormclass[2] = '\0';
+		}
 		
 		/* pressure */ 
 		pos.pres = atoi(token[9]);
@@ -165,8 +171,50 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 	}
 	fclose(file);
 	
+	/* Convert storm name to proper capitalization */
+	storm.header.name[0] = toupper(storm.header.name[0]);
+	i=1;
+	while (storm.header.name[i])
+	{
+		storm.header.name[i] = tolower(storm.header.name[i]);
+		i++;
+	}
+	
 	printf("Edit summary: Refreshing information for %s as of %4.4d-%2.2d-%2.2d, %2.2d00 UTC\n", 
 		   storm.header.name, year, pos.month, pos.day, pos.hour);
+	
+	
+	/* Print out the information header */
+	printf("{{WPTC track map\n"); 
+	printf(" | author = {{REVISIONUSER}}\n");
+
+	if (strcasecmp(token[10], "TD") == 0) {
+		printf(" | name = %s %s\n", "Tropical Depression", storm.header.name);
+	} else if (strcasecmp(token[10], "TS") == 0) {
+		printf(" | name = %s %s\n", "Tropical Storm", storm.header.name);
+	} else if (strcasecmp(token[10], "TY") == 0) { 
+		printf(" | name = %s %s\n", "Typhoon", storm.header.name);
+	} else if (strcasecmp(token[10], "ST") == 0) { 
+		printf(" | name = %s %s\n", "Super Typhoon", storm.header.name);
+	} else if (strcasecmp(token[10], "TC") == 0) {
+		printf(" | name = %s %s\n", "Tropical Cyclone", storm.header.name);
+	} else if (strcasecmp(token[10], "HU") == 0) { 
+		printf(" | name = %s %s\n", "Hurricane", storm.header.name);
+	} else if (strcasecmp(token[10], "SD") == 0) {
+		printf(" | name = %s %s\n", "Subtropical Depression", storm.header.name);
+	} else if (strcasecmp(token[10], "SS") == 0) {
+		printf(" | name = %s %s\n", "Subtropical Storm", storm.header.name);
+	} else {
+		printf(" | name = %s %s\n", "Cyclone\n", storm.header.name);
+	}
+	printf(" | season = %4.4d {{{season name}}}\n", storm.header.year);
+	printf(" | start = %4.4d-%2.2d-%2.2d\n", storm.header.year, storm.header.month, storm.header.day);
+	printf(" | end = %4.4d-%2.2d-%2.2d\n", year, pos.month, pos.day);
+	printf(" | othersource={{{fill me}}}\n");
+	printf(" | catname={{{fill me}}}\n");
+	printf(" | code={{{fill me}}}\n");
+	printf("}}\n");
+		
 	save_storm(args, storms, &storm);
 	
 #if 0
