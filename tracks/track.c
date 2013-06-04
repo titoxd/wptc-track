@@ -113,7 +113,7 @@ static struct args read_args(int argc, char **argv)
     .dots = 0.3,
     .lines = 0.075,
     .alpha = 1.0,
-    .bg = "bg.png",
+    .bg = "../data/bg8192.png",
     .output = "output.png",
   };
 
