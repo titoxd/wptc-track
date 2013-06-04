@@ -1115,6 +1115,7 @@ int main(int argc, char **argv)
       storms = read_stormdata_tab(storms, &args.storm[i]);
     } else {
       fprintf(stderr, "Invalid format.\n");
+      free_stormdata(storms);
       return -1;
     }
 
