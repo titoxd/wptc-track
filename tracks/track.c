@@ -89,7 +89,7 @@ static void init_storm_arg(struct storm_arg *stormp)
     .extra = false, /* Hmm, what should be default? */
 
     .format = 0,
-    .input = "natlantic.txt",
+    .input = "../data/natlantic.txt",
     .negx = true, /* longitude given in negatives */
     .negy = false,
     .wind_format = MPH
