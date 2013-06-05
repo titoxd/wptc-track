@@ -15,7 +15,7 @@
 #include <string.h>
 #include <strings.h>
 
-#include <cairo/cairo.h>
+#include <cairo.h>
 
 #include "hurdat.h"
 #include "atcf.h"
