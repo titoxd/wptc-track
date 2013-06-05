@@ -40,6 +40,7 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 	char ds[5];
 	char stormclass[3];
 	int dateset = 0;
+    int points = 0;
 	int lasttype;
 	int year; 
 	struct pos pos;
@@ -66,7 +67,13 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 			token[i] = strtok(NULL, ",");
 			i++;
 		}
-		
+        
+        if (i < 12) {
+            fprintf(stderr, "Parsing error in file '%s': Not enough data fields to parse data point properly\n",
+                    args->input);
+            exit(-1);
+        }
+
 		/* Begin storing data */
 		/* Check the storm's characteristics for this time point */
 		if ((strcasecmp(token[10], "TD") == 0) || (strcasecmp(token[10], "TS") == 0) || (strcasecmp(token[10], "TY") == 0) || 
@@ -166,6 +173,8 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 			break;
 		}
 		
+        points++;
+        
 		save_pos(args, storms, &storm, &pos);
 		
 	}
@@ -181,51 +190,56 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 	}
 	
 	/* Print out the information header */
-	printf("{{WPTC track map\n"); 
-	printf(" | author = {{subst:REVISIONUSER}}\n");
-
-	if (strcasecmp(stormclass, "TD") == 0) {
-		printf(" | name = %s %s\n", "Tropical Depression", storm.header.name);
-		printf(" | article = %s %s (%d)\n", "Tropical Depression", storm.header.name, storm.header.year);
-	} else if (strcasecmp(stormclass, "TS") == 0) {
-		printf(" | name = %s %s\n", "Tropical Storm", storm.header.name);
-		printf(" | article = %s %s (%d)\n", "Tropical Storm", storm.header.name, storm.header.year);
-	} else if (strcasecmp(stormclass, "TY") == 0) { 
-		printf(" | name = %s %s\n", "Typhoon", storm.header.name);
-		printf(" | article = %s %s (%d)\n", "Typhoon", storm.header.name, storm.header.year);
-	} else if (strcasecmp(stormclass, "ST") == 0) { 
-		printf(" | name = %s %s\n", "Super Typhoon", storm.header.name);
-		printf(" | article = %s %s (%d)\n", "Super Typhoon", storm.header.name, storm.header.year);
-	} else if (strcasecmp(stormclass, "TC") == 0) {
-		printf(" | name = %s %s\n", "Tropical Cyclone", storm.header.name);
-		printf(" | article = %s %s (%d)\n", "Tropical Cyclone", storm.header.name, storm.header.year);
-	} else if (strcasecmp(stormclass, "HU") == 0) { 
-		printf(" | name = %s %s\n", "Hurricane", storm.header.name);
-		printf(" | article = %s %s (%d)\n", "Hurricane", storm.header.name, storm.header.year);
-	} else if (strcasecmp(stormclass, "SD") == 0) {
-		printf(" | name = %s %s\n", "Subtropical Depression", storm.header.name);
-		printf(" | article = %s %s (%d)\n", "Subtropical Depression", storm.header.name, storm.header.year);
-	} else if (strcasecmp(stormclass, "SS") == 0) {
-		printf(" | name = %s %s\n", "Subtropical Storm", storm.header.name);
-		printf(" | article = %s %s (%d)\n", "Subtropical Storm", storm.header.name, storm.header.year);
-	} else {
-		printf(" | name = %s %s\n", "Cyclone\n", storm.header.name);
-		printf(" | article = %s %s (%d)\n", "Cyclone", storm.header.name, storm.header.year);
-	}
-	printf(" | season = %4.4d {{{season name}}}\n", storm.header.year);
-	printf(" | start = %4.4d-%2.2d-%2.2d\n", storm.header.year, storm.header.month, storm.header.day);
-	printf(" | end = %4.4d-%2.2d-%2.2d\n", year, pos.month, pos.day);
-	printf(" | othersource={{{fill me}}}\n");
-	printf(" | catname={{{fill me}}}\n");
-	printf(" | code={{{fill me}}}\n");
-	printf("}}\n");
-
-	printf("Edit summary: Refreshing information for %s as of %4.4d-%2.2d-%2.2d, %2.2d00 UTC\n", 
-		   storm.header.name, year, pos.month, pos.day, pos.hour);
-
-		
-	save_storm(args, storms, &storm);
-
+    if (points > 0) {
+        printf("{{WPTC track map\n");
+        printf(" | author = {{subst:REVISIONUSER}}\n");
+        
+        if (strcasecmp(stormclass, "TD") == 0) {
+            printf(" | name = %s %s\n", "Tropical Depression", storm.header.name);
+            printf(" | article = %s %s (%d)\n", "Tropical Depression", storm.header.name, storm.header.year);
+        } else if (strcasecmp(stormclass, "TS") == 0) {
+            printf(" | name = %s %s\n", "Tropical Storm", storm.header.name);
+            printf(" | article = %s %s (%d)\n", "Tropical Storm", storm.header.name, storm.header.year);
+        } else if (strcasecmp(stormclass, "TY") == 0) {
+            printf(" | name = %s %s\n", "Typhoon", storm.header.name);
+            printf(" | article = %s %s (%d)\n", "Typhoon", storm.header.name, storm.header.year);
+        } else if (strcasecmp(stormclass, "ST") == 0) {
+            printf(" | name = %s %s\n", "Super Typhoon", storm.header.name);
+            printf(" | article = %s %s (%d)\n", "Super Typhoon", storm.header.name, storm.header.year);
+        } else if (strcasecmp(stormclass, "TC") == 0) {
+            printf(" | name = %s %s\n", "Tropical Cyclone", storm.header.name);
+            printf(" | article = %s %s (%d)\n", "Tropical Cyclone", storm.header.name, storm.header.year);
+        } else if (strcasecmp(stormclass, "HU") == 0) {
+            printf(" | name = %s %s\n", "Hurricane", storm.header.name);
+            printf(" | article = %s %s (%d)\n", "Hurricane", storm.header.name, storm.header.year);
+        } else if (strcasecmp(stormclass, "SD") == 0) {
+            printf(" | name = %s %s\n", "Subtropical Depression", storm.header.name);
+            printf(" | article = %s %s (%d)\n", "Subtropical Depression", storm.header.name, storm.header.year);
+        } else if (strcasecmp(stormclass, "SS") == 0) {
+            printf(" | name = %s %s\n", "Subtropical Storm", storm.header.name);
+            printf(" | article = %s %s (%d)\n", "Subtropical Storm", storm.header.name, storm.header.year);
+        } else {
+            printf(" | name = %s %s\n", "Cyclone\n", storm.header.name);
+            printf(" | article = %s %s (%d)\n", "Cyclone", storm.header.name, storm.header.year);
+        }
+        printf(" | season = %4.4d {{{season name}}}\n", storm.header.year);
+        printf(" | start = %4.4d-%2.2d-%2.2d\n", storm.header.year, storm.header.month, storm.header.day);
+        printf(" | end = %4.4d-%2.2d-%2.2d\n", year, pos.month, pos.day);
+        printf(" | othersource={{{fill me}}}\n");
+        printf(" | catname={{{fill me}}}\n");
+        printf(" | code={{{fill me}}}\n");
+        printf("}}\n");
+        
+        printf("Edit summary: Refreshing information for %s as of %4.4d-%2.2d-%2.2d, %2.2d00 UTC\n", 
+               storm.header.name, year, pos.month, pos.day, pos.hour);
+        
+        
+        save_storm(args, storms, &storm);
+        
+    } else {
+        fprintf(stderr, "Parsing error in file '%s': No data points found\n", args->input);
+    }
+    
 #if 0
 	printf("Longitude: %d, %d\n", minlon, maxlon);
 	printf("Latitude: %d, %d\n", minlat, maxlat);
