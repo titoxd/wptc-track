@@ -119,7 +119,7 @@ static struct args read_args(int argc, char **argv)
     .alpha = 1.0,
     .template = true,
     .bg = "../data/bg8192.png",
-    .output = "output.png",
+    .output = "../png/output.png",
   };
 
   args.storm = malloc(sizeof(*args.storm));
