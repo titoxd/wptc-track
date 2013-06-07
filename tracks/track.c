@@ -18,6 +18,7 @@
 #include <cairo.h>
 
 #include "hurdat.h"
+#include "hurdat2.h"
 #include "atcf.h"
 #include "md.h"
 #include "tab.h"
@@ -405,6 +406,7 @@ static void free_stormdata(struct stormdata *storms)
   if (storms->storms) free(storms->storms);
   free(storms);
 }
+
 
 static cairo_status_t write_callback (void *closure, const unsigned char *data,
 				      unsigned int length)
@@ -1090,6 +1092,24 @@ static void write_stormdata(struct stormdata *storms, struct args *args)
   cairo_surface_destroy(surface);
 }
 
+int substr_to_int(char *token, int start, int len) {
+    int res = 0;
+    char substr[100] = "\0";
+    strncpy(substr, token+start,len);
+    substr[len] = '\0';
+    res = atoi(substr);
+    return res;
+}
+
+double substr_to_double(char *token, int start, int len) {
+    double res = 0.0;
+    char substr[100] = "\0";
+    strncpy(substr, token+start,len);
+    substr[len] = '\0';
+    res = atof(substr);
+    return res;
+}
+
 int main(int argc, char **argv)
 {
   struct args args = read_args(argc, argv);
@@ -1107,6 +1127,8 @@ int main(int argc, char **argv)
       storms = read_stormdata_hurdat(storms, &args.storm[i]);
     } else if (strcasecmp(format, "atcf") == 0) {
 		storms = read_stormdata_atcf(storms, &args.storm[i]);
+    } else if (strcasecmp(format, "hurdat2") == 0) {
+		storms = read_stormdata_hurdat2(storms, &args.storm[i]);
     } else if (strcasecmp(format, "md") == 0) {
       storms = read_stormdata_md(storms, &args.storm[i]);
     } else if (strcasecmp(format, "tcr") == 0) {

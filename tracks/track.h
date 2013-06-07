@@ -65,6 +65,9 @@ struct stormdata {
   double minlat, maxlat;
 };
 
+int substr_to_int(char *token, int start, int len);
+double substr_to_double(char *token, int start, int len);
+
 /* Storm helper functions (move to storm.h) */
 void init_storm(struct storm *storm);
 void save_storm(struct storm_arg *args, struct stormdata *storms, struct storm *storm);

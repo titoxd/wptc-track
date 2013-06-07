@@ -173,10 +173,12 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 			break;
 		}
 		
-        points++;
-        
+        points++;        
 		save_pos(args, storms, &storm, &pos);
-		
+
+        /* Preventing memory leaks */
+        free(line);
+
 	}
 	fclose(file);
 	
