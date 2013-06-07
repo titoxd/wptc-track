@@ -24,6 +24,8 @@ struct storm_header {
   char name[36];
   int id;
   int year, month, day; /* # of days since start of year */
+  char basin[3];
+  char stormclass[3];
 };
 
 struct pos {
@@ -34,7 +36,7 @@ struct pos {
     SUBTROPICAL,
     TROPICAL
   } type;
-  int month, day, hour;
+  int year, month, day, hour;
   double lat, lon;
   int pres;
   int wind;

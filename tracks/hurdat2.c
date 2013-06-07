@@ -38,14 +38,10 @@ struct stormdata *read_stormdata_hurdat2(struct stormdata *storms,
 	struct storm storm;
 	char *token[35];
 	char recID[4];
-	char stormclass[3];
-    char stormnum[8];
-	int dateset = 0;
     int points = 0;
-    int numrows = 0;
-	int lasttype;
-	int year;
     int minute = 0;
+	int lasttype;
+	bool dateset = false;
     bool syn_time = false;
 	struct pos pos;
 	file = fopen(args->input, "r");
@@ -92,8 +88,9 @@ struct stormdata *read_stormdata_hurdat2(struct stormdata *storms,
             init_storm(&storm);
             
             /* Copy the cyclone identifier */
-            strcpy(stormnum, token[0]);  // cyclone identifier
             /* Split it into multiple parts */
+            strncpy(storm.header.basin, token[0], 2);
+            storm.header.basin[2] = '\0';
             storm.header.id = substr_to_int(token[0], 2, 2);
             storm.header.year = substr_to_int(token[0], 4, 4);
             
@@ -103,11 +100,10 @@ struct stormdata *read_stormdata_hurdat2(struct stormdata *storms,
             /* Mark that the initial date for the storm has not been set */
             dateset = false;
             
-            /* And how many rows to take into account */
-            numrows = atoi(token[2]);
+            /* Reset row counter */
             points = 0;
             
-        } else if (isnumber(token[0][0])) {
+        } else if (isnumber(token[0][0]) && i>8) {
             /***** Parse the data row *****/
 
             /* For the first time stamp: Set initial map date
@@ -122,7 +118,7 @@ struct stormdata *read_stormdata_hurdat2(struct stormdata *storms,
             
             /* Parse this date for our position point data */
             /* year, month, day */
-            year = substr_to_int(token[0], 0, 4);
+            pos.year = substr_to_int(token[0], 0, 4);
             pos.month = substr_to_int(token[0], 4, 2);
             pos.day = substr_to_int(token[0], 6, 2);
             
@@ -189,8 +185,8 @@ struct stormdata *read_stormdata_hurdat2(struct stormdata *storms,
             pos.wind = atoi(token[6]);
             /* if peak wind: store the current classification */
             if (pos.wind > storm.maxwind) {
-                strncpy(stormclass, token[3],2);
-                stormclass[2] = '\0';
+                strncpy(storm.header.stormclass, token[3],2);
+                storm.header.stormclass[2] = '\0';
             }
 
             /* pressure */
@@ -240,66 +236,6 @@ struct stormdata *read_stormdata_hurdat2(struct stormdata *storms,
         free(linecopy);
     }
     fclose(file);
-    
-    /* Convert storm name to proper capitalization */
-    storm.header.name[0] = toupper(storm.header.name[0]);
-    i=1;
-    while (storm.header.name[i])
-    {
-        storm.header.name[i] = tolower(storm.header.name[i]);
-        i++;
-    }
-    
-    /* Print out the information header */
-    if (points > 0) {
-        printf("{{WPTC track map\n");
-        printf(" | author = {{subst:REVISIONUSER}}\n");
-        
-        if (strcasecmp(stormclass, "TD") == 0) {
-            printf(" | name = %s %s\n", "Tropical Depression", storm.header.name);
-            printf(" | article = %s %s (%d)\n", "Tropical Depression", storm.header.name, storm.header.year);
-        } else if (strcasecmp(stormclass, "TS") == 0) {
-            printf(" | name = %s %s\n", "Tropical Storm", storm.header.name);
-            printf(" | article = %s %s (%d)\n", "Tropical Storm", storm.header.name, storm.header.year);
-        } else if (strcasecmp(stormclass, "TY") == 0) {
-            printf(" | name = %s %s\n", "Typhoon", storm.header.name);
-            printf(" | article = %s %s (%d)\n", "Typhoon", storm.header.name, storm.header.year);
-        } else if (strcasecmp(stormclass, "ST") == 0) {
-            printf(" | name = %s %s\n", "Super Typhoon", storm.header.name);
-            printf(" | article = %s %s (%d)\n", "Super Typhoon", storm.header.name, storm.header.year);
-        } else if (strcasecmp(stormclass, "TC") == 0) {
-            printf(" | name = %s %s\n", "Tropical Cyclone", storm.header.name);
-            printf(" | article = %s %s (%d)\n", "Tropical Cyclone", storm.header.name, storm.header.year);
-        } else if (strcasecmp(stormclass, "HU") == 0) {
-            printf(" | name = %s %s\n", "Hurricane", storm.header.name);
-            printf(" | article = %s %s (%d)\n", "Hurricane", storm.header.name, storm.header.year);
-        } else if (strcasecmp(stormclass, "SD") == 0) {
-            printf(" | name = %s %s\n", "Subtropical Depression", storm.header.name);
-            printf(" | article = %s %s (%d)\n", "Subtropical Depression", storm.header.name, storm.header.year);
-        } else if (strcasecmp(stormclass, "SS") == 0) {
-            printf(" | name = %s %s\n", "Subtropical Storm", storm.header.name);
-            printf(" | article = %s %s (%d)\n", "Subtropical Storm", storm.header.name, storm.header.year);
-        } else {
-            printf(" | name = %s %s\n", "Cyclone\n", storm.header.name);
-            printf(" | article = %s %s (%d)\n", "Cyclone", storm.header.name, storm.header.year);
-        }
-        printf(" | season = %4.4d {{{season name}}}\n", storm.header.year);
-        printf(" | start = %4.4d-%2.2d-%2.2d\n", storm.header.year, storm.header.month, storm.header.day);
-        printf(" | end = %4.4d-%2.2d-%2.2d\n", year, pos.month, pos.day);
-        printf(" | othersource={{{fill me}}}\n");
-        printf(" | catname={{{fill me}}}\n");
-        printf(" | code={{{fill me}}}\n");
-        printf("}}\n");
-        
-        printf("Edit summary: Refreshing information for %s as of %4.4d-%2.2d-%2.2d, %2.2d00 UTC\n",
-               storm.header.name, year, pos.month, pos.day, pos.hour);
-        
-        
-        save_storm(args, storms, &storm);
-        
-    } else {
-        fprintf(stderr, "Parsing error in file '%s': No data points found\n", args->input);
-    }
     
 #if 0
     printf("Longitude: %d, %d\n", minlon, maxlon);

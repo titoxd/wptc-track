@@ -3,7 +3,7 @@
  * Distributed under the GPL.  See http://gnu.org/.
  *
  * Compile as
- *   gcc -g -Wall -Werror `pkg-config --cflags --libs cairo` tab.c track.c tcr.c atcf.c hurdat.c md.c -o track
+ *   gcc -g -Wall -Werror template.c tab.c track.c tcr.c atcf.c hurdat2.c hurdat.c md.c `pkg-config --cflags --libs cairo` -o track
  */
 
 #include <assert.h>
@@ -23,6 +23,7 @@
 #include "md.h"
 #include "tab.h"
 #include "tcr.h"
+#include "template.h"
 #include "track.h"
 
 #define storms_iterate(storms, storm)					\
@@ -43,6 +44,7 @@ struct args {
   int xmin, xmax, ymin, ymax;
   double mindim;
   int fmt;
+  int template;
   double dots, lines;
   double alpha;
   const char *bg;
@@ -69,6 +71,7 @@ static void help(void)
   printf("  --res 			Set the horizontal resolution of output image\n");
   printf("  --bg Set 			map to use for background\n");
   printf("  --output 			Set the output file\n");
+  printf("  --template 			Set to non-zero to pre-fill {{WPTC track map}} (default: on)\n");
   printf("  --alpha  			Set transparency for storm tracks\n");
   printf("  --extra  			Do not cut off the extratropical portion of the tracks when extra≠0\n");
   printf("  --dots   			Set size of dots, in degrees\n");
@@ -114,6 +117,7 @@ static struct args read_args(int argc, char **argv)
     .dots = 0.3,
     .lines = 0.075,
     .alpha = 1.0,
+    .template = true,
     .bg = "../data/bg8192.png",
     .output = "output.png",
   };
@@ -162,6 +166,9 @@ static struct args read_args(int argc, char **argv)
       } else if (strcasecmp(argv[i], "--res") == 0) {
 	i++;
 	args.resolution = atoi(argv[i]);
+      } else if (strcasecmp(argv[i], "--template") == 0) {
+    i++;
+    args.template = atoi(argv[i]);
       } else if (strcasecmp(argv[i], "--xmin") == 0) {
 	i++;
 	args.xmin = atoi(argv[i]);
@@ -1141,6 +1148,10 @@ int main(int argc, char **argv)
       return -1;
     }
 
+    if (args.template) {
+      make_storm_template(storms, &args.storm[i]);
+    }
+      
     if (!storms) {
       fprintf(stderr, "Storm reader returned an error.\n");
       return -1;
