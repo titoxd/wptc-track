@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ(2.59)
-AC_INIT(tracks, 0.0.2, jdorje@gna.org)
+AC_INIT(tracks, 0.1.2, titoxd.wikimedia@gmail.com)
 AC_CONFIG_SRCDIR([track.c])
 AC_CONFIG_HEADER([config.h])
 AM_INIT_AUTOMAKE
@@ -33,13 +33,7 @@ AC_SUBST(TRACK_LIBS)
 
 AC_ARG_WITH(tracks-data, AC_HELP_STRING([--with-tracks-data=$DIR],
 				 [Change location of tracks data]),
-	    tracksdata=$withval, [tracksdata="../tracks-data"])
-files="natlantic.txt epac.txt wpac.txt south.txt nindian.txt 2005"
-for file in $files; do
-  ln -sfv "$tracksdata/$file"
-done
-rm -f bg.png
-ln -s ../tracks-data/bg8192.png bg.png
+	    tracksdata=$withval, [tracksdata="../data"])
 
 AC_CONFIG_FILES([Makefile])
 AC_OUTPUT

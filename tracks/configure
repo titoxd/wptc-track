@@ -599,8 +599,6 @@ am__EXEEXT_TRUE
 LTLIBOBJS
 TRACK_LIBS
 TRACK_CFLAGS
-PKG_CONFIG_LIBDIR
-PKG_CONFIG_PATH
 PKG_CONFIG
 LIBOBJS
 EGREP
@@ -699,8 +697,6 @@ LIBS
 CPPFLAGS
 CPP
 PKG_CONFIG
-PKG_CONFIG_PATH
-PKG_CONFIG_LIBDIR
 TRACK_CFLAGS
 TRACK_LIBS'
 
@@ -1336,10 +1332,6 @@ Some influential environment variables:
               you have headers in a nonstandard directory <include dir>
   CPP         C preprocessor
   PKG_CONFIG  path to pkg-config utility
-  PKG_CONFIG_PATH
-              directories to add to pkg-config's search path
-  PKG_CONFIG_LIBDIR
-              path overriding pkg-config's built-in search path
   TRACK_CFLAGS
               C compiler flags for TRACK, overriding pkg-config
   TRACK_LIBS  linker flags for TRACK, overriding pkg-config
@@ -4441,10 +4433,6 @@ done
 
 
 
-
-
-
-
 if test "x$ac_cv_env_PKG_CONFIG_set" != "xset"; then
 	if test -n "$ac_tool_prefix"; then
   # Extract the first word of "${ac_tool_prefix}pkg-config", so it can be a program name with args.
@@ -4557,16 +4545,18 @@ $as_echo "yes" >&6; }
 $as_echo "no" >&6; }
 		PKG_CONFIG=""
 	fi
+
 fi
 
 pkg_failed=no
 { $as_echo "$as_me:${as_lineno-$LINENO}: checking for TRACK" >&5
 $as_echo_n "checking for TRACK... " >&6; }
 
-if test -n "$TRACK_CFLAGS"; then
-    pkg_cv_TRACK_CFLAGS="$TRACK_CFLAGS"
- elif test -n "$PKG_CONFIG"; then
-    if test -n "$PKG_CONFIG" && \
+if test -n "$PKG_CONFIG"; then
+    if test -n "$TRACK_CFLAGS"; then
+        pkg_cv_TRACK_CFLAGS="$TRACK_CFLAGS"
+    else
+        if test -n "$PKG_CONFIG" && \
     { { $as_echo "$as_me:${as_lineno-$LINENO}: \$PKG_CONFIG --exists --print-errors \"cairo >= 1.0.0\""; } >&5
   ($PKG_CONFIG --exists --print-errors "cairo >= 1.0.0") 2>&5
   ac_status=$?
@@ -4576,13 +4566,15 @@ if test -n "$TRACK_CFLAGS"; then
 else
   pkg_failed=yes
 fi
- else
-    pkg_failed=untried
+    fi
+else
+	pkg_failed=untried
 fi
-if test -n "$TRACK_LIBS"; then
-    pkg_cv_TRACK_LIBS="$TRACK_LIBS"
- elif test -n "$PKG_CONFIG"; then
-    if test -n "$PKG_CONFIG" && \
+if test -n "$PKG_CONFIG"; then
+    if test -n "$TRACK_LIBS"; then
+        pkg_cv_TRACK_LIBS="$TRACK_LIBS"
+    else
+        if test -n "$PKG_CONFIG" && \
     { { $as_echo "$as_me:${as_lineno-$LINENO}: \$PKG_CONFIG --exists --print-errors \"cairo >= 1.0.0\""; } >&5
   ($PKG_CONFIG --exists --print-errors "cairo >= 1.0.0") 2>&5
   ac_status=$?
@@ -4592,15 +4584,14 @@ if test -n "$TRACK_LIBS"; then
 else
   pkg_failed=yes
 fi
- else
-    pkg_failed=untried
+    fi
+else
+	pkg_failed=untried
 fi
 
 
 
 if test $pkg_failed = yes; then
-   	{ $as_echo "$as_me:${as_lineno-$LINENO}: result: no" >&5
-$as_echo "no" >&6; }
 
 if $PKG_CONFIG --atleast-pkgconfig-version 0.20; then
         _pkg_short_errors_supported=yes
@@ -4608,9 +4599,9 @@ else
         _pkg_short_errors_supported=no
 fi
         if test $_pkg_short_errors_supported = yes; then
-	        TRACK_PKG_ERRORS=`$PKG_CONFIG --short-errors --print-errors "cairo >= 1.0.0" 2>&1`
+	        TRACK_PKG_ERRORS=`$PKG_CONFIG --short-errors --errors-to-stdout --print-errors "cairo >= 1.0.0"`
         else
-	        TRACK_PKG_ERRORS=`$PKG_CONFIG --print-errors "cairo >= 1.0.0" 2>&1`
+	        TRACK_PKG_ERRORS=`$PKG_CONFIG --errors-to-stdout --print-errors "cairo >= 1.0.0"`
         fi
 	# Put the nasty error message in config.log where it belongs
 	echo "$TRACK_PKG_ERRORS" >&5
@@ -4624,10 +4615,9 @@ installed software in a non-standard prefix.
 
 Alternatively, you may set the environment variables TRACK_CFLAGS
 and TRACK_LIBS to avoid the need to call pkg-config.
-See the pkg-config man page for more details." "$LINENO" 5
+See the pkg-config man page for more details.
+" "$LINENO" 5
 elif test $pkg_failed = untried; then
-     	{ $as_echo "$as_me:${as_lineno-$LINENO}: result: no" >&5
-$as_echo "no" >&6; }
 	{ { $as_echo "$as_me:${as_lineno-$LINENO}: error: in \`$ac_pwd':" >&5
 $as_echo "$as_me: error: in \`$ac_pwd':" >&2;}
 as_fn_error "The pkg-config script could not be found or is too old.  Make sure it
@@ -4645,7 +4635,7 @@ else
 	TRACK_LIBS=$pkg_cv_TRACK_LIBS
         { $as_echo "$as_me:${as_lineno-$LINENO}: result: yes" >&5
 $as_echo "yes" >&6; }
-
+	:
 fi
 
 
