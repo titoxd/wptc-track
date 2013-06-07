@@ -103,7 +103,7 @@ struct stormdata *read_stormdata_hurdat2(struct stormdata *storms,
             /* Reset row counter */
             points = 0;
             
-        } else if (isnumber(token[0][0]) && i>8) {
+        } else if (isdigit(token[0][0]) && i>8) {
             /***** Parse the data row *****/
 
             /* For the first time stamp: Set initial map date
