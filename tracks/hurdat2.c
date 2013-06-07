@@ -36,9 +36,8 @@ struct stormdata *read_stormdata_hurdat2(struct stormdata *storms,
 	int i;
 	char *line, *linecopy, buf[10240];
 	struct storm storm;
-	char *token[35], *datestamp;
+	char *token[35];
 	char recID[4];
-	char ds[5];
 	char stormclass[3];
     char stormnum[8];
 	int dateset = 0;
