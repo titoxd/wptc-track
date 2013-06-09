@@ -1148,7 +1148,7 @@ int main(int argc, char **argv)
       return -1;
     }
 
-    if (args.template) {
+    if (args.template && storms) {
       make_storm_template(storms, &args.storm[i]);
     }
       
