@@ -151,7 +151,7 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 		save_pos(args, storms, &storm, &pos);
 
         /* Preventing memory leaks */
-        free(line);
+        free(linecopy);
 
 	}
 	fclose(file);
