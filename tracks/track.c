@@ -523,7 +523,7 @@ static void get_color(double *r, double *g, double *b, struct pos *pos)
     return;
   }
 
-  for (i = 0; winds[i + 1] < pos->wind && i < 6; i++) {
+  for (i = 0; i < 6 && winds[i + 1] < pos->wind; i++) {
     /* Skip down until we get to the right category. */
   }
   *r = colors[i][0];
