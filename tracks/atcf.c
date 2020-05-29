@@ -83,7 +83,7 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 		} else if ((strcasecmp(token[10], "EX") == 0)) {
 			pos.type = EXTRATROPICAL;
 			lasttype = EXTRATROPICAL;
-		} else if ((strcasecmp(token[10], "LO") == 0) || (strcasecmp(token[10], "WV") == 0) || (strcasecmp(token[10], "DB") == 0)) {
+		} else if ((strcasecmp(token[10], "LO") == 0) || (strcasecmp(token[10], "WV") == 0) || (strcasecmp(token[10], "MD") == 0) || (strcasecmp(token[10], "DB") == 0)) {
 			pos.type = LOW;
 			lasttype = LOW;
 		} else {
