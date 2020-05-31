@@ -21,6 +21,7 @@
 #include "hurdat2.h"
 #include "atcf.h"
 #include "md.h"
+#include "scales.h"
 #include "tab.h"
 #include "tcr.h"
 #include "template.h"
@@ -42,11 +43,6 @@
 			  ((double)(b) / (double)0xFF)}
 # define IND_COLOR(c) (double)(c) / (double)0xFF
 #define NUMCOLORS 7
-struct colormap {
-  char* names[NUMCOLORS + 1];
-  double values[NUMCOLORS + 1][3];
-  int winds[NUMCOLORS + 1];
-};
 struct args {
   struct storm_arg *storm;
   int nstorms;
@@ -114,27 +110,19 @@ static void init_storm_arg(struct storm_arg *stormp)
   *stormp = storm;
 }
 
-static void init_color_arg(struct colormap *colorp) {
-   struct colormap colors = {
-	 .names = {"TD", "TS", "C1", "C2", "C3", "C4", "C5", "SENTINEL"},
-	 .values = {    COLOR(0x5e, 0xba, 0xff), /* DEP */
-					COLOR(0x00, 0xfa, 0xf4), /* TS */
-					COLOR(0xff, 0xff, 0xcc), /* cat1 */
-					COLOR(0xff, 0xe7, 0x75), /* cat2 */
-					COLOR(0xff, 0xc1, 0x40), /* cat3 */
-					COLOR(0xff, 0x8f, 0x20), /* cat4 */
-					COLOR(0xff, 0x60, 0x60), /* cat5 */
-					COLOR(0xff, 0xff, 0xff) /* SENTINEL */
-			},
-	 .winds = {0, 34, 64, 83, 96, 114, 136, 0x7fffffff} /* SENTINEL */
-   };
+static void init_color_arg(struct colormap *colorp, int scale) {
+	struct colormap colors;
+   switch (scale) {
+	   default:
+			colors = SSHWS_COLORMAP;
+   }
    *colorp = colors;
 }
 static bool is_valid_color_input(char *argv_piece, struct colormap* colors, int *colorindex) {
 	for (int i = 0; i < NUMCOLORS; i++) {
-		char* colorarg = malloc(2 + strlen(colors->names[i]) + 5 + 1); //2 for --, strlen() doesn't count null terminator, 5 for "color", 1 for null terminator
+		char* colorarg = malloc(2 + strlen(colors->entries[i].name) + 5 + 1); //2 for --, strlen() doesn't count null terminator, 5 for "color", 1 for null terminator
 		strcat(colorarg, "--");
-		strcat(colorarg, colors->names[i]);
+		strcat(colorarg, colors->entries[i].name);
 		strcat(colorarg, "color");
 		if (strcasecmp(argv_piece, colorarg) == 0) {
 			*colorindex = i;
@@ -190,7 +178,7 @@ static struct args read_args(int argc, char **argv)
   args.storm = malloc(sizeof(*args.storm));
   args.colors = malloc(sizeof(*args.colors));
   init_storm_arg(args.storm);
-  init_color_arg(args.colors);
+  init_color_arg(args.colors, SSHWS_CODE);
   while (i < argc) {
     float val;
 	int colorval_r;
@@ -254,9 +242,9 @@ static struct args read_args(int argc, char **argv)
 	  } else if ( is_valid_color_input(argv[i], args.colors, &colorindex) ) {
 	i++;
 	parse_color(argv[i], &colorval_r, &colorval_g, &colorval_b);
-	args.colors->values[colorindex][0] = IND_COLOR(colorval_r);
-	args.colors->values[colorindex][1] = IND_COLOR(colorval_g);
-	args.colors->values[colorindex][2] = IND_COLOR(colorval_b);
+	args.colors->entries[colorindex].value[0] = IND_COLOR(colorval_r);
+	args.colors->entries[colorindex].value[1] = IND_COLOR(colorval_g);
+	args.colors->entries[colorindex].value[2] = IND_COLOR(colorval_b);
      } else if (strcasecmp(argv[i], "--mindim") == 0) {
 	i++;
 	sscanf(argv[i], "%f", &val);
@@ -538,15 +526,15 @@ static void get_color(double *r, double *g, double *b, struct pos *pos, struct c
     return;
   }
 
-  for (i = 0; i < 6 && colors->winds[i + 1] < pos->wind; i++) {
+  for (i = 0; i < 6 && colors->entries[i + 1].wind < pos->wind; i++) {
     /* Skip down until we get to the right category. */
   }
   if (i >= 7) {
 	  printf("Attempting to access illegal color\n");
    }
-  *r = colors->values[i][0];
-  *g = colors->values[i][1];
-  *b = colors->values[i][2];
+  *r = colors->entries[i].value[0];
+  *g = colors->entries[i].value[1];
+  *b = colors->entries[i].value[2];
 }
 
 static void write_background(cairo_t *cr, struct args *args)
