@@ -84,8 +84,8 @@ static void help(void)
   printf("  --extra  			Do not cut off the extratropical portion of the tracks when extra≠0\n");
   printf("  --dots   			Set size of dots, in degrees\n");
   printf("  --lines  			Set size of lines, in degrees\n");
-  printf("  --scale             Set the TC classification scale to use for this map (default: SSHWS). Valid values are SSHWS, AUS, IMD, JMA, or MFR. The input file's winds are assumed to be over the correct averaging interval (e.g. 3-minute sustained winds for the IMD scale. If specified, this argument MUST be given before any color arguments.");
-  printf("  --<category>color   Set the color of this category (default: classic SSHWS color), for example --c5color 000000. Must be a hexadecimal color code with or without the 0x prefix. Multiple arguments of this type may be specified. As valid category names depend on the scale used, these arguments MUST be specified after --scale if that is specified.\n");
+  printf("  --scale  			Set the TC classification scale to use for this map (default: SSHWS). Valid values are SSHWS, AUS, IMD, JMA, or MFR. The input file's winds are assumed to be over the correct averaging interval (e.g. 3-minute sustained winds for the IMD scale. If specified, this argument MUST be given before any color arguments.\n");
+  printf("  --<category>color		Set the color of this category (default: classic SSHWS color), for example --c5color 000000. Must be a hexadecimal color code with or without the 0x prefix. Multiple arguments of this type may be specified. As valid category names depend on the scale used, these arguments MUST be specified after --scale if that is specified.\n");
   printf("More than one storm can be included on the map with the \n"
 	 "use of the --next field.  The year, name, input, id, and\n"
 	 "format fields apply to a storm.  Each time --next is given\n"
