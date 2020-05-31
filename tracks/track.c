@@ -43,9 +43,9 @@
 # define IND_COLOR(c) (double)(c) / (double)0xFF
 #define NUMCOLORS 7
 struct colormap {
-  char* names[NUMCOLORS];
-  double values[NUMCOLORS][3];
-  int winds[NUMCOLORS];
+  char* names[NUMCOLORS + 1];
+  double values[NUMCOLORS + 1][3];
+  int winds[NUMCOLORS + 1];
 };
 struct args {
   struct storm_arg *storm;
@@ -116,24 +116,24 @@ static void init_storm_arg(struct storm_arg *stormp)
 
 static void init_color_arg(struct colormap *colorp) {
    struct colormap colors = {
-	 .names = {"TD", "TS", "C1", "C2", "C3", "C4", "C5"},
+	 .names = {"TD", "TS", "C1", "C2", "C3", "C4", "C5", "SENTINEL"},
 	 .values = {    COLOR(0x5e, 0xba, 0xff), /* DEP */
 					COLOR(0x00, 0xfa, 0xf4), /* TS */
 					COLOR(0xff, 0xff, 0xcc), /* cat1 */
 					COLOR(0xff, 0xe7, 0x75), /* cat2 */
 					COLOR(0xff, 0xc1, 0x40), /* cat3 */
 					COLOR(0xff, 0x8f, 0x20), /* cat4 */
-					COLOR(0xff, 0x60, 0x60) /* cat5 */
+					COLOR(0xff, 0x60, 0x60), /* cat5 */
+					COLOR(0xff, 0xff, 0xff) /* SENTINEL */
 			},
-	 .winds = {0, 34, 64, 83, 96, 114, 136}
+	 .winds = {0, 34, 64, 83, 96, 114, 136, 0x7fffffff} /* SENTINEL */
    };
    *colorp = colors;
 }
 static bool is_valid_color_input(char *argv_piece, struct colormap* colors, int *colorindex) {
 	for (int i = 0; i < NUMCOLORS; i++) {
 		char* colorarg = malloc(2 + strlen(colors->names[i]) + 5 + 1); //2 for --, strlen() doesn't count null terminator, 5 for "color", 1 for null terminator
-		colorarg[0] = '-';
-		colorarg[1] = '-';
+		strcat(colorarg, "--");
 		strcat(colorarg, colors->names[i]);
 		strcat(colorarg, "color");
 		if (strcasecmp(argv_piece, colorarg) == 0) {
@@ -528,55 +528,8 @@ static double get_line_size(struct args *args)
 
 static void get_color(double *r, double *g, double *b, struct pos *pos, struct colormap *colors)
 {
-//  #undef UNISYS_COLORS
-// #ifdef UNISYS_COLORS
-  // double colors[7][3] = {
-    // {0, 0.7, 0}, /* DEP */
-    // {1, 1, 0.3}, /* TS */
-    // {0.7, 0, 0}, /* 1 */
-    // {1, 0.3, 0.3}, /* 2 */
-    // {0.7, 0, 0.7}, /* 3 */
-    // {1, 0.3, 1}, /* 4 */
-    // {1, 1, 1} /* 5 */
-  // };
-// #elif 0
-
-    // /* Wikipedia colors */
-  // /* Old colors. */
-  // double colors[7][3] = {
-    // COLOR(0x00, 0xFF, 0xFF), /* DEP */
-    // COLOR(0x90, 0xEE, 0x90), /* TS */
-    // COLOR(0xFF, 0xFF, 0xFF), /* cat1 */
-    // COLOR(0xFF, 0xFF, 0xB0), /* cat2 */
-    // COLOR(0xFF, 0xFF, 0x00), /* cat3 */
-    // COLOR(0xFF, 0xA5, 0x00), /* cat4 */
-    // COLOR(0xFF, 0x20, 0x20) /* cat5 */
-  // };
-// #else
-  // /* New colors. */
-  // double colors[7][3] = {
-	  // args.tdcolor,
-	  // args.tscolor,
-	  // args.c1color,
-	  // args.c2color,
-	  // args.c3color,
-	  // args.c4color,
-	  // args.c5color
-  // };
-// #endif
    int i;
    double unknown[3] = COLOR(0xc0, 0xc0,0xc0);
-
-// #if 0 /* Extratropical/low is now handled by shape not color. */
-  // double extratropical[3] = COLOR(0xc0, 0xc0,0xc0);
-
-  // if (pos->type == EXTRATROPICAL || pos->type == LOW) {
-    // *r = extratropical[0];
-    // *g = extratropical[1];
-    // *b = extratropical[2];
-    // return;
-  // }
-// #endif
 
   if (pos->wind == 0) {
     *r = unknown[0];
@@ -588,6 +541,9 @@ static void get_color(double *r, double *g, double *b, struct pos *pos, struct c
   for (i = 0; i < 6 && colors->winds[i + 1] < pos->wind; i++) {
     /* Skip down until we get to the right category. */
   }
+  if (i >= 7) {
+	  printf("Attempting to access illegal color\n");
+   }
   *r = colors->values[i][0];
   *g = colors->values[i][1];
   *b = colors->values[i][2];
