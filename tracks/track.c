@@ -3,7 +3,7 @@
  * Distributed under the GPL.  See http://gnu.org/.
  *
  * Compile as
- *   gcc -g -Wall -Werror template.c tab.c track.c tcr.c atcf.c hurdat2.c hurdat.c md.c `pkg-config --cflags --libs cairo` -o track
+ *   gcc -g -Wall -Werror scales.c template.c tab.c track.c tcr.c atcf.c hurdat2.c hurdat.c md.c `pkg-config --cflags --libs cairo` -o track
  */
 
 #include <assert.h>
