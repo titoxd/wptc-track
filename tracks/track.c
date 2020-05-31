@@ -37,6 +37,9 @@
     }						\
   }						\
 
+#  define COLOR(r, g, b) {((double)(r) / (double)0xFF),	\
+			  ((double)(g) / (double)0xFF),	\
+			  ((double)(b) / (double)0xFF)}
 struct args {
   struct storm_arg *storm;
   int nstorms;
@@ -120,6 +123,7 @@ static struct args read_args(int argc, char **argv)
     .template = true,
     .bg = "../data/bg8192.png",
     .output = "../png/output.png",
+	//.tscolor = 
   };
 
   args.storm = malloc(sizeof(*args.storm));
@@ -473,12 +477,9 @@ static void get_color(double *r, double *g, double *b, struct pos *pos)
     {1, 0.3, 1}, /* 4 */
     {1, 1, 1} /* 5 */
   };
-#else
-#  define COLOR(r, g, b) {((double)(r) / (double)0xFF),	\
-			  ((double)(g) / (double)0xFF),	\
-			  ((double)(b) / (double)0xFF)}
+#elif 0
+
     /* Wikipedia colors */
-#if 0
   /* Old colors. */
   double colors[7][3] = {
     COLOR(0x00, 0xFF, 0xFF), /* DEP */
@@ -500,7 +501,6 @@ static void get_color(double *r, double *g, double *b, struct pos *pos)
     COLOR(0xff, 0x8f, 0x20), /* cat4 */
     COLOR(0xff, 0x60, 0x60) /* cat5 */
   };
-#endif
 #endif
   int i;
   double unknown[3] = COLOR(0xc0, 0xc0,0xc0);
