@@ -111,7 +111,20 @@ static void init_storm_arg(struct storm_arg *stormp)
 
   *stormp = storm;
 }
-
+static int get_scale_code(const char* scalename) {
+	if (strcasecmp("AUS", scalename) == 0) {
+		return AUS_CODE;
+	} else if (strcasecmp("IMD", scalename) == 0) {
+		return IMD_CODE;
+	} else if (strcasecmp("JMA", scalename) == 0) {
+		return JMA_CODE;
+	} else if (strcasecmp("MFR", scalename) == 0) {
+		return MFR_CODE;
+	}
+	else {
+		return SSHWS_CODE;
+	}
+}
 static void init_color_arg(struct colormap *colorp, int scale) {
 	struct colormap colors;
    switch (scale) {
@@ -208,6 +221,11 @@ static struct args read_args(int argc, char **argv)
       if (strcasecmp(argv[i], "--input") == 0) {
 	i++;
 	args.storm[s].input = argv[i];
+	  } else if (strcasecmp(argv[i], "--scale") == 0) {
+	i++;
+	int scale_code = get_scale_code(argv[i]);
+	args.scale = scale_code;
+	init_color_arg(args.colors, scale_code);
       } else if (strcasecmp(argv[i], "--format") == 0) {
 	i++;
 	args.storm[s].format = argv[i];
