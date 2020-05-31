@@ -55,6 +55,7 @@ struct args {
   double alpha;
   const char *bg;
   const char *output;
+  int scale;
   struct colormap *colors;
 };
 
@@ -83,7 +84,8 @@ static void help(void)
   printf("  --extra  			Do not cut off the extratropical portion of the tracks when extra≠0\n");
   printf("  --dots   			Set size of dots, in degrees\n");
   printf("  --lines  			Set size of lines, in degrees\n");
-  printf("  --<category>color   Set the color of this category (default: classic SSHWS color), for example --c5color 000000. Must be a hexadecimal color code with or without the 0x prefix.\n");
+  printf("  --scale             Set the TC classification scale to use for this map (default: SSHWS). Valid values are SSHWS, AUS, IMD, JMA, or MFR. The input file's winds are assumed to be over the correct averaging interval (e.g. 3-minute sustained winds for the IMD scale. If specified, this argument MUST be given before any color arguments.");
+  printf("  --<category>color   Set the color of this category (default: classic SSHWS color), for example --c5color 000000. Must be a hexadecimal color code with or without the 0x prefix. Multiple arguments of this type may be specified. As valid category names depend on the scale used, these arguments MUST be specified after --scale if that is specified.\n");
   printf("More than one storm can be included on the map with the \n"
 	 "use of the --next field.  The year, name, input, id, and\n"
 	 "format fields apply to a storm.  Each time --next is given\n"
@@ -113,7 +115,19 @@ static void init_storm_arg(struct storm_arg *stormp)
 static void init_color_arg(struct colormap *colorp, int scale) {
 	struct colormap colors;
    switch (scale) {
-	   default:
+		case AUS_CODE:
+			colors = AUS_COLORMAP;
+		break;
+		case IMD_CODE:
+			colors = IMD_COLORMAP;
+		break;
+		case JMA_CODE:
+			colors = JMA_COLORMAP;
+		break;
+		case MFR_CODE:
+			colors = MFR_COLORMAP;
+		break;
+		default:
 			colors = SSHWS_COLORMAP;
    }
    *colorp = colors;
@@ -173,6 +187,7 @@ static struct args read_args(int argc, char **argv)
     .template = true,
     .bg = "../data/bg8192.png",
     .output = "../png/output.png",
+	.scale = SSHWS_CODE
   };
 
   args.storm = malloc(sizeof(*args.storm));

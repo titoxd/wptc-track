@@ -15,5 +15,16 @@ struct colormapentry {
 struct colormap {
 	int numcolors;
 	struct colormapentry *entries;
+	double disturbancecolor[3]; // For PTC/DI/TDI. Can be overridden using the distcolor argument.
+	// The disturbance color is considered separately from the other entries since unlike the others, it is not uniquely determined by storm intensity, overlapping with depressions.
 };
+struct colormapentry SSHWS_ENTRIES[8];
 struct colormap SSHWS_COLORMAP;
+struct colormapentry AUS_ENTRIES[7];
+struct colormap AUS_COLORMAP;
+struct colormapentry IMD_ENTRIES[8];
+struct colormap IMD_COLORMAP;
+struct colormapentry JMA_ENTRIES[5];
+struct colormap JMA_COLORMAP;
+struct colormapentry MFR_ENTRIES[7];
+struct colormap MFR_COLORMAP;
