@@ -146,11 +146,9 @@ static void init_color_arg(struct colormap *colorp, int scale) {
    *colorp = colors;
 }
 static bool is_valid_color_input(char *argv_piece, struct colormap* colors, int *colorindex) {
-	for (int i = 0; i < NUMCOLORS; i++) {
-		char* colorarg = malloc(2 + strlen(colors->entries[i].name) + 5 + 1); //2 for --, strlen() doesn't count null terminator, 5 for "color", 1 for null terminator
-		strcat(colorarg, "--");
-		strcat(colorarg, colors->entries[i].name);
-		strcat(colorarg, "color");
+	for (int i = 0; i < colors->numcolors; i++) {
+		char* colorarg = (char*) malloc((2 + strlen(colors->entries[i].name) + 5 + 1)*sizeof(char)); //2 for --, strlen() doesn't count null terminator, 5 for "color", 1 for null terminator
+		sprintf(colorarg, "%s%s%s", "--", colors->entries[i].name, "color");
 		if (strcasecmp(argv_piece, colorarg) == 0) {
 			*colorindex = i;
 			free(colorarg);
@@ -185,6 +183,7 @@ static struct args read_args(int argc, char **argv)
 {
   int i = 1;
   int colorindex = 0;
+  bool colorspecified = false; // To implement restriction against specifying color before scale.
   struct args args = {
     /* Set Default Options */
     .nstorms = 1,
@@ -223,6 +222,10 @@ static struct args read_args(int argc, char **argv)
 	args.storm[s].input = argv[i];
 	  } else if (strcasecmp(argv[i], "--scale") == 0) {
 	i++;
+		  if (colorspecified) {
+			  	fprintf(stderr, "You appear to have tried to specify --scale with value '%s' after one or more color arguments were already specified. --scale MUST be specified before any color arguments.\n", argv[i]);
+				exit(-1);
+		  }
 	int scale_code = get_scale_code(argv[i]);
 	args.scale = scale_code;
 	init_color_arg(args.colors, scale_code);
@@ -278,6 +281,7 @@ static struct args read_args(int argc, char **argv)
 	args.colors->entries[colorindex].value[0] = IND_COLOR(colorval_r);
 	args.colors->entries[colorindex].value[1] = IND_COLOR(colorval_g);
 	args.colors->entries[colorindex].value[2] = IND_COLOR(colorval_b);
+	colorspecified = true;
      } else if (strcasecmp(argv[i], "--mindim") == 0) {
 	i++;
 	sscanf(argv[i], "%f", &val);
