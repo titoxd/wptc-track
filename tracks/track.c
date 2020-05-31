@@ -52,6 +52,7 @@ struct args {
   double alpha;
   const char *bg;
   const char *output;
+  double tdcolor, tscolor, c1color, c2color, c3color, c4color, c5color;
 };
 
 #define NO_ARG -200
@@ -123,7 +124,13 @@ static struct args read_args(int argc, char **argv)
     .template = true,
     .bg = "../data/bg8192.png",
     .output = "../png/output.png",
-	//.tscolor = 
+    .tdcolor = COLOR(0x5e, 0xba, 0xff), /* DEP */
+    .tscolor = COLOR(0x00, 0xfa, 0xf4), /* TS */
+    .c1color = COLOR(0xff, 0xff, 0xcc), /* cat1 */
+    .c2color = COLOR(0xff, 0xe7, 0x75), /* cat2 */
+    .c3color = COLOR(0xff, 0xc1, 0x40), /* cat3 */
+    .c4color = COLOR(0xff, 0x8f, 0x20), /* cat4 */
+    .c5color = COLOR(0xff, 0x60, 0x60) /* cat5 */
   };
 
   args.storm = malloc(sizeof(*args.storm));
