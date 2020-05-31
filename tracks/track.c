@@ -40,6 +40,13 @@
 #  define COLOR(r, g, b) {((double)(r) / (double)0xFF),	\
 			  ((double)(g) / (double)0xFF),	\
 			  ((double)(b) / (double)0xFF)}
+# define IND_COLOR(c) (double)(c) / (double)0xFF
+#define NUMCOLORS 7
+struct colormap {
+  char* names[NUMCOLORS];
+  double values[NUMCOLORS][3];
+  int winds[NUMCOLORS];
+};
 struct args {
   struct storm_arg *storm;
   int nstorms;
@@ -52,7 +59,7 @@ struct args {
   double alpha;
   const char *bg;
   const char *output;
-  double tdcolor, tscolor, c1color, c2color, c3color, c4color, c5color;
+  struct colormap *colors;
 };
 
 #define NO_ARG -200
@@ -80,6 +87,7 @@ static void help(void)
   printf("  --extra  			Do not cut off the extratropical portion of the tracks when extra≠0\n");
   printf("  --dots   			Set size of dots, in degrees\n");
   printf("  --lines  			Set size of lines, in degrees\n");
+  printf("  --<category>color   Set the color of this category (default: classic SSHWS color), for example --c5color 000000. Must be a hexadecimal color code with or without the 0x prefix.\n");
   printf("More than one storm can be included on the map with the \n"
 	 "use of the --next field.  The year, name, input, id, and\n"
 	 "format fields apply to a storm.  Each time --next is given\n"
@@ -106,9 +114,62 @@ static void init_storm_arg(struct storm_arg *stormp)
   *stormp = storm;
 }
 
+static void init_color_arg(struct colormap *colorp) {
+   struct colormap colors = {
+	 .names = {"TD", "TS", "C1", "C2", "C3", "C4", "C5"},
+	 .values = {    COLOR(0x5e, 0xba, 0xff), /* DEP */
+					COLOR(0x00, 0xfa, 0xf4), /* TS */
+					COLOR(0xff, 0xff, 0xcc), /* cat1 */
+					COLOR(0xff, 0xe7, 0x75), /* cat2 */
+					COLOR(0xff, 0xc1, 0x40), /* cat3 */
+					COLOR(0xff, 0x8f, 0x20), /* cat4 */
+					COLOR(0xff, 0x60, 0x60) /* cat5 */
+			},
+	 .winds = {0, 34, 64, 83, 96, 114, 136}
+   };
+   *colorp = colors;
+}
+static bool is_valid_color_input(char *argv_piece, struct colormap* colors, int *colorindex) {
+	for (int i = 0; i < NUMCOLORS; i++) {
+		char* colorarg = malloc(2 + strlen(colors->names[i]) + 5 + 1); //2 for --, strlen() doesn't count null terminator, 5 for "color", 1 for null terminator
+		colorarg[0] = '-';
+		colorarg[1] = '-';
+		strcat(colorarg, colors->names[i]);
+		strcat(colorarg, "color");
+		if (strcasecmp(argv_piece, colorarg) == 0) {
+			*colorindex = i;
+			free(colorarg);
+			return true;
+		}
+		free(colorarg);
+	}
+	return false;
+}
+static void parse_color(char* color_code, int *r, int *g, int *b) {
+	int i = 0;
+	if (color_code[1] == 'x') {
+		i = 2; // Skip possible "0x" prefix
+	}
+	char r_string[3];
+	char g_string[3];
+	char b_string[3];
+	r_string[0] = color_code[i];
+	r_string[1] = color_code[i + 1];
+	g_string[0] = color_code[i + 2];
+	g_string[1] = color_code[i + 3];
+	b_string[0] = color_code[i + 4];
+	b_string[1] = color_code[i + 5];
+	r_string[2] = '\0'; // Guard against buffer overflow
+	g_string[2] = '\0';
+	b_string[2] = '\0';
+	sscanf(r_string, "%x", r);
+	sscanf(g_string, "%x", g);
+	sscanf(b_string, "%x", b);
+}
 static struct args read_args(int argc, char **argv)
 {
   int i = 1;
+  int colorindex = 0;
   struct args args = {
     /* Set Default Options */
     .nstorms = 1,
@@ -124,20 +185,17 @@ static struct args read_args(int argc, char **argv)
     .template = true,
     .bg = "../data/bg8192.png",
     .output = "../png/output.png",
-    .tdcolor = COLOR(0x5e, 0xba, 0xff), /* DEP */
-    .tscolor = COLOR(0x00, 0xfa, 0xf4), /* TS */
-    .c1color = COLOR(0xff, 0xff, 0xcc), /* cat1 */
-    .c2color = COLOR(0xff, 0xe7, 0x75), /* cat2 */
-    .c3color = COLOR(0xff, 0xc1, 0x40), /* cat3 */
-    .c4color = COLOR(0xff, 0x8f, 0x20), /* cat4 */
-    .c5color = COLOR(0xff, 0x60, 0x60) /* cat5 */
   };
 
   args.storm = malloc(sizeof(*args.storm));
+  args.colors = malloc(sizeof(*args.colors));
   init_storm_arg(args.storm);
-
+  init_color_arg(args.colors);
   while (i < argc) {
     float val;
+	int colorval_r;
+	int colorval_g;
+	int colorval_b;
     const int s = args.nstorms - 1;
 
     if (strcasecmp(argv[i], "--help") == 0) {
@@ -192,7 +250,14 @@ static struct args read_args(int argc, char **argv)
       } else if (strcasecmp(argv[i], "--ymax") == 0) {
 	i++;
 	args.ymax = atoi(argv[i]);
-      } else if (strcasecmp(argv[i], "--mindim") == 0) {
+	
+	  } else if ( is_valid_color_input(argv[i], args.colors, &colorindex) ) {
+	i++;
+	parse_color(argv[i], &colorval_r, &colorval_g, &colorval_b);
+	args.colors->values[colorindex][0] = IND_COLOR(colorval_r);
+	args.colors->values[colorindex][1] = IND_COLOR(colorval_g);
+	args.colors->values[colorindex][2] = IND_COLOR(colorval_b);
+     } else if (strcasecmp(argv[i], "--mindim") == 0) {
 	i++;
 	sscanf(argv[i], "%f", &val);
 	args.mindim = val;
@@ -237,7 +302,8 @@ static struct args read_args(int argc, char **argv)
 			if ( strcasecmp(argv[i],"kt") == 0 || strcasecmp(argv[i],"knots") == 0) {
 				args.storm[2].wind_format = KT;
 			}
-      } else {
+	  }
+	  else {
 	fprintf(stderr, "Unknown argument '%s'.\n", argv[i]);
 	exit(-1);
       }
@@ -250,7 +316,6 @@ static struct args read_args(int argc, char **argv)
 
   return args;
 }
-
 static bool storm_matches(struct storm *storm, struct storm_arg *args)
 {
   if (args->year != 0 && args->year != storm->header.year) {
@@ -461,67 +526,57 @@ static double get_line_size(struct args *args)
   return args->lines / (xmax - xmin) * xres;
 }
 
-static void get_color(double *r, double *g, double *b, struct pos *pos)
+static void get_color(double *r, double *g, double *b, struct pos *pos, struct colormap *colors)
 {
-  /* Purely by windspeed. */
-  int winds[] = {
-    0,
-    34,
-    64,
-    83,
-    96,
-    114,
-    136
-  };
-#undef UNISYS_COLORS
-#ifdef UNISYS_COLORS
-  double colors[7][3] = {
-    {0, 0.7, 0}, /* DEP */
-    {1, 1, 0.3}, /* TS */
-    {0.7, 0, 0}, /* 1 */
-    {1, 0.3, 0.3}, /* 2 */
-    {0.7, 0, 0.7}, /* 3 */
-    {1, 0.3, 1}, /* 4 */
-    {1, 1, 1} /* 5 */
-  };
-#elif 0
+//  #undef UNISYS_COLORS
+// #ifdef UNISYS_COLORS
+  // double colors[7][3] = {
+    // {0, 0.7, 0}, /* DEP */
+    // {1, 1, 0.3}, /* TS */
+    // {0.7, 0, 0}, /* 1 */
+    // {1, 0.3, 0.3}, /* 2 */
+    // {0.7, 0, 0.7}, /* 3 */
+    // {1, 0.3, 1}, /* 4 */
+    // {1, 1, 1} /* 5 */
+  // };
+// #elif 0
 
-    /* Wikipedia colors */
-  /* Old colors. */
-  double colors[7][3] = {
-    COLOR(0x00, 0xFF, 0xFF), /* DEP */
-    COLOR(0x90, 0xEE, 0x90), /* TS */
-    COLOR(0xFF, 0xFF, 0xFF), /* cat1 */
-    COLOR(0xFF, 0xFF, 0xB0), /* cat2 */
-    COLOR(0xFF, 0xFF, 0x00), /* cat3 */
-    COLOR(0xFF, 0xA5, 0x00), /* cat4 */
-    COLOR(0xFF, 0x20, 0x20) /* cat5 */
-  };
-#else
-  /* New colors. */
-  double colors[7][3] = {
-    COLOR(0x5e, 0xba, 0xff), /* DEP */
-    COLOR(0x00, 0xfa, 0xf4), /* TS */
-    COLOR(0xff, 0xff, 0xcc), /* cat1 */
-    COLOR(0xff, 0xe7, 0x75), /* cat2 */
-    COLOR(0xff, 0xc1, 0x40), /* cat3 */
-    COLOR(0xff, 0x8f, 0x20), /* cat4 */
-    COLOR(0xff, 0x60, 0x60) /* cat5 */
-  };
-#endif
-  int i;
-  double unknown[3] = COLOR(0xc0, 0xc0,0xc0);
+    // /* Wikipedia colors */
+  // /* Old colors. */
+  // double colors[7][3] = {
+    // COLOR(0x00, 0xFF, 0xFF), /* DEP */
+    // COLOR(0x90, 0xEE, 0x90), /* TS */
+    // COLOR(0xFF, 0xFF, 0xFF), /* cat1 */
+    // COLOR(0xFF, 0xFF, 0xB0), /* cat2 */
+    // COLOR(0xFF, 0xFF, 0x00), /* cat3 */
+    // COLOR(0xFF, 0xA5, 0x00), /* cat4 */
+    // COLOR(0xFF, 0x20, 0x20) /* cat5 */
+  // };
+// #else
+  // /* New colors. */
+  // double colors[7][3] = {
+	  // args.tdcolor,
+	  // args.tscolor,
+	  // args.c1color,
+	  // args.c2color,
+	  // args.c3color,
+	  // args.c4color,
+	  // args.c5color
+  // };
+// #endif
+   int i;
+   double unknown[3] = COLOR(0xc0, 0xc0,0xc0);
 
-#if 0 /* Extratropical/low is now handled by shape not color. */
-  double extratropical[3] = COLOR(0xc0, 0xc0,0xc0);
+// #if 0 /* Extratropical/low is now handled by shape not color. */
+  // double extratropical[3] = COLOR(0xc0, 0xc0,0xc0);
 
-  if (pos->type == EXTRATROPICAL || pos->type == LOW) {
-    *r = extratropical[0];
-    *g = extratropical[1];
-    *b = extratropical[2];
-    return;
-  }
-#endif
+  // if (pos->type == EXTRATROPICAL || pos->type == LOW) {
+    // *r = extratropical[0];
+    // *g = extratropical[1];
+    // *b = extratropical[2];
+    // return;
+  // }
+// #endif
 
   if (pos->wind == 0) {
     *r = unknown[0];
@@ -530,12 +585,12 @@ static void get_color(double *r, double *g, double *b, struct pos *pos)
     return;
   }
 
-  for (i = 0; i < 6 && winds[i + 1] < pos->wind; i++) {
+  for (i = 0; i < 6 && colors->winds[i + 1] < pos->wind; i++) {
     /* Skip down until we get to the right category. */
   }
-  *r = colors[i][0];
-  *g = colors[i][1];
-  *b = colors[i][2];
+  *r = colors->values[i][0];
+  *g = colors->values[i][1];
+  *b = colors->values[i][2];
 }
 
 static void write_background(cairo_t *cr, struct args *args)
@@ -1060,7 +1115,7 @@ static void write_stormdata(struct stormdata *storms, struct args *args)
       double sz = get_dot_size(args), side, bis;
 
       get_pos(&x, &y, pos);
-      get_color(&r, &g, &b, pos);
+      get_color(&r, &g, &b, pos, args->colors);
 
       cairo_save(cr);
       cairo_set_source_rgba(cr, r, g, b, args->alpha);
