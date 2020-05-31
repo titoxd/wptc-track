@@ -460,7 +460,8 @@ static void get_color(double *r, double *g, double *b, struct pos *pos)
     83,
     96,
     114,
-    136
+    136,
+    0xFFFF
   };
 #undef UNISYS_COLORS
 #ifdef UNISYS_COLORS
