@@ -26,5 +26,5 @@ struct colormapentry IMD_ENTRIES[8];
 struct colormap IMD_COLORMAP;
 struct colormapentry JMA_ENTRIES[5];
 struct colormap JMA_COLORMAP;
-struct colormapentry MFR_ENTRIES[7];
+struct colormapentry MFR_ENTRIES[8];
 struct colormap MFR_COLORMAP;

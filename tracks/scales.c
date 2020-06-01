@@ -69,8 +69,9 @@ struct colormap JMA_COLORMAP = {
 };
 
 /* MFR scale (10-minute winds). */
-struct colormapentry MFR_ENTRIES[7] = {
-	{.name = "TD", .value = COLOR(0x53, 0xba, 0xff), .wind = 0},
+struct colormapentry MFR_ENTRIES[8] = {
+	{.name = "TDi", .value = COLOR(0x80, 0xcc, 0xff), .wind = 0},
+	{.name = "TD", .value = COLOR(0x53, 0xba, 0xff), .wind = 28},
 	{.name = "MTS", .value = COLOR(0x00, 0xfa, 0xf4), .wind = 34},
 	{.name = "STS", .value = COLOR(0xcc, 0xff, 0xff), .wind = 48},
 	{.name = "TC", .value = COLOR(0xff, 0xcc, 0xcc), .wind = 64},
@@ -79,7 +80,7 @@ struct colormapentry MFR_ENTRIES[7] = {
 	{.name = "SENTINEL", .value = COLOR(0xff, 0xff, 0xff), .wind = 0x7fffffff}
 };
 struct colormap MFR_COLORMAP = {
-	.numcolors = 6,
+	.numcolors = 7,
 	.entries = MFR_ENTRIES,
-	.disturbancecolor = COLOR(0x80, 0xcc, 0xff)
+	.disturbancecolor = COLOR(0x80, 0xcc, 0xff) // Must be understood to mean ZODW not TDi
 };
