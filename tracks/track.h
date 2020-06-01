@@ -2,6 +2,9 @@
 #define __TRACK_H__
 
 #include <stdbool.h>
+
+#define STORM_NAME_LENGTH 36
+
 enum wind_format {
 	MPH, KPH, KT
 };
@@ -21,7 +24,7 @@ struct storm_arg {
 };
 
 struct storm_header {
-  char name[36];
+  char name[STORM_NAME_LENGTH];
   int id;
   int year, month, day; /* # of days since start of year */
   char basin[3];

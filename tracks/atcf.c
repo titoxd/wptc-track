@@ -97,6 +97,9 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 			(strcasecmp(token[10], "TC") == 0) || (strcasecmp(token[10], "HU") == 0) || (strcasecmp(token[10], "SS") == 0)) {
 			if (strcasecmp(token[27], storm.header.name) != 0) {
 				strncpy(storm.header.name, token[27], strlen(token[27]));
+				if (strlen(token[27]) < STORM_NAME_LENGTH) {
+					storm.header.name[strlen(token[27])] = '\0';
+				}
 				storm.header.id = atoi(token[1]);
 			}
 		}
