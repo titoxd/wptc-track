@@ -7,6 +7,7 @@
 #define IMD_CODE 2
 #define JMA_CODE 3
 #define MFR_CODE 4
+#define JMADOM_CODE 5
 struct colormapentry {
 	double value[3];
 	int wind;
@@ -28,3 +29,5 @@ struct colormapentry JMA_ENTRIES[5];
 struct colormap JMA_COLORMAP;
 struct colormapentry MFR_ENTRIES[8];
 struct colormap MFR_COLORMAP;
+struct colormapentry JMADOM_ENTRIES[7];
+struct colormap JMADOM_COLORMAP;

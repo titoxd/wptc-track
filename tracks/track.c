@@ -120,6 +120,8 @@ static int get_scale_code(const char* scalename) {
 		return JMA_CODE;
 	} else if (strcasecmp("MFR", scalename) == 0) {
 		return MFR_CODE;
+	} else if (strcasecmp("JMADOM", scalename) == 0) {
+		return JMADOM_CODE;
 	}
 	else {
 		return SSHWS_CODE;
@@ -139,6 +141,9 @@ static void init_color_arg(struct colormap *colorp, int scale) {
 		break;
 		case MFR_CODE:
 			colors = MFR_COLORMAP;
+		break;
+		case JMADOM_CODE:
+			colors = JMADOM_COLORMAP;
 		break;
 		default:
 			colors = SSHWS_COLORMAP;
