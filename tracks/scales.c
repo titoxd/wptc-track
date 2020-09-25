@@ -26,7 +26,7 @@ struct colormapentry AUS_ENTRIES[7] = {
 	{.name = "TL", .value = COLOR(0x53, 0xba, 0xff), .wind = 0},
 	{.name = "C1", .value = COLOR(0x00, 0xfa, 0xf4), .wind = 34},
 	{.name = "C2", .value = COLOR(0xcc, 0xff, 0xff), .wind = 48},
-	{.name = "C3", .value = COLOR(0xff, 0xcc, 0xcc), .wind = 64},
+	{.name = "C3", .value = COLOR(0xff, 0xff, 0xcc), .wind = 64},
 	{.name = "C4", .value = COLOR(0xff, 0xc1, 0x40), .wind = 86},
 	{.name = "C5", .value = COLOR(0xff, 0x60, 0x60), .wind = 107},
 	{.name = "SENTINEL", .value = COLOR(0xff, 0xff, 0xff), .wind = 0x7fffffff}
@@ -43,7 +43,7 @@ struct colormapentry IMD_ENTRIES[8] = {
 	{.name = "DD", .value = COLOR(0x5e, 0xba, 0xff), .wind = 28},
 	{.name = "CS", .value = COLOR(0x00, 0xfa, 0xf4), .wind = 34},
 	{.name = "SCS", .value = COLOR(0xcc, 0xff, 0xff), .wind = 48}, 
-	{.name = "VSCS", .value = COLOR(0xff, 0xcc, 0xcc), .wind = 65},
+	{.name = "VSCS", .value = COLOR(0xff, 0xff, 0xcc), .wind = 65},
 	{.name = "ESCS", .value = COLOR(0xff, 0xc1, 0x40), .wind = 90},
 	{.name = "SUCS", .value = COLOR(0xff, 0x60, 0x60), .wind = 120},
 	{.name = "SENTINEL", .value = COLOR(0xff, 0xff, 0xff), .wind = 0x7fffffff}
@@ -74,7 +74,7 @@ struct colormapentry MFR_ENTRIES[8] = {
 	{.name = "TD", .value = COLOR(0x53, 0xba, 0xff), .wind = 28},
 	{.name = "MTS", .value = COLOR(0x00, 0xfa, 0xf4), .wind = 34},
 	{.name = "STS", .value = COLOR(0xcc, 0xff, 0xff), .wind = 48},
-	{.name = "TC", .value = COLOR(0xff, 0xcc, 0xcc), .wind = 64},
+	{.name = "TC", .value = COLOR(0xff, 0xff, 0xcc), .wind = 64},
 	{.name = "ITC", .value = COLOR(0xff, 0xc1, 0x40), .wind = 86},
 	{.name = "VITC", .value = COLOR(0xff, 0x60, 0x60), .wind = 116},
 	{.name = "SENTINEL", .value = COLOR(0xff, 0xff, 0xff), .wind = 0x7fffffff}
@@ -83,4 +83,20 @@ struct colormap MFR_COLORMAP = {
 	.numcolors = 7,
 	.entries = MFR_ENTRIES,
 	.disturbancecolor = COLOR(0x80, 0xcc, 0xff) // Must be understood to mean ZODW not TDi
+};
+
+/* JMA domestic scale (10-minute winds). */
+struct colormapentry JMADOM_ENTRIES[7] = {
+	{.name = "TD", .value = COLOR(0x5e, 0xba, 0xff), .wind = 0},
+	{.name = "TS", .value = COLOR(0x00, 0xfa, 0xf4), .wind = 34},
+	{.name = "STS", .value = COLOR(0xcc, 0xff, 0xff), .wind = 48}, 
+	{.name = "TY", .value = COLOR(0xff, 0xff, 0xcc), .wind = 64},
+	{.name = "VSTY", .value = COLOR(0xff, 0xc1, 0x40), .wind = 84},
+	{.name = "VITY", .value = COLOR(0xff, 0x60, 0x60), .wind = 104},
+	{.name = "SENTINEL", .value = COLOR(0xff, 0xff, 0xff), .wind = 0x7fffffff}	
+};
+struct colormap JMADOM_COLORMAP = {
+	.numcolors = 6,
+	.entries = JMADOM_ENTRIES,
+	.disturbancecolor = COLOR(0x80, 0xcc, 0xff) // NOT USED in this basin
 };
