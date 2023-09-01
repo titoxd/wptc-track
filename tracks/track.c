@@ -20,6 +20,7 @@
 #include "hurdat.h"
 #include "hurdat2.h"
 #include "atcf.h"
+#include "jma.h"
 #include "md.h"
 #include "scales.h"
 #include "tab.h"
@@ -71,7 +72,7 @@ static void help(void)
   printf("  --name 			Select tropical cyclones  with a specific name\n");
   printf("  --input 			Use a text file to create tracking map\n");
   printf("  --id				Storm ID number in its year\n");
-  printf("  --format			Set format for input files (hurdat,tcr,atcf,md,tab)\n");
+  printf("  --format			Set format for input files (hurdat,tcr,atcf,md,tab,jma)\n");
   printf("  --negx   			Set to non-zero value for longitude west of the prime meridian\n");
   printf("  --negy   			Set to non-zero value for latitude south of the equator\n");
   printf("  --wind			Look for storms with at least this wind.\n");
@@ -279,7 +280,6 @@ static struct args read_args(int argc, char **argv)
       } else if (strcasecmp(argv[i], "--ymax") == 0) {
 	i++;
 	args.ymax = atoi(argv[i]);
-	
 	  } else if ( is_valid_color_input(argv[i], args.colors, &colorindex) ) {
 	i++;
 	parse_color(argv[i], &colorval_r, &colorval_g, &colorval_b);
@@ -326,7 +326,6 @@ static struct args read_args(int argc, char **argv)
 			if ( strcasecmp(argv[i],"kt") == 0 || strcasecmp(argv[i],"knots") == 0) {
 				args.storm[1].wind_format = KT;
 			}
-		
       }	else if ( strcasecmp(argv[i], "--windformat2") == 0) {
 			i++;
 			if ( strcasecmp(argv[i],"kt") == 0 || strcasecmp(argv[i],"knots") == 0) {
@@ -1182,6 +1181,8 @@ int main(int argc, char **argv)
       storms = read_stormdata_hurdat(storms, &args.storm[i]);
     } else if (strcasecmp(format, "atcf") == 0) {
 		storms = read_stormdata_atcf(storms, &args.storm[i]);
+    } else if (strcasecmp(format, "jma") == 0) {
+		storms = read_stormdata_jma(storms, &args.storm[i]);
     } else if (strcasecmp(format, "hurdat2") == 0) {
 		storms = read_stormdata_hurdat2(storms, &args.storm[i]);
     } else if (strcasecmp(format, "md") == 0) {
