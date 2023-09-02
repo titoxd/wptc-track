@@ -1,5 +1,5 @@
 /*
- *  atcf.h
+ *  template.h
  *  wptc-track
  *
  *
@@ -10,9 +10,10 @@
 
 #include "track.h"
 
-void make_storm_template(struct stormdata *storms,
-                         struct storm_arg *args,
-                         bool useoldcolorkey);
+void make_storm_template(const struct stormdata *storms,
+                         const struct storm_arg *args,
+                         const bool useoldcolorkey,
+                         const int scalecode);
 
 char* seasonname(struct storm_header header);
 

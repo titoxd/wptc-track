@@ -114,7 +114,7 @@ static int get_scale_code(const char* scalename) {
 		return SSHWS_CODE;
 	}
 }
-static void init_color_arg(struct colormap *colorp, int scale) {
+static void init_color_arg(struct colormap *colorp, const int scale) {
 	struct colormap colors;
    switch (scale) {
 		case AUS_CODE:
@@ -137,7 +137,7 @@ static void init_color_arg(struct colormap *colorp, int scale) {
    }
    *colorp = colors;
 }
-static bool is_valid_color_input(char *argv_piece, struct colormap* colors, int *colorindex) {
+static bool is_valid_color_input(const char *argv_piece, struct colormap* colors, int *colorindex) {
 	for (int i = 0; i < colors->numcolors; i++) {
 		char* colorarg = (char*) malloc((2 + strlen(colors->entries[i].name) + 5 + 1)*sizeof(char)); //2 for --, strlen() doesn't count null terminator, 5 for "color", 1 for null terminator
 		sprintf(colorarg, "%s%s%s", "--", colors->entries[i].name, "color");
@@ -150,7 +150,7 @@ static bool is_valid_color_input(char *argv_piece, struct colormap* colors, int 
 	}
 	return false;
 }
-static void parse_color(char* color_code, int *r, int *g, int *b) {
+static void parse_color(const char* color_code, int *r, int *g, int *b) {
 	int i = 0;
 	if (color_code[1] == 'x') {
 		i = 2; // Skip possible "0x" prefix
@@ -171,7 +171,7 @@ static void parse_color(char* color_code, int *r, int *g, int *b) {
 	sscanf(g_string, "%x", g);
 	sscanf(b_string, "%x", b);
 }
-static struct args read_args(int argc, char **argv)
+static struct args read_args(const int argc, char **argv)
 {
   int i = 1;
   int colorindex = 0;
@@ -335,7 +335,7 @@ static struct args read_args(int argc, char **argv)
 
   return args;
 }
-static bool storm_matches(struct storm *storm, struct storm_arg *args)
+static bool storm_matches(const struct storm *storm, const struct storm_arg *args)
 {
   if (args->year != 0 && args->year != storm->header.year) {
     return false;
@@ -352,7 +352,7 @@ static bool storm_matches(struct storm *storm, struct storm_arg *args)
   return true;
 }
 
-static bool pos_matches(struct pos *pos, struct storm_arg *args)
+static bool pos_matches(const struct pos *pos, const struct storm_arg *args)
 {
   if (pos->type == EXTRATROPICAL || pos->type == LOW) {
     if (pos->wind < 65 && !args->extra) {
@@ -1188,7 +1188,7 @@ int main(int argc, char **argv)
     }
 
     if (args.template && storms) {
-      make_storm_template(storms, &args.storm[i], args.useoldcolorkey);
+      make_storm_template(storms, &args.storm[i], args.useoldcolorkey, args.scale);
     }
 
     if (!storms) {

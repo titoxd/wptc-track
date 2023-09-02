@@ -15,11 +15,12 @@
 
 #include "template.h"
 #include "track.h"
+#include "scales.h"
 
-
-void make_storm_template(struct stormdata *storms,
-                         struct storm_arg *args,
-			 bool useoldcolorkey)
+void make_storm_template(const struct stormdata *storms,
+                         const struct storm_arg *args,
+			 const bool useoldcolorkey,
+                         const int scalecode)
 {
 	char* stormname;
 	char* season;
@@ -91,6 +92,9 @@ void make_storm_template(struct stormdata *storms,
         printf(" | code={{{fill me}}}\n");
 	if (!useoldcolorkey) {
 		printf(" | colors=new\n");
+	}
+	if (scalecode == JMA_CODE) { // Replace with a switch statement as template support for other scales is added.
+		printf(" | scale=JMA\n");
 	}
         printf("}}\n");
 
