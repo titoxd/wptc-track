@@ -19,18 +19,24 @@ static char* get_max_classification(int wind) {
 		return "TD";
 	}
 }
+
+static int get_full_year(int two_digit_date)
+{
+        /* The files only have the last two digits; they will have y2k problem in 2051,
+           because their database begins in 1951. */
+	if (two_digit_date > 50) {
+		return 1900 + two_digit_date;
+	} else {
+		return 2000 + two_digit_date;
+	}
+}
+
 static struct storm_header read_header(char** token)
 {
 	struct storm_header header;
 	int identifier = atoi(token[1]);
 	header.id = identifier % 100;
-	/* The files only have the last two digits; they will have y2k problem in 2051,
-	   because their database begins in 1951. */
-	if (identifier/100 > 50) {
-		header.year = identifier/100 + 1900;
-	} else {
-		header.year = identifier/100 + 2000;
-	}
+	header.year = get_full_year(identifier/100);
 	strncpy(header.name, token[7], strlen(token[7]));
 	strncpy(header.basin, "WP", 2);
 	return header;
@@ -42,7 +48,7 @@ struct stormdata *read_stormdata_jma(struct stormdata *storms, struct storm_arg*
 	char *line, *linecopy, buf[10240];
 	struct storm storm;
 	char *token[9]; // JMA BT files have only nine tokens max per line.
-	int dataset = 0;
+	int dateset = 0;
 	int points = 0;
 	int lasttype;
 	struct pos pos;
@@ -86,13 +92,20 @@ struct stormdata *read_stormdata_jma(struct stormdata *storms, struct storm_arg*
 			init_storm(&storm);
 			storm.header = read_header(token);
 			points = 0;
+			dateset = 0;
 		} else if (strcmp(token[1], "002") == 0) { // Data lines always have 002 as second token
 			struct pos pos;
 			int date = atoi(token[0]);
-			pos.year = date/1000000;
+			pos.year = get_full_year(date/1000000);
 			pos.month = (date % 1000000)/10000;
 			pos.day = (date % 10000)/100;
 			pos.hour = (date % 100);
+			if (!dateset) {
+				storm.header.year = pos.year;
+				storm.header.month = pos.month;
+				storm.header.day = pos.day;
+				dateset = 1;
+			}
 			int stormtype = atoi(token[2]);
 			if (stormtype == 6) {
 				pos.type = EXTRATROPICAL;
