@@ -16,7 +16,7 @@ static char* get_max_classification(int wind) {
 	} else if (wind >=34) {
 		return "TS";
 	} else {
-		return "TS";
+		return "TD";
 	}
 }
 static struct storm_header read_header(char** token)
@@ -77,7 +77,6 @@ struct stormdata *read_stormdata_jma(struct stormdata *storms, struct storm_arg*
 			if (count > 0) {
 				if (points > 0) {
 					save_storm(args, storms, &storm);
-					fprintf(stdout, "Saved %d storms\n", count);
 				} else {
 					fprintf(stderr, "Parsing error in file %s for storm %s: No data points found\n", args->input, storm.header.name);
 					exit(-1);
@@ -118,7 +117,6 @@ struct stormdata *read_stormdata_jma(struct stormdata *storms, struct storm_arg*
 	}
 	if (count > 0) {
 		save_storm(args, storms, &storm);
-		fprintf(stdout, "Saved %d storms\n", count);
 	}
 	fclose(file);
 	return storms;
