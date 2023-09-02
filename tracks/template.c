@@ -18,23 +18,24 @@
 
 
 void make_storm_template(struct stormdata *storms,
-                         struct storm_arg *args)
+                         struct storm_arg *args,
+			 bool useoldcolorkey)
 {
 	char* stormname;
 	char* season;
     struct storm storm;
     struct pos pos;
     int i;
-    
+
     /* To make the template sensible, only print things when we have exactly one storm; */
     if (storms->nstorms != 1) {
         return;
     }
-    
+
     /* Copy the storm structure locally */
     storm = *storms->storms;
-    
-    
+
+
     /* Convert storm name to proper capitalization */
     stormname = strdup(storm.header.name);
     stormname[0] = toupper(stormname[0]);
@@ -44,16 +45,16 @@ void make_storm_template(struct stormdata *storms,
         stormname[i] = tolower(stormname[i]);
         i++;
     }
-    
+
     /* Figure out what we call this season */
     season = seasonname(storm.header);
-    
+
     /* Print out the information header */
     if (storm.npos > 0) {
         pos = storm.pos[storm.npos-1];
         printf("{{WPTC track map\n");
         printf(" | author = {{subst:REVISIONUSER}}\n");
-        
+
         if (strcasecmp(storm.header.stormclass, "TD") == 0) {
             printf(" | name = %s %s\n", "Tropical Depression", stormname);
             printf(" | article = %s %s (%d)\n", "Tropical Depression", stormname, storm.header.year);
@@ -88,11 +89,14 @@ void make_storm_template(struct stormdata *storms,
         printf(" | othersource={{{fill me}}}\n");
         printf(" | catname={{{fill me}}}\n");
         printf(" | code={{{fill me}}}\n");
+	if (!useoldcolorkey) {
+		printf(" | colors=new\n");
+	}
         printf("}}\n");
-        
+
         printf("Edit summary: Refreshing information for %s as of %4.4d-%2.2d-%2.2d, %2.2d00 UTC\n",
                stormname, pos.year, pos.month, pos.day, pos.hour);
-        
+
     } else {
         fprintf(stderr, "Parsing error in file '%s': No data points found\n", args->input);
     }

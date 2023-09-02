@@ -44,21 +44,6 @@
 			  ((double)(b) / (double)0xFF)}
 # define IND_COLOR(c) (double)(c) / (double)0xFF
 #define NUMCOLORS 7
-struct args {
-  struct storm_arg *storm;
-  int nstorms;
-  int resolution;
-  int xmin, xmax, ymin, ymax;
-  double mindim;
-  int fmt;
-  int template;
-  double dots, lines;
-  double alpha;
-  const char *bg;
-  const char *output;
-  int scale;
-  struct colormap *colors;
-};
 
 #define NO_ARG -200
 
@@ -92,6 +77,7 @@ static void help(void)
 	 "format fields apply to a storm.  Each time --next is given\n"
 	 "in the argument list this halts the current storm spec and\n"
 	 "instead adds another storm to the list.\n");
+  printf("  --useoldcolorkey		Use the legacy color key when useoldcolorkey≠0\n");
 }
 
 static void init_storm_arg(struct storm_arg *stormp)
@@ -205,7 +191,8 @@ static struct args read_args(int argc, char **argv)
     .template = true,
     .bg = "../data/bg8192.png",
     .output = "../png/output.png",
-	.scale = SSHWS_CODE
+    .scale = SSHWS_CODE,
+    .useoldcolorkey = 0
   };
 
   args.storm = malloc(sizeof(*args.storm));
@@ -310,6 +297,9 @@ static struct args read_args(int argc, char **argv)
 	  = args.storm[1].extra
 	  = args.storm[2].extra
 	  = (atoi(argv[i]) != 0);
+      } else if (strcasecmp(argv[i], "--useoldcolorkey") == 0) {
+	i++;
+	args.useoldcolorkey = (atoi(argv[i]) != 0);
       } else if (strcasecmp(argv[i], "--bg") == 0) {
 	i++;
 	args.bg = argv[i];
@@ -1198,9 +1188,9 @@ int main(int argc, char **argv)
     }
 
     if (args.template && storms) {
-      make_storm_template(storms, &args.storm[i]);
+      make_storm_template(storms, &args.storm[i], args.useoldcolorkey);
     }
-      
+
     if (!storms) {
       fprintf(stderr, "Storm reader returned an error.\n");
       return -1;

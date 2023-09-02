@@ -11,7 +11,8 @@
 #include "track.h"
 
 void make_storm_template(struct stormdata *storms,
-                         struct storm_arg *args);
+                         struct storm_arg *args,
+                         bool useoldcolorkey);
 
 char* seasonname(struct storm_header header);
 
