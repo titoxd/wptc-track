@@ -25,7 +25,7 @@ extern struct colormapentry AUS_ENTRIES[7];
 extern struct colormap AUS_COLORMAP;
 extern struct colormapentry IMD_ENTRIES[8];
 extern struct colormap IMD_COLORMAP;
-extern struct colormapentry JMA_ENTRIES[5];
+extern struct colormapentry JMA_ENTRIES[7];
 extern struct colormap JMA_COLORMAP;
 extern struct colormapentry MFR_ENTRIES[8];
 extern struct colormap MFR_COLORMAP;

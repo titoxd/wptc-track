@@ -9,6 +9,23 @@ enum wind_format {
 	MPH, KPH, KT
 };
 
+struct args {
+  struct storm_arg *storm;
+  int nstorms;
+  int resolution;
+  int xmin, xmax, ymin, ymax;
+  double mindim;
+  int fmt;
+  int template;
+  double dots, lines;
+  double alpha;
+  const char *bg;
+  const char *output;
+  int scale;
+  struct colormap *colors;
+  bool useoldcolorkey;
+};
+
 struct storm_arg {
   int year;
   int id;

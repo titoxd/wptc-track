@@ -20,6 +20,7 @@
 #include "hurdat.h"
 #include "hurdat2.h"
 #include "atcf.h"
+#include "jma.h"
 #include "md.h"
 #include "scales.h"
 #include "tab.h"
@@ -43,21 +44,6 @@
 			  ((double)(b) / (double)0xFF)}
 # define IND_COLOR(c) (double)(c) / (double)0xFF
 #define NUMCOLORS 7
-struct args {
-  struct storm_arg *storm;
-  int nstorms;
-  int resolution;
-  int xmin, xmax, ymin, ymax;
-  double mindim;
-  int fmt;
-  int template;
-  double dots, lines;
-  double alpha;
-  const char *bg;
-  const char *output;
-  int scale;
-  struct colormap *colors;
-};
 
 #define NO_ARG -200
 
@@ -71,7 +57,7 @@ static void help(void)
   printf("  --name 			Select tropical cyclones  with a specific name\n");
   printf("  --input 			Use a text file to create tracking map\n");
   printf("  --id				Storm ID number in its year\n");
-  printf("  --format			Set format for input files (hurdat,tcr,atcf,md,tab)\n");
+  printf("  --format			Set format for input files (hurdat,tcr,atcf,md,tab,jma)\n");
   printf("  --negx   			Set to non-zero value for longitude west of the prime meridian\n");
   printf("  --negy   			Set to non-zero value for latitude south of the equator\n");
   printf("  --wind			Look for storms with at least this wind.\n");
@@ -91,6 +77,7 @@ static void help(void)
 	 "format fields apply to a storm.  Each time --next is given\n"
 	 "in the argument list this halts the current storm spec and\n"
 	 "instead adds another storm to the list.\n");
+  printf("  --useoldcolorkey		Use the legacy color key when useoldcolorkey≠0\n");
 }
 
 static void init_storm_arg(struct storm_arg *stormp)
@@ -127,7 +114,7 @@ static int get_scale_code(const char* scalename) {
 		return SSHWS_CODE;
 	}
 }
-static void init_color_arg(struct colormap *colorp, int scale) {
+static void init_color_arg(struct colormap *colorp, const int scale) {
 	struct colormap colors;
    switch (scale) {
 		case AUS_CODE:
@@ -150,7 +137,7 @@ static void init_color_arg(struct colormap *colorp, int scale) {
    }
    *colorp = colors;
 }
-static bool is_valid_color_input(char *argv_piece, struct colormap* colors, int *colorindex) {
+static bool is_valid_color_input(const char *argv_piece, struct colormap* colors, int *colorindex) {
 	for (int i = 0; i < colors->numcolors; i++) {
 		char* colorarg = (char*) malloc((2 + strlen(colors->entries[i].name) + 5 + 1)*sizeof(char)); //2 for --, strlen() doesn't count null terminator, 5 for "color", 1 for null terminator
 		sprintf(colorarg, "%s%s%s", "--", colors->entries[i].name, "color");
@@ -163,7 +150,7 @@ static bool is_valid_color_input(char *argv_piece, struct colormap* colors, int 
 	}
 	return false;
 }
-static void parse_color(char* color_code, int *r, int *g, int *b) {
+static void parse_color(const char* color_code, int *r, int *g, int *b) {
 	int i = 0;
 	if (color_code[1] == 'x') {
 		i = 2; // Skip possible "0x" prefix
@@ -184,7 +171,7 @@ static void parse_color(char* color_code, int *r, int *g, int *b) {
 	sscanf(g_string, "%x", g);
 	sscanf(b_string, "%x", b);
 }
-static struct args read_args(int argc, char **argv)
+static struct args read_args(const int argc, char **argv)
 {
   int i = 1;
   int colorindex = 0;
@@ -204,7 +191,8 @@ static struct args read_args(int argc, char **argv)
     .template = true,
     .bg = "../data/bg8192.png",
     .output = "../png/output.png",
-	.scale = SSHWS_CODE
+    .scale = SSHWS_CODE,
+    .useoldcolorkey = 0
   };
 
   args.storm = malloc(sizeof(*args.storm));
@@ -279,7 +267,6 @@ static struct args read_args(int argc, char **argv)
       } else if (strcasecmp(argv[i], "--ymax") == 0) {
 	i++;
 	args.ymax = atoi(argv[i]);
-	
 	  } else if ( is_valid_color_input(argv[i], args.colors, &colorindex) ) {
 	i++;
 	parse_color(argv[i], &colorval_r, &colorval_g, &colorval_b);
@@ -310,6 +297,9 @@ static struct args read_args(int argc, char **argv)
 	  = args.storm[1].extra
 	  = args.storm[2].extra
 	  = (atoi(argv[i]) != 0);
+      } else if (strcasecmp(argv[i], "--useoldcolorkey") == 0) {
+	i++;
+	args.useoldcolorkey = (atoi(argv[i]) != 0);
       } else if (strcasecmp(argv[i], "--bg") == 0) {
 	i++;
 	args.bg = argv[i];
@@ -326,7 +316,6 @@ static struct args read_args(int argc, char **argv)
 			if ( strcasecmp(argv[i],"kt") == 0 || strcasecmp(argv[i],"knots") == 0) {
 				args.storm[1].wind_format = KT;
 			}
-		
       }	else if ( strcasecmp(argv[i], "--windformat2") == 0) {
 			i++;
 			if ( strcasecmp(argv[i],"kt") == 0 || strcasecmp(argv[i],"knots") == 0) {
@@ -346,7 +335,7 @@ static struct args read_args(int argc, char **argv)
 
   return args;
 }
-static bool storm_matches(struct storm *storm, struct storm_arg *args)
+static bool storm_matches(const struct storm *storm, const struct storm_arg *args)
 {
   if (args->year != 0 && args->year != storm->header.year) {
     return false;
@@ -363,7 +352,7 @@ static bool storm_matches(struct storm *storm, struct storm_arg *args)
   return true;
 }
 
-static bool pos_matches(struct pos *pos, struct storm_arg *args)
+static bool pos_matches(const struct pos *pos, const struct storm_arg *args)
 {
   if (pos->type == EXTRATROPICAL || pos->type == LOW) {
     if (pos->wind < 65 && !args->extra) {
@@ -1182,6 +1171,8 @@ int main(int argc, char **argv)
       storms = read_stormdata_hurdat(storms, &args.storm[i]);
     } else if (strcasecmp(format, "atcf") == 0) {
 		storms = read_stormdata_atcf(storms, &args.storm[i]);
+    } else if (strcasecmp(format, "jma") == 0) {
+		storms = read_stormdata_jma(storms, &args.storm[i]);
     } else if (strcasecmp(format, "hurdat2") == 0) {
 		storms = read_stormdata_hurdat2(storms, &args.storm[i]);
     } else if (strcasecmp(format, "md") == 0) {
@@ -1197,9 +1188,9 @@ int main(int argc, char **argv)
     }
 
     if (args.template && storms) {
-      make_storm_template(storms, &args.storm[i]);
+      make_storm_template(storms, &args.storm[i], args.useoldcolorkey, args.scale);
     }
-      
+
     if (!storms) {
       fprintf(stderr, "Storm reader returned an error.\n");
       return -1;
