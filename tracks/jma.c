@@ -50,7 +50,6 @@ struct stormdata *read_stormdata_jma(struct stormdata *storms, struct storm_arg*
 	char *token[9]; // JMA BT files have only nine tokens max per line.
 	int dateset = 0;
 	int points = 0;
-	int lasttype;
 	struct pos pos;
 	int count = 0;
 	file = fopen(args->input, "r");
@@ -94,7 +93,6 @@ struct stormdata *read_stormdata_jma(struct stormdata *storms, struct storm_arg*
 			points = 0;
 			dateset = 0;
 		} else if (strcmp(token[1], "002") == 0) { // Data lines always have 002 as second token
-			struct pos pos;
 			int date = atoi(token[0]);
 			pos.year = get_full_year(date/1000000);
 			pos.month = (date % 1000000)/10000;
@@ -112,7 +110,6 @@ struct stormdata *read_stormdata_jma(struct stormdata *storms, struct storm_arg*
 			} else {
 				pos.type = TROPICAL;  // JMA doesn't do ST
 			}
-			lasttype = pos.type;
 			pos.lat = atoi(token[3])/10.0;
 			pos.lon = -atoi(token[4])/10.0;
 			pos.wind = atoi(token[6]);
