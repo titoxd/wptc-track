@@ -60,8 +60,8 @@ struct colormapentry JMA_ENTRIES[7] = {
 	{.name = "TS", .value = COLOR(0x4d, 0xff, 0xff), .wind = 34},
 	{.name = "STS", .value = COLOR(0xc0, 0xff, 0xc0), .wind = 48},
 	{.name = "TY", .value = COLOR(0xff, 0xd9, 0x8c), .wind = 64},
-	{.name = "VSTY", .value = COLOR(0xff, 0x73, 0x8a), .wind = 85},
-        {.name = "VITY", .value = COLOR(0xa1, 0x88, 0xfc), .wind = 105},
+	{.name = "VSTY", .value = COLOR(0xff, 0x73, 0x8a), .wind = 84},
+        {.name = "VITY", .value = COLOR(0xa1, 0x88, 0xfc), .wind = 104},
 	{.name = "SENTINEL", .value = COLOR(0xff, 0xff, 0xff), .wind = 0x7fffffff}
 };
 struct colormap JMA_COLORMAP = {
@@ -93,8 +93,8 @@ struct colormapentry JMADOM_ENTRIES[7] = {
         {.name = "TS", .value = COLOR(0x4d, 0xff, 0xff), .wind = 34},
         {.name = "STS", .value = COLOR(0xc0, 0xff, 0xc0), .wind = 48},
         {.name = "TY", .value = COLOR(0xff, 0xd9, 0x8c), .wind = 64},
-        {.name = "VSTY", .value = COLOR(0xff, 0x73, 0x8a), .wind = 85},
-        {.name = "VITY", .value = COLOR(0xa1, 0x88, 0xfc), .wind = 105},
+        {.name = "VSTY", .value = COLOR(0xff, 0x73, 0x8a), .wind = 84},
+        {.name = "VITY", .value = COLOR(0xa1, 0x88, 0xfc), .wind = 104},
         {.name = "SENTINEL", .value = COLOR(0xff, 0xff, 0xff), .wind = 0x7fffffff}
 };
 struct colormap JMADOM_COLORMAP = {
