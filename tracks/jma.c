@@ -35,13 +35,11 @@ static struct storm_header read_header(char** token)
 {
 	struct storm_header header;
 	memset(header.name, 0, STORM_NAME_LENGTH);
-	fprintf(stdout, "%s\n", header.name);
 	int identifier = atoi(token[1]);
 	header.id = identifier % 100;
 	header.year = get_full_year(identifier/100);
 	strncpy(header.name, token[7], strlen(token[7]));
 	strncpy(header.basin, "WP", 2);
-	fprintf(stdout, "Got storm name: %s, length %d\n", header.name, (int) strlen(token[7]));
 	return header;
 }
 struct stormdata *read_stormdata_jma(struct stormdata *storms, struct storm_arg* args)
