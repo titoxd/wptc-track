@@ -80,24 +80,21 @@ static void help(void)
   printf("  --useoldcolorkey		Use the legacy color key when useoldcolorkey≠0\n");
 }
 
-static void init_storm_arg(struct storm_arg *stormp)
+__attribute__((nonnull)) static void init_storm_arg(struct storm_arg *stormp) 
 {
-  struct storm_arg storm = {
-    .year = 0,
-    .id = 0,
-    .name = NULL,
-    .wind = 0,
-    .extra = false, /* Hmm, what should be default? */
 
-    .format = 0,
-    .input = "../data/natlantic.txt",
-    .negx = true, /* longitude given in negatives */
-    .negy = false,
-    .wind_format = MPH
-  };
-
-  *stormp = storm;
+  stormp->year = 0;
+  stormp->id = 0;
+  stormp->name = NULL;
+  stormp->wind = 0;
+  stormp->extra = false;  /* Hmm, what should be default? */
+  stormp->format = 0;
+  stormp->input = "../data/natlantic.txt\0";
+  stormp->negx = true; /* longitude given in negatives */
+  stormp->negy = false;
+  stormp->wind_format = MPH;
 }
+
 static int get_scale_code(const char* scalename) {
 	if (strcasecmp("AUS", scalename) == 0) {
 		return AUS_CODE;
@@ -114,7 +111,7 @@ static int get_scale_code(const char* scalename) {
 		return SSHWS_CODE;
 	}
 }
-static void init_color_arg(struct colormap *colorp, const int scale) {
+__attribute__((nonnull)) static void init_color_arg(struct colormap *colorp, const int scale) {
 	struct colormap colors;
    switch (scale) {
 		case AUS_CODE:
@@ -137,9 +134,15 @@ static void init_color_arg(struct colormap *colorp, const int scale) {
    }
    *colorp = colors;
 }
-static bool is_valid_color_input(const char *argv_piece, struct colormap* colors, int *colorindex) {
+
+__attribute__((nonnull))  static bool is_valid_color_input(const char *argv_piece, struct colormap* colors, int *colorindex) {
 	for (int i = 0; i < colors->numcolors; i++) {
-		char* colorarg = (char*) malloc((2 + strlen(colors->entries[i].name) + 5 + 1)*sizeof(char)); //2 for --, strlen() doesn't count null terminator, 5 for "color", 1 for null terminator
+                int colorname_size = 2 + strlen(colors->entries[i].name) + 5 + 1; //2 for --, strlen() doesn't count null terminator, 5 for "color", 1 for null terminator
+                char* colorarg = (char*) calloc(colorname_size, sizeof(char)); // use calloc() here to guarantee string is null-terminated
+                if (!colorarg) {
+                        perror("Calloc failed");
+                        return false;
+                }
 		sprintf(colorarg, "%s%s%s", "--", colors->entries[i].name, "color");
 		if (strcasecmp(argv_piece, colorarg) == 0) {
 			*colorindex = i;
@@ -171,6 +174,7 @@ static void parse_color(const char* color_code, int *r, int *g, int *b) {
 	sscanf(g_string, "%x", g);
 	sscanf(b_string, "%x", b);
 }
+
 static struct args read_args(const int argc, char **argv)
 {
   int i = 1;
@@ -196,14 +200,24 @@ static struct args read_args(const int argc, char **argv)
   };
 
   args.storm = malloc(sizeof(*args.storm));
+  if (!args.storm) {
+        perror("Error when allocating memory for storm");
+        return args;
+  }
   args.colors = malloc(sizeof(*args.colors));
+  if (!args.colors) {
+        perror("Error when allocating memory for colormap");
+        free(args.storm);
+        args.storm = NULL;
+        return args;
+  }
   init_storm_arg(args.storm);
   init_color_arg(args.colors, SSHWS_CODE);
   while (i < argc) {
     float val;
-	int colorval_r;
-	int colorval_g;
-	int colorval_b;
+    int colorval_r;
+    int colorval_g;
+    int colorval_b;
     const int s = args.nstorms - 1;
 
     if (strcasecmp(argv[i], "--help") == 0) {
@@ -267,7 +281,7 @@ static struct args read_args(const int argc, char **argv)
       } else if (strcasecmp(argv[i], "--ymax") == 0) {
 	i++;
 	args.ymax = atoi(argv[i]);
-	  } else if ( is_valid_color_input(argv[i], args.colors, &colorindex) ) {
+      } else if ( is_valid_color_input(argv[i], args.colors, &colorindex) ) {
 	i++;
 	parse_color(argv[i], &colorval_r, &colorval_g, &colorval_b);
 	args.colors->entries[colorindex].value[0] = IND_COLOR(colorval_r);
@@ -408,8 +422,6 @@ void save_storm(struct storm_arg *args, struct stormdata *storms, struct storm *
   }
 }
 
-#define ABS(x) ((x) >= 0 ? (x) : -(x))
-
 void save_pos(struct storm_arg *args, struct stormdata *storms,
 	      struct storm *storm, struct pos *pos)
 {
@@ -456,9 +468,10 @@ void save_pos(struct storm_arg *args, struct stormdata *storms,
     }
 
     if (pos->wind >= 35) {
-      storm->maxtype = MAX(storm->maxtype, pos->type);
+      int type = pos->type;        // cast from an anonymous enum to suppress a warning in GCC when passing it to the MAX() macro
+      storm->maxtype = MAX(storm->maxtype, type);
 
-      if (pos->type == TROPICAL) {
+      if (type == TROPICAL) {
 	if (ABS(storm->formlon) < 0.0001 && ABS(storm->formlat) < 0.0001) {
 	  storm->formlon = pos->lon;
 	  storm->formlat = pos->lat;
@@ -489,10 +502,12 @@ void save_pos(struct storm_arg *args, struct stormdata *storms,
   }
 }
 
-static struct stormdata *new_stormdata(void)
+__attribute__ ((malloc)) static struct stormdata *new_stormdata(void)
 {
   struct stormdata *storms = malloc(sizeof(*storms));
-
+  if (!storms) {
+        return NULL;
+  }
   storms->nstorms = 0;
   storms->storms = NULL;
   storms->maxlon = -180;
@@ -507,6 +522,8 @@ static void free_stormdata(struct stormdata *storms)
 {
   if (storms->storms) free(storms->storms);
   free(storms);
+  storms = NULL;
+  return;
 }
 
 
@@ -1158,6 +1175,10 @@ int main(int argc, char **argv)
 {
   struct args args = read_args(argc, argv);
   struct stormdata *storms = new_stormdata();
+  if (!storms) {
+        perror("Error while allocating storage for storm data");
+        return -1;
+  }
   int i;
   int count = 0;
 

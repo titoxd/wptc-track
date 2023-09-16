@@ -5,8 +5,8 @@
 WORK_DIR=`pwd`
 echo $WORK_DIR
 
-mkdir -p ../data/2020/btk
-cd ../data/2020/btk
+mkdir -p ../data/2023/btk
+cd ../data/2023/btk
 
 rm -r *
 wget ftp://ftp.nhc.noaa.gov/atcf/btk/*

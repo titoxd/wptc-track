@@ -3,7 +3,15 @@
 
 #include <stdbool.h>
 
+/* Static storage limits */
 #define STORM_NAME_LENGTH 36
+#define MAX_POS 1024
+
+/* Convenience macros */
+#define MAX(a,b) ((a) > (b) ? (a) : (b))
+#define MIN(a,b) ((a) < (b) ? (a) : (b))
+#define ARRAY_SIZE(arr) (sizeof(arr) / sizeof(arr[0]))
+#define ABS(x) ((x) >= 0 ? (x) : -(x))
 
 enum wind_format {
 	MPH, KPH, KT
@@ -75,7 +83,6 @@ struct storm {
   double formlon, formlat;
 
   int npos;
-#define MAX_POS 1024
   struct pos pos[MAX_POS];
 };
 
@@ -96,9 +103,5 @@ void save_storm(struct storm_arg *args, struct stormdata *storms, struct storm *
 void save_pos(struct storm_arg *args, struct stormdata *storms,
 	      struct storm *storm, struct pos *pos);
 double wraplon(double lon);
-
-#define MAX(a,b) ((a) > (b) ? (a) : (b))
-#define MIN(a,b) ((a) < (b) ? (a) : (b))
-#define ARRAY_SIZE(arr) (sizeof(arr) / sizeof(arr[0]))
 
 #endif

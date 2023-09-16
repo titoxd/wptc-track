@@ -39,6 +39,10 @@ void make_storm_template(const struct stormdata *storms,
 
     /* Convert storm name to proper capitalization */
     stormname = strdup(storm.header.name);
+    if (!stormname) {
+        perror("Malloc failed");
+        return;
+    }
     stormname[0] = toupper(stormname[0]);
     i=1;
     while (stormname[i])
