@@ -1,3 +1,13 @@
 output.png
 track
 data/*/btk/*.dat
+data/*.dat
+.vscode
+tracks/*.o
+tracks/.deps
+tracks/autom4te.cache
+tracks/config.log
+tracks/config.status
+tracks/config.h
+tracks/stamp-h1
+Makefile
