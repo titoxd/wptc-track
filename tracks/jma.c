@@ -39,7 +39,7 @@ static struct storm_header read_header(char** token)
 	header.id = identifier % 100;
 	header.year = get_full_year(identifier/100);
 	strncpy(header.name, token[7], strlen(token[7]));
-	strncpy(header.basin, "WP", 2);
+	strncpy(header.basin, "WP", 3);
 	return header;
 }
 struct stormdata *read_stormdata_jma(struct stormdata *storms, struct storm_arg* args)
