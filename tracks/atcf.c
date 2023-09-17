@@ -151,9 +151,29 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 			if (pos.wind > storm.maxwind) {
 				strncpy(storm.header.stormclass, token[10],2);
 				storm.header.stormclass[2] = '\0';
+				storm.maxwind = pos.wind;
+			}
+		} else if (pos.wind > storm.maxwind) { // Fall back to inferring directly from winds
+			storm.maxwind = pos.wind;
+			if (strcmp(storm.header.basin, "WP") == 0) {
+				if (storm.maxwind >= 64) {
+					strncpy(storm.header.stormclass, "TY", 3);
+				} else if (storm.maxwind >= 34) {
+					strncpy(storm.header.stormclass, "TS", 3);
+                                } else {
+					strncpy(storm.header.stormclass, "TD", 3);
+				}
+			} else if (strcmp(storm.header.basin, "EP") == 0 || strcmp(storm.header.basin, "AL") == 0 || strcmp(storm.header.basin, "CP") == 0) {
+				if (storm.maxwind >= 64) {
+                                        strncpy(storm.header.stormclass, "HU", 3);
+                                } else if (storm.maxwind >= 34) {
+                                        strncpy(storm.header.stormclass, "TS", 3);
+                                } else {
+                                        strncpy(storm.header.stormclass, "TD", 3);
+                                }
 			}
 		}
-		/* pressure */ 
+		/* pressure */
 		if (i >= 11) { // Full ATCF only
 			pos.pres = atoi(token[9]);
 		}
