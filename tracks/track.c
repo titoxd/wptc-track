@@ -1051,7 +1051,7 @@ static void print_extra_data(struct stormdata *storms)
 static void infer_output_location(char* output_location, struct stormdata *storms) {
         int storm_year = storms->storms[0].header.year;
 	if (storms->nstorms == 1) { // Single storm track
-                if (strlen(storms->storms[0].header.name) > 0) {
+                if (strlen(storms->storms[0].header.name) > 0 && strcmp(storms->storms[0].header.name, "Unnamed") != 0) {
 			char* storm_name = storms->storms[0].header.name;
 			snprintf(output_location, strlen(storm_name) + 16, "%s %d path.png", storm_name, storm_year);
                 } else {
