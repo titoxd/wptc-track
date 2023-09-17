@@ -104,9 +104,9 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 					if (strlen(token[27]) < STORM_NAME_LENGTH) {
 						storm.header.name[strlen(token[27])] = '\0';
 					}
-					storm.header.id = atoi(token[1]);
 				}
 			}
+			storm.header.id = atoi(token[1]);
 		} else {
 			strncpy(storm.header.name, "UNNAMED", 8);
 			storm.header.id = atoi(token[1]);
