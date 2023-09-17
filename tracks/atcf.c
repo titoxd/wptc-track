@@ -147,14 +147,16 @@ struct stormdata *read_stormdata_atcf(struct stormdata *storms,
 		/* wind */
 		pos.wind = atoi(token[8]);
 		/* if peak wind: store the current classification */
-		if (pos.wind > storm.maxwind) {
-			strncpy(storm.header.stormclass, token[10],2);
-			storm.header.stormclass[2] = '\0';
+		if (i >= 11) { // Can only do for full ATCF, not abbreviated.
+			if (pos.wind > storm.maxwind) {
+				strncpy(storm.header.stormclass, token[10],2);
+				storm.header.stormclass[2] = '\0';
+			}
 		}
-		
 		/* pressure */ 
-		pos.pres = atoi(token[9]);
-		
+		if (i >= 11) { // Full ATCF only
+			pos.pres = atoi(token[9]);
+		}
 		if (pos.wind == 0) {
 			break;
 		}
