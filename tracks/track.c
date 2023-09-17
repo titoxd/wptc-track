@@ -1082,10 +1082,12 @@ static void infer_output_location(char* output_location, struct stormdata *storm
 					exit(-1);
 				}
 				if (storms->storms[0].pos[0].lon >= 77.55) {
-					snprintf(storm_name, 3, "%d%c", storms->storms[0].header.id, 'B');
+					snprintf(storm_name, 4, "%d%c", storms->storms[0].header.id, 'B');
 				} else {
-					snprintf(storm_name, 3, "%d%c", storms->storms[0].header.id, 'A');
+					snprintf(storm_name, 4, "%d%c", storms->storms[0].header.id, 'A');
 				}
+			} else if (strcmp(storms->storms[0].header.basin, "WP") == 0) {
+				snprintf(storm_name, 4, "%d%c", storms->storms[0].header.id, 'W');
 			} else {
 				fprintf(stderr, "Basin %s is not recognized.\n", storms->storms[0].header.basin);
 				exit(-1);
