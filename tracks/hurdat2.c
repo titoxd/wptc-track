@@ -30,7 +30,8 @@ static char *stripspace(char *str)
 }
 
 struct stormdata *read_stormdata_hurdat2(struct stormdata *storms,
-                                         struct storm_arg *args)
+                                         struct storm_arg *args,
+				         bool skipasynoptic)
 {
 	FILE *file;
 	int i;
@@ -125,7 +126,6 @@ struct stormdata *read_stormdata_hurdat2(struct stormdata *storms,
             /* hour */
             pos.hour = substr_to_int(token[1], 0, 2);
             minute = substr_to_int(token[1], 2, 2);
-            
             /* Check whether this is a synoptic time */
             if ((pos.hour % 6 == 0) && minute == 0) {
                 /* This is a synoptic time */
@@ -204,7 +204,7 @@ struct stormdata *read_stormdata_hurdat2(struct stormdata *storms,
             /* NOTE: We are skipping non-synoptic times right now, 
              * until we figure out what to do with them! 
              */
-            if (syn_time)
+            if (syn_time || !skipasynoptic)
                 save_pos(args, storms, &storm, &pos);
 
             

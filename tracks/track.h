@@ -24,6 +24,7 @@ struct args {
   int scale;
   struct colormap *colors;
   bool useoldcolorkey;
+  bool skipasynoptic;
 };
 
 struct storm_arg {

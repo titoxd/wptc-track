@@ -78,6 +78,7 @@ static void help(void)
 	 "in the argument list this halts the current storm spec and\n"
 	 "instead adds another storm to the list.\n");
   printf("  --useoldcolorkey		Use the legacy color key when useoldcolorkey≠0\n");
+  printf("  --skipasynoptic             Set to 0 to not have the maker skip asynoptic points, i.e. those whose hours are not a multiple of 6 hours (0z, 6z, 12z, 18z).");
 }
 
 static void init_storm_arg(struct storm_arg *stormp)
@@ -192,7 +193,8 @@ static struct args read_args(const int argc, char **argv)
     .bg = "../data/bg8192.png",
     .output = "../png/output.png",
     .scale = SSHWS_CODE,
-    .useoldcolorkey = 0
+    .useoldcolorkey = 0,
+    .skipasynoptic = 1
   };
 
   args.storm = malloc(sizeof(*args.storm));
@@ -300,6 +302,9 @@ static struct args read_args(const int argc, char **argv)
       } else if (strcasecmp(argv[i], "--useoldcolorkey") == 0) {
 	i++;
 	args.useoldcolorkey = (atoi(argv[i]) != 0);
+      } else if (strcasecmp(argv[i], "--skipasynoptic") == 0) {
+	i++;
+	args.skipasynoptic = (atoi(argv[i]) != 0);
       } else if (strcasecmp(argv[i], "--bg") == 0) {
 	i++;
 	args.bg = argv[i];
@@ -1170,11 +1175,11 @@ int main(int argc, char **argv)
     if (!format || strcasecmp(format, "hurdat") == 0) {
       storms = read_stormdata_hurdat(storms, &args.storm[i]);
     } else if (strcasecmp(format, "atcf") == 0) {
-		storms = read_stormdata_atcf(storms, &args.storm[i]);
+		storms = read_stormdata_atcf(storms, &args.storm[i], args.skipasynoptic);
     } else if (strcasecmp(format, "jma") == 0) {
-		storms = read_stormdata_jma(storms, &args.storm[i]);
+		storms = read_stormdata_jma(storms, &args.storm[i], args.skipasynoptic);
     } else if (strcasecmp(format, "hurdat2") == 0) {
-		storms = read_stormdata_hurdat2(storms, &args.storm[i]);
+		storms = read_stormdata_hurdat2(storms, &args.storm[i], args.skipasynoptic);
     } else if (strcasecmp(format, "md") == 0) {
       storms = read_stormdata_md(storms, &args.storm[i]);
     } else if (strcasecmp(format, "tcr") == 0) {
