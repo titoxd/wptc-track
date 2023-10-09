@@ -64,7 +64,7 @@ static void help(void)
   printf("  --next			Add on another storm\n");
   printf("  --res 			Set the horizontal resolution of output image\n");
   printf("  --bg Set 			map to use for background\n");
-  printf("  --output 			Set the output file\n");
+  printf("  --output 			Set the output file; is ignored when inferoutputlocation≠0\n");
   printf("  --template 			Set to non-zero to pre-fill {{WPTC track map}} (default: on)\n");
   printf("  --alpha  			Set transparency for storm tracks\n");
   printf("  --extra  			Do not cut off the extratropical portion of the tracks when extra≠0\n");
@@ -78,6 +78,8 @@ static void help(void)
 	 "in the argument list this halts the current storm spec and\n"
 	 "instead adds another storm to the list.\n");
   printf("  --useoldcolorkey		Use the legacy color key when useoldcolorkey≠0\n");
+  printf("  --skipasynoptic             Set to 0 to not have the maker skip asynoptic points, i.e. those whose hours are not a multiple of 6 hours (0z, 6z, 12z, 18z).");
+  printf("  --inferoutputlocation       Automatically infer the file name when inferoutputlocation≠0. For individual storms, <storm name, or designation if no storm name found in file> <year> path.png, or when multiple storms are present, <year> <season type name, such as Atlantic hurricane season> summary.png, where the season type is inferred from the basin of the first storm given.\n");
 }
 
 __attribute__((nonnull)) static void init_storm_arg(struct storm_arg *stormp) 
@@ -196,7 +198,9 @@ static struct args read_args(const int argc, char **argv)
     .bg = "../data/bg8192.png",
     .output = "../png/output.png",
     .scale = SSHWS_CODE,
-    .useoldcolorkey = 0
+    .useoldcolorkey = 0,
+    .skipasynoptic = 1,
+    .inferoutputlocation = 0
   };
 
   args.storm = malloc(sizeof(*args.storm));
@@ -314,6 +318,12 @@ static struct args read_args(const int argc, char **argv)
       } else if (strcasecmp(argv[i], "--useoldcolorkey") == 0) {
 	i++;
 	args.useoldcolorkey = (atoi(argv[i]) != 0);
+      } else if (strcasecmp(argv[i], "--skipasynoptic") == 0) {
+	i++;
+	args.skipasynoptic = (atoi(argv[i]) != 0);
+      } else if (strcasecmp(argv[i], "--inferoutputlocation") == 0) {
+	i++;
+	args.inferoutputlocation = (atoi(argv[i]) != 0);
       } else if (strcasecmp(argv[i], "--bg") == 0) {
 	i++;
 	args.bg = argv[i];
@@ -413,8 +423,10 @@ void save_storm(struct storm_arg *args, struct stormdata *storms, struct storm *
     storms->nstorms++;
     storms->storms = realloc(storms->storms,
 			     storms->nstorms * sizeof(*storms->storms));
+    for (int i = 1; storm->header.name[i]; i++) {
+        storm->header.name[i] = tolower(storm->header.name[i]);
+    }
     storms->storms[storms->nstorms - 1] = *storm;
-
     storms->maxlon = MAX(storm->maxlon, storms->maxlon);
     storms->minlon = MIN(storm->minlon, storms->minlon);
     storms->maxlat = MAX(storm->maxlat, storms->maxlat);
@@ -1053,6 +1065,99 @@ static void print_extra_data(struct stormdata *storms)
   print_strongest_storms(storms);
 }
 
+static void infer_output_location(char* output_location, struct stormdata *storms) {
+        int storm_year = storms->storms[0].header.year;
+	if (storms->nstorms == 1) { // Single storm track
+                if (strlen(storms->storms[0].header.name) > 0 && strcmp(storms->storms[0].header.name, "Unnamed") != 0) {
+			char* storm_name = storms->storms[0].header.name;
+			snprintf(output_location, strlen(storm_name) + 16, "%s %d path.png", storm_name, storm_year);
+                } else {
+                        if (strlen(storms->storms[0].header.basin) == 0) {
+				fprintf(stderr, "--inferoutputlocation was enabled but no name was found for this storm, and the basin also cannot be inferred.\n");
+				exit(-1);
+			}
+			char storm_name[4];
+			if (strcmp(storms->storms[0].header.basin, "SH") == 0) {
+				if (storms->storms[0].npos == 0) {
+					fprintf(stderr, "--inferoutputlocation was enabled but no name was found for this storm, and because it has no positions and is in the southern hempisphere, it is not possible to infer its basin letter.\n");
+					exit(-1);
+				}
+				if (storms->storms[0].pos[0].lon >= 160.0) {
+					snprintf(storm_name, 3, "%d%c", storms->storms[0].header.id, 'P');
+                                } else {
+					snprintf(storm_name, 3, "%d%c", storms->storms[0].header.id, 'S');
+				}
+			} else if (strcmp(storms->storms[0].header.basin, "AL") == 0) {
+				snprintf(storm_name, 4, "%d%c", storms->storms[0].header.id, 'L');
+			} else if (strcmp(storms->storms[0].header.basin, "EP") == 0) {
+				snprintf(storm_name, 4, "%d%c", storms->storms[0].header.id, 'E');
+			} else if (strcmp(storms->storms[0].header.basin, "CP") == 0) {
+				snprintf(storm_name, 4, "%d%c", storms->storms[0].header.id, 'C');
+			} else if (strcmp(storms->storms[0].header.basin, "IO") == 0) {
+				if (storms->storms[0].npos == 0) {
+					fprintf(stderr, "--inferoutputlocation was enabled but no name was found for this storm, and because there were no positions and the basin is the North Indian Ocean, it cannot be inferred whether A or B should be the basin letter.\n");
+					exit(-1);
+				}
+				if (storms->storms[0].pos[0].lon >= 77.55) {
+					snprintf(storm_name, 4, "%d%c", storms->storms[0].header.id, 'B');
+				} else {
+					snprintf(storm_name, 4, "%d%c", storms->storms[0].header.id, 'A');
+				}
+			} else if (strcmp(storms->storms[0].header.basin, "WP") == 0) {
+				snprintf(storm_name, 4, "%d%c", storms->storms[0].header.id, 'W');
+			} else {
+				fprintf(stderr, "Basin %s is not recognized.\n", storms->storms[0].header.basin);
+				exit(-1);
+			}
+                        snprintf(output_location, strlen(storm_name) + 16, "%s %d path.png", storm_name, storm_year);
+		}
+	} else if (storms->nstorms > 1) { //Avoid == 0
+		char season_name[40];
+		memset(season_name, 0, 40);
+		int basin_name_length = 0;
+		bool is_shem = 0;
+		struct storm storm = storms->storms[0];
+		if (strlen(storm.header.basin) == 0) {
+			fprintf(stderr, "--inferoutputlocation was enabled and there are multiple storms, but the basin cannot be inferred. Please instead pass the output location manually.\n");
+			exit(-1);
+		}
+		if (strcmp(storm.header.basin, "WP") == 0) {
+			strncpy(season_name, "Pacific typhoon season", 23);
+		} else if (strcmp(storm.header.basin, "EP") == 0 || strcmp(storm.header.name, "CP") == 0) {
+			strncpy(season_name, "Pacific hurricane season", 25);
+		} else if (strcmp(storm.header.basin, "AL") == 0) {
+			strncpy(season_name, "Atlantic hurricane season", 26);
+		} else if (strcmp(storm.header.basin, "IO") == 0) {
+			strncpy(season_name, "North Indian Ocean cyclone season", 34);
+		} else if (strcmp(storm.header.basin, "SH") == 0) {
+			if (storm.npos == 0) {
+				fprintf(stderr, "--inferoutputlocation was enabled and there are multiple storms, but the basin is a southern hemisphere one and the first storm has no positions to infer which southern hemisphere basin.\n");
+				exit(-1);
+			}
+			double startinglon = storm.pos[0].lon;
+			is_shem = 1;
+			if (startinglon <= -70.0) {
+				strncpy(season_name, "South-East Pacific cyclone season", 34);
+			} else if (startinglon <= 25.0) {
+			        strncpy(season_name, "South Atlantic hurricane season", 31);
+			} else if (startinglon <= 90.0) {
+				strncpy(season_name, "South-West Indian Ocean cyclone season", 39);
+			} else if (startinglon <= 160.0) {
+				strncpy(season_name, "Australian region cyclone season", 33);
+			} else {
+				strncpy(season_name, "South Pacific cyclone season", 29);
+			}
+		} else {
+			fprintf(stderr, "--inferoutputlocation was enabled and there are multiple storms, but the basin designation %s cannot be recognized.\n", storm.header.basin);
+		}
+		if (is_shem) {
+			int previous_year = storm.header.year - 1;
+			snprintf(output_location, 24 + strlen(season_name), "%d-%d %s summary.png", storm.header.year, previous_year, season_name);
+		} else {
+			snprintf(output_location, 19 + strlen(season_name), "%d %s summary.png", storm.header.year, season_name);		}
+	}
+}
+
 static void write_stormdata(struct stormdata *storms, struct args *args)
 {
   cairo_surface_t *surface;
@@ -1191,11 +1296,11 @@ int main(int argc, char **argv)
     if (!format || strcasecmp(format, "hurdat") == 0) {
       storms = read_stormdata_hurdat(storms, &args.storm[i]);
     } else if (strcasecmp(format, "atcf") == 0) {
-		storms = read_stormdata_atcf(storms, &args.storm[i]);
+		storms = read_stormdata_atcf(storms, &args.storm[i], args.skipasynoptic);
     } else if (strcasecmp(format, "jma") == 0) {
-		storms = read_stormdata_jma(storms, &args.storm[i]);
+		storms = read_stormdata_jma(storms, &args.storm[i], args.skipasynoptic);
     } else if (strcasecmp(format, "hurdat2") == 0) {
-		storms = read_stormdata_hurdat2(storms, &args.storm[i]);
+		storms = read_stormdata_hurdat2(storms, &args.storm[i], args.skipasynoptic);
     } else if (strcasecmp(format, "md") == 0) {
       storms = read_stormdata_md(storms, &args.storm[i]);
     } else if (strcasecmp(format, "tcr") == 0) {
@@ -1222,10 +1327,15 @@ int main(int argc, char **argv)
     }
     count = storms->nstorms;
   }
-
+  if (args.inferoutputlocation) {
+	args.output = malloc(128);
+	infer_output_location(args.output, storms);
+  }
   write_stormdata(storms, &args);
   print_extra_data(storms);
-
+  if (args.inferoutputlocation) {
+	free(args.output);
+  }
   free_stormdata(storms);
 
   return 0;

@@ -11,6 +11,6 @@
 #include "track.h"
 
 struct stormdata *read_stormdata_hurdat2(struct stormdata *storms,
-									 struct storm_arg *args);
+									 struct storm_arg *args, bool skipasynoptic);
 
 #endif

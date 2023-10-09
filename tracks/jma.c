@@ -34,14 +34,15 @@ static int get_full_year(int two_digit_date)
 static struct storm_header read_header(char** token)
 {
 	struct storm_header header;
+	memset(header.name, 0, STORM_NAME_LENGTH);
 	int identifier = atoi(token[1]);
 	header.id = identifier % 100;
 	header.year = get_full_year(identifier/100);
 	strncpy(header.name, token[7], strlen(token[7]));
-	strncpy(header.basin, "WP", 2);
+	strncpy(header.basin, "WP", 3);
 	return header;
 }
-struct stormdata *read_stormdata_jma(struct stormdata *storms, struct storm_arg* args)
+struct stormdata *read_stormdata_jma(struct stormdata *storms, struct storm_arg* args, bool skipasynoptic)
 {
 	FILE* file;
 	int i;
@@ -98,6 +99,9 @@ struct stormdata *read_stormdata_jma(struct stormdata *storms, struct storm_arg*
 			pos.month = (date % 1000000)/10000;
 			pos.day = (date % 10000)/100;
 			pos.hour = (date % 100);
+			if (skipasynoptic && (pos.hour % 6 != 0)) {
+				continue;
+			}
 			if (!dateset) {
 				storm.header.year = pos.year;
 				storm.header.month = pos.month;

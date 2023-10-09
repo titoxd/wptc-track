@@ -28,10 +28,12 @@ struct args {
   double dots, lines;
   double alpha;
   const char *bg;
-  const char *output;
+  char *output;
   int scale;
   struct colormap *colors;
   bool useoldcolorkey;
+  bool skipasynoptic;
+  bool inferoutputlocation;
 };
 
 struct storm_arg {
