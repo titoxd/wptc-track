@@ -10,7 +10,7 @@ struct colormapentry SSHWS_ENTRIES[8] = {
 	{.name = "TS", .value = COLOR(0x4d, 0xff, 0xff), .wind = 34},
 	{.name = "C1", .value = COLOR(0xff, 0xff, 0xd9), .wind = 64},
 	{.name = "C2", .value = COLOR(0xff, 0xd9, 0x8c), .wind = 83},
-	{.name = "C3", .value = COLOR(0xff, 0x9e, 0x8a), .wind = 96},
+	{.name = "C3", .value = COLOR(0xff, 0x9e, 0x59), .wind = 96},
 	{.name = "C4", .value = COLOR(0xff, 0x73, 0x8a), .wind = 114},
 	{.name = "C5", .value = COLOR(0xa1, 0x88, 0xfc), .wind = 136},
 	{.name = "SENTINEL", .value = COLOR(0xff, 0xff, 0xff), .wind = 0x7fffffff}
