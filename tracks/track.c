@@ -1251,7 +1251,7 @@ static void write_stormdata(struct stormdata *storms, struct args *args)
     }
   }
 
-  file = fopen(args->output, "w+");
+  file = fopen(args->output, "wb+");
   cairo_surface_write_to_png_stream(surface, write_callback, file);
 
   cairo_destroy(cr);
